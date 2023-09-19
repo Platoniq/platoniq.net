@@ -1,0 +1,45 @@
+title: Platoniq.net
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Static site for platoniq.
+baseurl: "" # "/journal-content" # the subpath of your site, e.g. /blog
+url: "https://platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
+analytics_id: G-LLGWB6TLNS
+
+repository: "https://github.com/Platoniq/platoniq.net"
+# logo: media/logo-platoniq_xxss.png
+twitter:
+  username: platoniq
+  # card: summary_large_image
+
+image:
+  # path: /media/volumes/social/cover-01.png
+
+# Build settings
+theme: jekyll-theme-platoniq.net
+timezone: ES
+
+collections:
+ 
+
+# Document defaults
+# defaults:
+  # - scope:
+  #     path: ""
+  #   values:
+  #     layout: "default"
+  #     locale: es
+ 
+
+exclude: [Gemfile, Gemfile.lock, README.md, LICENSE.txt, .editorconfig]
+
+
+# Plugins
+# plugins:
+
+
+# target-blank:
+#   add_css_classes: link-external
+#   noopener: true
+#   noreferrer: true
+#   rel: nofollow
