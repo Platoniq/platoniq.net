@@ -1,0 +1,11 @@
+---
+layout: none
+---
+[
+  {% for page in site.data.about_nav %}
+    {
+      "title"      : "{{ page.name }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+
+]
