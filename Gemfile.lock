@@ -1,7 +1,5 @@
-GIT
-  remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: ba5aea29b38befaf877d9465a209bef5b86a4e81
-  branch: develop
+PATH
+  remote: ../jekyll-theme-platoniq.net
   specs:
     jekyll-theme-platoniq.net (0.0.1)
       jekyll (~> 4.2)

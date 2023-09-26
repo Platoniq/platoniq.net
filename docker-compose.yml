@@ -3,6 +3,7 @@ services:
   jekyll:
     build: .
     volumes:
+      - ../jekyll-theme-platoniq.net:/jekyll-theme-platoniq.net
       - gems:/usr/local/bundle:delegated
       - .:/platoniq.net
     ports:
