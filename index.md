@@ -1,4 +1,5 @@
 ---
+collection: index
 layout: base
 permalink: /
 ---
