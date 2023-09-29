@@ -20,6 +20,9 @@ theme: jekyll-theme-platoniq.net
 timezone: ES
 
 collections:
+  pages:
+    output: true
+    permalink: /:path/
  
 
 # Document defaults
