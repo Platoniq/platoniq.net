@@ -5,6 +5,7 @@ services:
     volumes:
       - gems:/usr/local/bundle:delegated
       - .:/platoniq.net
+      - ../jekyll-theme-platoniq.net:/jekyll-theme-platoniq.net
     ports:
       - "4000:4000"
 volumes:

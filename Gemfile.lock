@@ -1,7 +1,5 @@
-GIT
-  remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: ba5aea29b38befaf877d9465a209bef5b86a4e81
-  branch: develop
+PATH
+  remote: ../jekyll-theme-platoniq.net
   specs:
     jekyll-theme-platoniq.net (0.0.1)
       jekyll (~> 4.2)
@@ -17,7 +15,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    ffi (1.15.5)
+    ffi (1.16.2)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
