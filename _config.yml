@@ -20,7 +20,8 @@ theme: jekyll-theme-platoniq.net
 timezone: ES
 
 collections:
- 
+  culture:
+    output: true
 
 # Document defaults
 # defaults:
