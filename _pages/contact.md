@@ -1,4 +1,3 @@
 ---
-collection: home
 layout: contact
 ---
