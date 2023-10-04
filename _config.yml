@@ -23,6 +23,9 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  projects:
+    output: true
+    permalink: /:path/
  
 
 # Document defaults

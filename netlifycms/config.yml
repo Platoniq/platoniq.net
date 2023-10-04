@@ -6,6 +6,7 @@ local_backend: true
 
 backend:
   name: git-gateway
+  branch: pages
 
 
 
