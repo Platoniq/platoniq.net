@@ -1,0 +1,20 @@
+proyects:
+  - title: Proyecto 1
+    img: /media/pexels-rdne-stock-project-8124226.jpg
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nunc id cursus metus aliquam eleifend mi in nulla. Hac habitasse platea ictumst vestibulum. Eros in cursus turpis massa tincidunt dui ut ornare.
+    link: 
+
+  - title: Proyecto 2
+    img: /media/pexels-yan-krukau-7691721.jpg
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nunc id cursus metus aliquam eleifend mi in nulla. Hac habitasse platea ictumst vestibulum. Eros in cursus turpis massa tincidunt dui ut ornare.
+    link:
+
+  - title: Proyecto 3
+    img: /media/pexels-rdne-stock-project-8124226.jpg
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nunc id cursus metus aliquam eleifend mi in nulla. Hac habitasse platea ictumst vestibulum. Eros in cursus turpis massa tincidunt dui ut ornare.
+    link:
+
+  - title: Proyecto 4
+    img: /media/pexels-yan-krukau-7691721.jpg
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nunc id cursus metus aliquam eleifend mi in nulla. Hac habitasse platea ictumst vestibulum. Eros in cursus turpis massa tincidunt dui ut ornare.
+    link:
