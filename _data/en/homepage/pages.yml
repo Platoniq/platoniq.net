@@ -1,0 +1,13 @@
+pages: 
+  - title: Cultura futura
+    img: /media/symbol_cultura.png
+    link: /future-culture
+  - title: Innovación Democrática Inclusiva
+    img: /media/symbol_innovacio.png
+    link: /democratic-innovation
+  - title: Economía Cooperativa
+    img: /media/symbol_cooperativa.png
+    link: /cooperative-economy
+  - title: Empoderamiento ciudadano
+    img: /media/symbol_empoderament.png
+    link: /citizen-empowerment

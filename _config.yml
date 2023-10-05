@@ -28,6 +28,10 @@ collections:
     output: true
     custom_permalink_placeholders: ["locale","uid"]
     permalink: /:locale/projects/:uid/
+  categories:
+    output: true
+    custom_permalink_placeholders: ["locale","uid"]
+    permalink: /:locale/categories/:uid/
  
 defaults:
   - scope:
@@ -47,6 +51,10 @@ defaults:
       type: projects
     values:
       layout: "project"
+  - scope:
+      type: categories
+    values:
+      layout: "category"
  
 
 exclude: [Gemfile, Gemfile.lock, README.md, LICENSE.txt, .editorconfig]
