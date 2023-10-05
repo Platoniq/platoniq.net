@@ -22,27 +22,40 @@ timezone: ES
 collections:
   pages:
     output: true
-    permalink: /:path/
+    custom_permalink_placeholders: ["locale"]
+    permalink: /:locale/:path/
   projects:
     output: true
-    permalink: /:path/
+    custom_permalink_placeholders: ["locale","uid"]
+    permalink: /:locale/projects/:uid/
  
-
-# Document defaults
-# defaults:
-  # - scope:
-  #     path: ""
-  #   values:
-  #     layout: "default"
-  #     locale: es
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      locale: es
+  - scope:
+      path: "*/en/*"
+    values:
+      locale: "en"
+  - scope:
+      path: "*/es/*"
+    values:
+      locale: "es"
+  - scope:
+      type: projects
+    values:
+      layout: "project"
  
 
 exclude: [Gemfile, Gemfile.lock, README.md, LICENSE.txt, .editorconfig]
 
-
-# Plugins
-# plugins:
-
+plugins:
+  - jekyll-redirect-from
+  - jekyll-loading-lazy
+  - jekyll-target-blank
+  - jekyll-sitemap
 
 # target-blank:
 #   add_css_classes: link-external
