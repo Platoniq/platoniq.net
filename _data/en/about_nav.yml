@@ -1,8 +1,8 @@
-- name: Sobre Platoniq 
+- name: About Platoniq 
   link: /about-us
-- name: Qui som
+- name: Who we are
   link: /who_are_we
-- name: Ofertes de treball
+- name: Positions
   link: /offer
-- name: Transparència
+- name: Transparency
   link: /transparency

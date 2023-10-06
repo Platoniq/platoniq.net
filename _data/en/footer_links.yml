@@ -1,8 +1,8 @@
-- name: Sobre Platoniq
+- name: About Platoniq
   link: /en/about-us
 - name: Journal
   link: /en/journal
-- name: Contacte
+- name: Contact
   link: /en/contact
-- name: Ofertes de treball
+- name: Positions
   link: /en/offer
