@@ -1,9 +1,8 @@
 - name: Sobre Platoniq
-  link: /about-us
+  link: /es/about-us
 - name: Journal
-  link: /journal
+  link: /es/journal
 - name: Contacte
-  link: /contact
+  link: /es/contact
 - name: Ofertes de treball
-  link: /offer
-- name: blablalb
+  link: /es/offer
