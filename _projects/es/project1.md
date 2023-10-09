@@ -40,7 +40,7 @@ En enim elit, fermentum quis congue quis, pellentesque non nibh.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut consectetur feugiat turpis, eget aliquam mi commodo nec.
 
-## Esta es la quote
+{% quote %}Esta es la quote{% endquote %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut consectetur feugiat turpis, eget aliquam mi commodo nec.
 

@@ -25,6 +25,7 @@ group :jekyll_plugins do
   gem "jekyll_custom_permalink", git: "https://github.com/Platoniq/jekyll_custom_permalink.git"
   gem 'jekyll-loading-lazy'
   gem 'jekyll-sitemap'
+  gem "jekyll-plugin-platoniq-journal", git: "https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git"
 end
 
 

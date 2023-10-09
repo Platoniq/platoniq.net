@@ -1,4 +1,12 @@
 GIT
+  remote: https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git
+  revision: ebfc18a98696ac913b4d1712634713cea9cfe1b3
+  specs:
+    jekyll-plugin-platoniq-journal (0.0.22)
+      jekyll (~> 4.2)
+      kramdown (~> 2.3)
+
+GIT
   remote: https://github.com/Platoniq/jekyll_custom_permalink.git
   revision: 89100593834e5cb2243a6eb8e82bfa9ee4c16ae3
   specs:
@@ -93,6 +101,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.2.1)
   jekyll-loading-lazy
+  jekyll-plugin-platoniq-journal!
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
