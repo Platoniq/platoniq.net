@@ -1,3 +1,4 @@
 ---
 layout: contact
+uid: contact
 ---

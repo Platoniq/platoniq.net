@@ -22,8 +22,8 @@ timezone: ES
 collections:
   pages:
     output: true
-    custom_permalink_placeholders: ["locale"]
-    permalink: /:locale/:path/
+    custom_permalink_placeholders: ["locale","uid"]
+    permalink: /:locale/:uid/
   projects:
     output: true
     custom_permalink_placeholders: ["locale","slug"]
