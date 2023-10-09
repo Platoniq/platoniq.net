@@ -26,8 +26,8 @@ collections:
     permalink: /:locale/:path/
   projects:
     output: true
-    custom_permalink_placeholders: ["locale","uid"]
-    permalink: /:locale/projects/:uid/
+    custom_permalink_placeholders: ["locale","slug"]
+    permalink: /:locale/projects/:slug/
   categories:
     output: true
     custom_permalink_placeholders: ["locale","uid"]
