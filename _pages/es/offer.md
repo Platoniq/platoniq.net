@@ -1,4 +1,0 @@
----
-collection: home
-layout: offers
----
