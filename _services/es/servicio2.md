@@ -1,5 +1,5 @@
 ---
-slug: Serv-2
-title: Servicio2
-description: Este es el servicio 2
+slug: serv-2
+title: Servicio2es
+description: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. 
 ---

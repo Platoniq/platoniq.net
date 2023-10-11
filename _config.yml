@@ -32,6 +32,8 @@ collections:
     output: true
     custom_permalink_placeholders: ["locale","uid"]
     permalink: /:locale/categories/:uid/
+  services:
+    output: false
  
 defaults:
   - scope:

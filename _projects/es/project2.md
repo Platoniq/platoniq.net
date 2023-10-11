@@ -2,7 +2,7 @@
 layout: project
 slug: pro2
 state: Open project
-title: Project2
+title: Project2es
 subtitle: Este es el proyecto2
 banner_image:
   path: /media/pexels-yan-krukau-7691721.jpg
@@ -16,7 +16,7 @@ looking_finance_percentage: "33"
 services:
   - Servicio1
 categories:
-  - Economía Cooperativa
+  - inclusive_innovation
 members:
   - Antonio
 collaborators:
