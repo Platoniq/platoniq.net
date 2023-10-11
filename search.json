@@ -2,10 +2,31 @@
 layout: none
 ---
 [
-  {% for page in site.data.about_nav %}
+
+  {% for page in site.pages %}
     {
-      "title"      : "{{ page.name }}"
+      "title"      : "{{ page.uid }}",
+      "url"      : "{{ page | relative_url }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
+
+  ,
+
+  {% for category in site.categories %}
+    {
+      "title"      : "{{ category.title }}",
+      "url"      : "{{ category | relative_url }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+
+  {% comment %}
+  ,
+  {% for projects in site.projects %}
+    {
+      "title"      : "{{ project.title }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %} 
+
+  {% endcomment %}
 
 ]
