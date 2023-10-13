@@ -5,7 +5,7 @@ layout: none
 
   {% for page in site.pages %}
     {
-      "title"      : "{{ page.uid }}",
+      "title"      : "{{ page.slug }}",
       "url"      : "{{ page | relative_url }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
