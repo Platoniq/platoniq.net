@@ -1,4 +1,4 @@
 ---
 layout: about-us
-uid: about-us
+slug: about-us
 ---

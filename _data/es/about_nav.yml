@@ -1,8 +1,10 @@
+- name: Home
+  link: /es/home
 - name: Sobre Platoniq 
-  link: /about-us
+  link: /es/about-us
 - name: Quién Somos
-  link: /who_are_we
+  link: /es/who_are_we
 - name: Offertas de Trabajo
-  link: /offer
+  link: /es/offer
 - name: Transparencia
-  link: /transparency
+  link: /es/transparency
