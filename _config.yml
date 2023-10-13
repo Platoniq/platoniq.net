@@ -3,7 +3,8 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Static site for platoniq.
 baseurl: "" # "/journal-content" # the subpath of your site, e.g. /blog
-url: "https://platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://unique-medovik-77941e.netlify.app"
 analytics_id: G-LLGWB6TLNS
 
 repository: "https://github.com/Platoniq/platoniq.net"
