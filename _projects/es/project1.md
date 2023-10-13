@@ -14,7 +14,8 @@ private_percentage: "33"
 public_percentage: "33"
 looking_finance_percentage: "33"
 services:
-  - Servicio1
+  - serv-1
+  - serv-2
 categories:
   - inclusive_innovation
   - citizen_empowerment
