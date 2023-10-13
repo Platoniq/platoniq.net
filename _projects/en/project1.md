@@ -1,7 +1,7 @@
 ---
 layout: project
 slug: pro1
-state: Open project
+state: open
 title: Project1en
 subtitle: Este es el proyecto1
 banner_image:

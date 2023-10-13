@@ -34,6 +34,8 @@ collections:
     permalink: /:locale/categories/:uid/
   services:
     output: false
+  states:
+    output: false
  
 defaults:
   - scope:
