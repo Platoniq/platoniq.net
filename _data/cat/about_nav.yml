@@ -1,0 +1,10 @@
+- name: Inici
+  link: /cat/home
+- name: Sobre Platoniq 
+  link: /cat/about-us
+- name: Qui Som
+  link: /cat/who_are_we
+- name: Ofertes Laborals
+  link: /cat/offer
+- name: Transparència
+  link: /cat/transparency

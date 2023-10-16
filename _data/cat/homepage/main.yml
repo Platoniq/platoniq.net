@@ -1,18 +1,19 @@
 # Home
-main_title: Diseñamos herramientas <span style="color:#e30062">analíticas</span> para un cambio social.
-main_subtitle: Creatividad y democracia
+main_title: Dissenyem eines <span style="color:#e30062">analíticas</span> per a un canvi social.
+main_subtitle: Creativitat i Democràcia
 main_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nunc id cursus metus aliquam eleifend mi in nulla. Hac habitasse platea ictumst vestibulum. Eros in cursus turpis massa tincidunt dui ut ornare.
 main_img: /media/happy-faces.png
 
-values_title: Nuestros Valores.
+# Bloque 2
+values_title: Els nostres valors.
 values_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
 values_img: /media/heart.png
 # Bloque 3
-projects_title: Porjectos Recientes.
+projects_title: Projectes recents.
 # Bloque 4
-journal_title: Nuestro Blog.
+journal_title: Nostre Journal.
 journal_img:
 # Bloque 5
-who_title: Con Quien Trabajamos.
+who_title: Amb qui treballem.
 
 image_url: https://s.cornershopapp.com/static/noimage.png
