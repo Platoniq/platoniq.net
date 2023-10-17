@@ -6,6 +6,7 @@ cookies_info: More info
 cookies_subtitle: We would like to use third party cookies and scripts to analise the usage of this website.
 cookies_title: We want your consent
 collaborators: We work with
+contact_btn: Contacta con nosotros
 created_by: created by
 download: Download
 know_more: Know more
@@ -14,6 +15,8 @@ locale_menu: Change language
 locales:
   en: English
   es: Español
+  cat: Catalan
+recent_projects: Recent Projects.
 sitemap_menu: Navigate all articles in the Journal
 skip_to_content: Skip to content
 sticker_emoji: Emoji related to the sticker
