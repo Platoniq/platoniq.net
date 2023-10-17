@@ -1,3 +1,4 @@
+all_projects_url: /en/all-projects
 authored_by: by
 close: Close
 continue_reading: Continue reading
@@ -16,6 +17,7 @@ locales:
   en: English
   es: Español
   cat: Catalan
+project_btn: + Projects
 recent_projects: Recent Projects.
 sitemap_menu: Navigate all articles in the Journal
 skip_to_content: Skip to content
