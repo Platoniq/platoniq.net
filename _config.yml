@@ -37,6 +37,8 @@ collections:
     output: false
   states:
     output: false
+  members:
+    output: false
  
 defaults:
   - scope:
@@ -52,6 +54,10 @@ defaults:
       path: "*/es/*"
     values:
       locale: "es"
+  - scope:
+      path: "*/cat/*"
+    values:
+      locale: "cat"
   - scope:
       type: projects
     values:
