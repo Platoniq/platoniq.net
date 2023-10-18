@@ -39,6 +39,8 @@ collections:
     output: false
   members:
     output: false
+  call_to_actions:
+    output: false
  
 defaults:
   - scope:
