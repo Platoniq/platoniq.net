@@ -19,6 +19,9 @@ locales:
   cat: Català
   cat: Catalan
 project_btn: + Projectes
+project_img_decorator:
+  path: /media/site-symbols/project-symbol.png
+  alt: project-symbol-png
 recent_projects: Projectes recents.
 sitemap_menu: Navegueu per tots els articles de la revista
 skip_to_content: Saltar al contingut

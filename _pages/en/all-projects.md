@@ -6,4 +6,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet dolor
 img:
     source: /media/drops-about-us.png
     alt: drops-transparency
+decorator: 
+    source: /media/site-symbols/project-symbol.png
+    alt: project-symbol-png
 ---

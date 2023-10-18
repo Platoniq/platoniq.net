@@ -18,6 +18,9 @@ locales:
   es: Español
   cat: Catalan
 project_btn: + Projects
+project_img_decorator:
+  path: /media/site-symbols/project-symbol.png
+  alt: project-symbol-png
 recent_projects: Recent Projects.
 sitemap_menu: Navigate all articles in the Journal
 skip_to_content: Skip to content
