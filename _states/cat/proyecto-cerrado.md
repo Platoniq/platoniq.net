@@ -1,5 +1,5 @@
 ---
 slug: closed
-title: Proyecto Cerrado
+title: " Projecte Tancat"
 color: r﻿ed
 ---

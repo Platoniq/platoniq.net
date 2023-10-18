@@ -1,5 +1,5 @@
 ---
 slug: closed
-title: Closed project
-color: red
+title: Project Close
+color: r﻿ed
 ---

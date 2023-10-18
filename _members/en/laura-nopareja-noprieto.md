@@ -1,6 +1,7 @@
 ---
 slug: lpa
 title: Laura Nopareja Noprieto
+colaborator: author
 image:
   path: /media/members/screenshot-2023-10-18-095833.png
   alt: noLaura
