@@ -1,5 +1,5 @@
 ---
 slug: closed
 title: Proyecto Cerrado
-color: r﻿ed
+color: red
 ---
