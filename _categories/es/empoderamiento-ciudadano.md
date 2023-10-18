@@ -15,8 +15,8 @@ symbol:
   path: /media/categories/symbol_empoderament.png
   alt: city-empowerment
 services:
-  - serv-1
-  - serv-2
-  - serv-3
-  - serv-4
+  - serv1
+  - serv3
+  - serv2
+  - serv4
 ---

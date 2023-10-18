@@ -16,8 +16,8 @@ symbol:
   path: /media/categories/symbol_cooperativa.png
   alt: cooperative_economy
 services:
-  - serv-1
-  - serv-2
-  - serv-3
-  - serv-5
+  - serv5
+  - serv6
+  - serv1
+  - serv2
 ---

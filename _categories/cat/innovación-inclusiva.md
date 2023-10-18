@@ -11,7 +11,7 @@ symbol:
   path: /media/categories/symbol_innovacio.png
   alt: innovacion Inclusiva
 services:
-  - serv-5
-  - serv-4
-  - serv-2
+  - serv1
+  - serv2
+  - serv3
 ---
