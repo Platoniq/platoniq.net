@@ -28,8 +28,6 @@ en:
       <label for="message">Text</label>
       <textarea name="message" class="form-control"></textarea>
 
-      <label for="file">Upload files</label>
-      <input name="file class="form-control"" type="file"/>
     </fieldset>
 es:
   title: Contact
@@ -59,7 +57,34 @@ es:
       <label for="message">Texto</label>
       <textarea name="message" class="form-control"></textarea>
 
-      <label for="file">Subir fichero</label>
-      <input name="file class="form-control"" type="file"/>
+    </fieldset>
+cat:
+  title: Contacte
+  content: Si lo deseas, también puedes contactarnos rellenando este formulario
+  button:
+    label: Enviar
+  image:
+    path: /media/heart.png
+    alt: Alt text contact es
+  form_fields: |
+    <fieldset class="d-flex flex-column pj-cta-contact">
+      <label for="name">Nom</label>
+      <input type="text" class="form-control" name="name" />
+
+      <label for="organization">Organització</label>
+      <input type="text" class="form-control" name="organization" />
+
+      <label for="position">Cárrec</label>
+      <input type="text" class="form-control" name="position" />
+
+      <label for="email">Mail</label>
+      <input type="email" class="form-control" name="email" />
+
+      <label for="city">Ciutat/Pais</label>
+      <input type="text" class="form-control" name="city" />
+
+      <label for="message">Text</label>
+      <textarea name="message" class="form-control"></textarea>
+
     </fieldset>
 ---
