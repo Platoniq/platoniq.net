@@ -1,5 +1,6 @@
 ---
 layout: category
+call_to_action: cta-contact-service
 slug: inclusive_innovation
 title: Innovació Inclusiva
 subtitle: Phasellus eget vestibulum ligula. Praesent bibendum lacinia porta. Sed

@@ -7,8 +7,7 @@ layout: none
 
   {% for page in pages %}
     {
-      "title"      : "{{ page.slug }}",
-      "url"      : "{{ page | relative_url }}"
+      "title"      : "{{ page.title }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 
@@ -16,8 +15,7 @@ layout: none
 
   {% for category in categories %}
     {
-      "title"      : "{{ category.title }}",
-      "url"      : "{{ category | relative_url }}"
+      "title"      : "{{ category.title }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 

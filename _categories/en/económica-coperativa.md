@@ -1,5 +1,6 @@
 ---
 layout: category
+call_to_action: cta-contact-service
 slug: coop_econ
 title: Cooperative Economy
 subtitle: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit. Proin

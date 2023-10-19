@@ -1,5 +1,6 @@
 ---
 layout: category
+call_to_action: cta-contact-service
 slug: citizen_empowerment
 title: " Empoderament Ciutadà"
 subtitle: Pellentesque justo massa, ullamcorper vitae ultrices sit amet, rhoncus
