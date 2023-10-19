@@ -2,13 +2,16 @@
 main_title: Diseñamos herramientas <span style="color:#e30062">analíticas</span> para un cambio social.
 main_subtitle: Creatividad y democracia
 main_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nunc id cursus metus aliquam eleifend mi in nulla. Hac habitasse platea ictumst vestibulum. Eros in cursus turpis massa tincidunt dui ut ornare.
+main_img: /media/site-symbols/happy-faces.png
 
 values_title: Nuestros Valores.
 values_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+values_img: /media/site-symbols/heart.png
 # Bloque 3
-projects_title: Porjectos Recientes.
+projects_title: Projectos Recientes.
 # Bloque 4
 journal_title: Nuestro Blog.
+journal_img:
 # Bloque 5
 who_title: Con Quien Trabajamos.
 

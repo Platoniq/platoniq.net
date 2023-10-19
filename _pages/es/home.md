@@ -1,4 +1,4 @@
 ---
 layout: home
-uid: home
+slug: home
 ---

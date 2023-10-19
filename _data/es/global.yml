@@ -1,3 +1,4 @@
+all_projects_url: /es/all-projects
 authored_by: por
 close: Cerrar
 continue_reading: Sigue leyendo
@@ -6,6 +7,7 @@ cookies_info: Más información
 cookies_subtitle: Queremos usar cookies y código de terceros para analizar el uso de esta web.
 cookies_title: Queremos tu consentimiento
 collaborators: Colaboramos con
+contact_btn: Contacta con nosotros
 created_by: creado por
 download: Descargar
 know_more: Saber más
@@ -14,6 +16,12 @@ locale_menu: Cambiar de idioma
 locales:
   en: English
   es: Español
+  cat: Catalán
+project_btn: + Proyectos
+project_img_decorator:
+  path: /media/site-symbols/img-line.png
+  alt: project-symbol-png
+recent_projects: Proyectos Recientes.
 sitemap_menu: Navegar todos los artículos del Journal
 skip_to_content: Ir al contenido
 sticker_emoji: Emoji relacionado con el sticker

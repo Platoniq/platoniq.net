@@ -1,8 +1,12 @@
+- name: Home
+  link: /en/home
 - name: About Platoniq 
-  link: /about-us
+  link: /en/about-us
 - name: Who we are
-  link: /who_are_we
+  link: /en/who
 - name: Positions
-  link: /offer
+  link: /en/offers
 - name: Transparency
-  link: /transparency
+  link: /en/transparency
+- name: Contact
+  link: /en/contact

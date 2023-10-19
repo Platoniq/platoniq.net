@@ -23,18 +23,28 @@ timezone: ES
 collections:
   pages:
     output: true
-    custom_permalink_placeholders: ["locale","uid"]
-    permalink: /:locale/:uid/
+    custom_permalink_placeholders: ["locale","slug"]
+    permalink: /:locale/:slug/
   projects:
     output: true
     custom_permalink_placeholders: ["locale","slug"]
     permalink: /:locale/projects/:slug/
   categories:
     output: true
-    custom_permalink_placeholders: ["locale","uid"]
-    permalink: /:locale/categories/:uid/
+    custom_permalink_placeholders: ["locale","slug"]
+    permalink: /:locale/categories/:slug/
   services:
     output: false
+  states:
+    output: false
+  members:
+    output: false
+  call_to_actions:
+    output: false
+  offers:
+    output: true
+    custom_permalink_placeholders: ["locale","slug"]
+    permalink: /:locale/offers/:slug/
  
 defaults:
   - scope:
@@ -50,6 +60,10 @@ defaults:
       path: "*/es/*"
     values:
       locale: "es"
+  - scope:
+      path: "*/cat/*"
+    values:
+      locale: "cat"
   - scope:
       type: projects
     values:
