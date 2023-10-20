@@ -1,29 +1,31 @@
 ---
 layout: project
-slug: pro1
-state: open
-title: Project 1
-subtitle: s﻿ubtitulo
+slug: pro2
+state: closed
+title: project 2
+subtitle: s﻿ubtitle
 banner_image:
-  path: /media/projects/80124274.jpg
-  alt: alt
-date: 2023-10-18T10:09:53.129Z
-description: d﻿escripción
-budget: "10.000"
-private_percentage: "10"
-public_percentage: "50"
+  path: /media/projects/photo-1620381891112-0418655927ed.jpg
+  alt: projecto2
+date: 2023-10-20T07:18:46.148Z
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
+  condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse
+  viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a
+  sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus
+  sapien sed volutpat. Etiam nec sollicitudin ligula. Etiam rutrum blandit
+  porttitor. Nulla facilisi.
+budget: "20.000"
+private_percentage: "30"
+public_percentage: "30"
 looking_finance_percentage: "40"
 services:
   - serv1
   - serv3
 categories:
   - future_culture
-  - coop_econ
-  - citizen_empowerment
-  - inclusive_innovation
 members:
-  - lpa
-  - ttt
+  - pjs
+  - mpo
 collaborators:
   - col1
 ---
