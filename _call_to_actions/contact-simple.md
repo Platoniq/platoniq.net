@@ -1,7 +1,6 @@
 ---
 uid: cta-contact-simple
 en:
-  title: Contact
   content: If you want, you can also contact us filling this form
   button:
     label: Send
@@ -30,7 +29,6 @@ en:
 
     </fieldset>
 es:
-  title: Contact
   content: Si lo deseas, también puedes contactarnos rellenando este formulario
   button:
     label: Enviar
@@ -59,8 +57,7 @@ es:
 
     </fieldset>
 cat:
-  title: Contacte
-  content: Si lo deseas, también puedes contactarnos rellenando este formulario
+  content: Si ho vols, també pots contactar-nos emplenant aquest formulari
   button:
     label: Enviar
   image:
