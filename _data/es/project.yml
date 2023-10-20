@@ -11,3 +11,6 @@ title_next:
 private: privado
 public: público
 looking: en busca de financiación
+header_symbol:
+  path: /media/site-symbols/project-symbol.png
+  alt: project header symbol
