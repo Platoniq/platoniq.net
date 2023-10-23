@@ -9,23 +9,30 @@ en:
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
-      <label for="name">Name</label>
-      <input type="text" class="form-control" name="name" />
+      <div class="align-self-end">
+        <p><small>Mandatory fields <b>*</b></small></p>
+      </div>
 
-      <label for="organization">Organization</label>
-      <input type="text" class="form-control" name="organization" />
+      <label for="name">Name <b>*</b></label>
+      <input type="text" class="form-control" name="name" required />
 
-      <label for="position">Position</label>
-      <input type="text" class="form-control" name="position" />
+      <label for="organization">Organization <b>*</b></label>
+      <input type="text" class="form-control" name="organization" required />
 
-      <label for="email">Mail</label>
-      <input type="email" class="form-control" name="email" />
+      <label for="position">Position <b>*</b></label>
+      <input type="text" class="form-control" name="position" required />
 
-      <label for="city">City/Country</label>
-      <input type="text" class="form-control" name="city" />
+      <label for="email">Mail <b>*</b></label>
+      <input type="email" class="form-control" name="email" required />
 
-      <label for="message">Text</label>
-      <textarea name="message" class="form-control"></textarea>
+      <label for="city">City/Country <b>*</b></label>
+      <input type="text" class="form-control" name="city" required/>
+
+      <label for="message">Text <b>*</b></label>
+      <textarea name="message" rows="6" class="form-control" required></textarea>
+
+      <label><input type="checkbox" name="privacy-policy" required> I accept the privacy policy</label>
+
 
     </fieldset>
 es:
@@ -37,23 +44,29 @@ es:
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
-      <label for="name">Nombre</label>
-      <input type="text" class="form-control" name="name" />
+      <div class="align-self-end">
+        <p><small>Campos obligatorios <b>*</b></small></p>
+      </div>
 
-      <label for="organization">Organización</label>
-      <input type="text" class="form-control" name="organization" />
+      <label for="name">Nombre <b>*</b></label>
+      <input type="text" class="form-control" name="name" required />
 
-      <label for="position">Puesto</label>
-      <input type="text" class="form-control" name="position" />
+      <label for="organization">Organización <b>*</b></label>
+      <input type="text" class="form-control" name="organization" required />
 
-      <label for="email">Mail</label>
-      <input type="email" class="form-control" name="email" />
+      <label for="position">Puesto <b>*</b></label>
+      <input type="text" class="form-control" name="position" required/>
 
-      <label for="city">Ciudad/País</label>
-      <input type="text" class="form-control" name="city" />
+      <label for="email">Mail <b>*</b></label>
+      <input type="email" class="form-control" name="email" required />
 
-      <label for="message">Texto</label>
-      <textarea name="message" class="form-control"></textarea>
+      <label for="city">Ciudad/País <b>*</b></label>
+      <input type="text" class="form-control" name="city" required />
+
+      <label for="message">Texto <b>*</b></label>
+      <textarea name="message" rows="6" class="form-control" required></textarea>
+
+      <label><input type="checkbox" name="privacy-policy" required> Acepto la política de privacidad</label>
 
     </fieldset>
 cat:
@@ -65,23 +78,29 @@ cat:
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
-      <label for="name">Nom</label>
-      <input type="text" class="form-control" name="name" />
+      <div class="align-self-end">
+        <p><small>Camps obligatoris <b>*</b></small></p>
+      </div>
 
-      <label for="organization">Organització</label>
-      <input type="text" class="form-control" name="organization" />
+      <label for="name">Nom <b>*</label>
+      <input type="text" class="form-control" name="name" required/>
 
-      <label for="position">Cárrec</label>
-      <input type="text" class="form-control" name="position" />
+      <label for="organization">Organització <b>*</label>
+      <input type="text" class="form-control" name="organization" required />
 
-      <label for="email">Mail</label>
-      <input type="email" class="form-control" name="email" />
+      <label for="position">Cárrec <b>*</label>
+      <input type="text" class="form-control" name="position" required />
 
-      <label for="city">Ciutat/Pais</label>
-      <input type="text" class="form-control" name="city" />
+      <label for="email">Mail <b>*</label>
+      <input type="email" class="form-control" name="email" required />
 
-      <label for="message">Text</label>
-      <textarea name="message" class="form-control"></textarea>
+      <label for="city">Ciutat/Pais <b>*</label>
+      <input type="text" class="form-control" name="city" required />
+
+      <label for="message">Text <b>*</label>
+      <textarea name="message" rows="6" class="form-control" required></textarea>
+
+      <label><input type="checkbox" name="privacy-policy" required> Acepto la política de privacitat</label>
 
     </fieldset>
 ---
