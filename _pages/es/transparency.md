@@ -11,11 +11,11 @@ img:
 { "title": "", 
     "items": [ 
         { "file": "/media/documents/document_test.pdf", 
-          "title": "Informacio Intitucional"}, 
+          "title": "Información Institucional"}, 
         { "file": "/media/documents/document_test.pdf", 
-          "title": "Contractes i conveins amb l'agministracio"},
+          "title": "contratos y convenios de administración"},
         { "file": "/media/documents/document_test.pdf", 
-          "title": "Subvencions i ajusts publics"}
+          "title": "Sunvenciones y ajustes publicos"}
       ] 
     } 
 %}
