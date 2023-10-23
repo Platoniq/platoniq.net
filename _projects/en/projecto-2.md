@@ -54,13 +54,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum e
 <!-- AUTHOR
 {% author { "name": "William Shakespeare", "position": "Senior copywriter", "image": "/media/members/screenshot-2023-10-18-095833.png", "description": "description" } %} -->
 
-FILE
-{% file { "title": "A very cool file", "info": "4kB PDF", "file": "/media/documents/document_test.pdf ", "image": "/media/site-symbolds/tear-goteo.png", "button_text": "Download", "button_icon": "icon-download" } %}
-
-
 Ejemplo de vídeo
 
-![imagen](blob:https://teams.microsoft.com/1114cc43-4e9b-4398-b058-a0584b7d4871 "https://www.youtube.com/watch?v=FEa2diI2qgA")
+{% video { "title": "I love cats", "url": "https://www.youtube.com/embed/VRrWvYOhMkE?si=xsDfrT8d-0UjmRSt" } %}
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin ligula.
 

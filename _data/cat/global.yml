@@ -20,7 +20,7 @@ locales:
   cat: Catalan
 project_btn: + Projectes
 project_img_decorator:
-  path: /media/site-symbols/line-img.png
+  path: /media/site-symbols/img-line.png
   alt: project-symbol-png
 recent_projects: Projectes recents.
 sitemap_menu: Navegueu per tots els articles de la revista
