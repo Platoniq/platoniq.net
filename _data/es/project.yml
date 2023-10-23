@@ -14,3 +14,9 @@ looking: en busca de financiación
 header_symbol:
   path: /media/site-symbols/project-symbol.png
   alt: project header symbol
+info_box: 
+  image:
+    path: /media/site-symbols/info.png
+    alt: info-png
+  text: Para obtener información addicional sobre el proyecto porfavor contactanos.
+  contact: Contactar
