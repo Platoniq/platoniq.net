@@ -37,9 +37,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum e
 
 ### Aquí irian las cajitas verdes (86%, 523k, 24)
 
-* Elemento de lista 1
-* Elemento de lista 2
-* Elemento de lista 3
+{% bullet {
+  "list": [
+    "Elemento 1",
+    "Elemento 2",
+    "Elemento 3"
+    ]
+} %}
 
 En enim elit, fermentum quis congue quis, pellentesque non nibh.
 
