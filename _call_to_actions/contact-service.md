@@ -10,26 +10,32 @@ en:
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
-      <label for="service">Service</label>
-      <input type="text" class="form-modal" name="service" />
+      <div class="align-self-end">
+        <p><small>Mandatory fields <b>*</b></small></p>
+      </div>
 
-      <label for="name">Name</label>
-      <input type="text" class="form-modal" name="name" />
+      <label for="service">Service <b>*</b></label>
+      <input type="text" class="form-modal" name="service" required />
 
-      <label for="organization">Organization</label>
-      <input type="text" class="form-modal" name="organization" />
+      <label for="name">Name <b>*</b></label>
+      <input type="text" class="form-modal" name="name" required/>
 
-      <label for="position">Position</label>
-      <input type="text" class="form-modal" name="position" />
+      <label for="organization">Organization <b>*</b></label>
+      <input type="text" class="form-modal" name="organization" required/>
 
-      <label for="email">Mail</label>
-      <input type="email" class="form-modal" name="email" />
+      <label for="position">Position <b>*</b></label>
+      <input type="text" class="form-modal" name="position" required />
 
-      <label for="city">City/Country</label>
-      <input type="text" class="form-modal" name="city" />
+      <label for="email">Mail <b>*</b></label>
+      <input type="email" class="form-modal" name="email" required />
 
-      <label for="message">Text</label>
-      <textarea name="message" class="form-modal"></textarea>
+      <label for="city">City/Country <b>*</b></label>
+      <input type="text" class="form-modal" name="city" required/>
+
+      <label for="message">Text <b>*</b></label>
+      <textarea name="message" rows="6" class="form-modal" required></textarea>
+
+      <label><input type="checkbox" name="privacy-policy" required> I accept the privacy policy</label>
 
     </fieldset>
 es:
