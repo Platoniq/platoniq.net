@@ -48,27 +48,32 @@ es:
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
-      <label for="service">Servicio</label>
-      <input type="text" class="form-modal" name="service" />
+      <div class="align-self-end">
+        <p><small>Campos obligatorios <b>*</b></small></p>
+      </div>
 
-      <label for="name">Nombre</label>
-      <input type="text" class="form-modal" name="name" />
+      <label for="service">Servicio <b>*</b></label>
+      <input type="text" class="form-modal" name="service" required />
 
-      <label for="organization">Organización</label>
-      <input type="text" class="form-modal" name="organization" />
+      <label for="name">Nombre <b>*</b></label>
+      <input type="text" class="form-modal" name="name" required/>
 
-      <label for="position">Puesto</label>
-      <input type="text" class="form-modal" name="position" />
+      <label for="organization">Organización <b>*</b></label>
+      <input type="text" class="form-modal" name="organization" required />
 
-      <label for="email">Mail</label>
-      <input type="email" class="form-modal" name="email" />
+      <label for="position">Puesto <b>*</b></label>
+      <input type="text" class="form-modal" name="position" required />
 
-      <label for="city">Ciudad/País</label>
-      <input type="text" class="form-modal" name="city" />
+      <label for="email">Mail <b>*</b></label>
+      <input type="email" class="form-modal" name="email" required />
 
-      <label for="message">Text</label>
-      <textarea name="message" class="form-modal"></textarea>
+      <label for="city">Ciudad/País <b>*</b></label>
+      <input type="text" class="form-modal" name="city" required />
 
+      <label for="message">Text <b>*</b></label>
+      <textarea name="message" rows="6" class="form-modal" required></textarea>
+
+      <label><input type="checkbox" name="privacy-policy" required> Acepto la política de privacidad</label>
     </fieldset>
 cat:
   title: Contacte
@@ -80,26 +85,32 @@ cat:
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
-      <label for="service">Servei</label>
-      <input type="text" class="form-modal" name="service" />
+      <div class="align-self-end">
+        <p><small>Camps obligatoris <b>*</b></small></p>
+    </div>
 
-      <label for="name">Nom</label>
-      <input type="text" class="form-modal" name="name" />
+    <fieldset class="d-flex flex-column pj-cta-contact">
+      <label for="service">Servei <b>*</b></label>
+      <input type="text" class="form-modal" name="service" required />
 
-      <label for="organization">Organització</label>
-      <input type="text" class="form-modal" name="organization" />
+      <label for="name">Nom <b>*</b></label>
+      <input type="text" class="form-modal" name="name" required />
 
-      <label for="position">Càrrec</label>
-      <input type="text" class="form-modal" name="position" />
+      <label for="organization">Organització <b>*</b></label>
+      <input type="text" class="form-modal" name="organization" required />
 
-      <label for="email">Mail</label>
-      <input type="email" class="form-modal" name="email" />
+      <label for="position">Càrrec <b>*</b></label>
+      <input type="text" class="form-modal" name="position" required />
 
-      <label for="city">Ciutat/Pais</label>
-      <input type="text" class="form-modal" name="city" />
+      <label for="email">Mail <b>*</b></label>
+      <input type="email" class="form-modal" name="email" required />
 
-      <label for="message">Text</label>
-      <textarea name="message" class="form-modal"></textarea>
+      <label for="city">Ciutat/Pais <b>*</b></label>
+      <input type="text" class="form-modal" name="city" required />
 
+      <label for="message">Text <b>*</b></label>
+      <textarea name="message" rows="6" class="form-modal" required></textarea>
+
+      <label><input type="checkbox" name="privacy-policy" required> Acepto la política de privacitat</label>
     </fieldset>
 ---
