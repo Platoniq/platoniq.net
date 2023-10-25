@@ -35,7 +35,7 @@ en:
       <label for="message">Text <b>*</b></label>
       <textarea name="message" rows="6" class="form-modal" required></textarea>
 
-      <label><input type="checkbox" name="privacy-policy" required> I accept the privacy policy</label>
+      <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> I accept the privacy policy</label>
 
     </fieldset>
 es:
@@ -73,7 +73,7 @@ es:
       <label for="message">Text <b>*</b></label>
       <textarea name="message" rows="6" class="form-modal" required></textarea>
 
-      <label><input type="checkbox" name="privacy-policy" required> Acepto la política de privacidad</label>
+      <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> Acepto la política de privacidad</label>
     </fieldset>
 cat:
   title: Contacte
@@ -111,6 +111,6 @@ cat:
       <label for="message">Text <b>*</b></label>
       <textarea name="message" rows="6" class="form-modal" required></textarea>
 
-      <label><input type="checkbox" name="privacy-policy" required> Acepto la política de privacitat</label>
+      <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> Acepto la política de privacitat</label>
     </fieldset>
 ---
