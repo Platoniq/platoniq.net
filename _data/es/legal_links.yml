@@ -1,6 +1,6 @@
 - name: Aviso Legal
-  link: #
-- name: Politica de Cookies
-  link: #
-- name: Politica de Privacidad
-  link: #
+  link: /es/legal-notice
+- name: Política de Cookies
+  link: /es/cookie-policy
+- name: Política de Privacidad
+  link: /es/privacy-policy
