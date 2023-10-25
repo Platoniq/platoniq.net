@@ -14,9 +14,6 @@ en:
         <p><small>Mandatory fields <b>*</b></small></p>
       </div>
 
-      <label for="service">Service <b>*</b></label>
-      <input type="text" class="form-modal" name="service" required />
-
       <label for="name">Name <b>*</b></label>
       <input type="text" class="form-modal" name="name" required/>
 
@@ -51,9 +48,6 @@ es:
       <div class="align-self-end">
         <p><small>Campos obligatorios <b>*</b></small></p>
       </div>
-
-      <label for="service">Servicio <b>*</b></label>
-      <input type="text" class="form-modal" name="service" required />
 
       <label for="name">Nombre <b>*</b></label>
       <input type="text" class="form-modal" name="name" required/>
@@ -90,8 +84,6 @@ cat:
     </div>
 
     <fieldset class="d-flex flex-column pj-cta-contact">
-      <label for="service">Servei <b>*</b></label>
-      <input type="text" class="form-modal" name="service" required />
 
       <label for="name">Nom <b>*</b></label>
       <input type="text" class="form-modal" name="name" required />
