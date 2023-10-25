@@ -2,10 +2,11 @@ all_projects_url: /cat/all-projects
 authored_by: by
 close: Tancar
 continue_reading: Continueu reading
-cookies_approve: Aprovar
-cookies_info: Més informació
-cookies_subtitle: Ens agradaria utilitzar cookies i scripts de tercers per analitzar l'ús d'aquest lloc web.
-cookies_title: Volem el teu consentiment
+cookies: 
+  approve: Aprovar
+  info: Més informació
+  subtitle: Ens agradaria utilitzar cookies i scripts de tercers per analitzar l'ús d'aquest lloc web.
+  title: Volem el teu consentiment
 collaborators: Treballem amb
 contact_btn: Contacta amb nosaltres
 created_by: Creat per
