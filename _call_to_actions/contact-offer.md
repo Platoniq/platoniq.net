@@ -8,23 +8,29 @@ en:
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
-      <label for="name">Name</label>
-      <input type="text" class="form-modal" name="name" />
+      <div class="align-self-end">
+        <p><small>Mandatory fields <b>*</b></small></p>
+      </div>
 
-      <label for="organization">Surname</label>
-      <input type="text" class="form-modal" name="surname" />
+      <label for="name">Name <b>*</b></label>
+      <input type="text" class="form-modal" name="name" required />
 
-      <label for="email">Mail</label>
-      <input type="email" class="form-modal" name="email" />
+      <label for="organization">Surname <b>*</b></label>
+      <input type="text" class="form-modal" name="surname" required />
 
-      <label for="file">Currículum</label>
-      <input name="file class="form-modal" type="file"/>
+      <label for="email">Mail <b>*</b></label>
+      <input type="email" class="form-modal" name="email" required />
 
-      <label for="city">City/Country</label>
-      <input type="text" class="form-modal" name="city" />
+      <label for="file">Currículum <b>*</b></label>
+      <input name="file class="form-modal" type="file" required/>
 
-      <label for="message">Motivation</label>
-      <textarea name="message" class="form-modal"></textarea>
+      <label for="city">City/Country <b>*</b></label>
+      <input type="text" class="form-modal" name="city" required />
+
+      <label for="message">Motivation <b>*</b></label>
+      <textarea name="message" rows="6" class="form-modal" required></textarea>
+
+      <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> I accept the privacy policy</label>
 
     </fieldset>
 es:
@@ -35,23 +41,29 @@ es:
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
-      <label for="name">Nombre</label>
-      <input type="text" class="form-modal" name="name" />
+      <div class="align-self-end">
+        <p><small>Campos obligatorios <b>*</b></small></p>
+      </div>
 
-      <label for="organization">Apellidos</label>
-      <input type="text" class="form-modal" name="surname" />
+      <label for="name">Nombre <b>*</b></label>
+      <input type="text" class="form-modal" name="name" required />
 
-      <label for="email">Mail</label>
-      <input type="email" class="form-modal" name="email" />
+      <label for="organization">Apellidos <b>*</b></label>
+      <input type="text" class="form-modal" name="surname" required />
 
-      <label for="file">Currículum</label>
-      <input name="file class="form-modal" type="file"/>
+      <label for="email">Mail <b>*</b></label>
+      <input type="email" class="form-modal" name="email" required />
 
-      <label for="city">Ciudad/País</label>
-      <input type="text" class="form-modal" name="city" />
+      <label for="file">Currículum <b>*</b></label>
+      <input name="file class="form-modal" type="file" required/>
 
-      <label for="message">Motivación</label>
-      <textarea name="message" class="form-modal"></textarea>
+      <label for="city">Ciudad/País <b>*</b></label>
+      <input type="text" class="form-modal" name="city" required />
+
+      <label for="message">Motivación <b>*</b></label>
+      <textarea name="message" rows="6" class="form-modal" required></textarea>
+
+      <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> Acepto la política de privacidad</label>
 
     </fieldset>
 
@@ -63,23 +75,30 @@ cat:
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
-      <label for="name">Nom</label>
-      <input type="text" class="form-modal" name="name" />
+      <fieldset class="d-flex flex-column pj-cta-contact">
+        <div class="align-self-end">
+          <p><small>Camps obligatoris <b>*</b></small></p>
+      </div>
 
-      <label for="organization">Cognoms</label>
-      <input type="text" class="form-modal" name="surname" />
+      <label for="name">Nom <b>*</b></label>
+      <input type="text" class="form-modal" name="name" required />
 
-      <label for="email">Mail</label>
-      <input type="email" class="form-modal" name="email" />
+      <label for="organization">Cognoms <b>*</b></label>
+      <input type="text" class="form-modal" name="surname" required/>
 
-      <label for="file">Currículum</label>
-      <input name="file class="form-modal" type="file"/>
+      <label for="email">Mail <b>*</b></label>
+      <input type="email" class="form-modal" name="email" required />
 
-      <label for="city">Ciutat/Pais</label>
-      <input type="text" class="form-modal" name="city" />
+      <label for="file">Currículum <b>*</b></label>
+      <input name="file class="form-modal" type="file" required/>
 
-      <label for="message">Motivació</label>
-      <textarea name="message" class="form-modal"></textarea>
+      <label for="city">Ciutat/Pais <b>*</b></label>
+      <input type="text" class="form-modal" name="city" required />
+
+      <label for="message">Motivació <b>*</b></label>
+      <textarea name="message" rows="6" class="form-modal" required></textarea>
+
+      <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> Acepto la política de privacitat</label>
 
     </fieldset>
 ---
