@@ -51,7 +51,7 @@ es:
       <label for="organization">Apellidos <b>*</b></label>
       <input type="text" class="form-modal" name="surname" required />
 
-      <label for="email">Mail <b>*</b></label>
+      <label for="email">Email <b>*</b></label>
       <input type="email" class="form-modal" name="email" required />
 
       <label for="file">Currículum <b>*</b></label>

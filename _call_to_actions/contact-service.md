@@ -58,13 +58,13 @@ es:
       <label for="position">Puesto <b>*</b></label>
       <input type="text" class="form-modal" name="position" required />
 
-      <label for="email">Mail <b>*</b></label>
+      <label for="email">Email <b>*</b></label>
       <input type="email" class="form-modal" name="email" required />
 
       <label for="city">Ciudad/País <b>*</b></label>
       <input type="text" class="form-modal" name="city" required />
 
-      <label for="message">Text <b>*</b></label>
+      <label for="message">Texto <b>*</b></label>
       <textarea name="message" rows="6" class="form-modal" required></textarea>
 
       <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> Acepto la política de privacidad</label>

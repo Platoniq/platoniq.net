@@ -57,7 +57,7 @@ es:
       <label for="position">Puesto <b>*</b></label>
       <input type="text" class="form-control" name="position" required/>
 
-      <label for="email">Mail <b>*</b></label>
+      <label for="email">Email <b>*</b></label>
       <input type="email" class="form-control" name="email" required />
 
       <label for="city">Ciudad/País <b>*</b></label>
