@@ -1,11 +1,12 @@
-all_projects_url: /es/all-projects
+all_projects_url: /es/projects
 authored_by: por
 close: Cerrar
 continue_reading: Sigue leyendo
-cookies_approve: De acuerdo
-cookies_info: Más información
-cookies_subtitle: Queremos usar cookies y código de terceros para analizar el uso de esta web.
-cookies_title: Queremos tu consentimiento
+cookies: 
+  approve: De acuerdo
+  info: Más información
+  subtitle: Queremos usar cookies y código de terceros para analizar el uso de esta web.
+  title: Queremos tu consentimiento
 collaborators: Colaboramos con
 contact_btn: Contacta con nosotros
 created_by: creado por

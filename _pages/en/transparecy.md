@@ -7,7 +7,49 @@ img:
     source: /media/site-symbols/drops-about-us.png
     alt: drops-transparency
 ---
-<a href="/media/documents/document_test.pdf" target="_blank">Document Test</a> \
-<a href="/media/documents/document_test.pdf" target="_blank">Document Test</a> \
-<a href="/media/documents/document_test.pdf" target="_blank">Document Test</a> \
-<a href="/media/documents/document_test.pdf" target="_blank">Document Test</a> \
+{% documents 
+{ "title": "", 
+    "items": [ 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Intitucional Information"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Contracts and aministrative agreements"},
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Grants and public adjustments"}
+      ] 
+    } 
+%}
+
+{% documents 
+{ "title": "Activities Memories", 
+    "items": [ 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memory 2021"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memory 2020"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memory 2019"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memory 2018"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memory 2017"}
+      ] 
+    } 
+%}
+
+{% documents
+{ "title": "Economic Balance", 
+    "items": [ 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 2021"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 2020"},
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 20219"},
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 2018"},
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 2017"}
+      ] 
+    } 
+%}

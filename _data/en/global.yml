@@ -1,11 +1,12 @@
-all_projects_url: /en/all-projects
+all_projects_url: /en/projects
 authored_by: by
 close: Close
 continue_reading: Continue reading
-cookies_approve: Approve
-cookies_info: More info
-cookies_subtitle: We would like to use third party cookies and scripts to analise the usage of this website.
-cookies_title: We want your consent
+cookies: 
+  approve: Approve
+  info: More info
+  subtitle: We would like to use third party cookies and scripts to analise the usage of this website.
+  title: We want your consent
 collaborators: We work with
 contact_btn: Contacta con nosotros
 created_by: created by
@@ -19,7 +20,7 @@ locales:
   cat: Catalan
 project_btn: + Projects
 project_img_decorator:
-  path: /media/site-symbols//line-img.png
+  path: /media/site-symbols/img-line.png
   alt: project-symbol-png
 recent_projects: Recent Projects.
 sitemap_menu: Navigate all articles in the Journal

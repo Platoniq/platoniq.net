@@ -14,3 +14,9 @@ looking: a la recerca de finançament
 header_symbol:
   path: /media/site-symbols
   alt: project header symbol
+info_box: 
+  image:
+    path: /media/site-symbols/info.png
+    alt: info-png
+  text: Para obtenir informació addicinal sobre el projecte o contractar eld nostres serveis, contacta'ns
+  contact: Contacte

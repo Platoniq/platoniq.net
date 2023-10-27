@@ -1,11 +1,12 @@
-all_projects_url: /cat/all-projects
+all_projects_url: /cat/projects
 authored_by: by
 close: Tancar
 continue_reading: Continueu reading
-cookies_approve: Aprovar
-cookies_info: Més informació
-cookies_subtitle: Ens agradaria utilitzar cookies i scripts de tercers per analitzar l'ús d'aquest lloc web.
-cookies_title: Volem el teu consentiment
+cookies: 
+  approve: Aprovar
+  info: Més informació
+  subtitle: Ens agradaria utilitzar cookies i scripts de tercers per analitzar l'ús d'aquest lloc web.
+  title: Volem el teu consentiment
 collaborators: Treballem amb
 contact_btn: Contacta amb nosaltres
 created_by: Creat per
@@ -20,7 +21,7 @@ locales:
   cat: Catalan
 project_btn: + Projectes
 project_img_decorator:
-  path: /media/site-symbols/line-img.png
+  path: /media/site-symbols/img-line.png
   alt: project-symbol-png
 recent_projects: Projectes recents.
 sitemap_menu: Navegueu per tots els articles de la revista

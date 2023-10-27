@@ -35,11 +35,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum e
 
 ### Impacto Potencial:
 
-### Aquí irian las cajitas verdes (86%, 523k, 24)
 
-* Elemento de lista 1
-* Elemento de lista 2
-* Elemento de lista 3
+* Element 1
+* Element 2
+* Element 3
+
+### Aquí irian las cajitas verdes (86%, 523k, 24)
 
 En enim elit, fermentum quis congue quis, pellentesque non nibh.
 
@@ -53,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum e
 
 Ejemplo de vídeo
 
-![imagen](blob:https://teams.microsoft.com/1114cc43-4e9b-4398-b058-a0584b7d4871 "https://www.youtube.com/watch?v=FEa2diI2qgA")
+{% video { "title": "I love cats", "url": "https://www.youtube.com/embed/VRrWvYOhMkE?si=xsDfrT8d-0UjmRSt" } %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin ligula.
 

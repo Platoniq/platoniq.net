@@ -7,7 +7,49 @@ img:
     source: /media/site-symbols/drops-about-us.png
     alt: drops-transparency
 ---
-<a href="/media/documents/document_test.pdf" target="_blank">Document Test</a> \
-<a href="/media/documents/document_test.pdf" target="_blank">Document Test</a> \
-<a href="/media/documents/document_test.pdf" target="_blank">Document Test</a> \
-<a href="/media/documents/document_test.pdf" target="_blank">Document Test</a> \
+{% documents 
+{ "title": "", 
+    "items": [ 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Información Institucional"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "contratos y convenios de administración"},
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Sunvenciones y ajustes publicos"}
+      ] 
+    } 
+%}
+
+{% documents 
+{ "title": "Memoria de Actividades", 
+    "items": [ 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memoria 2021"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memoria 2020"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memoria 2019"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memoria 2018"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memoria 2017"}
+      ] 
+    } 
+%}
+
+{% documents
+{ "title": "Balance Economico", 
+    "items": [ 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 2021"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 2020"},
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 20219"},
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 2018"},
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 2017"}
+      ] 
+    } 
+%}

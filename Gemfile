@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.2.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-#gem "jekyll-theme-platoniq.net", path: "../jekyll-theme-platoniq.net" # probar a eliminar ../
+# gem "jekyll-theme-platoniq.net", path: "../jekyll-theme-platoniq.net" # probar a eliminar ../
 # gem "jekyll-theme-platoniq.net", git: "https://github.com/Platoniq/jekyll-theme-platoniq.net.git"
 gem "jekyll-theme-platoniq.net", git: "https://github.com/Platoniq/jekyll-theme-platoniq.net.git", branch: "develop"
 
@@ -25,7 +25,8 @@ group :jekyll_plugins do
   gem "jekyll_custom_permalink", git: "https://github.com/Platoniq/jekyll_custom_permalink.git"
   gem 'jekyll-loading-lazy'
   gem 'jekyll-sitemap'
-  gem "jekyll-plugin-platoniq-journal", git: "https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git"
+  gem "jekyll-plugin-platoniq-journal", git: "https://github.com/LauraParejaNazaries/jekyll-plugin-platoniq-journal.git", branch: "platoniq-web-plugins"
+  #gem "jekyll-plugin-platoniq-journal", git: "https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git"
 end
 
 
