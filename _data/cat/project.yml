@@ -12,7 +12,7 @@ private: privat
 public: públic
 looking: a la recerca de finançament
 header_symbol:
-  path: /media/site-symbols
+  path: /media/site-symbols/project-symbol.png
   alt: project header symbol
 info_box: 
   image:

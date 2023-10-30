@@ -8,18 +8,16 @@ GIT
       kramdown (~> 2.3)
 
 GIT
-  remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: 04ef58fbf264643e28f6562fcea77c5654cebe27
-  branch: develop
-  specs:
-    jekyll-theme-platoniq.net (0.0.1)
-      jekyll (~> 4.2)
-
-GIT
   remote: https://github.com/Platoniq/jekyll_custom_permalink.git
   revision: 89100593834e5cb2243a6eb8e82bfa9ee4c16ae3
   specs:
     jekyll_custom_permalink (0.0.2)
+
+PATH
+  remote: ../jekyll-theme-platoniq.net
+  specs:
+    jekyll-theme-platoniq.net (0.0.1)
+      jekyll (~> 4.2)
 
 GEM
   remote: https://rubygems.org/
