@@ -12,7 +12,7 @@ private: private
 public: public
 looking: looking for financiation
 header_symbol:
-  path: /media/site-symbols
+  path: /media/site-symbols/project-symbol.png
   alt: project header symbol
 info_box: 
   image:

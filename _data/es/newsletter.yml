@@ -1,5 +1,5 @@
 title: Tablón de Noticias
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
-policy-label: Acepto la <a href="" class="text-link"><b>política de privacitat</b></a>
+policy-label: Acepto la <a href="/es/privacy-policy" class="text-link"><b>Política de Privacidad</b></a>
 email-label: Introducir Email
 submit-btn: Enviar
