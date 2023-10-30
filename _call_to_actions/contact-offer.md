@@ -30,7 +30,7 @@ en:
       <label for="message">Motivation <b>*</b></label>
       <textarea name="message" rows="6" class="form-modal" required></textarea>
 
-      <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> I accept the privacy policy</label>
+      <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> I accept <a href="/en/privacy-policy" class="text-link"><b>the Privacy Policy</b></a></label>
 
     </fieldset>
 es:
@@ -63,7 +63,7 @@ es:
       <label for="message">Motivación <b>*</b></label>
       <textarea name="message" rows="6" class="form-modal" required></textarea>
 
-      <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> Acepto la política de privacidad</label>
+      <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> Acepto la <a href="/es/privacy-policy" class="text-link"><b>Política de Privacidad</b></a></label>
 
     </fieldset>
 
@@ -98,7 +98,7 @@ cat:
       <label for="message">Motivació <b>*</b></label>
       <textarea name="message" rows="6" class="form-modal" required></textarea>
 
-      <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> Acepto la política de privacitat</label>
+      <label><input class="form-check-input text-white" type="checkbox" name="privacy-policy" required> Accepto <a href="/cat/privacy-policy" class="text-link"><b>la política de privadesa</b></a></label>
 
     </fieldset>
 ---
