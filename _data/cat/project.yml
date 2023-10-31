@@ -1,3 +1,4 @@
+all_projects: Tots els Projectes
 budget: Pressupost
 colab_btn: Col·labora en el projecte
 colaboratos: Col·laboradors
@@ -18,5 +19,5 @@ info_box:
   image:
     path: /media/site-symbols/info.png
     alt: info-png
-  text: Para obtenir informació addicinal sobre el projecte o contractar eld nostres serveis, contacta'ns
+  text: Para obtenir informació addicinal sobre el projecte o contractar eld nostres serveis, contacta'ns.
   contact: Contacte
