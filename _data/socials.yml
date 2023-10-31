@@ -1,9 +1,9 @@
 - name: facebook
   icon: fab fa-facebook-f
-  link: #
+  link: https://www.facebook.com/platoniqlab/
 - name: twitter
   icon: fab fa-twitter
-  link: #
+  link: https://twitter.com/platoniq
 - name: linkedin
   icon: fab fa-linkedin
-  link: #
+  link: https://www.linkedin.com/company/platoniqlab/
