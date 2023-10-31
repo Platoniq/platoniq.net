@@ -10,4 +10,7 @@ description: Integer iaculis fermentum tempor. Vestibulum bibendum nulla vel
   volutpat mollis. Sed rhoncus ultricies auctor. Ut consectetur feugiat turpis,
   eget aliquam mi commodo nec.
 email: mdp@platoniq.com
+facebook: https://www.facebook.com/
+twitter: https://www.facebook.com/
+linkedin: https://twitter.com/?lang=en
 ---

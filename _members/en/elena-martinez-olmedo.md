@@ -10,4 +10,5 @@ description: Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin
   ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris
   dolor, pellentesque eget nibh vel, interdum rutrum urna.
 email: emo@platoniq.com
+linkedin: https://twitter.com/?lang=en
 ---
