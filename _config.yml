@@ -81,6 +81,11 @@ plugins:
   - jekyll-loading-lazy
   - jekyll-target-blank
   - jekyll-sitemap
+  - jekyll-paginate
+
+# Pagination 
+paginate: 5
+paginate_path: /page:num/
 
 # target-blank:
 #   add_css_classes: link-external

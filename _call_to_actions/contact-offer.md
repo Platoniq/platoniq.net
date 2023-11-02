@@ -22,7 +22,7 @@ en:
       <input type="email" class="form-modal" name="email" required />
 
       <label for="file">Currículum <b>*</b></label>
-      <input name="file class="form-modal" type="file" required/>
+      <input type="file" class="filestyle form-modal" data-classButton="btn btn-primary" data-input="false" data-classIcon="icon-plus" data-buttonText="Your label here." required>
 
       <label for="city">City/Country <b>*</b></label>
       <input type="text" class="form-modal" name="city" required />

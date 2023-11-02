@@ -29,5 +29,6 @@ group :jekyll_plugins do
   #gem "jekyll-plugin-platoniq-journal", git: "https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git"
 end
 
+gem 'jekyll-paginate'
 
 gem "webrick"
