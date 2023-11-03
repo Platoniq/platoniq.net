@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/LauraParejaNazaries/jekyll-plugin-platoniq-journal.git
-  revision: b4d12e2746afc6ee1b12babbb9c0e804b19523d1
+  revision: fe86aa2f4ce927ca16b4d31774c75d2114391eb0
   branch: platoniq-web-plugins
   specs:
     jekyll-plugin-platoniq-journal (0.0.22)
@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: 04ef58fbf264643e28f6562fcea77c5654cebe27
+  revision: cee53f02cbfc11e2a2361f581b17d0d75ae8bf75
   branch: develop
   specs:
     jekyll-theme-platoniq.net (0.0.1)
