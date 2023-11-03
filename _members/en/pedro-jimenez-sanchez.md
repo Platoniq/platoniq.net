@@ -10,4 +10,6 @@ description: Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh
   vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum
   bibendum nulla vel volutpat mollis.
 email: pjs@platoniq.com
+twitter: https://www.facebook.com/
+linkedin: https://twitter.com/?lang=en
 ---

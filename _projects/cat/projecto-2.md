@@ -23,6 +23,7 @@ services:
   - serv3
 categories:
   - future_culture
+  - inclusive_innovation
 members:
   - pjs
   - mpo

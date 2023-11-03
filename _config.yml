@@ -82,6 +82,10 @@ plugins:
   - jekyll-target-blank
   - jekyll-sitemap
 
+# Pagination 
+paginate: 5
+paginate_path: /page:num/
+
 # target-blank:
 #   add_css_classes: link-external
 #   noopener: true

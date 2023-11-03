@@ -1,5 +1,5 @@
 title: Newsletter
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
-policy-label: I accept <a href="" class="text-link"><b>the privacy policy</b></a>
+policy-label: I accept <a href="/en/privacy-policy" class="text-link"><b>the Privacy Policy</b></a>
 email-label: Enter e-mail address
 submit-btn: Submit
