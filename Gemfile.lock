@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/LauraParejaNazaries/jekyll-plugin-platoniq-journal.git
-  revision: b40117138ffa0906db1c67a381a80b09d7bae547
+  revision: b4d12e2746afc6ee1b12babbb9c0e804b19523d1
   branch: platoniq-web-plugins
   specs:
     jekyll-plugin-platoniq-journal (0.0.22)
@@ -8,16 +8,18 @@ GIT
       kramdown (~> 2.3)
 
 GIT
+  remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
+  revision: 04ef58fbf264643e28f6562fcea77c5654cebe27
+  branch: develop
+  specs:
+    jekyll-theme-platoniq.net (0.0.1)
+      jekyll (~> 4.2)
+
+GIT
   remote: https://github.com/Platoniq/jekyll_custom_permalink.git
   revision: 89100593834e5cb2243a6eb8e82bfa9ee4c16ae3
   specs:
     jekyll_custom_permalink (0.0.2)
-
-PATH
-  remote: ../jekyll-theme-platoniq.net
-  specs:
-    jekyll-theme-platoniq.net (0.0.1)
-      jekyll (~> 4.2)
 
 GEM
   remote: https://rubygems.org/
@@ -53,7 +55,6 @@ GEM
     jekyll-loading-lazy (0.1.1)
       jekyll (>= 3.0, < 5.0)
       nokogiri (>= 1.10, < 2.0)
-    jekyll-paginate (1.1.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (2.2.0)
@@ -103,7 +104,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.2.1)
   jekyll-loading-lazy
-  jekyll-paginate
   jekyll-plugin-platoniq-journal!
   jekyll-redirect-from
   jekyll-seo-tag

@@ -55,7 +55,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum e
 Ejemplo Imagen
 
 ![projecto2](/media/projects/photo-1620381891112-0418655927ed.jpg)
-{% image { "path": "/media/projects/photo-1620381891112-0418655927ed.jpg", "alt": "projecto2" } %}
+
+{% image 
+{"img":{
+    "path":"/media/projects/photo-1620381891112-0418655927ed.jpg", 
+    "alt":"projecto2" 
+  },
+  "decorator":{
+    "path":"/media/site-symbols/img-line.png", 
+    "alt":"project-decorator"
+  }} 
+%}
 
 Ejemplo de vídeo
 

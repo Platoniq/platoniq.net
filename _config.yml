@@ -81,7 +81,6 @@ plugins:
   - jekyll-loading-lazy
   - jekyll-target-blank
   - jekyll-sitemap
-  - jekyll-paginate
 
 # Pagination 
 paginate: 5
