@@ -9,4 +9,5 @@ img:
 decorator: 
     source: /media/site-symbols/project-symbol.png
     alt: project-symbol-png
+category_select: Select a category
 ---
