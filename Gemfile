@@ -2,9 +2,9 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2.1"
 
-#gem "jekyll-theme-platoniq.net", path: "../jekyll-theme-platoniq.net" # probar a eliminar ../
+gem "jekyll-theme-platoniq.net", path: "../jekyll-theme-platoniq.net" # probar a eliminar ../
 # gem "jekyll-theme-platoniq.net", git: "https://github.com/Platoniq/jekyll-theme-platoniq.net.git"
-gem "jekyll-theme-platoniq.net", git: "https://github.com/Platoniq/jekyll-theme-platoniq.net.git", branch: "develop"
+#gem "jekyll-theme-platoniq.net", git: "https://github.com/Platoniq/jekyll-theme-platoniq.net.git", branch: "develop"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
