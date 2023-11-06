@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: cee53f02cbfc11e2a2361f581b17d0d75ae8bf75
+  revision: d2840d5682809e99d0a83da537c9b7b89bdb78be
   branch: develop
   specs:
     jekyll-theme-platoniq.net (0.0.1)
@@ -84,7 +84,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.3)
-    racc (1.7.2)
+    racc (1.7.3)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
