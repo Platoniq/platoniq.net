@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: 89c4fca8841b20c1ab674fdd726a88e28bebfe7d
+  revision: a550a606e20e81e2eefea5895d51729e04437292
   branch: develop
   specs:
     jekyll-theme-platoniq.net (0.0.1)
@@ -115,4 +115,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.4.19
+   2.4.20
