@@ -15,5 +15,6 @@ group :jekyll_plugins do
   gem 'jekyll-loading-lazy'
   gem 'webrick'
   gem "jekyll_custom_permalink", git: "https://github.com/Platoniq/jekyll_custom_permalink.git"
-  gem "jekyll-plugin-platoniq-journal", git: "https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git"
+  gem "jekyll-plugin-platoniq-journal", git: "https://github.com/LauraParejaNazaries/jekyll-plugin-platoniq-journal.git", branch: "platoniq-web-plugins"
+  #gem "jekyll-plugin-platoniq-journal", git: "https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git"
 end
