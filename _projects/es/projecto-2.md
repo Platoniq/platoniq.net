@@ -28,7 +28,9 @@ members:
   - pjs
   - mpo
 collaborators:
-  - col1
+  - naz
+  - naz2
+  - naz3
 ---
 <!--StartFragment-->
 
