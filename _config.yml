@@ -37,6 +37,8 @@ collections:
     output: false
   states:
     output: false
+  collaborators:
+    output: false
   members:
     output: false
   call_to_actions:
@@ -82,9 +84,6 @@ plugins:
   - jekyll-target-blank
   - jekyll-sitemap
 
-# Pagination 
-paginate: 5
-paginate_path: /page:num/
 
 # target-blank:
 #   add_css_classes: link-external
