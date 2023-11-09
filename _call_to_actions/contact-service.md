@@ -1,12 +1,12 @@
 ---
-uid: cta-contact-service
+huid: cta-contact-service
 en:
   title: Contact
   content: If you want, you can also contact us filling this form
   button:
     label: Send
   image:
-    path: /media/heart.png
+    path: /media/site-symbols/heart.png
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
@@ -41,7 +41,7 @@ es:
   button:
     label: Enviar
   image:
-    path: /media/heart.png
+    path: /media/site-symbols/heart.png
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
@@ -75,7 +75,7 @@ cat:
   button:
     label: Enviar
   image:
-    path: /media/heart.png
+    path: /media/site-symbols/heart.png
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
