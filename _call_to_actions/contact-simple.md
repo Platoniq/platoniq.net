@@ -5,7 +5,7 @@ en:
   button:
     label: Send
   image:
-    path: /media/heart.png
+    path: /media/site-symbols/heart.png
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
@@ -40,7 +40,7 @@ es:
   button:
     label: Enviar
   image:
-    path: /media/heart.png
+    path: /media/site-symbol/heart.png
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
@@ -74,7 +74,7 @@ cat:
   button:
     label: Enviar
   image:
-    path: /media/heart.png
+    path: /media/site-symbol/heart.png
     alt: Alt text contact es
   form_fields: |
     <fieldset class="d-flex flex-column pj-cta-contact">
