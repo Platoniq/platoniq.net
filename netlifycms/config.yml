@@ -1,0 +1,18 @@
+---
+layout: netlifycms/config
+permalink: cms/config.yml
+
+local_backend: true
+
+backend:
+  name: git-gateway
+  branch: develop
+
+
+
+
+  #repo: Platoniq/wilder-journal
+  #branch: main
+i18n:
+  default_locale: es
+---
