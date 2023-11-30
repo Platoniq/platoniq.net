@@ -1,5 +1,5 @@
 ---
 collection: index
 layout: base
-redirect: /es/home
+redirect_to: /es/home
 ---
