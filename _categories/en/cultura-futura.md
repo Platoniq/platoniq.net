@@ -17,6 +17,5 @@ symbol:
 services:
   - serv3
   - serv4
-  - serv5
   - serv2
 ---
