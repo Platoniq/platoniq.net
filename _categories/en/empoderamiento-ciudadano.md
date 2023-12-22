@@ -2,7 +2,7 @@
 layout: category
 call_to_action: cta-contact-service
 slug: citizen_empowerment
-title: City Empowerment
+title: Citizen Empowerment
 subtitle: Pellentesque justo massa, ullamcorper vitae ultrices sit amet, rhoncus
   et eros. Vivamus facilisis, sapien non porttitor sodales, sem ex placerat
   ipsum, blandit tincidunt tortor purus ut neque. Vestibulum eget mollis dui.
