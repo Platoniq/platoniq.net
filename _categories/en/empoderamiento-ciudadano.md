@@ -14,7 +14,7 @@ subtitle: Pellentesque justo massa, ullamcorper vitae ultrices sit amet, rhoncus
   sem. Proin dui sapien, hendrerit a mattis et, porta varius lorem.
 symbol:
   path: /media/categories/symbol_empoderament.png
-  alt: city-empowerment
+  alt: citizen-empowerment
 services:
   - serv1
   - serv3
