@@ -29,8 +29,6 @@ members:
   - mpo
 collaborators:
   - naz
-  - naz2
-  - naz3
 ---
 <!--StartFragment-->
 
@@ -40,9 +38,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum e
 
 ### Aquí irian las cajitas verdes (86%, 523k, 24)
 
-  * Element 1
-  * Element 2 
-  * Element 3
+* 86%
+* 523 K
+* 24
 
 En enim elit, fermentum quis congue quis, pellentesque non nibh.
 

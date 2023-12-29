@@ -29,8 +29,6 @@ members:
   - mpo
 collaborators:
   - naz
-  - naz2
-  - naz3
 ---
 <!--StartFragment-->
 
