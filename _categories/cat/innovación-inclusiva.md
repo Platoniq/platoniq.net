@@ -15,4 +15,5 @@ services:
   - serv1
   - serv2
   - serv3
+  - serv-5
 ---
