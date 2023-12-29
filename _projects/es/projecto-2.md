@@ -54,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum e
 
 Ejemplo Imagen
 
-![projecto2](/media/projects/photo-1620381891112-0418655927ed.jpg)
+![projecto2](/media/goteo-matavenero_12_christina-796x1024.jpg)
 
 {% image 
 {"img":{
