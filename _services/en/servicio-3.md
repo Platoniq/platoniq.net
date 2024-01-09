@@ -1,7 +1,7 @@
 ---
 slug: serv3
-title: Service 3
-description: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit.
-  Proin elit mauris, condimentum quis aliquet ac, efficitur nec mauris. Quisque
-  eros ex, laoreet sed lobortis nec, interdum a augue.
+title: White Paper (Participatory Diagnosis)
+description: Promote inclusive and accessible community participation, with an
+  historical overview, ethical framework, analysis of key issues and good
+  practices, case studies and recommendations.
 ---
