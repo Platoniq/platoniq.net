@@ -1,18 +1,29 @@
 ---
 layout: offer
 call_to_action: cta-contact-offer
-slug: offer2
-title: Oferta de prueba 2
-subtitle: Esta es la oferta de prueba 2
+slug: Desarrollador_Ruby_on_Rails
+title: "Desarrollador Ruby on Rails "
+subtitle: "Freelance "
 pdf: /media/offers/benefits-2023-.3.pdf
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia nunc laoreet velit tincidunt, vel venenatis nibh lacinia. In sapien diam, consectetur sit amet nunc quis, elementum aliquet mi. Nulla vitae auctor ante. Morbi dolor velit, commodo vel posuere in, laoreet vitae risus. Nullam elementum molestie leo, at ultrices est viverra ac. Mauris at tellus dictum, pharetra leo vitae, luctus nunc. Donec mollis pharetra nunc in luctus. Etiam congue ac neque et facilisis. Ut et faucibus elit. Aliquam erat volutpat.
 
-Pellentesque eget erat eget metus luctus commodo eget eu eros. Nullam vitae nibh ligula. Aenean et magna non nisi tincidunt interdum sed vitae mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In aliquet elementum risus, aliquet feugiat urna pharetra a. Mauris maximus eros eros, non finibus libero sodales eget. Integer sit amet velit suscipit, dictum enim vel, venenatis augue. Sed vel auctor urna, sed vulputate lectus. Nunc semper sapien id metus pretium maximus. Morbi et elit feugiat urna mattis pretium. Fusce non diam elit. Suspendisse ac commodo lacus. Vivamus commodo interdum neque, et dapibus ipsum posuere ut.
+
+Buscamos a desarrolladores de Ruby on Rails senior freelance para que puedan colaborar con Fundación Platoniq trabajando en proyectos significativos de gran impacto relacionados con el compromiso cívico, las tecnologías abiertas, los datos abiertos, la participación y la transparencia. Colaborarán con nuestro Responsable de Producto y el Coordinador de nuestra oficina de Innovación Democrática y otros programadores. 
+
+# The job
+
+Colaborar en diversos proyectos sobre plataformas de software libre con las que trabajamos (https://github.com/platoniq), en especial el framework de participación ciudadana Decidim, basado en Ruby on Rails. Los proyectos pueden estar relacionados con: 
+
+1. Soporte a clientes nacionales e internacionales en instalaciones existentes, mantenimiento y actualizaciones de versiones así como pequeñas personalizaciones.
+2. Desarrollo de módulos externos para añadir al ecosistema Decidim o mejora de los existentes.
+   Posibles modificaciones del código fuente de Decidim para añadir funcionalidades propuestas por Platoniq u otras correcciones.
+3. Asistencia y colaboración en los procesos de contenerización, integración continua y despliegue de la plataforma en producción usando distintas técnicas (Docker, Capistrano, AWS, etc.)
+
+
 
 {% documents 
 { "title": "", 
-    "items": [ 
+    "items": \[ 
         { "file": "/media/documents/document_test.pdf", 
           "title": "Descargar Oferta (PDF)"}
       ] 
