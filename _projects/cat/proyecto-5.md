@@ -1,7 +1,7 @@
 ---
 layout: project
 slug: pro5
-state: closed
+state: open
 title: projecte 5
 subtitle: s﻿ubtitulo
 banner_image:

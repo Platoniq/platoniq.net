@@ -1,9 +1,9 @@
 ---
 layout: project
 slug: pro5
-state: closed
-title: proyecto 5
-subtitle: s﻿ubtitulo
+state: open
+title: "Diálogos Migrantes "
+subtitle: Hacia una constitución Migrante
 banner_image:
   path: /media/projects/photo-1452745872182-022042dead8f.jpg
   alt: proyecto 5
