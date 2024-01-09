@@ -1,5 +1,5 @@
 ---
-slug: emo
+slug: sgn
 title: Susana Garcia Noguero
 type: colaborator
 image:
