@@ -2,7 +2,7 @@
 layout: project
 slug: pro3
 state: open
-title: project 3
+title: "School for Creativity & Democracy "
 subtitle: s﻿ubtitulo
 banner_image:
   path: /media/projects/photo-1673390569744-cbc65586f4de.jpg
