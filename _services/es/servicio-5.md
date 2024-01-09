@@ -1,7 +1,13 @@
 ---
 slug: serv5
-title: Servicio 5
-description: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit.
-  Proin elit mauris, condimentum quis aliquet ac, efficitur nec mauris. Quisque
-  eros ex, laoreet sed lobortis nec, interdum a augue.
+title: Ágoras Democráticas
+description: >-
+  Diseño de Procesos Participativos Híbridos. 
+
+
+  * Crear espacios auto-organizados de dialogo o deliberación sobre una temática en concreto (elegida por la organizadora del Ágora), para elaborar propuestas conjuntas y concretas.
+
+  * Disponer de un espacio digital donde se puedan recoger y priorizar las propuestas realizadas en las diferentes Ágoras.
+
+  * Crear un programa electoral (partidos políticos), unas líneas estratégicas (organizaciones) o un conjunto de propuestas políticas resultado del proceso participativo.
 ---
