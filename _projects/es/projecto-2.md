@@ -2,7 +2,7 @@
 layout: project
 slug: pro2
 state: closed
-title: projecto 2
+title: Prueba OLI
 subtitle: s﻿ubtitulo
 banner_image:
   path: /media/projects/goteo-matavenero_15_nico-796x1024.jpg
