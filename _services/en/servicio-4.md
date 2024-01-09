@@ -1,7 +1,6 @@
 ---
 slug: serv4
-title: Service 4
-description: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit.
-  Proin elit mauris, condimentum quis aliquet ac, efficitur nec mauris. Quisque
-  eros ex, laoreet sed lobortis nec, interdum a augue.
+title: Youth against disinformation
+description: Training programme to help young people fight misinformation
+  through teachers and librarians
 ---

@@ -1,7 +1,6 @@
 ---
 slug: serv4
-title: Servicio 4
-description: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit.
-  Proin elit mauris, condimentum quis aliquet ac, efficitur nec mauris. Quisque
-  eros ex, laoreet sed lobortis nec, interdum a augue.
+title: Jóvenes contra la desinformación
+description: Programa formativo para ayudar a jóvenes a luchar contra la
+  desinformación a través de docentes y bibliotecarias
 ---
