@@ -37,7 +37,7 @@ collaborators:
 
 No importa de donde procedas, ni siquiera si eres de aquí. Si no respondes al estereotipo blanco, europeo, bien formado y con capacidad adquisitiva tienes un problema del que no vas a poder escapar: la desigualdad de trato y la discriminación por motivos raciales.
 
-Partiendo de este contexto, desde Platoniq, hemos iniciado un proyecto llamado Diálogos Migrantes, que consiste en la búsqueda creativa de nuevas narrativas que puedan compensar la polarización que sufren las personas migrantes en nuestra sociedad con el eje puesto en cómo la cultura cooperativa y la Economía Social y Solidaria pueden ser herramientas transformadoras para la cohesión social. A través de tres encuentros, se identificó el tipo de impacto que tienen los procesos de polarización y desinformación en las comunidades migrantes desde una perspectiva personal, emocional, económica, social y política y, para hacerlo, tres colectivos de Barcelona, Furia Mexicana, Puerta de África y Singa Barcelona, estuvieron trabajando en el efecto que tienen los nuevos discursos a la hora de sensibilizar sobre las problemáticas migrantes desde el punto de vista de las comunidades afectadas.
+Partiendo de este contexto, desde Platoniq, hemos iniciado un proyecto llamado Diálogos Migrantes, que consiste en la búsqueda creativa de nuevas narrativas que puedan compensar la polarización que sufren las personas migrantes en nuestra sociedad con el eje puesto en cómo la cultura cooperativa y la Economía Social y Solidaria pueden ser herramientas transformadoras para la cohesión social. 
 
 ### Impacto Potencial:
 
@@ -49,20 +49,20 @@ Partiendo de este contexto, desde Platoniq, hemos iniciado un proyecto llamado D
 
 En enim elit, fermentum quis congue quis, pellentesque non nibh.
 
-### In enim elit, fermentum quis congue quis.
+### En busca de nuevas narrativas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut consectetur feugiat turpis, eget aliquam mi commodo nec.
+A través de tres encuentros, se identificó el tipo de impacto que tienen los procesos de polarización y desinformación en las comunidades migrantes desde una perspectiva personal, emocional, económica, social y política y, para hacerlo, tres colectivos de Barcelona, Furia Mexicana, Puerta de África y Singa Barcelona, estuvieron trabajando en el efecto que tienen los nuevos discursos a la hora de sensibilizar sobre las problemáticas migrantes desde el punto de vista de las comunidades afectadas.
 
-{% quote %}Esta es la quote{% endquote %}
+{% quote %}De nacionalidad "migrante"{% endquote %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut consectetur feugiat turpis, eget aliquam mi commodo nec.
+Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas por La Fera: Luna Andrade, Patricia Vizcaíno, Pedro García Mejía y Shalana Rodríguez, se exploraron nuevas formas narrativas por habla de los conflictos migratorios, la economía migrante, el papel de Europa o las ventajas del cooperativismo social y solidario. Cada una de ellas, aportó una pieza audiovisual disparadora de debate, a partir de las cuales se debía desempeñar una respuesta escenificada. El resultado es una serie de piezas de naturaleza diversa que buscan conmover a la ciudadanía y sensibilizarla sobre estas cuestiones
 
 Ejemplo de vídeo
 
-{% video { "title": "I love cats", "url": "https://www.youtube.com/embed/VRrWvYOhMkE?si=xsDfrT8d-0UjmRSt" } %}
+{% video { "title": "The Art of Hypocrisy", "url": "https://www.youtube.com/watch?v=vQBkerf2JIw" } %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin ligula.
+Los Diálogos Migrantes son un primer paso en la elaboración de una Constitución Migrante que pretende dar voz y entender cuál es el modelo de sociedad de un colectivo totalmente heterogéneo atravesado por las contradicciones de un mundo complejo, que hay que navegar si queremos construir una sociedad más justa e igualitaria.
 
-Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut consectetur feugiat turpis, eget aliquam mi commodo nec.
+No es suficiente con saber que un problema esta pasando, ni siquiera tratar de cambiar las políticas que hacen que eso ocurra, hace falta cambiar la mentalidad y la sensibilidad de todos y cada uno de los que comparten el espacio público en una sociedad como la española para que dicho espacio pueda ser común, compartido y vivido con naturalidad por cualquiera.
 
 <!--EndFragment-->
