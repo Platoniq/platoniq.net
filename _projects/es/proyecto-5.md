@@ -8,15 +8,11 @@ banner_image:
   path: /media/projects/photo-1452745872182-022042dead8f.jpg
   alt: proyecto 5
 date: 2023-10-20T07:23:26.160Z
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
-  condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse
-  viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a
-  sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus
-  sapien sed volutpat. Etiam nec sollicitudin ligula. Etiam rutrum blandit
-  porttitor. Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh
-  vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum
-  bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut
-  consectetur feugiat turpis, eget aliquam mi commodo nec.
+description: Los Diálogos Migrantes son un primer paso en la elaboración de una
+  Constitución Migrante que pretende dar voz y entender cuál es el modelo de
+  sociedad de un colectivo totalmente heterogéneo atravesado por las
+  contradicciones de un mundo complejo, que hay que navegar si queremos
+  construir una sociedad más justa e igualitaria.
 budget: "20.000"
 private_percentage: "50"
 public_percentage: "30"
