@@ -17,9 +17,9 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
   vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum
   bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut
   consectetur feugiat turpis, eget aliquam mi commodo nec.
-budget: "30.000"
-private_percentage: "10"
-public_percentage: "50"
+budget: "315.000"
+private_percentage: "60"
+public_percentage: "0"
 looking_finance_percentage: "40"
 services:
   - serv6
