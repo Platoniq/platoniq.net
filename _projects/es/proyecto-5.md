@@ -2,7 +2,7 @@
 layout: project
 slug: pro5
 state: open
-title: Diálogos Migrantes - prueba Palazzi
+title: Dialogos Migrantes - prueba Palazzi
 subtitle: Hacia una constitución Migrante
 banner_image:
   path: /media/projects/photo-1452745872182-022042dead8f.jpg
