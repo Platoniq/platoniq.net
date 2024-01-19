@@ -28,7 +28,7 @@ Pellentesque eget erat eget metus luctus commodo eget eu eros. Nullam vitae nibh
 
 {% documents 
 { "title": "", 
-    "items": \[ 
+    "items": [ 
         { "file": "/media/documents/document_test.pdf", 
           "title": "Descargar Oferta (PDF)"}
       ] 

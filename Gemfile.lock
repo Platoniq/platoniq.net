@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: 3be691909f4f98ae24e59ea30aa466caa5fc1318
+  revision: 3973f4a3ac7054a40d949f2dab359ec7c1c5194d
   branch: develop
   specs:
     jekyll-theme-platoniq.net (0.0.1)
@@ -24,10 +24,10 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.5)
+    addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
-    concurrent-ruby (1.2.2)
+    concurrent-ruby (1.2.3)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -79,6 +79,8 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    nokogiri (1.15.5-aarch64-linux)
+      racc (~> 1.4)
     nokogiri (1.15.5-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -99,6 +101,7 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
+  aarch64-linux
   x86_64-linux
 
 DEPENDENCIES
@@ -115,4 +118,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.4.19
+   2.4.22

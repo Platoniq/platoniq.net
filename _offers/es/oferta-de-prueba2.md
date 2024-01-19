@@ -23,7 +23,7 @@ Colaborar en diversos proyectos sobre plataformas de software libre con las que 
 
 {% documents 
 { "title": "", 
-    "items": \[ 
+    "items": [ 
         { "file": "/media/documents/document_test.pdf", 
           "title": "Descargar Oferta (PDF)"}
       ] 
