@@ -39,11 +39,9 @@ Partiendo de este contexto, desde Platoniq, hemos iniciado un proyecto llamado D
 
 ### Aquí irian las cajitas verdes (86%, 523k, 24)
 
-* Elemento de lista 1
-* Elemento de lista 2
-* Elemento de lista 3
-
-En enim elit, fermentum quis congue quis, pellentesque non nibh.
+* Participación 86%
+* Alcance 523k
+* Acciones 24
 
 ### En busca de nuevas narrativas
 
