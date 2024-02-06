@@ -3,7 +3,7 @@ layout: project
 slug: pro3
 state: open
 title: "School for Creativity & Democracy "
-subtitle: s﻿ubtittle
+subtitle: s﻿ubtitte
 banner_image:
   path: /media/projects/conchita-wurst-1870711340.jpg
   alt: proyecto3
