@@ -5,8 +5,8 @@ state: open
 title: Dialogos Migrantes - prueba Palazzi
 subtitle: Hacia una constitución Migrante
 banner_image:
-  path: /media/projects/photo-1452745872182-022042dead8f.jpg
-  alt: proyecto 5
+  path: /media/projects/top_manta_fotos_pau_coll_ruido_photo_17.webp
+  alt: Foto, Pau Coll
 date: 2023-10-20T07:23:26.160Z
 description: Los Diálogos Migrantes son un primer paso en la elaboración de una
   Constitución Migrante que pretende dar voz y entender cuál es el modelo de
@@ -55,7 +55,7 @@ Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas 
 
 Ejemplo de vídeo
 
-{% video { "title": "The Art of Hypocrisy", "url": "https://www.youtube.com/watch?v=vQBkerf2JIw" } %}
+{% video { "title": "The Art of Hypocrisy", "url": "www.youtube.com/embed/vQBkerf2JIw?si=94NA-VAjLzER9MNx&amp" } %}
 
 Los Diálogos Migrantes son un primer paso en la elaboración de una Constitución Migrante que pretende dar voz y entender cuál es el modelo de sociedad de un colectivo totalmente heterogéneo atravesado por las contradicciones de un mundo complejo, que hay que navegar si queremos construir una sociedad más justa e igualitaria.
 
