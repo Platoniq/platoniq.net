@@ -5,7 +5,7 @@ state: open
 title: projecte 3
 subtitle: s﻿ubtitulo
 banner_image:
-  path: /media/projects/photo-1673390569744-cbc65586f4de.jpg
+  path: /media/projects/conchita-wurst-1870711340.jpg
   alt: proyecto3
 date: 2023-10-20T07:20:32.854Z
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
