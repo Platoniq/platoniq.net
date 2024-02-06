@@ -8,15 +8,8 @@ banner_image:
   path: /media/projects/photo-1673390569744-cbc65586f4de.jpg
   alt: proyecto3
 date: 2023-10-20T07:20:32.854Z
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
-  condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse
-  viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a
-  sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus
-  sapien sed volutpat. Etiam nec sollicitudin ligula. Etiam rutrum blandit
-  porttitor. Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh
-  vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum
-  bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut
-  consectetur feugiat turpis, eget aliquam mi commodo nec.
+description: This should be the English translation of the project description
+  for the School of Creativity & Democracy
 budget: "315.000"
 private_percentage: "60"
 public_percentage: "0"
