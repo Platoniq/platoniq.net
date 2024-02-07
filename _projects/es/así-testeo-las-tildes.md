@@ -27,3 +27,11 @@ collaborators:
 *No siempre se puede dedicar el tiempo suficiente*
 
 > Yo para ser feliz quiero un camión ¿o era ratón?
+
+##### Artículo 1
+
+1. España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.
+
+2. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.
+
+3. La forma política del Estado español es la Monarquía parlamentaria.
