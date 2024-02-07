@@ -2,8 +2,11 @@
 layout: project
 slug: test-tilde
 state: open
-title: Así testeo las tildes
-subtitle: t﻿est
+title: Así testeo las tildes & los calçots
+subtitle: |-
+  #﻿# Testar es clave
+  *﻿*No siempre se puede dedicar el tiempo suficiente**
+  >﻿Esto también se tendrá en cuenta
 banner_image:
   path: /media/projects/pulp-fiction-1.jpg
   alt: " Butch's clock"
