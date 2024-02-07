@@ -26,4 +26,4 @@ collaborators:
 
 *No siempre se puede dedicar el tiempo suficiente*
 
-> Esto también se tendrá en cuenta
+> Yo para ser feliz quiero un camión ¿o era ratón?
