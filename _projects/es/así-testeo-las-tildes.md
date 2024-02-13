@@ -3,12 +3,15 @@ layout: project
 slug: test-tilde
 state: open
 title: Así testeo las tildes & los calçots
-subtitle: C﻿hoice & erro
+subtitle: C﻿hoice & error
 banner_image:
   path: /media/projects/pulp-fiction-1.jpg
   alt: " Butch's clock"
 date: 2024-02-06T14:50:41.820Z
-description: "## Descripcio´n"
+description: |-
+  ## Descripción
+
+  Yo para ser feliz quiero un camión ...
 budget: "1000000"
 private_percentage: "15"
 public_percentage: "80"
