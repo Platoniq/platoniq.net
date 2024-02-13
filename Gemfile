@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.1"
+gem "jekyll", "~> 4.3.3"
 
 # gem "jekyll-theme-platoniq.net", path: "../jekyll-theme-platoniq.net" # probar a eliminar ../
 # gem "jekyll-theme-platoniq.net", git: "https://github.com/Platoniq/jekyll-theme-platoniq.net.git"
