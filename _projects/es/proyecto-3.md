@@ -43,4 +43,4 @@ La creación de la Escuela de la Creatividad y la Democracia se dirige principal
 
 test image
 
-![](/media/pic_dm.png)
+![](/media/pic_dm.png "Aquí va el título de la imagen")
