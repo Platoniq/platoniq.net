@@ -36,10 +36,10 @@ La creación de la Escuela de la Creatividad y la Democracia se dirige principal
 
 # Objetivos del proyecto
 
-* ##### **mejorar la participación ciudadana** y el compromiso político en la toma de decisiones y políticas públicas
-* ##### **preparar a los jóvenes para la renovación democrática** mediante prácticas alternativas y estrategias culturales.
+* **Mejorar la participación ciudadana** y el compromiso político en la toma de decisiones y políticas públicas
+* **Preparar a los jóvenes para la renovación democrática** mediante prácticas alternativas y estrategias culturales.
 
-## Actividades
+# Actividades
 
 test image
 
