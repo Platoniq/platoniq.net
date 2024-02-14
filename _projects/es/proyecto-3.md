@@ -39,11 +39,11 @@ La creación de la Escuela de la Creatividad y la Democracia se dirige principal
 * **Mejorar la participación ciudadana** y el compromiso político en la toma de decisiones y políticas públicas
 * **Preparar a los jóvenes para la renovación democrática** mediante prácticas alternativas y estrategias culturales.
 
-# Actividades
 
-test image
 
 ![](/media/pic_dm.png "Aquí va el título de la imagen")
+
+# Actividades
 
 dfjdslkfj
 
