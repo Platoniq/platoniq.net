@@ -41,15 +41,6 @@ La creación de la Escuela de la Creatividad y la Democracia se dirige principal
 
 # Test next headline
 
-{% image 
-{"img":{
-    "path":"/media/projects/photo-1620381891112-0418655927ed.jpg", 
-    "alt":"projecto2" 
-  },
-  "decorator":{
-    "path":"/media/site-symbols/img-line.png", 
-    "alt":"project-decorator"
-  }} 
-%}
-
 test image
+
+![](/media/pic_dm.png)
