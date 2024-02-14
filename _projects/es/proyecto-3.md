@@ -30,15 +30,26 @@ members:
 collaborators:
   - col1
 ---
-<!--StartFragment-->
-
-El proyecto busca regenerar la democracia en España y construir una cultura política basada en la "legitimidad afectiva". Su enfoque destaca la importancia de la creatividad y la participación ciudadana en el diseño de políticas públicas. Para ello también se revisará el pasado democrático, aprendiendo de innovaciones y desafíos, y se colaborará con entidades para impulsar el seguimiento y la implementación de recomendaciones de Asambleas Ciudadanas y otros procesos participativos.
+La Escuela de Creatividad y Democracia busca regenerar la democracia en España y construir una cultura política basada en la "legitimidad afectiva". Su enfoque destaca la importancia de la creatividad y la participación ciudadana en el diseño de políticas públicas. Para ello también se revisa el pasado democrático, aprendiendo de innovaciones y desafíos, y se colabora con entidades diversas para impulsar el seguimiento y la implementación de recomendaciones de Asambleas Ciudadanas y otros procesos participativos.
 
 La creación de la Escuela de la Creatividad y la Democracia se dirige principalmente a jóvenes de 15 a 25 años. A través de un programa "learning by doing," se busca formar una cultura de participación continua. Por eso también se prevé escalar la escuela desde lo local hasta lo nacional, combinando formatos online y presenciales.
 
-Los dos objetivos globales del proyecto son:
+### Objetivos del proyecto
 
-1. mejorar la participación ciudadana y el compromiso político en la toma de decisiones y políticas públicas
-2. preparar a los jóvenes para la renovación democrática mediante prácticas alternativas y estrategias culturales.
+* mejorar la participación ciudadana y el compromiso político en la toma de decisiones y políticas públicas
+* preparar a los jóvenes para la renovación democrática mediante prácticas alternativas y estrategias culturales.
 
-<!--EndFragment-->
+# Test next headline
+
+{% image 
+{"img":{
+    "path":"/media/projects/photo-1620381891112-0418655927ed.jpg", 
+    "alt":"projecto2" 
+  },
+  "decorator":{
+    "path":"/media/site-symbols/img-line.png", 
+    "alt":"project-decorator"
+  }} 
+%}
+
+test image
