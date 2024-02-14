@@ -24,6 +24,7 @@ members:
   - lrb
   - lrm
 collaborators:
-  - col1
+  - naz2
+  - naz
 ---
 This is where the English project descripcion for ECD should go.

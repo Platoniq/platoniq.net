@@ -28,7 +28,8 @@ members:
   - lrb
   - lrm
 collaborators:
-  - col1
+  - naz2
+  - naz
 ---
 La Escuela de Creatividad y Democracia busca regenerar la democracia en España y construir una cultura política basada en la "legitimidad afectiva". Su enfoque destaca la importancia de la creatividad y la participación ciudadana en el diseño de políticas públicas. Para ello también se revisa el pasado democrático, aprendiendo de innovaciones y desafíos, y se colabora con entidades diversas para impulsar el seguimiento y la implementación de recomendaciones de Asambleas Ciudadanas y otros procesos participativos.
 
