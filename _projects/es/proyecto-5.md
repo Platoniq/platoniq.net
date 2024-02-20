@@ -53,7 +53,7 @@ Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas 
 
 Ejemplo de vídeo
 
-{% video { "title": "The Art of Hypocrisy", "url": "www.youtube.com/embed/vQBkerf2JIw?si=94NA-VAjLzER9MNx&amp" } %}
+{% video { "title": "The Art of Hypocrisy", "url": "https://www.youtube.com/embed/VRrWvYOhMkE?si=xsDfrT8d-0UjmRSt" } %}
 
 Los Diálogos Migrantes son un primer paso en la elaboración de una Constitución Migrante que pretende dar voz y entender cuál es el modelo de sociedad de un colectivo totalmente heterogéneo atravesado por las contradicciones de un mundo complejo, que hay que navegar si queremos construir una sociedad más justa e igualitaria.
 
