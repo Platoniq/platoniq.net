@@ -35,7 +35,7 @@ La Escuela de Creatividad y Democracia busca regenerar la democracia en España 
 
 La creación de la Escuela de la Creatividad y la Democracia se dirige principalmente a jóvenes de 15 a 25 años. A través de un programa "learning by doing," se busca formar una cultura de participación continua. Por eso también se prevé escalar la escuela desde lo local hasta lo nacional, combinando formatos online y presenciales.
 
-# Objetivos
+## Objetivos
 
 * **Mejorar la participación ciudadana** y el compromiso político en la toma de decisiones y políticas públicas
 * **Preparar a los jóvenes para la renovación democrática** mediante prácticas alternativas y estrategias culturales.
@@ -73,8 +73,6 @@ descripción de la imagen
 * Los diálogos y deliberaciones son más ricas y los conflictos y puntos de vista contrarios se gestionan mejor sin anular la diversidad.
 * Las lecciones aprendidas del proyecto llegan al público en general.
 * Los resultados y aprendizajes han sido compartidos en medios digitales propios y de colaboradores. Tienen influencia en otras organizaciones.
-
-
 
 # Destacamos
 
