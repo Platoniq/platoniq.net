@@ -40,11 +40,15 @@ La creación de la Escuela de la Creatividad y la Democracia se dirige principal
 * **Mejorar la participación ciudadana** y el compromiso político en la toma de decisiones y políticas públicas
 * **Preparar a los jóvenes para la renovación democrática** mediante prácticas alternativas y estrategias culturales.
 
+## Impacto potencial
+
+Aquí irán las cajitas verdes
+
 ![](/media/pic_dm.png "Aquí va el título de la imagen")
 
 descripción de la imagen
 
-# Actividades
+## Actividades
 
 * Consolidación y desarrollo de nuevas alianzas con organizaciones cívicas para el seguimiento de los resultados de las Asambleas de Ciudadanos.
 * Consolidación de alianzas con socios investigadores y profesionales de la deliberación. Espacio de conocimiento que mejora la incidencia y el diseño de la innovación democrática.
@@ -56,7 +60,7 @@ descripción de la imagen
 * Diseño y estrategia de comunicación de lanzamiento de la Escuela para la Creatividad y la Democracia.
 * Digitalización y difusión de aprendizajes y procesos participativos dinamizados por la Escuela.
 
-# Resultados esperados
+## Resultados esperados
 
 * Una red de alianzas está consolidada, reforzando el ecosistema de actores que trabajan en la regeneración democrática.
 * Se ha hecho seguimiento y vigilancia ciudadana de la aplicación y resultado de las Asambleas Ciudadanas.
@@ -74,6 +78,6 @@ descripción de la imagen
 * Las lecciones aprendidas del proyecto llegan al público en general.
 * Los resultados y aprendizajes han sido compartidos en medios digitales propios y de colaboradores. Tienen influencia en otras organizaciones.
 
-# Destacamos
+## Destacamos
 
 Wilder Journal...
