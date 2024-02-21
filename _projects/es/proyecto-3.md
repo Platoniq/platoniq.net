@@ -33,19 +33,15 @@ collaborators:
 ---
 ¿Qué tal si le damos un boost a la democracia en España? ¡Te presentamos la Escuela de Creatividad y Democracia!
 
-Su objetivo es nada menos que construir una cultura política que llegue al corazón, basada en una 'legitimidad afectiva'. Se centra en la creatividad y la participación ciudadana como piezas clave en el diseño de políticas públicas. Además, ¡está especialmente dirigida a jóvenes de 15 a 25 años!
-
-Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa 'learning by doing' formamos una nueva generación comprometida con la participación continua.
-
-¿Te animas a conocer más? ¡Contáctanos para saber más sobre este proyecto transformador! Indícanos, por favor, si eres profe, prensa, polític@ etc. y te preparamos el material que necesites.
-
-## Impacto potencial
+Su objetivo es nada menos que construir una cultura política que llegue al corazón, basada en una 'legitimidad afectiva'. Se centra en la creatividad y la participación ciudadana como piezas clave en el diseño de políticas públicas. Además, ¡está especialmente dirigida a jóvenes de 15 a 25 años!Impacto potencial
 
 Aquí irán las cajitas verdes
 
 ![](/media/pic_dm.png "Aquí va el título de la imagen")
 
 descripción de la imagen
+
+Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa 'learning by doing' formamos una nueva generación comprometida con la participación continua.
 
 ## Actividades
 
@@ -77,6 +73,6 @@ descripción de la imagen
 * Las lecciones aprendidas del proyecto llegan al público en general.
 * Los resultados y aprendizajes han sido compartidos en medios digitales propios y de colaboradores. Tienen influencia en otras organizaciones.
 
-## Destacamos
+## LLamada a la acción:
 
-Wilder Journal...
+¿Te animas a conocer más? ¡Contáctanos para saber más sobre este proyecto transformador! Indícanos, por favor, si eres profe, prensa, polític@ etc. y te preparamos el material que necesites.
