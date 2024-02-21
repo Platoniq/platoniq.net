@@ -33,7 +33,7 @@ collaborators:
 
 No importa de donde procedas, ni siquiera si eres de aquí. Si no respondes al estereotipo blanco, europeo, bien formado y con capacidad adquisitiva tienes un problema del que no vas a poder escapar: la desigualdad de trato y la discriminación por motivos raciales.
 
-Partiendo de este contexto, desde Platoniq, hemos iniciado un proyecto llamado Diálogos Migrantes, que consiste en la búsqueda creativa de nuevas narrativas que puedan compensar la polarización que sufren las personas migrantes en nuestra sociedad con el eje puesto en cómo la cultura cooperativa y la Economía Social y Solidaria pueden ser herramientas transformadoras para la cohesión social. 
+Partiendo de este contexto, desde Platoniq, hemos iniciado un proyecto llamado Diálogos Migrantes, que consiste en la búsqueda creativa de nuevas narrativas que puedan compensar la polarización que sufren las personas migrantes en nuestra sociedad con el eje puesto en la cultura cooperativa y la Economía Social y Solidaria cómo herramientas transformadoras para la cohesión social. 
 
 ### Impacto Potencial:
 
