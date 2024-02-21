@@ -37,12 +37,7 @@ Su objetivo es nada menos que construir una cultura política que llegue al cora
 
 Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa *'learning by doing'* formamos una nueva generación comprometida con la participación continua.
 
-¿Te animas a conocer más? ¡Contáctanos para saber más sobre este proyecto transformador! Indícanos, por favor, si eres profe, prensa, político etc. y te preparamos el material que necesitas.
-
-## Objetivos
-
-* **Mejorar la participación ciudadana** y el compromiso político en la toma de decisiones y políticas públicas
-* **Preparar a los jóvenes para la renovación democrática** mediante prácticas alternativas y estrategias culturales.
+¿Te animas a conocer más? ¡Contáctanos para saber más sobre este proyecto transformador! Indícanos, por favor, si eres profe, prensa, polític@ etc. y te preparamos el material que necesites.
 
 ## Impacto potencial
 
