@@ -35,7 +35,9 @@ collaborators:
 
 Su objetivo es nada menos que construir una cultura política que llegue al corazón, basada en una 'legitimidad afectiva'. Se centra en la creatividad y la participación ciudadana como piezas clave en el diseño de políticas públicas. Además, ¡está especialmente dirigida a jóvenes de 15 a 25 años!Impacto potencial
 
-Aquí irán las cajitas verdes
+## Impacto potencial
+
+Aquí irán las cajitas verdes (faltan bullet points)
 
 ![](/media/pic_dm.png "Aquí va el título de la imagen")
 
@@ -43,7 +45,7 @@ descripción de la imagen
 
 Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa 'learning by doing' formamos una nueva generación comprometida con la participación continua.
 
-## Actividades
+## Actividades (reformular)
 
 * Consolidación y desarrollo de nuevas alianzas con organizaciones cívicas para el seguimiento de los resultados de las Asambleas de Ciudadanos.
 * Consolidación de alianzas con socios investigadores y profesionales de la deliberación. Espacio de conocimiento que mejora la incidencia y el diseño de la innovación democrática.
@@ -55,7 +57,7 @@ Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Apre
 * Diseño y estrategia de comunicación de lanzamiento de la Escuela para la Creatividad y la Democracia.
 * Digitalización y difusión de aprendizajes y procesos participativos dinamizados por la Escuela.
 
-## Resultados esperados
+## Resultados esperados (reformular)
 
 * Una red de alianzas está consolidada, reforzando el ecosistema de actores que trabajan en la regeneración democrática.
 * Se ha hecho seguimiento y vigilancia ciudadana de la aplicación y resultado de las Asambleas Ciudadanas.
