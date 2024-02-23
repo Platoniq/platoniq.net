@@ -33,7 +33,7 @@ collaborators:
 ---
 ¿Qué tal si le damos un boost a la democracia en España? ¡Te presentamos la Escuela de Creatividad y Democracia!
 
-Su objetivo es nada menos que construir una cultura política que llegue al corazón, basada en una 'legitimidad afectiva'. Se centra en la creatividad y la participación ciudadana como piezas clave en el diseño de políticas públicas. Además, ¡está especialmente dirigida a jóvenes de 15 a 25 años!Impacto potencial
+Nuestro objetivo es nada menos que construir una cultura política que llegue al corazón, basada en una 'legitimidad afectiva'. Se centra en la creatividad y la participación ciudadana como piezas clave en el diseño de políticas públicas. Además, ¡está especialmente dirigida a jóvenes de 15 a 25 años!I
 
 ## Impacto potencial
 
