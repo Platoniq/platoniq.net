@@ -2,8 +2,9 @@
 layout: project
 slug: pro5
 state: open
-title: Dialogos Migrantes - prueba Palazzi
-subtitle: Hacia una constitución Migrante
+title: DIálogos Migrantes
+subtitle: Nuevas narrativas contra la desinformación y la polarización respecto
+  a las personas racializadas.
 banner_image:
   path: /media/projects/captura-de-pantalla-2023-10-10-a-las-8.51.34.jpg
   alt: Foto, Pau Coll
@@ -33,7 +34,7 @@ collaborators:
 
 No importa de donde procedas, ni siquiera si eres de aquí. Si no respondes al estereotipo blanco, europeo, bien formado y con capacidad adquisitiva tienes un problema del que no vas a poder escapar: la desigualdad de trato y la discriminación por motivos raciales.
 
-Partiendo de este contexto, desde Platoniq, hemos iniciado un proyecto llamado Diálogos Migrantes, que consiste en la búsqueda creativa de nuevas narrativas que puedan compensar la polarización que sufren las personas migrantes en nuestra sociedad con el eje puesto en la cultura cooperativa y la Economía Social y Solidaria cómo herramientas transformadoras para la cohesión social. 
+Partiendo de esta premisa, desde la Fundación Platoniq hemos iniciado un proyecto que busca elaborar una Constitución Migrante, a través de la búsqueda creativa de nuevas narrativas que puedan compensar la polarización que sufren las personas racializadas en España. 
 
 ### Impacto Potencial:
 
