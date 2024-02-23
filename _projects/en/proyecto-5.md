@@ -1,6 +1,6 @@
 ---
 layout: project
-slug: pro5
+slug: dialogos-migrantes
 state: open
 title: "Migrant Dialogues "
 subtitle: Towards a Migrant Constitution
@@ -28,8 +28,7 @@ categories:
   - coop_econ
   - citizen_empowerment
 members:
-  - lrm
-  - jpp
+  - cp
 collaborators:
   - la-fera
 ---

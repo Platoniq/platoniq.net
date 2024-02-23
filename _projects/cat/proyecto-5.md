@@ -1,6 +1,6 @@
 ---
 layout: project
-slug: pro5
+slug: dialogos-migrantes
 state: open
 title: projecte 5
 subtitle: s﻿ubtitulo
@@ -28,8 +28,7 @@ categories:
   - coop_econ
   - citizen_empowerment
 members:
-  - lrm
-  - jpp
+  - cp
 collaborators:
   - la-fera
 ---

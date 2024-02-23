@@ -1,8 +1,8 @@
 ---
 layout: project
-slug: pro5
+slug: dialogos-migrantes
 state: open
-title: DIálogos Migrantes
+title: Diálogos Migrantes
 subtitle: Nuevas narrativas contra la desinformación y la polarización respecto
   a las personas racializadas.
 banner_image:
@@ -25,8 +25,7 @@ categories:
   - coop_econ
   - citizen_empowerment
 members:
-  - lrm
-  - jpp
+  - cp
 collaborators:
   - la-fera
 ---
