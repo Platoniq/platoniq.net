@@ -7,7 +7,7 @@ subtitle: Nuevas narrativas contra la desinformación y la polarización respect
   a las personas racializadas.
 banner_image:
   path: /media/projects/captura-de-pantalla-2023-10-10-a-las-8.51.34.jpg
-  alt: Foto, Pau Coll
+  alt: Fundación Platoniq, 2023
 date: 2023-10-20T07:23:26.160Z
 description: Los Diálogos Migrantes son un primer paso en la elaboración de una
   Constitución Migrante que pretende dar voz y entender cuál es el modelo de
@@ -28,7 +28,7 @@ members:
   - lrm
   - jpp
 collaborators:
-  - col1
+  - la-fera
 ---
 <!--StartFragment-->
 

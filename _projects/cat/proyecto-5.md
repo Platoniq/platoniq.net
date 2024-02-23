@@ -31,7 +31,7 @@ members:
   - lrm
   - jpp
 collaborators:
-  - col1
+  - la-fera
 ---
 <!--StartFragment-->
 
