@@ -5,7 +5,7 @@ state: open
 title: Dialogos Migrantes - prueba Palazzi
 subtitle: Hacia una constitución Migrante
 banner_image:
-  path: /media/projects/top_manta_fotos_pau_coll_ruido_photo_17.webp
+  path: /media/projects/captura-de-pantalla-2023-10-10-a-las-8.51.34.jpg
   alt: Foto, Pau Coll
 date: 2023-10-20T07:23:26.160Z
 description: Los Diálogos Migrantes son un primer paso en la elaboración de una
