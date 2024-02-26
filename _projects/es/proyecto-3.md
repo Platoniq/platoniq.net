@@ -44,7 +44,13 @@ Aquí irán las cajitas verdes (faltan bullet points)
 
 *Simposio Educación Expandida. Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND*
 
+## ¿Cómo lo hacemos?
+
 Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa 'learning by doing' formamos una nueva generación comprometida con la participación continua.
+
+> Necesitamos análisis, diálogo, interacción e improvisación para convertir la liberación emocional en una intervención práctica.
+
+\--Katy Rubin, experta en Teatro Legislativo
 
 ## Actividades (reformular)
 
