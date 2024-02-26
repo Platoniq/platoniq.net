@@ -40,9 +40,9 @@ Nuestro objetivo es nada menos que construir una cultura política que llegue al
 
 Aquí irán las cajitas verdes (faltan bullet points)
 
-![](/media/3360002157_4bf40f461c_c.jpg "Aquí va el título de la imagen")
+![](/media/3360002157_4bf40f461c_c.jpg "Simposio Educación Expandida Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND")
 
-descripción de la imagen
+*Simposio Educación Expandida. Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND*
 
 Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa 'learning by doing' formamos una nueva generación comprometida con la participación continua.
 
