@@ -5,7 +5,7 @@ state: open
 title: "Escuela Creatividad & Democracia "
 subtitle: s﻿ubtitulo
 banner_image:
-  path: /media/projects/conchita-wurst-1870711340.jpg
+  path: /media/projects/3368116853_0c1a7e9e63_c.jpg
   alt: proyecto3
 date: 2023-10-20T07:20:32.854Z
 description: La Escuela de la Creatividad y la Democracia pretende mejorar la
