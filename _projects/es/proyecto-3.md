@@ -39,7 +39,7 @@ Nuestro objetivo es nada menos que construir una cultura política que llegue al
 
 Aquí irán las cajitas verdes (faltan bullet points)
 
-![](/media/pic_dm.png "Aquí va el título de la imagen")
+![](/media/3360002157_4bf40f461c_c.jpg "Aquí va el título de la imagen")
 
 descripción de la imagen
 
