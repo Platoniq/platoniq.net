@@ -31,7 +31,7 @@ collaborators:
 ---
 <!--StartFragment-->
 
-No importa de donde procedas, ni siquiera si eres de aquí. Si no respondes al estereotipo blanco, europeo, bien formado y con capacidad adquisitiva tienes un problema del que no vas a poder escapar: la desigualdad de trato y la discriminación por motivos raciales.
+No importa de donde procedas, ni siquiera si eres de aquí. Si no respondes al estereotipo blanco, europeo, bien formado y con capacidad adquisitiva tienes un problema del que no vas a poder escapar: la desigualdad de [trato y la discriminación](https://app.asana.com/0/1206229921988761/1206229925746767) por motivos raciales.
 
 Partiendo de esta premisa, desde la **Fundación Platoniq** hemos iniciado un proyecto que busca elaborar una Constitución Migrante, a través de la búsqueda creativa de nuevas narrativas que puedan compensar la polarización que sufren las personas racializadas en España. 
 
