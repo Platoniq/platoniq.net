@@ -33,23 +33,21 @@ collaborators:
 
 No importa de donde procedas, ni siquiera si eres de aquí. Si no respondes al estereotipo blanco, europeo, bien formado y con capacidad adquisitiva tienes un problema del que no vas a poder escapar: la desigualdad de trato y la discriminación por motivos raciales.
 
-Partiendo de esta premisa, desde la Fundación Platoniq hemos iniciado un proyecto que busca elaborar una Constitución Migrante, a través de la búsqueda creativa de nuevas narrativas que puedan compensar la polarización que sufren las personas racializadas en España. 
+Partiendo de esta premisa, desde la **Fundación Platoniq** hemos iniciado un proyecto que busca elaborar una Constitución Migrante, a través de la búsqueda creativa de nuevas narrativas que puedan compensar la polarización que sufren las personas racializadas en España. 
 
 ### Impacto Potencial:
 
 Participación 86%     -     Alcance 523k     -     Acciones 24
 
-
-
 ![“Somos Migras”, de Luna Andrade](/media/captura-de-pantalla-2023-10-10-a-las-8.48.11.jpg "“Somos Migras”, de Luna Andrade")
 
 ### En busca de nuevas narrativas
 
-A través de tres encuentros, se identificó el tipo de impacto que tienen los procesos de polarización y desinformación en las comunidades migrantes desde una perspectiva personal, emocional, económica, social y política y, para hacerlo, tres colectivos de Barcelona, Furia Mexicana, Puerta de África y Singa Barcelona, estuvieron trabajando en el efecto que tienen los nuevos discursos a la hora de sensibilizar sobre las problemáticas migrantes desde el punto de vista de las comunidades afectadas.
+A través de tres encuentros, se identificó el tipo de impacto que tienen los procesos de polarización y desinformación en las comunidades migrantes desde una perspectiva personal, emocional, económica, social y política y, para hacerlo, tres colectivos de Barcelona, **Furia Mexicana, Puerta de África y Singa Barcelona,** estuvieron trabajando en el efecto que tienen los nuevos discursos a la hora de sensibilizar sobre las problemáticas migrantes desde el punto de vista de las comunidades afectadas.
 
 {% quote %}De nacionalidad "migrante"{% endquote %}
 
-Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas por La Fera: Luna Andrade, Patricia Vizcaíno, Pedro García Mejía y Shalana Rodríguez, se exploraron nuevas formas narrativas por habla de los conflictos migratorios, la economía migrante, el papel de Europa o las ventajas del cooperativismo social y solidario. Cada una de ellas, aportó una pieza audiovisual disparadora de debate, a partir de las cuales se debía desempeñar una respuesta escenificada. El resultado es una serie de piezas de naturaleza diversa que buscan conmover a la ciudadanía y sensibilizarla sobre estas cuestiones
+Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas por La Fera: Luna Andrade, Patricia Vizcaíno, Pedro García Mejía y Shalana Rodríguez, se exploraron nuevas formas narrativas por habla de los conflictos migratorios, la economía migrante, el papel de Europa o las ventajas del cooperativismo social y solidario. Cada una de ellas, aportó una pieza audiovisual disparadora de debate, a partir de las cuales se debía desempeñar una respuesta escenificada. **El resultado es una serie de piezas de naturaleza diversa que buscan conmover a la ciudadanía y sensibilizarla sobre estas cuestiones**
 
 Ejemplo de vídeo
 
