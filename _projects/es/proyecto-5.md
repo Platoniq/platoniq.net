@@ -39,14 +39,7 @@ Partiendo de esta premisa, desde la Fundación Platoniq hemos iniciado un proyec
 
 Participación 86%     -     Alcance 523k     -     Acciones 24
 
-A través de tres encuentros, se identificó el tipo 
 
-* d
-* d
-* d
-* d
-
-A través de tres encuentros, se identificó el tipo 
 
 ![“Somos Migras”, de Luna Andrade](/media/captura-de-pantalla-2023-10-10-a-las-8.48.11.jpg "“Somos Migras”, de Luna Andrade")
 
