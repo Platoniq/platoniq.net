@@ -3,11 +3,12 @@ layout: category
 call_to_action: cta-contact-service
 slug: democratic_innovation
 title: Innovación Democratica Inclusiva
-subtitle: Phasellus eget vestibulum ligula. Praesent bibendum lacinia porta. Sed
-  nec tincidunt nulla, ac ultricies massa. Praesent non tempus diam. Morbi
-  molestie blandit ipsum ut vulputate. Praesent sapien sem, euismod non sem
-  quis, ultrices euismod ex. Praesent nec arcu eleifend, hendrerit turpis sed,
-  tincidunt odio. Ut imperdiet non nisi ut congue.
+subtitle: Todas las actividades necesarias para la innovación, desarrollo
+  informático, explotación y mantenimiento de plataformas digitales cívicas y/o
+  de código abierto, entre ellas las herramientas de financiación colectiva y de
+  colaboración, como Goteo.org y de participación ciudadana, como Decidim.org.
+  También el cuidado, archivo y mantenimiento de bases de datos y documentación
+  relacionados con estas herramientas digitales cívicas.
 symbol:
   path: /media/categories/symbol_innovacio.png
   alt: innovacion Inclusiva
