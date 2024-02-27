@@ -16,6 +16,5 @@ symbol:
   path: /media/categories/symbol_cooperativa.png
   alt: cooperative_economy
 services:
-  - serv6
-  - serv1
+  - democratic-funding
 ---
