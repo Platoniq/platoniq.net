@@ -3,15 +3,13 @@ layout: category
 call_to_action: cta-contact-service
 slug: citizen_empowerment
 title: Empoderamiento Ciudadano
-subtitle: Pellentesque justo massa, ullamcorper vitae ultrices sit amet, rhoncus
-  et eros. Vivamus facilisis, sapien non porttitor sodales, sem ex placerat
-  ipsum, blandit tincidunt tortor purus ut neque. Vestibulum eget mollis dui.
-  Nulla vel pulvinar nunc. Proin laoreet gravida ultricies. Proin sodales congue
-  tortor quis porta. Suspendisse sapien lectus, consectetur in tincidunt quis,
-  auctor a felis. Proin ullamcorper, lacus vel varius interdum, nisi libero
-  porttitor magna, sed lacinia orci orci sed nibh. Etiam in libero id nisl
-  interdum eleifend ut dignissim massa. Etiam ut malesuada elit, mattis accumsan
-  sem. Proin dui sapien, hendrerit a mattis et, porta varius lorem.
+subtitle: "Todas las actividades necesarias de cooperación y colaboración con
+  otras organizaciones e iniciativas como son: la creación de consorcios y/o
+  proyectos nacionales, europeos o internacionales; la creación de institutos y
+  grupos de investigación; las alianzas y la participación en redes con
+  organizaciones cívicas, instituciones y otras entidades que trabajen con
+  colectivos desfavorecidos o con dificultades para el acceso a la información y
+  el crecimiento."
 symbol:
   path: /media/categories/symbol_empoderament.png
   alt: city-empowerment
