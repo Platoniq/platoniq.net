@@ -13,8 +13,6 @@ symbol:
   path: /media/categories/symbol_innovacio.png
   alt: innovacion Inclusiva
 services:
-  - serv1
-  - serv2
-  - serv3
-  - serv-5
+  - open-source-digital-tools
+  - democratic-funding
 ---
