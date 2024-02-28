@@ -15,7 +15,5 @@ symbol:
   path: /media/categories/symbol_cultura.png
   alt: cultura futura
 services:
-  - serv3
-  - serv4
-  - serv2
+  - Futuros
 ---
