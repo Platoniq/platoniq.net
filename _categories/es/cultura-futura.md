@@ -17,4 +17,5 @@ symbol:
   alt: cultura futura
 services:
   - Futuros
+  - Panorama
 ---
