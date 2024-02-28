@@ -17,4 +17,5 @@ symbol:
 services:
   - Panorama
   - reinforma
+  - Futuros
 ---
