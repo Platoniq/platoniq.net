@@ -16,6 +16,6 @@ symbol:
   path: /media/categories/symbol_cultura.png
   alt: cultura futura
 services:
-  - Futuros
   - Panorama
+  - reinforma
 ---
