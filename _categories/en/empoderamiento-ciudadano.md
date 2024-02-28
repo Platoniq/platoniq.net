@@ -16,8 +16,6 @@ symbol:
   path: /media/categories/symbol_empoderament.png
   alt: citizen-empowerment
 services:
-  - serv1
-  - serv3
-  - serv2
-  - serv4
+  - Agoras
+  - Citizen-participation
 ---
