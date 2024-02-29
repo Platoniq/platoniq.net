@@ -5,7 +5,7 @@ type: author
 image:
   path: /media/members/olivier.png
   alt: Jose Miguel Prieto Prieto
-position: colaborator
+position: Strategic director
 description: Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin
   ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris
   dolor, pellentesque eget nibh vel, interdum rutrum urna.
