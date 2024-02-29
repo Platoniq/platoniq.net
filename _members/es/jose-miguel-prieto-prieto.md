@@ -1,7 +1,7 @@
 ---
 slug: os
 title: Olivier Schulbaum
-type: colaborator
+type: author
 image:
   path: /media/members/olivier.png
   alt: Olivier Schulbaum
