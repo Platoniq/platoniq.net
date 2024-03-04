@@ -58,6 +58,8 @@ Estamos haciendo muchas cosas emocionantes para fortalecer la democracia y hacer
 
 También organizamos campañas para que las ideas de los jóvenes importen de verdad en el gobierno y para expresarse y ser escuchados en la sociedad. Además, estamos creando programas de formación que enseñan cómo funcionan otras formas de democracia y cómo formar parte de ellas.
 
+{% video { "title": "Culturafutura", "url": "https://drive.google.com/file/d/1Hw4Lb0Y4SSStFtll65b-tG5LNUYzVL1w/view?usp=drive_link" } %}
+
 VIDEO
 
 ¡Y eso no es todo! Estamos experimentando con nuevas formas de juntar a la gente y que se sientan inspirados para compartir sus ideas y colaborar. Y para que todo esto llegue a más personas, estamos usando internet y las redes sociales para difundir información interesante y promover el diálogo abierto.
