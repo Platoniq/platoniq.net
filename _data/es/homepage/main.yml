@@ -1,18 +1,18 @@
 # Home
-main_title: Diseñamos herramientas <span style="color:#e30062">analíticas</span> para un cambio social.
+main_title: Diseñamos <span style="color:#e30062">futuros más justos</span> </br>y, por qué no, </ br>también más <span style="color:#e30062">divertidos</span> 
 main_subtitle: Creatividad y democracia
-main_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nunc id cursus metus aliquam eleifend mi in nulla. Hac habitasse platea ictumst vestibulum. Eros in cursus turpis massa tincidunt dui ut ornare.
+main_description: La Fundación Platoniq diseña procesos participativos digitales y facilita metodologías innovadoras de participación para contribuir a formar sociedades y organizaciones más democráticas, haciendo uso de tecnologías cívicas abiertas.
 main_img: /media/site-symbols/happy-faces.png
 
-values_title: Nuestros Valores.
-values_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+values_title: Nuestros valores
+values_description: Creamos tiempo profundo para reactivar la democracia.
 values_img: /media/site-symbols/heart.png
 # Bloque 3
-projects_title: Projectos Recientes.
+projects_title: Projectos recientes
 # Bloque 4
-journal_title: Nuestro Blog.
+journal_title: Nuestro blog
 journal_img:
 # Bloque 5
-who_title: Con Quien Trabajamos.
+who_title: Con quien trabajamos
 
 image_url: https://s.cornershopapp.com/static/noimage.png
