@@ -60,8 +60,6 @@ También organizamos campañas para que las ideas de los jóvenes importen de ve
 
 {% video { "title": "Culturafutura", "url": "https://drive.google.com/file/d/1Hw4Lb0Y4SSStFtll65b-tG5LNUYzVL1w/view?usp=drive_link" } %}
 
-VIDEO
-
 ¡Y eso no es todo! Estamos experimentando con nuevas formas de juntar a la gente y que se sientan inspirados para compartir sus ideas y colaborar. Y para que todo esto llegue a más personas, estamos usando internet y las redes sociales para difundir información interesante y promover el diálogo abierto.
 
 Estamos muy emocionados de lanzar la "Escuela para la Creatividad y la Democracia", donde podrás aprender y participar en actividades creativas que te ayudarán a ser un agente de cambio en tu comunidad. ¡Esperamos que te unas a nosotros en esta emocionante aventura!
