@@ -43,7 +43,7 @@ Aquí irán las cajitas verdes (faltan bullet points)
 
 ![](/media/3363577920_f7a77598ca_c.jpg "Formación del grupo motor del taller. Taller Banco Comun de Datos impartido por Platoniq en el IES Antonio Dominguez Ortiz. // ZEMOS98. Antonio Miñán. CC BY-NC-ND")
 
-*Formación del grupo motor del taller. Taller Banco Comun de Datos impartido por Platoniq en el IES Antonio Dominguez Ortiz.. Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND*
+*Formación del grupo motor del taller. Taller Banco Comun de Datos impartido por Platoniq en el IES Antonio Dominguez Ortiz. Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND*
 
 ## ¿Qué es?
 
