@@ -15,4 +15,5 @@ symbol:
 services:
   - participatory-diagnosis
   - organizations-strategic-support
+  - impact-program
 ---
