@@ -1,7 +1,7 @@
 ---
-slug: future-design
-title: D﻿iseño de futuros
-description: Tenemos una amplia experiencia diseñando y desarrollando cursos y
-  talleres visionarios que nos hacen imaginar y proyectar un futuro más ético y
-  deseable.
+slug: train-the-trainers
+title: Train the Trainers
+description: ayuden al diálogo, la transformación social, a generar sociedades
+  más democráticas y justas, a acabar con la brecha digital y a proporcionar
+  espacios más seguros de colaboración y participación ciudadana.
 ---
