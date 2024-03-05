@@ -10,7 +10,7 @@ subtitle: Ayudamos a identificar los factores internos y externos que
   inspiradores, ilusionantes y motivadores. Establecemos sistemas de seguimiento
   y evaluación del impacto .
 symbol:
-  path: /media/categories/symbol_cultura.png
+  path: /media/categories/symbol_cooperativa.png
   alt: Acompañamiento estratégico
 services:
   - participatory-diagnosis
