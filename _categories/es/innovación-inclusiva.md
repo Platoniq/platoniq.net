@@ -2,7 +2,7 @@
 layout: category
 call_to_action: cta-contact-service
 slug: democratic_innovation
-title: Innovación Democratica Inclusiva
+title: Innovación Democrática
 subtitle: Todas las actividades necesarias para la innovación, desarrollo
   informático, explotación y mantenimiento de plataformas digitales cívicas y/o
   de código abierto, entre ellas las herramientas de financiación colectiva y de
