@@ -1,5 +1,5 @@
 ---
-slug: Agoras
+slug: Democratic-agoras
 title: Democratic Agoras
 description: >-
   Hybrid Participatory Process Design
