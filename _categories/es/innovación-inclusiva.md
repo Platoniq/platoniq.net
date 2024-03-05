@@ -3,12 +3,13 @@ layout: category
 call_to_action: cta-contact-service
 slug: democratic_innovation
 title: Innovación Democrática
-subtitle: Todas las actividades necesarias para la innovación, desarrollo
-  informático, explotación y mantenimiento de plataformas digitales cívicas y/o
-  de código abierto, entre ellas las herramientas de financiación colectiva y de
-  colaboración, como Goteo.org y de participación ciudadana, como Decidim.org.
-  También el cuidado, archivo y mantenimiento de bases de datos y documentación
-  relacionados con estas herramientas digitales cívicas.
+subtitle: Diseñamos y facilitamos procesos de participación online, presenciales
+  e híbridos. Nos servimos de nuestras propias metodologías innovadoras y
+  nuestro dominio de las herramientas digitales para contribuir a crear
+  sociedades y organizaciones más democráticas y justas. Además, fomentamos las
+  alianzas y la participación en redes con organizaciones cívicas, instituciones
+  y otras entidades que trabajen con colectivos desfavorecidos o con
+  dificultades para el acceso a la información y el crecimiento.
 symbol:
   path: /media/categories/symbol_empoderament.png
   alt: innovacion Inclusiva
