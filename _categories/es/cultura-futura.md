@@ -12,6 +12,5 @@ symbol:
 services:
   - justice-by-design
   - disinformation-program
-  - impact-program
   - train-the-trainers
 ---
