@@ -8,7 +8,7 @@ subtitle: Ayudamos a identificar los factores internos y externos que
   permiten definir los grandes retos de la organización. Co-diseñamos acciones y
   actividades futuras que pueden llevarse a cabo. Co-creamos relatos de futuro
   inspiradores, ilusionantes y motivadores. Establecemos sistemas de seguimiento
-  y evaluación del impacto .
+  y evaluación del impacto.
 symbol:
   path: /media/categories/symbol_cooperativa.png
   alt: Acompañamiento estratégico
