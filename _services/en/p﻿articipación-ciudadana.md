@@ -1,3 +1,3 @@
 ---
-slug: citizen-empowerment
+slug: citizen-participation
 ---
