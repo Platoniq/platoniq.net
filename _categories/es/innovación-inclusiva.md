@@ -10,7 +10,7 @@ subtitle: Todas las actividades necesarias para la innovación, desarrollo
   También el cuidado, archivo y mantenimiento de bases de datos y documentación
   relacionados con estas herramientas digitales cívicas.
 symbol:
-  path: /media/categories/symbol_innovacio.png
+  path: /media/categories/symbol_empoderament.png
   alt: innovacion Inclusiva
 services:
   - open-source-digital-tools
