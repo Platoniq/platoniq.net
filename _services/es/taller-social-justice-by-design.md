@@ -1,5 +1,5 @@
 ---
-slug: design-justice
+slug: justice-by-design
 title: Taller Social basado en Justice by Design
 description: Recopilación y divulgación de documentación que contenga procesos y
   metodologías de participación, contenidos digitales, dinámicas gamificadas,

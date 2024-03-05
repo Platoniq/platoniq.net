@@ -1,3 +1,3 @@
 ---
-slug: design-justice
+slug: justice-by-design
 ---
