@@ -1,6 +1,6 @@
 ---
-slug: Citizen-participation
-title: P﻿articipación ciudadana
+slug: citizen-empowerment
+title: Empoderamiento ciudadano
 description: >-
   Diseñamos y facilitamos procesos de participación online, presenciales e
   híbridos. Nos servimos de nuestras propias metodologías innovadoras y nuestro
