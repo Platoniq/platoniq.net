@@ -1,7 +1,7 @@
 ---
 layout: category
 call_to_action: cta-contact-service
-slug: coop_econ
+slug: democratic_economy
 title: Financión Democrática
 subtitle: "Todas las actividades para la gestión, formación y el fortalecimiento
   de la Economía Social, Solidaria, de financiación ética y el crowdfunding y la
