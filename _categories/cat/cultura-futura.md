@@ -15,8 +15,8 @@ symbol:
   path: /media/categories/symbol_cultura.png
   alt: cultura futura
 services:
-  - future-design
   - justice-by-design
   - disinformation-program
   - impact-program
+  - train-the-trainers
 ---
