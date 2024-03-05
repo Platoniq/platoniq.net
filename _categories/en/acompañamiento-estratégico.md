@@ -5,5 +5,6 @@ slug: consultoria
 symbol:
   path: /media/categories/symbol_cultura.png
 services:
-  - Futuros
+  - participatory-diagnosis
+  - organizations-strategic-support
 ---

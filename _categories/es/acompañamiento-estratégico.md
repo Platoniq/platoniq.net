@@ -8,5 +8,6 @@ symbol:
   path: /media/categories/symbol_cultura.png
   alt: Acompañamiento estratégico
 services:
-  - Futuros
+  - participatory-diagnosis
+  - organizations-strategic-support
 ---
