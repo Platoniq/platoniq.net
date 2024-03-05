@@ -2,7 +2,7 @@
 layout: category
 call_to_action: cta-contact-service
 slug: coop_econ
-title: Financión Colectiva
+title: Financión Democrática
 subtitle: "Todas las actividades para la gestión, formación y el fortalecimiento
   de la Economía Social, Solidaria, de financiación ética y el crowdfunding y la
   cultura democrática participativa, especialmente en los ámbitos de la
