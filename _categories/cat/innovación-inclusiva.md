@@ -1,7 +1,7 @@
 ---
 layout: category
 call_to_action: cta-contact-service
-slug: democratic_innovation
+slug: citizen_innovation
 title: Innovació Inclusiva
 subtitle: Phasellus eget vestibulum ligula. Praesent bibendum lacinia porta. Sed
   nec tincidunt nulla, ac ultricies massa. Praesent non tempus diam. Morbi

@@ -1,8 +1,8 @@
 ---
 layout: category
 call_to_action: cta-contact-service
-slug: democratic_innovation
-title: Innovación Democrática
+slug: citizen_innovation
+title: Innovación Ciudadana
 subtitle: Diseñamos y facilitamos procesos de participación online, presenciales
   e híbridos. Nos servimos de nuestras propias metodologías innovadoras y
   nuestro dominio de las herramientas digitales para contribuir a crear
