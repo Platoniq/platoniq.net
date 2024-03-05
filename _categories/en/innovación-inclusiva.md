@@ -15,4 +15,5 @@ services:
   - open-source-digital-tools
   - Democratic-agoras
   - citizen-participation
+  - citizen-assemblies-dialogues
 ---
