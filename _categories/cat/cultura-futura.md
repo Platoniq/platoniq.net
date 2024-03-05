@@ -17,4 +17,5 @@ symbol:
 services:
   - future-design
   - justice-by-design
+  - disinformation-program
 ---
