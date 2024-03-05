@@ -13,7 +13,6 @@ symbol:
   alt: innovacion Inclusiva
 services:
   - open-source-digital-tools
-  - disinformation-program
   - Democratic-agoras
   - citizen-participation
 ---
