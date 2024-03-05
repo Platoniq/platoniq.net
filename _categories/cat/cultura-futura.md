@@ -16,4 +16,5 @@ symbol:
   alt: cultura futura
 services:
   - future-design
+  - justice-by-design
 ---
