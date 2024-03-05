@@ -18,4 +18,5 @@ symbol:
   alt: cooperative_economy
 services:
   - democratic-funding
+  - matchfunding
 ---
