@@ -45,7 +45,7 @@ Aquí irán las cajitas verdes (faltan bullet points)
 
 *Formación del grupo motor del taller. Taller Banco Comun de Datos impartido por Platoniq en el IES Antonio Dominguez Ortiz. Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND*
 
-## ¿Qué es?
+## ¿Qué es el BCC?
 
 ¡Descubre el Banco Común de Conocimientos (BCC)! Un proyecto revolucionario que ha transformado la forma en que compartimos y protegemos el conocimiento.
 
