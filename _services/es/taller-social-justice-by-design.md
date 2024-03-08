@@ -1,6 +1,6 @@
 ---
 slug: justice-by-design
-title: Taller social sobre Justice by Design
+title: Taller Social Justice by Design
 description: Recopilación y divulgación de documentación que contenga procesos y
   metodologías de participación, contenidos digitales, dinámicas gamificadas,
   juegos y actividades creativas. También el diseño de procesos y actividades
