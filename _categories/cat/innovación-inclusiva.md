@@ -13,7 +13,6 @@ symbol:
   alt: innovacion Inclusiva
 services:
   - open-source-digital-tools
-  - Democratic-agoras
   - citizen-assemblies-dialogues
   - playbooks
 ---
