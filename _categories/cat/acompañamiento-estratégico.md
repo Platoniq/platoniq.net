@@ -6,6 +6,6 @@ symbol:
   path: /media/categories/symbol_cooperativa.png
 services:
   - participatory-diagnosis
-  - impact-program
   - strategic-support
+  - Democratic-agoras
 ---
