@@ -1,7 +1,7 @@
 ---
 slug: participatory-diagnosis
 title: Diagnóstico Participativo
-description: Fomentamos la participación comunitaria integradora y accesible, a
-  partir del estudio del panorama histórico, un marco ético, un análisis de
-  cuestiones clave y buenas prácticas, estudios de casos y recomendaciones.
+description: Elaboramos documentos que examinan la historia de una organización,
+  realizan una evaluación de su situación actual y proponen un marco para
+  diseñar una gobernanza más participativa.
 ---
