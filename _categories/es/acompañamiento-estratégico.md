@@ -2,7 +2,7 @@
 layout: category
 call_to_action: cta-contact-service
 slug: consultoria
-title: Visiones estratégicas audaces
+title: Visiones audaces
 subtitle: "Creemos en la responsabilidad social de las organizaciones y, por
   ello, las ayudamos a identificar los factores internos y externos que
   condicionan su desarrollo, facilitando herramientas que les permiten definir
