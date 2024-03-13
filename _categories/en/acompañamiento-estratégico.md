@@ -7,6 +7,6 @@ symbol:
   path: /media/categories/symbol_cooperativa.png
 services:
   - participatory-diagnosis
-  - organizations-strategic-support
   - impact-program
+  - strategic-support
 ---

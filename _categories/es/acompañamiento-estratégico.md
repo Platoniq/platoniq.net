@@ -16,6 +16,6 @@ symbol:
   alt: Acompañamiento estratégico
 services:
   - participatory-diagnosis
-  - organizations-strategic-support
   - impact-program
+  - strategic-support
 ---
