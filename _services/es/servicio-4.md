@@ -1,7 +1,7 @@
 ---
 slug: disinformation-program
 title: Programa contra la desinformación
-description: Diseñamos programas formativo para ayudar a jóvenes a luchar contra
-  la desinformación a través de docentes y bibliotecarias. Diseñamos programas
-  formativo para ayudar a jóvenes a luchar contra la desinformación.
+description: Impartimos programas formativos para ayudar a jóvenes a luchar
+  contra la desinformación ofreciéndoles herramientas críticas y creativas para
+  identificar las noticias falsas y escapar de la polarización.
 ---
