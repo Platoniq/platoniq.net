@@ -17,5 +17,4 @@ symbol:
 services:
   - democratic-funding
   - matchfunding
-  - communication-campaign
 ---
