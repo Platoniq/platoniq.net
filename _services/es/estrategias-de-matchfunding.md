@@ -1,7 +1,7 @@
 ---
 slug: matchfunding
 title: Estrategias de matchfunding
-description: la difusión, la formación y financiación de iniciativas ciudadanas
-  y de organizaciones; la asesoría en el uso de TICS y en la comunicación
-  digital. De la misma manera, el fomento y la creación de empleo, autoempleo.
+description: Acompañamos en el diseño de la colaboración entre las instituciones
+  públicas y los proyectos ciudadanos a la hora de multiplicar el esfuerzo
+  financiero que supone llevar a cabo sus objetivos.
 ---
