@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/LauraParejaNazaries/jekyll-plugin-platoniq-journal.git
-  revision: fe86aa2f4ce927ca16b4d31774c75d2114391eb0
+  revision: 1b4026ad622ca6ec50f4b0a191f8044ddf78bc7b
   branch: platoniq-web-plugins
   specs:
     jekyll-plugin-platoniq-journal (0.0.22)
@@ -9,8 +9,8 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: ac1e6c57c9c59d52082ec0ac87001cee81186270
-  branch: develop
+  revision: 8a05fd28cc1bcad82e320271a72584d3d0c73eca
+  branch: fix_services
   specs:
     jekyll-theme-platoniq.net (0.0.1)
       jekyll (~> 4.2)
@@ -36,7 +36,7 @@ GEM
     forwardable-extended (2.6.0)
     google-protobuf (3.25.2)
     http_parser.rb (0.8.0)
-    i18n (1.14.1)
+    i18n (1.14.4)
       concurrent-ruby (~> 1.0)
     jekyll (4.3.3)
       addressable (~> 2.4)
@@ -77,7 +77,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.4)
-    listen (3.8.0)
+    listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)

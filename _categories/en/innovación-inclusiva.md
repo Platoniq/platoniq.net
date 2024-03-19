@@ -9,11 +9,10 @@ subtitle: Phasellus eget vestibulum ligula. Praesent bibendum lacinia porta. Sed
   quis, ultrices euismod ex. Praesent nec arcu eleifend, hendrerit turpis sed,
   tincidunt odio. Ut imperdiet non nisi ut congue.
 symbol:
-  path: /media/categories/symbol_innovacio.png
+  path: /media/categories/symbol_empoderament.png
   alt: innovacion Inclusiva
 services:
-  - serv1
-  - serv2
-  - serv3
-  - serv-5
+  - open-source-digital-tools
+  - citizen-assemblies-dialogues
+  - playbooks
 ---

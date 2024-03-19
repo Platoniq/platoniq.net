@@ -1,7 +1,7 @@
 ---
 slug: sgn
 title: Susana Garcia Noguero
-type: colaborator
+type: author
 image:
   path: /media/members/susana.jpg
   alt: Elena Martinez Olmedo

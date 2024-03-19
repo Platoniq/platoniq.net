@@ -1,9 +1,9 @@
 ---
 slug: os
 title: Olivier Schulbaum
-type: colaborator
+type: author
 image:
-  path: /media/members/olivier.png
+  path: /media/members/olivier-schulbaum-292672660.jpg
   alt: Jose Miguel Prieto Prieto
 position: col·laboradora
 description: Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin

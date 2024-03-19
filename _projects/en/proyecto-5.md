@@ -1,11 +1,11 @@
 ---
 layout: project
-slug: pro5
+slug: dialogos-migrantes
 state: open
 title: "Migrant Dialogues "
 subtitle: Towards a Migrant Constitution
 banner_image:
-  path: /media/projects/top_manta_fotos_pau_coll_ruido_photo_17.webp
+  path: /media/projects/captura-de-pantalla-2023-10-10-a-las-8.51.34.jpg
   alt: proyecto 5
 date: 2023-10-20T07:23:26.160Z
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
@@ -28,10 +28,9 @@ categories:
   - coop_econ
   - citizen_empowerment
 members:
-  - lrm
-  - jpp
+  - cp
 collaborators:
-  - col1
+  - la-fera
 ---
 <!--StartFragment-->
 
