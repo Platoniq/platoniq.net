@@ -1,4 +1,5 @@
 ---
+layout: service
 slug: Democratic-agoras
 title: Democratic Agoras
 description: >-

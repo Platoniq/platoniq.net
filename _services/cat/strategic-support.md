@@ -1,4 +1,5 @@
 ---
+layout: service
 slug: strategic-support
 title: " Servei 1"
 description: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit.

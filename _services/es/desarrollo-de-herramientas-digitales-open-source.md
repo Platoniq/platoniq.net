@@ -1,4 +1,5 @@
 ---
+layout: service
 slug: open-source-digital-tools
 title: Desarrollo de herramientas digitales open source
 description: Desarrollamos herramientas open source para ponerlas al servicio de

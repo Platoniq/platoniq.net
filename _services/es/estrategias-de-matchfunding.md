@@ -1,4 +1,5 @@
 ---
+layout: service
 slug: matchfunding
 title: Estrategias de matchfunding
 description: Acompañamos en el diseño de la colaboración entre las instituciones
