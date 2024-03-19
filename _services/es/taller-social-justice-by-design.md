@@ -1,7 +1,7 @@
 ---
 slug: justice-by-design
-title: Taller Social Justice by Design
+title: Taller sobre diseño social
 description: Ofrecemos formación para garantizar una distribución más equitativa
-  de los beneficios y las cargas del diseño para construir mundos más seguros y
+  de los beneficios y las cargas del diseño para construir mundos más justos y
   sostenibles.
 ---
