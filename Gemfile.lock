@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: 50a5931e1a32828a86f27f3fc48c2f0ed4dcbdbe
+  revision: 8a05fd28cc1bcad82e320271a72584d3d0c73eca
   branch: fix_services
   specs:
     jekyll-theme-platoniq.net (0.0.1)
