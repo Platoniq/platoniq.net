@@ -1,4 +1,5 @@
 ---
+layout: service
 slug: train-the-trainers
 title: Train the Trainers
 description: Proporcionamos formación a los profesionales de la participación

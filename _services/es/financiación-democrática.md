@@ -1,4 +1,5 @@
 ---
+layout: service
 slug: democratic-funding
 title: Crowdfunding cívico
 description: Goteo.org es nuestra plataforma de crowdfunding cívico, a través de

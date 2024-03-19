@@ -1,5 +1,6 @@
 ---
 layout: service
+layout: service
 slug: participatory-diagnosis
 title: White Paper (Participatory Diagnosis)
 description: Promote inclusive and accessible community participation, with an

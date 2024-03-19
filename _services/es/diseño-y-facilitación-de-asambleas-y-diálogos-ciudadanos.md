@@ -1,4 +1,5 @@
 ---
+layout: service
 slug: citizen-assemblies-dialogues
 title: Diseño y facilitación de Asambleas y Diálogos ciudadanos
 description: Diseñamos y facilitamos experiencias de participación en forma de

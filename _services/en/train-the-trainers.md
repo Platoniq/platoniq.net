@@ -1,4 +1,5 @@
 ---
+layout: service
 slug: train-the-trainers
 title: Service 2
 description: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit.

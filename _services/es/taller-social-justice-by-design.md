@@ -1,4 +1,5 @@
 ---
+layout: service
 slug: justice-by-design
 title: Taller sobre diseño social
 description: Ofrecemos formación para garantizar una distribución más equitativa
