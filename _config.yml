@@ -36,7 +36,9 @@ collections:
     custom_permalink_placeholders: ["locale","slug"]
     permalink: /:locale/categories/:slug/
   services:
-    output: false
+    output: true
+    custom_permalink_placeholders: ["locale", "slug"]
+    permalink: /:locale/services/:slug/
   states:
     output: false
   collaborators:
