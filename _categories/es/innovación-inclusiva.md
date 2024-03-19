@@ -1,8 +1,8 @@
 ---
 layout: category
 call_to_action: cta-contact-service
-slug: citizen_innovation
-title: Innovación Abierta
+slug: democratic_innovation
+title: Innovación Democrática
 subtitle: Llevamos más de veinte años impulsando la innovación democrática a
   través de experiencias de participación abierta al servicio de las
   comunidades. Mediante la combinación de herramientas digitales y metodologías
