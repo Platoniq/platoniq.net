@@ -1,7 +1,7 @@
 ---
 slug: serv1
-title: Servicio 1
-description: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit.
-  Proin elit mauris, condimentum quis aliquet ac, efficitur nec mauris. Quisque
-  eros ex, laoreet sed lobortis nec, interdum a augue
+title: Acompañamiento estratégico
+description: Acompañar a organizaciones de la sociedad civil en la elaboración
+  de su plan estratégico mediante la reflexión de su identidad, entorno,
+  trayectoria y principales retos para visionar futuros deseables
 ---

@@ -2,10 +2,10 @@
 layout: project
 slug: pro2
 state: closed
-title: projecto 2
+title: Prueba OLI
 subtitle: s﻿ubtitulo
 banner_image:
-  path: /media/projects/photo-1620381891112-0418655927ed.jpg
+  path: /media/projects/goteo-matavenero_15_nico-796x1024.jpg
   alt: projecto2
 date: 2023-10-20T07:18:46.148Z
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
@@ -29,8 +29,6 @@ members:
   - mpo
 collaborators:
   - naz
-  - naz2
-  - naz3
 ---
 <!--StartFragment-->
 
@@ -40,9 +38,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum e
 
 ### Aquí irian las cajitas verdes (86%, 523k, 24)
 
-  * Element 1
-  * Element 2 
-  * Element 3
+* 86%
+* 523 K
+* 24
 
 En enim elit, fermentum quis congue quis, pellentesque non nibh.
 
@@ -56,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum e
 
 Ejemplo Imagen
 
-![projecto2](/media/projects/photo-1620381891112-0418655927ed.jpg)
+![projecto2](/media/goteo-matavenero_12_christina-796x1024.jpg)
 
 {% image 
 {"img":{

@@ -1,5 +1,5 @@
 ---
 collection: index
-layout: base
-
+layout: home
 ---
+</section>

@@ -1,7 +1,7 @@
 ---
 layout: offer
 call_to_action: cta-contact-offer
-slug: offer2
+slug: Desarrollador_Ruby_on_Rails
 title: Test offer 2
 subtitle: This is the test offer 2
 pdf: /media/offers/benefits-2023-.3.pdf

@@ -2,7 +2,7 @@
 layout: category
 call_to_action: cta-contact-service
 slug: coop_econ
-title: Económica Coperativa
+title: Económica Social
 subtitle: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit. Proin
   elit mauris, condimentum quis aliquet ac, efficitur nec mauris. Quisque eros
   ex, laoreet sed lobortis nec, interdum a augue. Duis nec justo porta, aliquam
@@ -17,8 +17,6 @@ symbol:
   path: /media/categories/symbol_cooperativa.png
   alt: cooperative_economy
 services:
-  - serv5
   - serv6
   - serv1
-  - serv2
 ---

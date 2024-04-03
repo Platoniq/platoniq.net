@@ -1,8 +1,8 @@
 ---
 layout: category
 call_to_action: cta-contact-service
-slug: inclusive_innovation
-title: Innovación Inclusiva
+slug: democratic_innovation
+title: Innovación Democratica Inclusiva
 subtitle: Phasellus eget vestibulum ligula. Praesent bibendum lacinia porta. Sed
   nec tincidunt nulla, ac ultricies massa. Praesent non tempus diam. Morbi
   molestie blandit ipsum ut vulputate. Praesent sapien sem, euismod non sem
@@ -15,4 +15,5 @@ services:
   - serv1
   - serv2
   - serv3
+  - serv-5
 ---

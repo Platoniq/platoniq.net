@@ -4,11 +4,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Static site for platoniq.
 baseurl: "" # "/journal-content" # the subpath of your site, e.g. /blog
 #url: "https://platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://unique-medovik-77941e.netlify.app"
+url: "https://super-khapse-96265e.netlify.app/"
 analytics_id: G-LLGWB6TLNS
 
-repository: "https://github.com/Platoniq/platoniq.net"
+#repository: "https://github.com/Platoniq/platoniq.net"
+repository: "https://github.com/temp-platoniq/platoniq.net"
 # logo: media/logo-platoniq_xxss.png
+
 twitter:
   username: platoniq
   # card: summary_large_image
