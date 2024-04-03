@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/LauraParejaNazaries/jekyll-plugin-platoniq-journal.git
-  revision: fe86aa2f4ce927ca16b4d31774c75d2114391eb0
+  revision: 3cd627b328fc45af104add875864fed284ba53e3
   branch: platoniq-web-plugins
   specs:
     jekyll-plugin-platoniq-journal (0.0.22)
@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: b045b443c6612b39a6af3f5adc5ed6b3321cebc5
+  revision: fc080d5eac2d37c880ab55f77ff238fb1fec319d
   branch: develop
   specs:
     jekyll-theme-platoniq.net (0.0.1)
@@ -24,10 +24,10 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.5)
+    addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
-    concurrent-ruby (1.2.2)
+    concurrent-ruby (1.2.3)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -35,7 +35,7 @@ GEM
     ffi (1.16.3)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
-    i18n (1.14.1)
+    i18n (1.14.4)
       concurrent-ruby (~> 1.0)
     jekyll (4.2.2)
       addressable (~> 2.4)
@@ -75,15 +75,15 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.4)
-    listen (3.8.0)
+    listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    nokogiri (1.15.5-x86_64-linux)
+    nokogiri (1.15.6-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (5.0.4)
+    public_suffix (5.0.5)
     racc (1.7.3)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
