@@ -4,7 +4,7 @@ gem "jekyll", "~> 4.3"
 
 # gem "jekyll-theme-platoniq.net", path: "../jekyll-theme-platoniq.net" # probar a eliminar ../
 # gem "jekyll-theme-platoniq.net", git: "https://github.com/Platoniq/jekyll-theme-platoniq.net.git"
-gem "jekyll-theme-platoniq.net", git: "https://github.com/Platoniq/jekyll-theme-platoniq.net.git", branch: "fix_services"
+gem "jekyll-theme-platoniq.net", git: "https://github.com/Platoniq/jekyll-theme-platoniq.net.git", branch: "develop"
 
 group :jekyll_plugins do
   gem "jekyll-seo-tag"
