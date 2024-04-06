@@ -1,6 +1,6 @@
 ---
 slug: tecnopolitica
-title: Tecnoploítica
+title: Tecnopolitica
 logo:
   path: /media/collaborators/tecnopolitica.svg
 ---
