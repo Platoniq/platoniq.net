@@ -4,7 +4,7 @@ RUN gem install sass-embedded
 
 RUN apt-get update && apt-get install -y nodejs npm 
 
-RUN gem install bundler -v 2.4.22
+RUN gem install bundler
  
 RUN gem install jekyll
 RUN mkdir /platoniq.net
