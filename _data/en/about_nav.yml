@@ -1,0 +1,16 @@
+- name: Home
+  link: /en/home
+- name: About Platoniq 
+  link: /en/about-us
+- name: Who we are
+  link: /en/who
+- name: Journal
+  link: https://journal.platoniq.net/en/wilder-journal-1/
+- name: Projects
+  link: /en/projects
+- name: Positions
+  link: /en/offers
+- name: Transparency
+  link: /en/transparency
+- name: Contact
+  link: /en/contact

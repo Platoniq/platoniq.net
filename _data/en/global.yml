@@ -1,0 +1,29 @@
+all_projects_url: /en/projects
+authored_by: by
+close: Close
+continue_reading: Continue reading
+cookies: 
+  approve: Approve
+  info: More info
+  subtitle: We would like to use third party cookies and scripts to analise the usage of this website.
+  title: We want your consent
+collaborators: We work with
+contact_btn: Contacta con nosotros
+created_by: created by
+download: Download
+know_more: Know more
+license: License
+locale_menu: Change language
+locales:
+  en: English
+  es: Español
+  cat: Catalan
+project_btn: + Projects
+project_img_decorator:
+  path: /media/site-symbols/img-line.png
+  alt: project-symbol-png
+recent_projects: Recent Projects.
+sitemap_menu: Navigate all articles in the Journal
+skip_to_content: Skip to content
+sticker_emoji: Emoji related to the sticker
+volumes_menu: See other volumes of the Journal

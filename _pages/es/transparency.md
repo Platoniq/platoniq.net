@@ -1,0 +1,55 @@
+---
+layout: transparency
+slug: transparency
+title: Transparencia.
+description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet dolores consectetur voluptate eos cupiditate ea alias, distinctio corporis quis aspernatur consequuntur velit aliquam quae facere, dolorem ab aperiam animi doloribus.
+img:
+    source: /media/site-symbols/drops-about-us.png
+    alt: drops-transparency
+---
+{% documents 
+{ "title": "", 
+    "items": [ 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Información Institucional"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "contratos y convenios de administración"},
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Sunvenciones y ajustes publicos"}
+      ] 
+    } 
+%}
+
+{% documents 
+{ "title": "Memoria de Actividades", 
+    "items": [ 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memoria 2021"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memoria 2020"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memoria 2019"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memoria 2018"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Memoria 2017"}
+      ] 
+    } 
+%}
+
+{% documents
+{ "title": "Balance Economico", 
+    "items": [ 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 2021"}, 
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 2020"},
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 20219"},
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 2018"},
+        { "file": "/media/documents/document_test.pdf", 
+          "title": "Balance 2017"}
+      ] 
+    } 
+%}

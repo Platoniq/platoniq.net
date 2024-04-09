@@ -1,0 +1,23 @@
+all_projects: Tots els Projectes
+budget: Pressupost
+colab_btn: Col·labora en el projecte
+collaborators: Col·laboradors
+contact_btn: Contactar
+info_msg: Per obtenir informació addicional sobre el projecte contracta un dels nostres serveis o contacta'ns.
+services: Serveis
+team: Membres
+share: Compartir
+title_prev: 
+title_next:
+private: privat
+public: públic
+looking: a la recerca de finançament
+header_symbol:
+  path: /media/site-symbols/project-symbol.png
+  alt: project header symbol
+info_box: 
+  image:
+    path: /media/site-symbols/info.png
+    alt: info-png
+  text: Para obtenir informació addicinal sobre el projecte o contractar eld nostres serveis, contacta'ns.
+  contact: Contacte

@@ -1,0 +1,96 @@
+title: Platoniq.net
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Static site for platoniq.
+baseurl: "" # "/journal-content" # the subpath of your site, e.g. /blog
+#url: "https://platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://super-khapse-96265e.netlify.app/"
+analytics_id: G-LLGWB6TLNS
+
+#repository: "https://github.com/Platoniq/platoniq.net"
+repository: "https://github.com/temp-platoniq/platoniq.net"
+# logo: media/logo-platoniq_xxss.png
+
+twitter:
+  username: platoniq
+  # card: summary_large_image
+
+image:
+  # path: /media/volumes/social/cover-01.png
+
+# Build settings
+theme: jekyll-theme-platoniq.net
+timezone: ES
+
+collections:
+  pages:
+    output: true
+    custom_permalink_placeholders: ["locale","slug"]
+    permalink: /:locale/:slug/
+  projects:
+    output: true
+    custom_permalink_placeholders: ["locale","slug"]
+    permalink: /:locale/projects/:slug/
+  categories:
+    output: true
+    custom_permalink_placeholders: ["locale","slug"]
+    permalink: /:locale/categories/:slug/
+  services:
+    output: true
+    custom_permalink_placeholders: ["locale", "slug"]
+    permalink: /:locale/services/:slug/
+  states:
+    output: false
+  collaborators:
+    output: false
+  members:
+    output: false
+  call_to_actions:
+    output: false
+  offers:
+    output: true
+    custom_permalink_placeholders: ["locale","slug"]
+    permalink: /:locale/offers/:slug/
+ 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      locale: en
+  - scope:
+      path: "*/en/*"
+    values:
+      locale: "en"
+  - scope:
+      path: "*/es/*"
+    values:
+      locale: "es"
+  - scope:
+      path: "*/cat/*"
+    values:
+      locale: "cat"
+  - scope:
+      type: projects
+    values:
+      layout: "project"
+  - scope:
+      type: categories
+    values:
+      layout: "category"
+ 
+
+exclude: [Gemfile, Gemfile.lock, README.md, LICENSE.txt, .editorconfig]
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-loading-lazy
+  - jekyll-target-blank
+  - jekyll-sitemap
+
+
+# target-blank:
+#   add_css_classes: link-external
+#   noopener: true
+#   noreferrer: true
+#   rel: nofollow

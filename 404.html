@@ -1,0 +1,38 @@
+---
+layout: base
+permalink: 
+slug: /404.html
+uid: not-found
+img:
+    source: /media/site-symbols/not-found.png
+    alt: not found png
+
+language:
+  cat:
+      title: Pàgina no trobada.
+      description: Ho sentim, peró la página a la que intentes accedir no existeix. Prova a navegar per les opcions del menú o utiliza el acercador per trobar el que busques.
+      search: Cercar
+
+  en: 
+      title: Page not found.
+      description: We are sorry. The page you are trying to access does not exists. Please try to naviogarte through the menu options or use the search bar to find what you are looking for.
+      search: Search
+
+  es:
+      title: Página no encontrada.
+      description: Lo sentimos, la página a la que está intentando acceder no existe. Porfavor pruebe a navegar por los enlaces del menú o a buscar lo que necesita en el buscador.
+      search: Buscar
+---
+
+<div class="container grid">
+  <div class="d-flex flex-lg-row flex-column-reverse justify-content-between pb-5">
+    <div class="d-flex flex-column justify-content-center col-lg-6">
+      <h1 class="title__main pb-3">{{ page.language.en.title }}</h1>
+      <h3 class="title__description pb-5">{{ page.language.en.description }}</h3>
+    </div> 
+    
+    <div class="d-flex justify-content-center col-lg-5">
+      <img src={{ page.img.source }} alt={{ page.img.alt }} class="not__found">
+    </div>
+  </div>
+</div>

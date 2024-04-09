@@ -1,0 +1,16 @@
+- name: Inici
+  link: /cat/home
+- name: Sobre Platoniq 
+  link: /cat/about-us
+- name: Journal
+  link: https://journal.platoniq.net/es/wilder-journal-1/
+- name: Projectes
+  link: /cat/projects
+- name: Qui Som
+  link: /cat/who
+- name: Ofertes Laborals
+  link: /cat/offers
+- name: Transparència
+  link: /cat/transparency
+- name: Contacte
+  link: /cat/contact

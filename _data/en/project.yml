@@ -1,0 +1,23 @@
+all_projects: All Projects
+budget: Budget
+colab_btn: Colaborate with us
+collaborators: Collaborators
+contact_btn: Contact
+info_msg: To obtain additional information about the project, hire one of our services or contact us.
+services: Services
+team: Team
+share: Share
+title_prev: 
+title_next:
+private: private
+public: public
+looking: looking for financiation
+header_symbol:
+  path: /media/site-symbols/project-symbol.png
+  alt: project header symbol
+info_box: 
+  image:
+    path: /media/site-symbols/info.png
+    alt: info-png
+  text: To obtain additiona information about the project please contact with us.
+  contact: contact
