@@ -10,11 +10,11 @@ private_percentage: "15"
 public_percentage: "80"
 looking_finance_percentage: "5"
 services:
-  - serv1
+  - Democratic-agoras
 categories:
   - future_culture
 members:
   - lrb
 collaborators:
-  - naz3
+  - affac
 ---
