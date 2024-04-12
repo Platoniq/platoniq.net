@@ -2,4 +2,4 @@
 # The locale listed first is the site's default locale
 # Locales are specified using ISO language codes
 # Possible locales include: en, de, fr, pl, pt-BR, it, nl, nb, es, ru, et, ja, zh-CN
-locales: [en, es]
+locales: [en, es, cat]

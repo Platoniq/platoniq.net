@@ -1,15 +1,18 @@
 ---
-slug: jpp
-title: Jose Miguel Prieto Prieto
-type: colaborator
+slug: os
+title: Olivier Schulbaum
+type: author
 image:
-  path: /media/members/screenshot-2023-10-18-114803.png
-  alt: Jose Miguel Prieto Prieto
-position: colaborador
-description: Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin
-  ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris
-  dolor, pellentesque eget nibh vel, interdum rutrum urna.
-email: jpp@platoniq.com
+  path: /media/members/olivier-schulbaum-292672660.jpg
+  alt: Olivier Schulbaum
+position: Director estratégico
+description: Diseña estrategias para para construir conjuntamente las políticas
+  públicas y los territorios del mañana. Desarrolla actualmente el marco de
+  impacto de incidencia política ciudadana “Crowdvocacy”, proceso coordinado
+  entre plataformas de participación donde las iniciativas cívicas amplifican su
+  influencia, obteniendo recursos, y estimulando el liderazgo. Miembro del
+  Patronato de la fundación Ciudadana Civio
+email: olivierschulbaum@platoniq.net
 facebook: https://www.facebook.com/
 twitter: https://www.facebook.com/
 linkedin: https://twitter.com/?lang=en

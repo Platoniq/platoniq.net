@@ -15,7 +15,7 @@ symbol:
   path: /media/categories/symbol_cultura.png
   alt: cultura futura
 services:
-  - serv3
-  - serv4
-  - serv5
+  - justice-by-design
+  - disinformation-program
+  - train-the-trainers
 ---

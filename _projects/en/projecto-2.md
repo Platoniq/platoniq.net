@@ -2,10 +2,10 @@
 layout: project
 slug: pro2
 state: closed
-title: project 2
+title: OLI's test
 subtitle: s﻿ubtitle
 banner_image:
-  path: /media/projects/photo-1620381891112-0418655927ed.jpg
+  path: /media/projects/goteo-matavenero_15_nico-796x1024.jpg
   alt: projecto2
 date: 2023-10-20T07:18:46.148Z
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
@@ -29,8 +29,6 @@ members:
   - mpo
 collaborators:
   - naz
-  - naz2
-  - naz3
 ---
 <!--StartFragment-->
 

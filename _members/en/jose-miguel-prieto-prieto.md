@@ -1,15 +1,15 @@
 ---
-slug: jpp
-title: Jose Miguel Prieto Prieto
-type: colaborator
+slug: os
+title: Olivier Schulbaum
+type: author
 image:
-  path: /media/members/screenshot-2023-10-18-114803.png
+  path: /media/members/olivier-schulbaum-292672660.jpg
   alt: Jose Miguel Prieto Prieto
-position: colaborator
+position: Strategic director
 description: Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin
   ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris
   dolor, pellentesque eget nibh vel, interdum rutrum urna.
-email: jpp@platoniq.com
+email: olivierschulbaum@platoniq.net
 facebook: https://www.facebook.com/
 twitter: https://www.facebook.com/
 linkedin: https://twitter.com/?lang=en

@@ -1,15 +1,6 @@
 GIT
-  remote: https://github.com/LauraParejaNazaries/jekyll-plugin-platoniq-journal.git
-  revision: 3cd627b328fc45af104add875864fed284ba53e3
-  branch: platoniq-web-plugins
-  specs:
-    jekyll-plugin-platoniq-journal (0.0.22)
-      jekyll (~> 4.2)
-      kramdown (~> 2.3)
-
-GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: fc080d5eac2d37c880ab55f77ff238fb1fec319d
+  revision: 6df1bd3fac377146a24935acbadcb985c26fe6e8
   branch: develop
   specs:
     jekyll-theme-platoniq.net (0.0.1)
@@ -20,6 +11,15 @@ GIT
   revision: 89100593834e5cb2243a6eb8e82bfa9ee4c16ae3
   specs:
     jekyll_custom_permalink (0.0.2)
+
+GIT
+  remote: https://github.com/temp-platoniq/jekyll-plugin-platoniq-journal.git
+  revision: 75fe20f1432e01504fcd60d6cb76556a9c2258f4
+  branch: main
+  specs:
+    jekyll-plugin-platoniq-journal (0.0.22)
+      jekyll (~> 4.2)
+      kramdown (~> 2.3)
 
 GEM
   remote: https://rubygems.org/
@@ -34,31 +34,36 @@ GEM
     eventmachine (1.2.7)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
+    google-protobuf (4.26.1-aarch64-linux)
+      rake (>= 13)
+    google-protobuf (4.26.1-x86_64-linux)
+      rake (>= 13)
     http_parser.rb (0.8.0)
     i18n (1.14.4)
       concurrent-ruby (~> 1.0)
-    jekyll (4.2.2)
+    jekyll (4.3.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
       i18n (~> 1.0)
-      jekyll-sass-converter (~> 2.0)
+      jekyll-sass-converter (>= 2.0, < 4.0)
       jekyll-watch (~> 2.0)
-      kramdown (~> 2.3)
+      kramdown (~> 2.3, >= 2.3.1)
       kramdown-parser-gfm (~> 1.0)
       liquid (~> 4.0)
-      mercenary (~> 0.4.0)
+      mercenary (>= 0.3.6, < 0.5)
       pathutil (~> 0.9)
-      rouge (~> 3.0)
+      rouge (>= 3.0, < 5.0)
       safe_yaml (~> 1.0)
-      terminal-table (~> 2.0)
+      terminal-table (>= 1.8, < 4.0)
+      webrick (~> 1.7)
     jekyll-loading-lazy (0.1.1)
       jekyll (>= 3.0, < 5.0)
       nokogiri (>= 1.10, < 2.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
-    jekyll-sass-converter (2.2.0)
-      sassc (> 2.0.1, < 3.0)
+    jekyll-sass-converter (3.0.0)
+      sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
@@ -79,30 +84,36 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    nokogiri (1.15.6-x86_64-linux)
+    nokogiri (1.16.3-aarch64-linux)
+      racc (~> 1.4)
+    nokogiri (1.16.3-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.5)
     racc (1.7.3)
+    rake (13.2.1)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.6)
-    rouge (3.30.0)
+    rouge (4.2.1)
     safe_yaml (1.0.5)
-    sassc (2.4.0)
-      ffi (~> 1.9)
-    terminal-table (2.0.0)
-      unicode-display_width (~> 1.1, >= 1.1.1)
-    unicode-display_width (1.8.0)
+    sass-embedded (1.74.1-aarch64-linux-gnu)
+      google-protobuf (>= 3.25, < 5.0)
+    sass-embedded (1.74.1-x86_64-linux-gnu)
+      google-protobuf (>= 3.25, < 5.0)
+    terminal-table (3.0.2)
+      unicode-display_width (>= 1.1.1, < 3)
+    unicode-display_width (2.5.0)
     webrick (1.8.1)
 
 PLATFORMS
+  aarch64-linux
   x86_64-linux
 
 DEPENDENCIES
-  jekyll (~> 4.2.1)
+  jekyll (~> 4.3)
   jekyll-loading-lazy
   jekyll-plugin-platoniq-journal!
   jekyll-redirect-from
@@ -115,4 +126,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.4.19
+   2.5.3

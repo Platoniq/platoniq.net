@@ -1,7 +1,7 @@
 ---
 layout: category
 call_to_action: cta-contact-service
-slug: coop_econ
+slug: democratic_economy
 title: Econòmica Coperativa
 subtitle: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit. Proin
   elit mauris, condimentum quis aliquet ac, efficitur nec mauris. Quisque eros
@@ -17,8 +17,6 @@ symbol:
   path: /media/categories/symbol_cooperativa.png
   alt: cooperative_economy
 services:
-  - serv5
-  - serv6
-  - serv1
-  - serv2
+  - democratic-funding
+  - matchfunding
 ---

@@ -5,7 +5,7 @@ state: open
 title: projecte 3
 subtitle: s﻿ubtitulo
 banner_image:
-  path: /media/projects/photo-1673390569744-cbc65586f4de.jpg
+  path: /media/projects/3368116853_0c1a7e9e63_c.jpg
   alt: proyecto3
 date: 2023-10-20T07:20:32.854Z
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
@@ -17,9 +17,9 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
   vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum
   bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut
   consectetur feugiat turpis, eget aliquam mi commodo nec.
-budget: "30.000"
-private_percentage: "10"
-public_percentage: "50"
+budget: "315.000"
+private_percentage: "60"
+public_percentage: "0"
 looking_finance_percentage: "40"
 services:
   - serv6
@@ -31,7 +31,8 @@ members:
   - lrb
   - lrm
 collaborators:
-  - col1
+  - naz2
+  - naz
 ---
 <!--StartFragment-->
 
