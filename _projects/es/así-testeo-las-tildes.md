@@ -31,6 +31,6 @@ Aún así como decía el Loco:
 
 > Yo para ser feliz quiero un camión
 
+{% metrics { "items": \[ { "number": "86%", "text": "Percentaje" }, { "number": "523k",  "text": "Benefits" }, { "number": "24", "text": "Group Members" } ] } %}
 
-
-{% metrics { "items": [ { "number": "86%", "text": "Percentaje" }, { "number": "523k",  "text": "Benefits" }, { "number": "24", "text": "Group Members" } ] } %}
+Test
