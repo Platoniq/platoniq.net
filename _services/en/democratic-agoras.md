@@ -11,4 +11,6 @@ description: >-
   2. To have a digital space where the proposals made in the different Agoras can be collected and prioritised
 
   3. Create an electoral programme (political parties), strategic lines (organisations) or a set of political proposals resulting from the participatory process.
+Image:
+  path: /media/services/gif01.gif
 ---
