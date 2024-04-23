@@ -20,17 +20,14 @@ private_percentage: "60"
 public_percentage: "0"
 looking_finance_percentage: "40"
 services:
-  - serv6
-  - serv5
+  - citizen-assemblies-dialogues
 categories:
   - future_culture
 members:
-  - emo
   - lrb
   - lrm
 collaborators:
-  - naz2
-  - naz
+  - canodrom
 ---
 ¿Qué tal si le damos un boost a la democracia en España? ¡Te presentamos la Escuela de Creatividad y Democracia!
 
@@ -38,7 +35,7 @@ Nuestro objetivo es nada menos que construir una cultura política que llegue al
 
 ## Impacto potencial
 
-Aquí irán las cajitas verdes (faltan bullet points)
+{% metrics { "items": \[ { "number": "86%", "text": "Percentaje" }, { "number": "523k",  "text": "Benefits" }, { "number": "24", "text": "Group Members" } ] } %}
 
 ![](/media/3360002157_4bf40f461c_c.jpg "Simposio Educación Expandida Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND")
 
