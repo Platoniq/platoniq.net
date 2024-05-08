@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: 8b8a88c04f6ee3f623995f50b345c0c125b539d8
+  revision: 9254974fcd36f1529b45ba7304e4ed6571b52f72
   branch: develop
   specs:
     jekyll-theme-platoniq.net (0.0.1)
@@ -39,7 +39,7 @@ GEM
     google-protobuf (4.26.1-x86_64-linux)
       rake (>= 13)
     http_parser.rb (0.8.0)
-    i18n (1.14.4)
+    i18n (1.14.5)
       concurrent-ruby (~> 1.0)
     jekyll (4.3.3)
       addressable (~> 2.4)
@@ -99,9 +99,9 @@ GEM
     rexml (3.2.6)
     rouge (4.2.1)
     safe_yaml (1.0.5)
-    sass-embedded (1.75.0-aarch64-linux-gnu)
+    sass-embedded (1.77.0-aarch64-linux-gnu)
       google-protobuf (>= 3.25, < 5.0)
-    sass-embedded (1.75.0-x86_64-linux-gnu)
+    sass-embedded (1.77.0-x86_64-linux-gnu)
       google-protobuf (>= 3.25, < 5.0)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
