@@ -1,6 +1,15 @@
 GIT
+  remote: https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git
+  revision: a39e507ed273993267e3b4c8cf391cdbd11e029b
+  branch: main
+  specs:
+    jekyll-plugin-platoniq-journal (0.0.23)
+      jekyll (~> 4.2)
+      kramdown (~> 2.3)
+
+GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: 6df1bd3fac377146a24935acbadcb985c26fe6e8
+  revision: 9254974fcd36f1529b45ba7304e4ed6571b52f72
   branch: develop
   specs:
     jekyll-theme-platoniq.net (0.0.1)
@@ -11,15 +20,6 @@ GIT
   revision: 89100593834e5cb2243a6eb8e82bfa9ee4c16ae3
   specs:
     jekyll_custom_permalink (0.0.2)
-
-GIT
-  remote: https://github.com/temp-platoniq/jekyll-plugin-platoniq-journal.git
-  revision: 75fe20f1432e01504fcd60d6cb76556a9c2258f4
-  branch: main
-  specs:
-    jekyll-plugin-platoniq-journal (0.0.22)
-      jekyll (~> 4.2)
-      kramdown (~> 2.3)
 
 GEM
   remote: https://rubygems.org/
@@ -39,7 +39,7 @@ GEM
     google-protobuf (4.26.1-x86_64-linux)
       rake (>= 13)
     http_parser.rb (0.8.0)
-    i18n (1.14.4)
+    i18n (1.14.5)
       concurrent-ruby (~> 1.0)
     jekyll (4.3.3)
       addressable (~> 2.4)
@@ -84,9 +84,9 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    nokogiri (1.16.3-aarch64-linux)
+    nokogiri (1.16.4-aarch64-linux)
       racc (~> 1.4)
-    nokogiri (1.16.3-x86_64-linux)
+    nokogiri (1.16.4-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -99,9 +99,9 @@ GEM
     rexml (3.2.6)
     rouge (4.2.1)
     safe_yaml (1.0.5)
-    sass-embedded (1.74.1-aarch64-linux-gnu)
+    sass-embedded (1.77.0-aarch64-linux-gnu)
       google-protobuf (>= 3.25, < 5.0)
-    sass-embedded (1.74.1-x86_64-linux-gnu)
+    sass-embedded (1.77.0-x86_64-linux-gnu)
       google-protobuf (>= 3.25, < 5.0)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)

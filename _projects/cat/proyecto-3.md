@@ -22,17 +22,14 @@ private_percentage: "60"
 public_percentage: "0"
 looking_finance_percentage: "40"
 services:
-  - serv6
-  - serv5
+  - citizen-assemblies-dialogues
 categories:
   - future_culture
 members:
-  - emo
   - lrb
   - lrm
 collaborators:
-  - naz2
-  - naz
+  - canodrom
 ---
 <!--StartFragment-->
 
