@@ -35,7 +35,7 @@ Nuestro objetivo es nada menos que construir una cultura política que llegue al
 
 ## Impacto potencial
 
-{% metrics { "items": \[ { "number": "86%", "text": "Percentaje" }, { "number": "523k",  "text": "Benefits" }, { "number": "24", "text": "Group Members" } ] } %}
+{% metrics { "items": [ { "number": "86%", "text": "Percentaje" }, { "number": "523k",  "text": "Benefits" }, { "number": "24", "text": "Group Members" } ] } %}
 
 ![](/media/3360002157_4bf40f461c_c.jpg "Simposio Educación Expandida Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND")
 
