@@ -1,6 +1,6 @@
 ---
 layout: project
-slug: pro5
+slug: BancoComun
 state: closed
 banner_image:
   path: /media/projects/3368131461_89a5d3f0ba_c.jpg
@@ -12,9 +12,9 @@ looking_finance_percentage: "0"
 services:
   - open-source-digital-tools
 categories:
-  - citizen_empowerment
+  - future_culture
 members:
   - cp
 collaborators:
-  - naz2
+  - ay-bcn
 ---

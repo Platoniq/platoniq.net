@@ -1,9 +1,11 @@
 ---
 layout: project
-slug: pro5
+slug: BancoComun
 state: closed
 title: Banco Común de Conocimientos
-subtitle: subítulo
+subtitle: ¿Qué te gustaría saber hacer y nunca has encontrado quién te lo
+  explicase? ¿Cuántas cosas puedes enseñarle a tus amigos que les puede ayudar?
+  ¿Conoces a alguien que sabe hacer algo "valioso", "curioso", "especial"?
 banner_image:
   path: /media/projects/3368131461_89a5d3f0ba_c.jpg
   alt: El grupo motor sale al mercadillo del barrio a impartir el taller a vecinos
@@ -11,8 +13,8 @@ banner_image:
     el IES Antonio Dominguez Ortiz. // ZEMOS98. Antonio Miñán. CC BY-NC-ND
 date: 2024-03-04T16:33:15.803Z
 description: Banco Común de Conocimientos (BCC) es un proyecto pionero que nace
-  en Barcelona en 2006 de la mano del colectivo Platoniq, con el apoyo de un
-  amplio grupo de profesionales de diversos campos y colaboradores puntuales que
+  en Barcelona de la mano del colectivo Platoniq, con el apoyo de un amplio
+  grupo de profesionales de diversos campos y colaboradores puntuales que
   ofrecen e intercambian sus conocimientos. BCC tiene como objetivo desarrollar,
   crear y proteger espacios de intercambio y transmisión libre de conocimientos,
   potenciar el saber como un bien común que permita seguir aprendiendo, y
@@ -25,11 +27,11 @@ looking_finance_percentage: "0"
 services:
   - open-source-digital-tools
 categories:
-  - citizen_empowerment
+  - future_culture
 members:
   - cp
 collaborators:
-  - naz2
+  - ay-bcn
 ---
 ¿Abrimos un banco?
 
