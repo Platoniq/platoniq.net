@@ -1,6 +1,6 @@
 ---
 layout: project
-slug: pro3
+slug: escuelab
 state: open
 title: "School for Creativity & Democracy "
 subtitle: SCD aims to be a gateway to the world of citizen deliberation

@@ -1,8 +1,8 @@
 ---
 layout: project
-slug: pro3
+slug: escuelab
 state: open
-title: "Escuela Creatividad & Democracia "
+title: Escuela Creatividad & Democracia (ECD)
 subtitle: La ECD quiere ser una puerta de entrada al mundo a experiencias de
   participación ciudadana de las que poder formar parte
 banner_image:

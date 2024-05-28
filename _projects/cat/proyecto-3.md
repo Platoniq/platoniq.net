@@ -1,6 +1,6 @@
 ---
 layout: project
-slug: pro3
+slug: escuelab
 state: open
 title: projecte 3
 subtitle: s﻿ubtitulo
