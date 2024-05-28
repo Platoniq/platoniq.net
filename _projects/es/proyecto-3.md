@@ -3,7 +3,8 @@ layout: project
 slug: pro3
 state: open
 title: "Escuela Creatividad & Democracia "
-subtitle: s﻿ubtitulo
+subtitle: La ECD quiere ser una puerta de entrada al mundo a experiencias de
+  participación ciudadana de las que poder formar parte
 banner_image:
   path: /media/projects/3368116853_0c1a7e9e63_c.jpg
   alt: El grupo motor sale al mercadillo del barrio a impartir el taller a vecinos
@@ -54,8 +55,6 @@ Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Apre
 Estamos haciendo muchas cosas emocionantes para fortalecer la democracia y hacer que los jóvenes participen más en la toma de decisiones. Por ejemplo, trabajamos con grupos cívicos y expertos para seguir de cerca lo que pasa en las asambleas ciudadanas y asegurarnos de que esos resultados se escuchen en la política real.
 
 También organizamos campañas para que las ideas de los jóvenes importen de verdad en el gobierno y para expresarse y ser escuchados en la sociedad. Además, estamos creando programas de formación que enseñan cómo funcionan otras formas de democracia y cómo formar parte de ellas.
-
-{% video { "title": "Culturafutura", "url": "https://drive.google.com/file/d/1Hw4Lb0Y4SSStFtll65b-tG5LNUYzVL1w/view?usp=drive_link" } %}
 
 ¡Y eso no es todo! Estamos experimentando con nuevas formas de juntar a la gente y que se sientan inspirados para compartir sus ideas y colaborar. Y para que todo esto llegue a más personas, estamos usando internet y las redes sociales para difundir información interesante y promover el diálogo abierto.
 
