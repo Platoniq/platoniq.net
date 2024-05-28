@@ -2,7 +2,7 @@
 layout: project
 slug: dialogos-migrantes
 state: open
-title: Diálogos Migrantes
+title: Diálogos Migrantes. Hacia una Constitución Migrante
 subtitle: Nuevas narrativas contra la desinformación y la polarización respecto
   a las personas racializadas.
 banner_image:

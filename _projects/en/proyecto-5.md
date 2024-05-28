@@ -3,7 +3,8 @@ layout: project
 slug: dialogos-migrantes
 state: open
 title: "Migrant Dialogues "
-subtitle: Towards a Migrant Constitution
+subtitle: Towards a Migrant Constitution. New narratives against misinformation
+  and polarisation towards racialised people.
 banner_image:
   path: /media/projects/captura-de-pantalla-2023-10-10-a-las-8.51.34.jpg
   alt: proyecto 5
