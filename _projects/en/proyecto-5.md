@@ -22,15 +22,13 @@ private_percentage: "50"
 public_percentage: "30"
 looking_finance_percentage: "20"
 services:
-  - serv3
-  - serv4
+  - citizen-assemblies-dialogues
 categories:
-  - coop_econ
-  - citizen_empowerment
+  - democratic_innovation
 members:
   - cp
 collaborators:
-  - la-fera
+  - canodrom
 ---
 <!--StartFragment-->
 

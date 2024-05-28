@@ -19,15 +19,13 @@ private_percentage: "50"
 public_percentage: "30"
 looking_finance_percentage: "20"
 services:
-  - serv3
-  - serv4
+  - citizen-assemblies-dialogues
 categories:
-  - coop_econ
-  - citizen_empowerment
+  - democratic_innovation
 members:
   - cp
 collaborators:
-  - la-fera
+  - canodrom
 ---
 <!--StartFragment-->
 
@@ -37,7 +35,9 @@ Partiendo de esta premisa, desde la **Fundación Platoniq** hemos iniciado un pr
 
 ### Impacto Potencial:
 
-Participación 86%     -     Alcance 523k     -     Acciones 24
+{% metrics { "items": \[ { "number": "86%", "text": "Participación" }, { "number": "523k",  "text": "Alcance" }, { "number": "24", "text": "Acciones" } ] } %}
+
+
 
 ![“Somos Migras”, de Luna Andrade](/media/captura-de-pantalla-2023-10-10-a-las-8.48.11.jpg "“Somos Migras”, de Luna Andrade")
 
