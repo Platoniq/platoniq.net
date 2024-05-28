@@ -6,7 +6,7 @@ title: "School for Creativity & Democracy "
 subtitle: SCD aims to be a gateway to the world of citizen deliberation
   experiences to be part of.
 banner_image:
-  path: /media/projects/3368116853_0c1a7e9e63_c.jpg
+  path: /media/projects/3368131461_89a5d3f0ba_c.jpg
   alt: The motor group goes out to the neighbourhood market to give the workshop
     to neighbours and vendors. Platoniq // ZEMOS98. Antonio Miñán. CC
     BY-NC-NDproyecto3
