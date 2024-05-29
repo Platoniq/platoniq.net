@@ -35,7 +35,7 @@ Partiendo de esta premisa, desde la **Fundación Platoniq** hemos iniciado un pr
 
 ### Impacto Potencial:
 
-{% metrics { "items": \[ { "number": "86%", "text": "Participación" }, { "number": "523k",  "text": "Alcance" }, { "number": "24", "text": "Acciones" } ] } %}
+{% metrics { "items":[ { "number": "86%", "text": "Participación" }, { "number": "523k",  "text": "Alcance" }, { "number": "24", "text": "Acciones" } ] } %}
 
 
 
