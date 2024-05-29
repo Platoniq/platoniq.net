@@ -37,8 +37,6 @@ Partiendo de esta premisa, desde la **Fundación Platoniq** hemos iniciado un pr
 
 {% metrics { "items":[ { "number": "86%", "text": "Participación" }, { "number": "523k",  "text": "Alcance" }, { "number": "24", "text": "Acciones" } ] } %}
 
-
-
 ![“Somos Migras”, de Luna Andrade](/media/captura-de-pantalla-2023-10-10-a-las-8.48.11.jpg "“Somos Migras”, de Luna Andrade")
 
 ### En busca de nuevas narrativas
