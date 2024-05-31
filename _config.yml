@@ -1,15 +1,13 @@
 title: Platoniq.net
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+email: info@platoniq.net 
+description: >-
   Static site for platoniq.
-baseurl: "" # "/journal-content" # the subpath of your site, e.g. /blog
-#url: "https://platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://super-khapse-96265e.netlify.app/"
+baseurl: ""
+url: "https://platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
 analytics_id: G-LLGWB6TLNS
 
 #repository: "https://github.com/Platoniq/platoniq.net"
 repository: "https://github.com/temp-platoniq/platoniq.net"
-# logo: media/logo-platoniq_xxss.png
 
 twitter:
   username: platoniq
@@ -20,7 +18,7 @@ image:
 
 # Build settings
 theme: jekyll-theme-platoniq.net
-timezone: ES
+timezone: Europe/Madrid
 
 collections:
   pages:
@@ -88,9 +86,3 @@ plugins:
   - jekyll-target-blank
   - jekyll-sitemap
 
-
-# target-blank:
-#   add_css_classes: link-external
-#   noopener: true
-#   noreferrer: true
-#   rel: nofollow
