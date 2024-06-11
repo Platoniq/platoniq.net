@@ -8,8 +8,8 @@ call_to_action:
   image_path: /media/services/symbol_innovacio.png
   image_alt: Visiones audaces
   text: Visiones audaces
-  url: Visiones audaces
-  url_text: Visiones audaces
+  url: Contáctanos
+  url_text: Contáctanos
 Image:
   path: /media/services/gif01.gif
   alt: Platoniq

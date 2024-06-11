@@ -6,7 +6,7 @@ collaborators:
   - agora-democratiche
 call_to_action:
   image_path: /media/services/symbol_innovacio.png
-  url: Visiones audaces
+  url: Contáctanos
 Image:
   path: /media/services/gif01.gif
   alt: Platoniq
