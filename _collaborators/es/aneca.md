@@ -4,4 +4,5 @@ title: ANECA
 logo:
   path: /media/collaborators/logo_aneca_rgb_negativo_verde.png
   alt: ANECA
+web: https://participa.aneca.es/?locale=es
 ---
