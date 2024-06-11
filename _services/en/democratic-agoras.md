@@ -2,10 +2,17 @@
 layout: service
 slug: Democratic-agoras
 title: Democratic Agoras
-description: Hybrid Participatory Process Design
+collaborators:
+  - agora-democratiche
+call_to_action:
+  image_path: /media/services/symbol_innovacio.png
+  url: Visiones audaces
 Image:
   path: /media/services/gif01.gif
   alt: Platoniq
+description: Hybrid Participatory Process Design
+image:
+  path: /media/services/symbol_innovacio.png
 ---
 1. Create self-organised spaces for dialogue or deliberation on a specific theme (chosen by the Agora organiser), in order to draw up joint and specific proposals.
 2. To have a digital space where the proposals made in the different Agoras can be collected and prioritised

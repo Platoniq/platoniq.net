@@ -7,4 +7,11 @@ description: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit.
   eros ex, laoreet sed lobortis nec, interdum a augue.
 Image:
   path: /media/services/gif01.gif
+image:
+  path: /media/services/symbol_innovacio.png
+collaborators:
+  - agora-democratiche
+call_to_action:
+  image_path: /media/services/symbol_innovacio.png
+  url: Visiones audaces
 ---
