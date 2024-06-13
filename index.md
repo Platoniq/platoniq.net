@@ -1,5 +1,4 @@
 ---
-collection: index
-layout: home
+redirect_to: /es/home
 ---
 </section>

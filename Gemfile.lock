@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: 0162f016256995a740d0c050b6208acea62037a2
+  revision: 7891a3746ceb75f0f97aedf5b4a681498f8e750b
   branch: develop
   specs:
     jekyll-theme-platoniq.net (0.0.1)
@@ -104,9 +104,9 @@ GEM
       strscan
     rouge (4.2.1)
     safe_yaml (1.0.5)
-    sass-embedded (1.77.4-aarch64-linux-gnu)
+    sass-embedded (1.77.5-aarch64-linux-gnu)
       google-protobuf (>= 3.25, < 5.0)
-    sass-embedded (1.77.4-x86_64-linux-gnu)
+    sass-embedded (1.77.5-x86_64-linux-gnu)
       google-protobuf (>= 3.25, < 5.0)
     strscan (3.1.0)
     terminal-table (3.0.2)

@@ -55,7 +55,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-      locale: en
+      locale: es
   - scope:
       path: "*/en/*"
     values:
