@@ -17,5 +17,4 @@ group :jekyll_plugins do
   gem 'jekyll-target-blank'
   gem 'jekyll-youtube'
   gem 'webrick'
-  # gem "jekyll-plugin-platoniq-journal", git: "https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git"
 end
