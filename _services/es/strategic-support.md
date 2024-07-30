@@ -2,12 +2,23 @@
 layout: service
 slug: strategic-support
 title: Acompañamiento estratégico
-description: Acompañamos a entidades públicas y privadas en sus procesos de
-  elaboración de planes estratégicos participativos. Acompañamos a entidades
-  públicas y privadas en sus procesos de elaboración de planes
+collaborators:
+  - ECF
+call_to_action:
+  image_path: /media/services/gif01.gif
+  image_alt: Platoniq
+  text: Platoniq
+  url: Platoniq
+  url_text: Platoniq
 Image:
   path: /media/services/symbol_cooperativa.png
   alt: platoniq
+description: Acompañamos a entidades públicas y privadas en sus procesos de
+  elaboración de planes estratégicos participativos. Acompañamos a entidades
+  públicas y privadas en sus procesos de elaboración de planes
+image:
+  path: /media/services/symbol_innovacio.png
+  alt: Acompañamiento estratégico
 ---
 <!--StartFragment-->
 
@@ -16,6 +27,8 @@ No importa de donde procedas, ni siquiera si eres de aquí. Si no respondes al e
 Partiendo de esta premisa, desde la **Fundación Platoniq** hemos iniciado un proyecto que busca elaborar una Constitución Migrante, a través de la búsqueda creativa de nuevas narrativas que puedan compensar la polarización que sufren las personas racializadas en España. 
 
 ### Impacto Potencial:
+
+{% metrics { "items": [{"number":"86%","text":"participacion"},{"number":"523k","text":"Alcance"},{"number":"24 ","text":"Acciones"}] } %}
 
 Participación 86%     -     Alcance 523k     -     Acciones 24
 

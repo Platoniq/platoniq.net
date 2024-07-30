@@ -7,4 +7,11 @@ description: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit.
   eros ex, laoreet sed lobortis nec, interdum a augue
 Image:
   path: /media/services/symbol_cooperativa.png
+image:
+  path: /media/services/symbol_innovacio.png
+collaborators:
+  - ECF
+call_to_action:
+  image_path: /media/services/gif01.gif
+  url: Platoniq
 ---
