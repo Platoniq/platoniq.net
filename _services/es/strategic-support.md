@@ -30,9 +30,9 @@ Partiendo de esta premisa, desde la **Fundación Platoniq** hemos iniciado un pr
 
 {% metrics { "items": [{"number":"86%","text":"participacion"},{"number":"523k","text":"Alcance"},{"number":"24 ","text":"Acciones"}] } %}
 
-Participación 86%     -     Alcance 523k     -     Acciones 24
 
-![“Somos Migras”, de Luna Andrade](/media/captura-de-pantalla-2023-10-10-a-las-8.48.11.jpg "“Somos Migras”, de Luna Andrade")
+
+![Bold visions en Idea Camp](/media/idea_camp_2017_ii_0023.jpg "Bold Visions en Idea Camp")
 
 ### En busca de nuevas narrativas
 
