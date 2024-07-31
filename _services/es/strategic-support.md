@@ -17,7 +17,7 @@ description: Acompañamos a las organizaciones en la elaboración de su plan
   estratégico mediante la reflexión de su identidad, entorno, gobernanza,
   trayectoria y principales retos para visionar futuros deseables.
 image:
-  path: /media/services/captura-de-pantalla-2024-07-31-a-las-10.34.50.png
+  path: /media/services/symbol_innovacio.png
   alt: Acompañamiento estratégico
 ---
 La planificación estratégica es la herramienta que utilizan las organizaciones para el diagnóstico, el análisis, la reflexión y la toma de decisiones, sobre sus objetivos y el enfoque de sus actividades futuras, para adaptarse a los cambios y las demandas del entorno de acuerdo con su razón de ser.
