@@ -46,17 +46,17 @@ image:
 
 {% metrics { "items": [{"number":"86%","text":"Participación"},{"number":"8","text":"Consensos alcanzados"},{"number":"14","text":"Acciones activadas"}] } %}
 
-
-
-![Bold visions en Idea Camp](/media/idea_camp_2017_ii_0023.jpg "Bold Visions en Idea Camp")
-
 ### En busca de nuevas narrativas
 
 A través de tres encuentros, se identificó el tipo de impacto que tienen los procesos de polarización y desinformación en las comunidades migrantes desde una perspectiva personal, emocional, económica, social y política y, para hacerlo, tres colectivos de Barcelona, **Furia Mexicana, Puerta de África y Singa Barcelona,** estuvieron trabajando en el efecto que tienen los nuevos discursos a la hora de sensibilizar sobre las problemáticas migrantes desde el punto de vista de las comunidades afectadas.
 
 {% quote { "author": "Fundación Pare Manel" } %} Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad{% endquote %}
 
-Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas por La Fera: Luna Andrade, Patricia Vizcaíno, Pedro García Mejía y Shalana Rodríguez, se exploraron nuevas formas narrativas por habla de los conflictos migratorios, la economía migrante, el papel de Europa o las ventajas del cooperativismo social y solidario. Cada una de ellas, aportó una pieza audiovisual disparadora de debate, a partir de las cuales se debía desempeñar una respuesta escenificada. **El resultado es una serie de piezas de naturaleza diversa que buscan conmover a la ciudadanía y sensibilizarla sobre estas cuestiones**
+Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas por La Fera: Luna Andrade, Patricia Vizcaíno, Pedro García Mejía y Shalana Rodríguez, se exploraron nuevas formas narrativas por habla de los conflictos migratorios, la economía migrante, el papel de Europa o las ventajas del cooperativismo social y solidario. 
+
+![Bold visions en Idea Camp](/media/idea_camp_2017_ii_0023.jpg "Bold Visions en Idea Camp")
+
+Cada una de ellas, aportó una pieza audiovisual disparadora de debate, a partir de las cuales se debía desempeñar una respuesta escenificada. **El resultado es una serie de piezas de naturaleza diversa que buscan conmover a la ciudadanía y sensibilizarla sobre estas cuestiones**
 
 ![Acompañamiento Estratégico](/media/captura-de-pantalla-2024-07-31-a-las-10.34.50.png "Acompañamiento estratégico")
 
