@@ -50,7 +50,7 @@ Cada una de ellas, aportó una pieza audiovisual disparadora de debate, a partir
 
 Ejemplo de vídeo
 
-{% video { "title": "Temps Migrant", "url": "https://peertube.laguixeta.cat/videos/embed/a40e7792-f959-4775-a474-e4d8eac6c7de" } %}
+{% video { "title": "Som mobilitat", "url": "https://youtu.be/k9V156JomQE?si=Ou4FLLoFLaupOVQg" } %}
 
 Los Diálogos Migrantes son un primer paso en la elaboración de una Constitución Migrante que pretende dar voz y entender cuál es el modelo de sociedad de un colectivo totalmente heterogéneo atravesado por las contradicciones de un mundo complejo, que hay que navegar si queremos construir una sociedad más justa e igualitaria.
 
