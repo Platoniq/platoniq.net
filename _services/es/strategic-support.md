@@ -41,5 +41,3 @@ Identificamos factores del entorno general y específico que afectan a la organi
 ![Bold visions en Idea Camp](/media/idea_camp_2017_ii_0023.jpg "Bold Visions en Idea Camp")
 
 Elaboramos una hoja de ruta que recoja las acciones, proyectos y actividades prioritarias a desarrollar en un marco temporal determinado y ayudamos a identificar qué tipo de recursos de la organización (personas, económicos, stakeholders) se van a necesitar para llevar a cabo las acciones prioritarias.
-
-#### "Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad". Fundación Pare Manel
