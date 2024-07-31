@@ -22,9 +22,11 @@ image:
 ---
 <!--StartFragment-->
 
-Acompañamos a las organizaciones en la elaboración de su plan estratégico mediante la reflexión sobre su identidad, entorno, gobernanza, trayectoria y principales retos para visionar juntos futuros deseables.
+La planificación sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada.
 
-¿A dónde nos gustaría llegar? ¿Qué queremos aprender durante este proceso? ¿Cómo podemos aportar desde cada una de nuestras experiencias y conocimientos? ¿Cómo queremos que sea la organización en los próximos años? ¿Qué objetivos queremos ver cumplidos?
+La planificación estratégica es la herramienta que utilizan las organizaciones para el diagnóstico, el análisis, la reflexión y la toma de decisiones, sobre sus objetivos y el enfoque de sus actividades futuras, para adaptarse a los cambios y las demandas del entorno de acuerdo con su razón de ser.
+
+Mediante la planificación estratégica no sólo nos adaptamos al entorno, sino que creamos nuestro futuro deseado, como organización interna y con los objetivos sociales cumplidos.
 
 ###### Impacto Potencial:
 
@@ -45,8 +47,6 @@ Identificamos factores del entorno general y específico que afectan a la organi
 Elaboramos una hoja de ruta que recoja las acciones, proyectos y actividades prioritarias a desarrollar en un marco temporal determinado y ayudamos a identificar qué tipo de recursos de la organización (personas, económicos, stakeholders) se van a necesitar para llevar a cabo las acciones prioritarias.
 
 {% quote %} Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad{% endquote %}
-
-Cada una de ellas, aportó una pieza audiovisual disparadora de debate, a partir de las cuales se debía desempeñar una respuesta escenificada. **El resultado es una serie de piezas de naturaleza diversa que buscan conmover a la ciudadanía y sensibilizarla sobre estas cuestiones**
 
 Los Diálogos Migrantes son un primer paso en la elaboración de una Constitución Migrante que pretende dar voz y entender cuál es el modelo de sociedad de un colectivo totalmente heterogéneo atravesado por las contradicciones de un mundo complejo, que hay que navegar si queremos construir una sociedad más justa e igualitaria.
 
