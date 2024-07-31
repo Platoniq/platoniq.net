@@ -2,20 +2,31 @@
 layout: about-us
 slug: about-us
 title: Sobre Platoniq
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet dolores consectetur voluptate eos cupiditate ea alias, distinctio corporis quis aspernatur consequuntur velit aliquam quae facere, dolorem ab aperiam animi doloribus.
+description: La Fundación Platoniq diseña procesos participativos digitales y
+  facilita metodologías innovadoras de participación para contribuir a formar
+  sociedades y organizaciones más democráticas y justas, haciendo uso de
+  tecnologías cívicas abiertas.
 img:
-    source: /media/site-symbols/drops-about-us.png
-    alt: drops-png
+  source: /media/site-symbols/drops-about-us.png
+  alt: drops-png
+subtitle: Platoniq
+Image:
+  path: /media/pages/happy-faces.png
+  alt: platoniq
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut consectetur feugiat turpis, eget aliquam mi commodo nec. Ut maximus massa non ante suscipit, vel facilisis tellus semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus egestas placerat nibh, ut ultrices enim. In a tincidunt massa. Integer laoreet euismod elit in pharetra. Aenean aliquam tempor ipsum, eget elementum arcu finibus et. Quisque fringilla tortor non urna convallis, nec ullamcorper erat tristique. Phasellus at tortor sapien. In enim elit, fermentum quis congue quis, pellentesque non nibh.
+Es además impulsora de la plataforma de crowdfunding cívico Goteo.org, a través de la cual financia iniciativas con impacto social -a nivel regional, nacional e internacional-, fomenta el cooperativismo y refuerza el conjunto de la Economía Social y Solidaria. Por ello, la Fundación es miembro de la XES (Xarxa d’Economia Solidària de Catalunya).
+
+La Fundación promueve la transparencia, la economía colaborativa y ética, la innovación democrática y la replicabilidad de las experiencias. Se financia a través de alianzas con instituciones públicas y privadas que comparten su misión y visión. Contamos con 23 personas contratadas distribuidas entre las oficinas de Barcelona, Madrid, Roma y Palma (sede social y fiscal) y un equipo de colaboradores en el estado español y en otros países europeos.
 
 ### Impacto Potencial:
 
+{% metrics { "items": [{"number":"32","text":"Proyectos nacionales e internacionales"},{"text":"Recaudación de Goteo","number":"20M"},{}] } %}
+
 #### Aquí irian las cajitas verdes (86%, 523k, 24)
 
-- Elemento de lista 1
-- Elemento de lista 2
-- Elemento de lista 3
+* Elemento de lista 1
+* Elemento de lista 2
+* Elemento de lista 3
 
 En enim elit, fermentum quis congue quis, pellentesque non nibh.
 
