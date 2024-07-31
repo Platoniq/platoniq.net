@@ -13,22 +13,40 @@ call_to_action:
 Image:
   path: /media/services/symbol_cooperativa.png
   alt: platoniq
-description: Acompañamos a entidades públicas y privadas en sus procesos de
-  elaboración de planes estratégicos participativos. Acompañamos a entidades
-  públicas y privadas en sus procesos de elaboración de planes
+description: >-
+  Utilizamos la planificación estratégica para el diagnóstico, el análisis,
+  la reflexión y la toma de decisiones dentro de las organizaciones sobre sus
+  metas y objetivos
+
+
+  1. Estudiamos la situación de una organización para decidir en qué dirección se quiere transformar
+
+
+  2. Acompañamos a la organización para adaptarse a los cambios y las demandas del entorno desde su misión
+
+
+  3. Co-creamos el futuro deseado para la organización, de acuerdo con sus objetivos sociales
 image:
   path: /media/services/symbol_innovacio.png
   alt: Acompañamiento estratégico
 ---
 <!--StartFragment-->
 
-No importa de donde procedas, ni siquiera si eres de aquí. Si no respondes al estereotipo blanco, europeo, bien formado y con capacidad adquisitiva tienes un problema del que no vas a poder escapar: la desigualdad de [trato y la discriminación](https://app.asana.com/0/1206229921988761/1206229925746767) por motivos raciales.
+\-> Ayudamos a identificar los factores internos y externos que condicionan el desarrollo de las organizaciones
 
-Partiendo de esta premisa, desde la **Fundación Platoniq** hemos iniciado un proyecto que busca elaborar una Constitución Migrante, a través de la búsqueda creativa de nuevas narrativas que puedan compensar la polarización que sufren las personas racializadas en España. 
+\-> Facilitamos herramientas que permiten definir los grandes retos de la organización, los objetivos estratégicos y los resultados a medio y largo plazo
+
+\-> Co-diseñamos acciones y actividades futuras que pueden llevarse a cabo de forma realista con los recursos y organización interna disponible
+
+\-> Co-creamos relatos de futuro inspiradores para que la comunidad sea capaz de acompañar en el camino
+
+\-> Establecemos sistemas de seguimiento y evaluación del impacto que permiten medir el nivel de consecución de los hitos y objetivos
 
 ### Impacto Potencial:
 
-{% metrics { "items": [{"number":"86%","text":"participacion"},{"number":"523k","text":"Alcance"},{"number":"24 ","text":"Acciones"}] } %}
+{% metrics { "items": [{"number":"86%","text":"Participación"},{"number":"8","text":"Consensos alcanzados"},{"number":"14","text":"Acciones activadas"}] } %}
+
+
 
 ![Bold visions en Idea Camp](/media/idea_camp_2017_ii_0023.jpg "Bold Visions en Idea Camp")
 
