@@ -32,7 +32,7 @@ Mediante la planificación estratégica no sólo nos adaptamos al entorno, si
 
 #### Resultados esperados
 
-{% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Hoja de ruta clara"},{"number":"","text":"Activación de la comunidad"}] } %}
+{% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Hoja de ruta clara"},{"number":"","text":"Activación de la comunidad"},{"text":"Sentido de pertencia"}] } %}
 
 #### Ascender una montaña para imaginar futuros posibles
 
