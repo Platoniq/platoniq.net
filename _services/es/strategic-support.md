@@ -44,7 +44,7 @@ image:
 
 ### Impacto Potencial:
 
-{% metrics { "items": [{"number":"86%","text":"Participación"},{"number":"8","text":"Consensos alcanzados"},{"number":"14","text":"Acciones activadas"}] } %}
+{% metrics { "items": [{"number":"100%","text":"Participación"},{"number":"60%","text":"Mejora de la productividad"},{"number":"18","text":"Acciones activadas"}] } %}
 
 ### En busca de nuevas narrativas
 
