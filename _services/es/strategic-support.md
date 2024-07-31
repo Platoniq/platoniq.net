@@ -22,7 +22,7 @@ image:
 ---
 <!--StartFragment-->
 
-Acompañamos a las organizaciones en la elaboración de su plan estratégico mediante la reflexión de su identidad, entorno, gobernanza, trayectoria y principales retos para visionar futuros deseables.
+Acompañamos a las organizaciones en la elaboración de su plan estratégico mediante la reflexión sobre su identidad, entorno, gobernanza, trayectoria y principales retos para visionar juntos futuros deseables.
 
 ¿A dónde nos gustaría llegar? ¿Qué queremos aprender durante este proceso? ¿Cómo podemos aportar desde cada una de nuestras experiencias y conocimientos? ¿Cómo queremos que sea la organización en los próximos años? ¿Qué objetivos queremos ver cumplidos?
 
