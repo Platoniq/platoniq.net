@@ -22,21 +22,15 @@ image:
 ---
 <!--StartFragment-->
 
-\-> Ayudamos a identificar los factores internos y externos que condicionan el desarrollo de las organizaciones
-
-\-> Facilitamos herramientas que permiten definir los grandes retos de la organización, los objetivos estratégicos y los resultados a medio y largo plazo
-
-\-> Co-diseñamos acciones y actividades futuras que pueden llevarse a cabo de forma realista con los recursos y organización interna disponible
-
-\-> Co-creamos relatos de futuro inspiradores para que la comunidad sea capaz de acompañar en el camino
-
-\-> Establecemos sistemas de seguimiento y evaluación del impacto que permiten medir el nivel de consecución de los hitos y objetivos
+Acompañamos a las organizaciones en la elaboración de su plan estratégico mediante la reflexión de su identidad, entorno, gobernanza, trayectoria y principales retos para visionar futuros deseables.
 
 ### Impacto Potencial:
 
 {% metrics { "items": [{"number":"100%","text":"Participación"},{"number":"60%","text":"Mejora de la productividad"},{"number":"18","text":"Acciones activadas"}] } %}
 
 ### En busca de nuevas narrativas
+
+{% questions { "items": [{"question":"Ayudamos a identificar los factores internos y externos que condicionan el desarrollo de las organizaciones"},{"question":"Facilitamos herramientas que permiten definir los grandes retos de la organización, los objetivos estratégicos y los resultados a medio y largo plazo"},{"question":"Co-diseñamos acciones y actividades futuras que pueden llevarse a cabo de forma realista con los recursos y organización interna disponible"},{"question":"Co-creamos relatos de futuro inspiradores para que la comunidad sea capaz de acompañar en el camino"},{"question":"Establecemos sistemas de seguimiento y evaluación del impacto que permiten medir el nivel de consecución de los hitos y objetivos"}] } %}
 
 A través de tres encuentros, se identificó el tipo de impacto que tienen los procesos de polarización y desinformación en las comunidades migrantes desde una perspectiva personal, emocional, económica, social y política y, para hacerlo, tres colectivos de Barcelona, **Furia Mexicana, Puerta de África y Singa Barcelona,** estuvieron trabajando en el efecto que tienen los nuevos discursos a la hora de sensibilizar sobre las problemáticas migrantes desde el punto de vista de las comunidades afectadas.
 
