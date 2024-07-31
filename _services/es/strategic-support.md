@@ -20,9 +20,15 @@ image:
   path: /media/services/symbol_innovacio.png
   alt: Acompañamiento estratégico
 ---
+La planificación estratégica es la herramienta que utilizan las organizaciones para el diagnóstico, el análisis, la reflexión y la toma de decisiones, sobre sus objetivos y el enfoque de sus actividades futuras, para adaptarse a los cambios y las demandas del entorno de acuerdo con su razón de ser.
+
+Mediante la planificación estratégica no sólo nos adaptamos al entorno, sino que creamos nuestro futuro deseado, como organización interna y con los objetivos sociales cumplidos.
+
+#### ¿Qué proponemos?
+
 {% questions { "items": [{"question":"Ayudamos a identificar los factores internos y externos que condicionan el desarrollo de las organizaciones"},{"question":"Facilitamos herramientas que permiten definir los grandes retos de la organización, los objetivos estratégicos y los resultados a medio y largo plazo"},{"question":"Co-diseñamos acciones y actividades futuras que pueden llevarse a cabo de forma realista con los recursos y organización interna disponible"},{"question":"Co-creamos relatos de futuro inspiradores para que la comunidad sea capaz de acompañar en el camino"},{"question":"Establecemos sistemas de seguimiento y evaluación del impacto que permiten medir el nivel de consecución de los hitos y objetivos"}] } %}
 
-#### ¿Qué nos proponemos?
+
 
 {% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Mejora del sentido de pertenencia"},{"number":"","text":"Activación de la comunidad"}] } %}
 
@@ -30,23 +36,7 @@ image:
 
 La planificación sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada.
 
-La planificación estratégica es la herramienta que utilizan las organizaciones para el diagnóstico, el análisis, la reflexión y la toma de decisiones, sobre sus objetivos y el enfoque de sus actividades futuras, para adaptarse a los cambios y las demandas del entorno de acuerdo con su razón de ser.
-
-Mediante la planificación estratégica no sólo nos adaptamos al entorno, sino que creamos nuestro futuro deseado, como organización interna y con los objetivos sociales cumplidos.
-
-#### Adiós a las turbulencias y los puntos de fricción
-
 Identificamos factores del entorno general y específico que afectan a la organización en el presente y futuro para convertir las turbulencias en desafíos para la organización.
-
-*¿Qué incluye el proceso de análisis?* 
-
-1. Análisis externo (PESTEL)
-2. Análisis de los grupos de interés (Stakeholders Map) 
-3. Análisis interno. Análisis de recursos y capacidades (DAFO). 
-4. Sesiones de apoyo
-5. Sesiones grupales
-6. Definición de retos
-7. Co-diseño de la dinámica de digestión con toda la organización
 
 ![Bold visions en Idea Camp](/media/idea_camp_2017_ii_0023.jpg "Bold Visions en Idea Camp")
 
