@@ -11,7 +11,7 @@ img:
   alt: drops-png
 subtitle: Platoniq
 Image:
-  path: /media/pages/happy-faces.png
+  path: /media/pages/drops-about-us.png
   alt: platoniq
 ---
 Es además impulsora de la plataforma de crowdfunding cívico Goteo.org, a través de la cual financia iniciativas con impacto social -a nivel regional, nacional e internacional-, fomenta el cooperativismo y refuerza el conjunto de la Economía Social y Solidaria. Por ello, la Fundación es miembro de la XES (Xarxa d’Economia Solidària de Catalunya).
