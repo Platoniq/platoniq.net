@@ -28,13 +28,13 @@ La planificación estratégica es la herramienta que utilizan las organizacion
 
 Mediante la planificación estratégica no sólo nos adaptamos al entorno, sino que creamos nuestro futuro deseado, como organización interna y con los objetivos sociales cumplidos.
 
-#### Impacto Potencial:
-
-{% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Mejora del sentido de pertenencia"},{"number":"","text":"Activación de la comunidad"}] } %}
-
 #### Ascender una montaña para imaginar futuros posibles
 
 {% questions { "items": [{"question":"Ayudamos a identificar los factores internos y externos que condicionan el desarrollo de las organizaciones"},{"question":"Facilitamos herramientas que permiten definir los grandes retos de la organización, los objetivos estratégicos y los resultados a medio y largo plazo"},{"question":"Co-diseñamos acciones y actividades futuras que pueden llevarse a cabo de forma realista con los recursos y organización interna disponible"},{"question":"Co-creamos relatos de futuro inspiradores para que la comunidad sea capaz de acompañar en el camino"},{"question":"Establecemos sistemas de seguimiento y evaluación del impacto que permiten medir el nivel de consecución de los hitos y objetivos"}] } %}
+
+#### Impacto Potencial:
+
+{% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Mejora del sentido de pertenencia"},{"number":"","text":"Activación de la comunidad"}] } %}
 
 #### Identificamos turbulencias y puntos de fricción
 
