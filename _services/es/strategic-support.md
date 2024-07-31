@@ -36,10 +36,10 @@ Mediante la planificación estratégica no sólo nos adaptamos al entorno, si
 
 #### Ascender una montaña para imaginar futuros posibles
 
-La planificación sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada.
+La planificación sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada.
 
 Identificamos factores del entorno general y específico que afectan a la organización en el presente y futuro para convertir las turbulencias en desafíos para la organización.
 
-Elaboramos una hoja de ruta que recoja las acciones, proyectos y actividades prioritarias a desarrollar en un marco temporal determinado y ayudamos a identificar qué tipo de recursos de la organización (personas, económicos, stakeholders) se van a necesitar para llevar a cabo las acciones prioritarias.
-
 ![Bold visions en Idea Camp](/media/idea_camp_2017_ii_0023.jpg "Bold Visions en Idea Camp")
+
+Elaboramos una hoja de ruta que recoja las acciones, proyectos y actividades prioritarias a desarrollar en un marco temporal determinado y ayudamos a identificar qué tipo de recursos de la organización (personas, económicos, stakeholders) se van a necesitar para llevar a cabo las acciones prioritarias.
