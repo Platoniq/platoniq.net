@@ -24,7 +24,9 @@ image:
 
 Acompañamos a las organizaciones en la elaboración de su plan estratégico mediante la reflexión de su identidad, entorno, gobernanza, trayectoria y principales retos para visionar futuros deseables.
 
-Cada una de ellas, aportó una pieza audiovisual disparadora de debate, a partir de las cuales se debía desempeñar una respuesta escenificada. **El resultado es una serie de piezas de naturaleza diversa que buscan conmover a la ciudadanía y sensibilizarla sobre estas cuestiones**
+¿A dónde nos gustaría llegar? ¿Qué queremos aprender durante este proceso? ¿Cómo podemos aportar desde cada una de nuestras experiencias y conocimientos? ¿Cómo queremos que sea la organización en los próximos años? ¿Qué objetivos queremos ver cumplidos?
+
+
 
 ### Impacto Potencial:
 
