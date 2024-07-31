@@ -20,8 +20,6 @@ image:
   path: /media/services/symbol_innovacio.png
   alt: Acompañamiento estratégico
 ---
-<!--StartFragment-->
-
 La planificación sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada.
 
 La planificación estratégica es la herramienta que utilizan las organizaciones para el diagnóstico, el análisis, la reflexión y la toma de decisiones, sobre sus objetivos y el enfoque de sus actividades futuras, para adaptarse a los cambios y las demandas del entorno de acuerdo con su razón de ser.
@@ -51,5 +49,3 @@ Elaboramos una hoja de ruta que recoja las acciones, proyectos y actividades pri
 Los Diálogos Migrantes son un primer paso en la elaboración de una Constitución Migrante que pretende dar voz y entender cuál es el modelo de sociedad de un colectivo totalmente heterogéneo atravesado por las contradicciones de un mundo complejo, que hay que navegar si queremos construir una sociedad más justa e igualitaria.
 
 No es suficiente con saber que un problema esta pasando, ni siquiera tratar de cambiar las políticas que hacen que eso ocurra, hace falta cambiar la mentalidad y la sensibilidad de todos y cada uno de los que comparten el espacio público en una sociedad como la española para que dicho espacio pueda ser común, compartido y vivido con naturalidad por cualquiera.
-
-<!--EndFragment-->
