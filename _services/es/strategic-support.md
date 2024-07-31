@@ -28,17 +28,17 @@ Acompañamos a las organizaciones en la elaboración de su plan estratégico med
 
 {% metrics { "items": [{"number":"100%","text":"Participación"},{"number":"60%","text":"Mejora de la productividad"},{"number":"18","text":"Acciones activadas"}] } %}
 
-### En busca de nuevas narrativas
+### Un camino hacia las visiones audaces
 
 {% questions { "items": [{"question":"Ayudamos a identificar los factores internos y externos que condicionan el desarrollo de las organizaciones"},{"question":"Facilitamos herramientas que permiten definir los grandes retos de la organización, los objetivos estratégicos y los resultados a medio y largo plazo"},{"question":"Co-diseñamos acciones y actividades futuras que pueden llevarse a cabo de forma realista con los recursos y organización interna disponible"},{"question":"Co-creamos relatos de futuro inspiradores para que la comunidad sea capaz de acompañar en el camino"},{"question":"Establecemos sistemas de seguimiento y evaluación del impacto que permiten medir el nivel de consecución de los hitos y objetivos"}] } %}
 
-A través de tres encuentros, se identificó el tipo de impacto que tienen los procesos de polarización y desinformación en las comunidades migrantes desde una perspectiva personal, emocional, económica, social y política y, para hacerlo, tres colectivos de Barcelona, **Furia Mexicana, Puerta de África y Singa Barcelona,** estuvieron trabajando en el efecto que tienen los nuevos discursos a la hora de sensibilizar sobre las problemáticas migrantes desde el punto de vista de las comunidades afectadas.
+
 
 {% quote { "author": "Fundación Pare Manel" } %} Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad{% endquote %}
 
+### Un camino hacia las visiones audaces
 
-
-
+A través de tres encuentros, se identificó el tipo de impacto que tienen los procesos de polarización y desinformación en las comunidades migrantes desde una perspectiva personal, emocional, económica, social y política y, para hacerlo, tres colectivos de Barcelona, **Furia Mexicana, Puerta de África y Singa Barcelona,** estuvieron trabajando en el efecto que tienen los nuevos discursos a la hora de sensibilizar sobre las problemáticas migrantes desde el punto de vista de las comunidades afectadas.
 
 Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas por La Fera: Luna Andrade, Patricia Vizcaíno, Pedro García Mejía y Shalana Rodríguez, se exploraron nuevas formas narrativas por habla de los conflictos migratorios, la economía migrante, el papel de Europa o las ventajas del cooperativismo social y solidario. 
 
