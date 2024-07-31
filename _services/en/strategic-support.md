@@ -8,7 +8,7 @@ description: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit.
 Image:
   path: /media/services/symbol_cooperativa.png
 image:
-  path: /media/services/symbol_innovacio.png
+  path: /media/services/captura-de-pantalla-2024-07-31-a-las-10.34.50.png
 collaborators:
   - ECF
 call_to_action:
