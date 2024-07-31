@@ -13,9 +13,9 @@ call_to_action:
 Image:
   path: /media/services/symbol_cooperativa.png
   alt: platoniq
-description: Acompañar  a una organización en la ascensión de esa cima es un
-  aprendizaje de doble vía; tanto para la organización que decide emprender el
-  viaje, como para quien acepta el reto de acompañarle.
+description: Acompañamos a las organizaciones en la elaboración de su plan
+  estratégico mediante la reflexión de su identidad, entorno, gobernanza,
+  trayectoria y principales retos para visionar futuros deseables.
 image:
   path: /media/services/symbol_innovacio.png
   alt: Acompañamiento estratégico
