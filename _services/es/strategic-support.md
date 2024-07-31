@@ -24,13 +24,13 @@ image:
 
 No importa de donde procedas, ni siquiera si eres de aquí. Si no respondes al estereotipo blanco, europeo, bien formado y con capacidad adquisitiva tienes un problema del que no vas a poder escapar: la desigualdad de [trato y la discriminación](https://app.asana.com/0/1206229921988761/1206229925746767) por motivos raciales.
 
+![Acompañamiento Estratégico](/media/captura-de-pantalla-2024-07-31-a-las-10.32.12.png "Acompañamiento estratégico")
+
 Partiendo de esta premisa, desde la **Fundación Platoniq** hemos iniciado un proyecto que busca elaborar una Constitución Migrante, a través de la búsqueda creativa de nuevas narrativas que puedan compensar la polarización que sufren las personas racializadas en España. 
 
 ### Impacto Potencial:
 
 {% metrics { "items": [{"number":"86%","text":"participacion"},{"number":"523k","text":"Alcance"},{"number":"24 ","text":"Acciones"}] } %}
-
-
 
 ![Bold visions en Idea Camp](/media/idea_camp_2017_ii_0023.jpg "Bold Visions en Idea Camp")
 
