@@ -13,19 +13,9 @@ call_to_action:
 Image:
   path: /media/services/symbol_cooperativa.png
   alt: platoniq
-description: >-
-  Utilizamos la planificación estratégica para el diagnóstico, el análisis,
-  la reflexión y la toma de decisiones dentro de las organizaciones sobre sus
-  metas y objetivos
-
-
-  1. Estudiamos la situación de una organización para decidir en qué dirección se quiere transformar
-
-
-  2. Acompañamos a la organización para adaptarse a los cambios y las demandas del entorno desde su misión
-
-
-  3. Co-creamos el futuro deseado para la organización, de acuerdo con sus objetivos sociales
+description: Acompañar  a una organización en la ascensión de esa cima es un
+  aprendizaje de doble vía; tanto para la organización que decide emprender el
+  viaje, como para quien acepta el reto de acompañarle.
 image:
   path: /media/services/symbol_innovacio.png
   alt: Acompañamiento estratégico
