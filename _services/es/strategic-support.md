@@ -30,7 +30,7 @@ Acompañamos a las organizaciones en la elaboración de su plan estratégico med
 
 ### Impacto Potencial:
 
-{% metrics { "items": [{"number":"100%","text":"Participación"},{"number":"60%","text":"Mejora de la productividad"},{"number":"18","text":"Acciones activadas"}] } %}
+{% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Mejora del sentido de pertenencia"},{"number":"","text":"Activación de la comunidad"}] } %}
 
 ### Un camino hacia las visiones audaces
 
