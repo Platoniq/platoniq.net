@@ -20,7 +20,7 @@ La Fundación promueve la transparencia, la economía colaborativa y ética, l
 
 ### Impacto Potencial:
 
-{% metrics { "items": [{"number":"32","text":"Proyectos nacionales e internacionales"},{"text":"Recaudación de Goteo","number":"20M"},{}] } %}
+{% metrics { "items": [{"number":"32","text":"Proyectos nacionales e internacionales"},{"text":"Recaudación de Goteo","number":"20M"},{"text":"Diàlogos ciudadanos","number":"14"}] } %}
 
 #### Aquí irian las cajitas verdes (86%, 523k, 24)
 
