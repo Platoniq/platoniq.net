@@ -13,5 +13,5 @@ collaborators:
   - ECF
 call_to_action:
   image_path: /media/services/gif01.gif
-  url: Platoniq
+  url: Platoniq2
 ---

@@ -7,9 +7,9 @@ collaborators:
 call_to_action:
   image_path: /media/services/gif01.gif
   image_alt: Platoniq
-  text: Platoniq
-  url: Platoniq
-  url_text: Platoniq
+  text: Platoniq1
+  url: Platoniq2
+  url_text: Platoniq3
 Image:
   path: /media/services/symbol_cooperativa.png
   alt: platoniq
