@@ -46,10 +46,6 @@ Elaboramos una hoja de ruta que recoja las acciones, proyectos y actividades pri
 
 {% quote %} Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad{% endquote %}
 
-
-
-![Acompañamiento Estratégico](/media/captura-de-pantalla-2024-07-31-a-las-10.34.50.png "Acompañamiento estratégico")
-
 Cada una de ellas, aportó una pieza audiovisual disparadora de debate, a partir de las cuales se debía desempeñar una respuesta escenificada. **El resultado es una serie de piezas de naturaleza diversa que buscan conmover a la ciudadanía y sensibilizarla sobre estas cuestiones**
 
 Los Diálogos Migrantes son un primer paso en la elaboración de una Constitución Migrante que pretende dar voz y entender cuál es el modelo de sociedad de un colectivo totalmente heterogéneo atravesado por las contradicciones de un mundo complejo, que hay que navegar si queremos construir una sociedad más justa e igualitaria.
