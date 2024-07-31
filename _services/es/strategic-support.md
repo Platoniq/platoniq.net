@@ -26,21 +26,21 @@ Acompañamos a las organizaciones en la elaboración de su plan estratégico med
 
 ¿A dónde nos gustaría llegar? ¿Qué queremos aprender durante este proceso? ¿Cómo podemos aportar desde cada una de nuestras experiencias y conocimientos? ¿Cómo queremos que sea la organización en los próximos años? ¿Qué objetivos queremos ver cumplidos?
 
-
-
 ### Impacto Potencial:
 
 {% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Mejora del sentido de pertenencia"},{"number":"","text":"Activación de la comunidad"}] } %}
 
-### Un camino hacia las visiones audaces
+### Ascender una montaña para imaginar futuros posibles
 
 {% questions { "items": [{"question":"Ayudamos a identificar los factores internos y externos que condicionan el desarrollo de las organizaciones"},{"question":"Facilitamos herramientas que permiten definir los grandes retos de la organización, los objetivos estratégicos y los resultados a medio y largo plazo"},{"question":"Co-diseñamos acciones y actividades futuras que pueden llevarse a cabo de forma realista con los recursos y organización interna disponible"},{"question":"Co-creamos relatos de futuro inspiradores para que la comunidad sea capaz de acompañar en el camino"},{"question":"Establecemos sistemas de seguimiento y evaluación del impacto que permiten medir el nivel de consecución de los hitos y objetivos"}] } %}
 
-### Un camino hacia las visiones audaces
+### Identificamos turbulencias y puntos de fricción
 
 A través de tres encuentros, se identificó el tipo de impacto que tienen los procesos de polarización y desinformación en las comunidades migrantes desde una perspectiva personal, emocional, económica, social y política y, para hacerlo, tres colectivos de Barcelona, **Furia Mexicana, Puerta de África y Singa Barcelona,** estuvieron trabajando en el efecto que tienen los nuevos discursos a la hora de sensibilizar sobre las problemáticas migrantes desde el punto de vista de las comunidades afectadas.
 
 ![Bold visions en Idea Camp](/media/idea_camp_2017_ii_0023.jpg "Bold Visions en Idea Camp")
+
+### Un camino hacia las visiones audaces
 
 Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas por La Fera: Luna Andrade, Patricia Vizcaíno, Pedro García Mejía y Shalana Rodríguez, se exploraron nuevas formas narrativas por habla de los conflictos migratorios, la economía migrante, el papel de Europa o las ventajas del cooperativismo social y solidario. 
 
@@ -49,10 +49,6 @@ Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas 
 Cada una de ellas, aportó una pieza audiovisual disparadora de debate, a partir de las cuales se debía desempeñar una respuesta escenificada. **El resultado es una serie de piezas de naturaleza diversa que buscan conmover a la ciudadanía y sensibilizarla sobre estas cuestiones**
 
 ![Acompañamiento Estratégico](/media/captura-de-pantalla-2024-07-31-a-las-10.34.50.png "Acompañamiento estratégico")
-
-Ejemplo de vídeo
-
-{% video { "title": "Som mobilitat", "url": "https://youtu.be/k9V156JomQE?si=Ou4FLLoFLaupOVQg" } %}
 
 Los Diálogos Migrantes son un primer paso en la elaboración de una Constitución Migrante que pretende dar voz y entender cuál es el modelo de sociedad de un colectivo totalmente heterogéneo atravesado por las contradicciones de un mundo complejo, que hay que navegar si queremos construir una sociedad más justa e igualitaria.
 
