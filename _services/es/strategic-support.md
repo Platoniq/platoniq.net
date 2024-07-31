@@ -7,9 +7,9 @@ collaborators:
 call_to_action:
   image_path: /media/services/gif01.gif
   image_alt: Platoniq
-  text: Platoniq1
+  text: ¿Quieres saber más?
   url: Platoniq2
-  url_text: Platoniq3
+  url_text: ¡Pregúntanos!
 Image:
   path: /media/services/symbol_cooperativa.png
   alt: platoniq
@@ -42,10 +42,6 @@ Identificamos factores del entorno general y específico que afectan a la organi
 
 #### Un camino hacia las visiones audaces
 
-Elaboramos una hoja de ruta que recoja las acciones, proyectos y actividades prioritarias a desarrollar en un marco temporal determinado y ayudamos a identificar qué tipo de recursos de la organización (personas, económicos, stakeholders) se van a necesitar para llevar a cabo las acciones prioritarias.
-
 {% quote %} Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad{% endquote %}
 
-Los Diálogos Migrantes son un primer paso en la elaboración de una Constitución Migrante que pretende dar voz y entender cuál es el modelo de sociedad de un colectivo totalmente heterogéneo atravesado por las contradicciones de un mundo complejo, que hay que navegar si queremos construir una sociedad más justa e igualitaria.
-
-No es suficiente con saber que un problema esta pasando, ni siquiera tratar de cambiar las políticas que hacen que eso ocurra, hace falta cambiar la mentalidad y la sensibilidad de todos y cada uno de los que comparten el espacio público en una sociedad como la española para que dicho espacio pueda ser común, compartido y vivido con naturalidad por cualquiera.
+Elaboramos una hoja de ruta que recoja las acciones, proyectos y actividades prioritarias a desarrollar en un marco temporal determinado y ayudamos a identificar qué tipo de recursos de la organización (personas, económicos, stakeholders) se van a necesitar para llevar a cabo las acciones prioritarias.
