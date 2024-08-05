@@ -36,11 +36,7 @@ Mediante la planificación estratégica no sólo nos adaptamos al entorno, si
 
 La planificación sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada.
 
-Identificamos factores del entorno general y específico que afectan a la organización en el presente y futuro para convertir las turbulencias en desafíos para la organización.
-
-La planificación sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada.
-
-Identificamos factores del entorno general y específico que afectan a la organización en el presente y futuro para convertir las turbulencias en desafíos para la organización.
+En Platoniq Identificamos factores del entorno general y específico que afectan a la organización en el presente y futuro para convertir las turbulencias en desafíos para la organización.
 
 ![Bold visions en Idea Camp](/media/idea_camp_2017_ii_0023.jpg "Bold Visions en Idea Camp")
 
