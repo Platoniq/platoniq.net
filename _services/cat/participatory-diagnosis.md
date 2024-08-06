@@ -7,4 +7,11 @@ description: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit.
   eros ex, laoreet sed lobortis nec, interdum a augue.
 Image:
   path: /media/services/captura-de-pantalla-de-2024-02-13-17-40-37.png
+image:
+  path: /media/services/visiones-audaces.png
+collaborators:
+  - wikimedia
+call_to_action:
+  image_path: /media/services/gif01.gif
+  url: Contáctanos
 ---
