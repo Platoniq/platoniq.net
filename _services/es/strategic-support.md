@@ -34,7 +34,7 @@ Mediante la planificación estratégica no sólo nos adaptamos al entorno, si
 
 #### ¿Por qué somos diferentes?
 
-En la Fundación Platoniq no sólo utilizamos **las principales metodologías** de planificación estratégica: PESTEL, DAFO, OKR, entrevistas en profundidad o la definición de la misión, visión y valores, también **aplicamos la creatividad a todo el proceso** generando metáforas como el camino del héroe o la [ascensión a una montaña](https://journal.platoniq.net/es/wilder-journal-2/rethink/strategic-planning/) para darnos la oportunidad de pensar más allá, identificar las virtudes de la organización y definir algunos de los hitos más importantes a tomar en cuenta cuando decidamos emprender este camino.
+En la Fundación Platoniq no sólo utilizamos **las principales metodologías** de planificación estratégica: PESTEL, DAFO, OKR, entrevistas en profundidad o la definición de la misión, visión y valores, también **aplicamos la creatividad a todo el proceso** generando metáforas como el camino del héroe o la [ascensión a una montaña](https://journal.platoniq.net/es/wilder-journal-2/rethink/strategic-planning/) para darnos la oportunidad de pensar más allá, identificar las virtudes de la organización y definir algunos de los hitos más importantes a tomar en cuenta cuando decidimos emprender este camino.
 
 {% numbers { "items": [{"label":"¿que nos hace difetentes?"},{"label":"que nos hace diferentes"}] } %}
 
