@@ -38,11 +38,11 @@ Mediante la planificación estratégica no sólo nos adaptamos al entorno, si
 
 "Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad". Fundació Pare Manel
 
-#### ¿Qué nos hace diferentes?
+#### ¿Por qué somos diferentes?
 
-En la Fundación Platoniq no sólo aplicamos las principales metodologías de planificación estratégica: PESTEL, DAFO, OKR, entrevistas en profundidad 
+En la Fundación Platoniq no sólo utilizamos **las principales metodologías** de planificación estratégica: PESTEL, DAFO, OKR, entrevistas en profundidad o la definición de la misión, visión y valores, también **aplicamos la creatividad a todo el proceso** generando metáforas como el camino del héroe o la [ascensión a una montaña](https://journal.platoniq.net/es/wilder-journal-2/rethink/strategic-planning/) para darnos la oportunidad de pensar más allá, identificar las virtudes de la organización y definir algunos de los hitos más importantes a tomar en cuenta cuando decidamos emprender este camino.
 
-
+{% numbers { "items": [{"label":"¿que nos hace difetentes?"},{"label":"que nos hace diferentes"}] } %}
 
 Ascender una montaña para imaginar futuros posibles La planificación sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada.
 
