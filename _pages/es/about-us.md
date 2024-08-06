@@ -20,13 +20,15 @@ Unos años después, nuestro motor pasó a ser la creación e intercambio del co
 
 Nuestro trabajo fue reconocido internacionalmente recibiendo una mención de honor en los Digital Arts Awards de la UNESCO, (Francia, 2005), el Festival de Cultura Digital Transmediale en Berlín (2006, Alemania) donde obtuvimos el segundo premio con el proyecto Burn Station y en el festival Festival Internacional de Artes Electrónicas y Video Transitio_MX en Mexico D.F. (2007, México) cuando recibimos el Premio Comunidades Transnacionales.
 
-En esta primera etapa Platoniq logra posicionarse como una organización pionera en el diseño de herramientas de emancipación ciudadana e innovación social, difundidas en congresos de innovación y festivales de cultura digital y puestas en marcha en organizaciones como el Grupo Mondragón del País Vasco y multitud de espacios educativos de Europa, Asia y Latinoamérica.
+En esta primera etapa Platoniq logra posicionarse como una organización **pionera en el diseño de herramientas de emancipación ciudadana e innovación social**, difundidas en congresos de innovación y festivales de cultura digital y puestas en marcha en organizaciones como el Grupo Mondragón del País Vasco y multitud de espacios educativos de Europa, Asia y Latinoamérica.
 
 Tras una etapa de distribución y creación e intercambio  de conocimiento, el siguiente ciclo debía abordar los problemas de sostenibilidad y financiación de las actividades y proyectos con impacto social. Y así fue como nació **Goteo.org**, una incubadora que produce y conecta las buenas ideas con los contextos que las necesitan y una plataforma que las hace realidad mediante la financiación colectiva. 
 
 Las dos organizaciones han sido impulso y vanguardia en su ámbito, sirviendo de inspiración a muchas otras iniciativas y abriendo camino mediante la creatividad y la innovación.
 
-EN 2021 se inicia una nueva etapa con la fusión de ambos proyectos convirtiéndonos en Fundación Platoniq. Nuestros equipos se unen, así como nuestros retos y objetivos. En esta coyuntura, además, se nos revela la urgencia de actuar con el convencimiento de que la metamorfosis hacia una sociedad más democrática, justa y equitativa es posible. Necesitamos hacerlo realidad para que deje de ser una utopía.
+EN 2021 se inicia una nueva etapa con la fusión de ambos proyectos convirtiéndonos en Fundación Platoniq. Nuestros equipos se unen, así como nuestros retos y objetivos. En esta coyuntura, además, se nos revela la urgencia de actuar con el convencimiento de que la metamorfosis hacia una sociedad más democrática, justa y equitativa es posible. 
+
+**Necesitamos hacerlo realidad para que deje de ser una utopía.**
 
 #### Impacto a lo largo de los años
 
