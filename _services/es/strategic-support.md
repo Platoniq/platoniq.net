@@ -20,9 +20,9 @@ image:
   path: /media/services/symbol_innovacio.png
   alt: Acompañamiento estratégico
 ---
-La planificación estratégica es la herramienta que utilizan las organizaciones para el diagnóstico, el análisis, la reflexión y la toma de decisiones, sobre sus objetivos y el enfoque de sus actividades futuras, para adaptarse a los cambios y las demandas del entorno de acuerdo con su razón de ser.
+La planificación estratégica es la herramienta que utilizan las organizaciones para el **diagnóstico**, el **análisis**, la **reflexión** y la **toma de decisiones**, sobre sus objetivos y el enfoque de sus actividades futuras, para adaptarse a los cambios y las demandas del entorno de acuerdo con su razón de ser.
 
-Mediante la planificación estratégica no sólo nos adaptamos al entorno, sino que creamos nuestro futuro deseado, como organización interna y con los objetivos sociales cumplidos.
+Mediante la planificación estratégica no sólo nos adaptamos al entorno, sino que **creamos nuestro futuro deseado**, como organización interna y con los objetivos sociales cumplidos.
 
 #### ¿Qué proponemos?
 
@@ -42,4 +42,4 @@ En la Fundación Platoniq no sólo utilizamos **las principales metodologías** 
 
 ![El equipo de la Fundació Pare Manel](/media/photo_2024-07-31_15-47-18.jpg "El equipo de la Fundació Pare Manel")
 
-"Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad". Fundació Pare Manel
+**"Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad"**. Fundació Pare Manel
