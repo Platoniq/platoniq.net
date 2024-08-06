@@ -44,4 +44,6 @@ Elaboramos una hoja de ruta que recoja las acciones, proyectos y actividades pri
 
 Elaboramos una hoja de ruta que recoja las acciones, proyectos y actividades prioritarias a desarrollar en un marco temporal determinado y ayudamos a identificar qué tipo de recursos de la organización (personas, económicos, stakeholders) se van a necesitar para llevar a cabo las acciones prioritarias.
 
-{% quote { "author": "Fundación Pare Manel" } %}"Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad".{% endquote %}
+**Qué dicen de nosotros**
+
+"Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad". Fundació Pare Manel
