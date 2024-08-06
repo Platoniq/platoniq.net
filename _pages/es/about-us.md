@@ -22,6 +22,4 @@ La Fundación promueve la transparencia, la economía colaborativa y ética, l
 
 {% metrics { "items": [{"number":"32","text":"Proyectos nacionales e internacionales"},{"text":"Recaudación de Goteo","number":"20M"},{"text":"Diàlogos ciudadanos","number":"14"}] } %}
 
-
-
-{% quote %}SI el cielo es el límite, ¿dónde estamos?{% endquote %}
+{% quote %}Si el cielo es el límite, ¿dónde estamos?{% endquote %}
