@@ -28,7 +28,7 @@ Mediante la planificación estratégica no sólo nos adaptamos al entorno, si
 
 {% questions { "items": [{"question":"Ayudamos a identificar los factores internos y externos que condicionan el desarrollo de las organizaciones"},{"question":"Facilitamos herramientas que permiten definir los grandes retos de la organización, los objetivos estratégicos y los resultados a medio y largo plazo"},{"question":"Co-diseñamos acciones y actividades futuras que pueden llevarse a cabo de forma realista con los recursos y organización interna disponible"},{"question":"Co-creamos relatos de futuro inspiradores para que la comunidad sea capaz de acompañar en el camino"},{"question":"Establecemos sistemas de seguimiento y evaluación del impacto que permiten medir el nivel de consecución de los hitos y objetivos"}] } %}
 
-#### Resultados esperados
+#### ¿Qué resultados buscamos?
 
 {% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Hoja de ruta clara"},{"number":"","text":"Mayor agilidad"},{"text":"Sentido de pertencia"},{"text":"Mejor planificación"},{"text":"Proyecto ilusionante"}] } %}
 
