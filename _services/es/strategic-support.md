@@ -41,6 +41,8 @@ También **aplicamos la creatividad a todo el proceso** generando nuestras propi
 
 ![Universo](/media/captura-de-pantalla-2024-08-06-a-las-12.13.43.png "Universo")
 
+{% questions { "items": [{"question":"¿Cómo pueden ayudarnos las historias a llevar las experiencias individuales a una dimensión colectiva?"},{"question":"¿Cómo pueden contribuir a que la gente entienda cómo son las vivencias de los demás?"},{"question":"¿Pueden servirnos para que las personas cuestionen sus sesgos hacia los demás?"}] } %}
+
 #### Lo que dicen de nosotros
 
 ![El equipo de la Fundació Pare Manel](/media/photo_2024-07-31_15-47-18.jpg "El equipo de la Fundació Pare Manel")
