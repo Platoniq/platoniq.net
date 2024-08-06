@@ -4,6 +4,7 @@ slug: strategic-support
 title: Acompañamiento estratégico
 collaborators:
   - pare-manel
+  - uoc
 call_to_action:
   image_path: /media/services/gif01.gif
   image_alt: Platoniq

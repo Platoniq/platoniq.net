@@ -11,6 +11,7 @@ image:
   path: /media/services/symbol_innovacio.png
 collaborators:
   - pare-manel
+  - uoc
 call_to_action:
   image_path: /media/services/gif01.gif
   url: Platoniq2
