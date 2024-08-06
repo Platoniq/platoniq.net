@@ -12,6 +12,6 @@ image:
 collaborators:
   - agora-democratiche
 call_to_action:
-  image_path: /media/services/symbol_innovacio.png
+  image_path: /media/services/gif01.gif
   url: Contáctanos
 ---

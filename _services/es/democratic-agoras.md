@@ -5,9 +5,9 @@ title: Ágoras Democráticas
 collaborators:
   - agora-democratiche
 call_to_action:
-  image_path: /media/services/symbol_innovacio.png
-  image_alt: Visiones audaces
-  text: Visiones audaces
+  image_path: /media/services/gif01.gif
+  image_alt: ¿Quieres saber más?
+  text: ¿Quieres saber más?
   url: Contáctanos
   url_text: Contáctanos
 Image:
