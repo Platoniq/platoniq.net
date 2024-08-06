@@ -3,7 +3,7 @@ layout: service
 slug: strategic-support
 title: Acompañamiento estratégico
 collaborators:
-  - ECF
+  - pare-manel
 call_to_action:
   image_path: /media/services/gif01.gif
   image_alt: Platoniq

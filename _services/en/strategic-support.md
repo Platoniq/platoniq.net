@@ -10,7 +10,7 @@ Image:
 image:
   path: /media/services/symbol_innovacio.png
 collaborators:
-  - ECF
+  - pare-manel
 call_to_action:
   image_path: /media/services/gif01.gif
   url: Platoniq2
