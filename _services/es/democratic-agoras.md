@@ -25,3 +25,5 @@ Creamos espacios autogestionados de diálogo o deliberación sobre un tema concr
 Disponemos de un espacio digital donde recoger y priorizar las propuestas realizadas en las diferentes Ágoras.
 
 Acompañamos en el proceso de elaboración de programas electorales (partidos políticos), líneas estratégicas (organizaciones) o un conjunto de propuestas políticas resultantes del proceso participativo.
+
+![Agorà Democratiche](/media/photo_2024-07-31_15-48-25.jpg "Agorà Democratiche")
