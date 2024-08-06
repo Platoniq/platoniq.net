@@ -1,15 +1,32 @@
 ---
-title: Contacto
 layout: contact
 slug: contact
-call_to_action: cta-contact-simple
+subtitle: platoniq
 symbol:
   path: /media/site-symbols/contact.png
   alt: contact
----
-<h5>Platoniq Sistema Cultural</h5>
-Fàbrica de Creació Fabra i Coats - 1ª Planta \
-C/ Sant Adrià, 20 · 08030 Barcelona 
+title: Contacto
+call_to_action: cta-contact-simple
+description: |-
+  **PALMA**
 
-+34 871 57 15 57 
-<h5>info@platoniq.net</h5>
+  Forn de l'Olivera 22- 07012 Palma (Illes Balears)
+
+  +34 871 571 557
+
+
+
+  **BARCELONA**
+
+  Canòdrom - Ateneu d'Innovació Digital i Democràtica
+
+  Concepción Arenal, 165- 08027 Barcelona
+
+  +34 666 769 560
+
+  info@platoniq.net
+Image:
+  path: /media/pages/banner-ingles.jpg
+  alt: platoniq
+---
+platoniq
