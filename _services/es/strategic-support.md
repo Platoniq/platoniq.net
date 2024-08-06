@@ -34,9 +34,9 @@ Mediante la planificación estratégica no sólo nos adaptamos al entorno, si
 
 #### ¿Qué dicen de nosotros?
 
-"Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad". Fundació Pare Manel
-
 ![El equipo de la Fundació Pare Manel](/media/photo_2024-07-31_15-47-18.jpg "El equipo de la Fundació Pare Manel")
+
+"Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad". Fundació Pare Manel
 
 #### ¿Qué nos hace diferentes?
 
