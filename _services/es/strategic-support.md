@@ -38,7 +38,7 @@ En la Fundación Platoniq no sólo utilizamos **las principales metodologías** 
 
 {% numbers { "items": [{"label":"¿que nos hace difetentes?"},{"label":"que nos hace diferentes"}] } %}
 
-Ascender una montaña para imaginar futuros posibles La planificación sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada.
+Ascender una montaña para imaginar futuros posibles La planificación sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada. 
 
 En Platoniq Identificamos factores del entorno general y específico que afectan a la organización en el presente y futuro para convertir las turbulencias en desafíos para la organización.
 
