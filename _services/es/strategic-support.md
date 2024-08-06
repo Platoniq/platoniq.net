@@ -32,12 +32,6 @@ Mediante la planificación estratégica no sólo nos adaptamos al entorno, si
 
 {% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Hoja de ruta clara"},{"number":"","text":"Mayor agilidad"},{"text":"Sentido de pertencia"},{"text":"Mejor planificación"},{"text":"Proyecto ilusionante"}] } %}
 
-#### ¿Qué dicen de nosotros?
-
-![El equipo de la Fundació Pare Manel](/media/photo_2024-07-31_15-47-18.jpg "El equipo de la Fundació Pare Manel")
-
-"Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad". Fundació Pare Manel
-
 #### ¿Por qué somos diferentes?
 
 En la Fundación Platoniq no sólo utilizamos **las principales metodologías** de planificación estratégica: PESTEL, DAFO, OKR, entrevistas en profundidad o la definición de la misión, visión y valores, también **aplicamos la creatividad a todo el proceso** generando metáforas como el camino del héroe o la [ascensión a una montaña](https://journal.platoniq.net/es/wilder-journal-2/rethink/strategic-planning/) para darnos la oportunidad de pensar más allá, identificar las virtudes de la organización y definir algunos de los hitos más importantes a tomar en cuenta cuando decidamos emprender este camino.
@@ -51,3 +45,9 @@ En Platoniq Identificamos factores del entorno general y específico que afectan
 Elaboramos una hoja de ruta que recoja las acciones, proyectos y actividades prioritarias a desarrollar en un marco temporal determinado y ayudamos a identificar qué tipo de recursos de la organización (personas, económicos, stakeholders) se van a necesitar para llevar a cabo las acciones prioritarias.
 
 Elaboramos una hoja de ruta que recoja las acciones, proyectos y actividades prioritarias a desarrollar en un marco temporal determinado y ayudamos a identificar qué tipo de recursos de la organización (personas, económicos, stakeholders) se van a necesitar para llevar a cabo las acciones prioritarias.
+
+#### ¿Qué dicen de nosotros?
+
+![El equipo de la Fundació Pare Manel](/media/photo_2024-07-31_15-47-18.jpg "El equipo de la Fundació Pare Manel")
+
+"Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad". Fundació Pare Manel
