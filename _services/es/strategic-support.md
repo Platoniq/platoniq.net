@@ -25,15 +25,15 @@ La planificación estratégica es la herramienta que utilizan las organizacion
 
 Mediante la planificación estratégica no sólo nos adaptamos al entorno, sino que **creamos nuestro futuro deseado**, como organización interna y con los objetivos sociales cumplidos.
 
-#### ¿Qué proponemos?
-
-{% questions { "items": [{"question":"Ayudamos a identificar los factores internos y externos que condicionan el desarrollo de las organizaciones"},{"question":"Facilitamos herramientas que permiten definir los grandes retos de la organización, los objetivos estratégicos y los resultados a medio y largo plazo"},{"question":"Co-diseñamos acciones y actividades futuras que pueden llevarse a cabo de forma realista con los recursos y organización interna disponible"},{"question":"Co-creamos relatos de futuro inspiradores para que la comunidad sea capaz de acompañar en el camino"},{"question":"Establecemos sistemas de seguimiento y evaluación del impacto que permiten medir el nivel de consecución de los hitos y objetivos"}] } %}
-
 #### ¿Qué resultados buscamos?
 
 {% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Hoja de ruta clara"},{"number":"","text":"Mayor agilidad"},{"text":"Sentido de pertencia"},{"text":"Mejor planificación"},{"text":"Proyecto ilusionante"}] } %}
 
-#### ¿Qué nos hace diferentes?
+#### ¿Cómo trabajamos?
+
+{% questions { "items": [{"question":"Ayudamos a identificar los factores internos y externos que condicionan el desarrollo de las organizaciones"},{"question":"Facilitamos herramientas que permiten definir los grandes retos de la organización, los objetivos estratégicos y los resultados a medio y largo plazo"},{"question":"Co-diseñamos acciones y actividades futuras que pueden llevarse a cabo de forma realista con los recursos y organización interna disponible"},{"question":"Co-creamos relatos de futuro inspiradores para que la comunidad sea capaz de acompañar en el camino"},{"question":"Establecemos sistemas de seguimiento y evaluación del impacto que permiten medir el nivel de consecución de los hitos y objetivos"}] } %}
+
+#### ¿Por qué somos diferentes?
 
 En la Fundación Platoniq no sólo utilizamos **las principales metodologías** de planificación estratégica: PESTEL, DAFO, OKR, entrevistas en profundidad o la definición de la misión, visión y valores.
 
@@ -41,7 +41,7 @@ También **aplicamos la creatividad a todo el proceso** generando nuestras propi
 
 ![Universo](/media/captura-de-pantalla-2024-08-06-a-las-12.13.43.png "Universo")
 
-#### ¿Qué dicen de nosotros?
+#### Lo que dicen de nosotros
 
 ![El equipo de la Fundació Pare Manel](/media/photo_2024-07-31_15-47-18.jpg "El equipo de la Fundació Pare Manel")
 
