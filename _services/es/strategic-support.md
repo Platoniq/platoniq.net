@@ -38,9 +38,13 @@ Mediante la planificación estratégica no sólo nos adaptamos al entorno, si
 
 ![El equipo de la Fundació Pare Manel](/media/photo_2024-07-31_15-47-18.jpg "El equipo de la Fundació Pare Manel")
 
-#### Ascender una montaña para imaginar futuros posibles
+#### ¿Qué nos hace diferentes?
 
-La planificación sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada.
+En la Fundación Platoniq no sólo aplicamos las principales metodologías de planificación estratégica: PESTEL, DAFO, OKR, entrevistas en profundidad 
+
+
+
+Ascender una montaña para imaginar futuros posibles La planificación sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada.
 
 En Platoniq Identificamos factores del entorno general y específico que afectan a la organización en el presente y futuro para convertir las turbulencias en desafíos para la organización.
 
