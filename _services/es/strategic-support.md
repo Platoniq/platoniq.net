@@ -33,7 +33,7 @@ Mediante la planificación estratégica no sólo nos adaptamos al entorno, si
 
 {% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Hoja de ruta clara"},{"number":"","text":"Mayor agilidad"},{"text":"Sentido de pertencia"},{"text":"Mejor planificación"},{"text":"Proyecto ilusionante"}] } %}
 
-#### ¿Por qué somos diferentes?
+#### ¿Qué nos hace diferentes?
 
 En la Fundación Platoniq no sólo utilizamos **las principales metodologías** de planificación estratégica: PESTEL, DAFO, OKR, entrevistas en profundidad o la definición de la misión, visión y valores.
 
