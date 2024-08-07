@@ -14,7 +14,7 @@ Image:
   path: /media/pages/drops-about-us.png
   alt: platoniq
 ---
-Platoniq nació con el objetivo de divulgar el derecho a una cultura libre y la democratización de los medios de comunicación. Junto con el abogado Abel Garriga, creamos la primera licencia libre en España, bajo el nombre de **Aire Incondicional**. De esta etapa destacamos el proyecto **Burn Station**, un sistema de distribución de música y programas radiofónicos bajo licencias copyleft en espacios públicos. Con él desarrollamos nuestro primer software open source de distribución de contenidos libres. Fue replicado y adaptado en escuelas y en varios continentes.
+Platoniq nació con el objetivo de divulgar el derecho a una cultura libre y la democratización de los medios de comunicación. Junto con el abogado Abel Garriga, creamos la primera licencia libre en España, bajo el nombre de **Aire Incondicional**[. De esta etapa destacamos el proyecto **Burn Station**, un sistema de distribución de música y programas radiofónicos bajo licencias copyleft en espacios públicos. Con él desarrollamos nuestro primer software open source de distribución de contenidos libres. Fue replicado y adaptado en escuelas y en varios continentes.](https://www.youtube.com/watch?v=EMnqbcmEPVI)
 
 Unos años después, nuestro motor pasó a ser la creación e intercambio del conocimiento libre. Con el **Banco Común de Conocimientos** (2006-2009), generamos dinámicas de intercambio y producción colectiva en torno a la transmisión libre de conocimientos y a la educación mutua. Creamos los primeros espacios temporales de laboratorio ciudadano con metodologías de participación y co-creación pioneras.
 
