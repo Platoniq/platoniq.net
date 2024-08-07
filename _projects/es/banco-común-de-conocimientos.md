@@ -57,14 +57,12 @@ Bajo la premisa de que todos tenemos algo que enseñar y que todos tenemos algo 
 
 ###### *Formación del grupo motor del taller. Taller Banco Comun de Datos impartido por Platoniq en el IES Antonio Dominguez Ortiz. Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND*
 
+{% quote { "author": "Olivier Schulbaum" } %}Lo que nos toca es inventar modelos de participación experimentales{% endquote %}
+
 ## ¿Qué es el BCC?
 
 El BCC se dedicó a crear espacios donde el intercambio de conocimiento era libre y accesible para todos. Inspirado en el movimiento global de Open Knowledge, el BCC buscaba convertir cada experiencia en una oportunidad de aprendizaje. Desde su primer Mercado de Intercambio en 2006 hasta sus eventos en ciudades como Barcelona, Sevilla y Lisboa, el BCC ha promovido talleres gratuitos y manuales audiovisuales que abarcan una amplia gama de temas.
 
 {% video { "title": "BCC Entrevista", "url": "https://youtu.be/EMnqbcmEPVI?si=6n3kZNkjXjVF9PG5" } %}
-
-
-
-{% quote { "author": "Olivier Schulbaum" } %}Lo que nos toca es inventar modelos de participación experimentales{% endquote %}
 
 ¿Qué motivaba a la gente a unirse? Desde el deseo de aprendizaje y acceso a espacios de reunión hasta la búsqueda de alternativas a instituciones tradicionales, los participantes encontraban en BCC un refugio para sus ideas y valores.
