@@ -13,7 +13,14 @@ banner_image:
 date_start: 2024-08-07T11:43:00.000Z
 date_end: 2024-08-07T11:43:00.000Z
 description: Se nos encargó la redacción de un libro blanco que investigara cómo
-  podría ser una gobernanza más participativa dentro de Wikimedia.
+  podría ser una gobernanza más participativa dentro de Wikimedia. El libro
+  blanco tiene por objeto fomentar una participación comunitaria integradora y
+  accesible basada en la dirección estratégica del Movimiento Wikimedia. Ofrece
+  un panorama histórico, un marco ético que da prioridad a las voces marginadas,
+  un análisis de cuestiones clave y buenas prácticas, estudios de casos y
+  recomendaciones para diseñar un proceso participativo. El objetivo es apoyar
+  la participación de la comunidad y proporcionar herramientas y modelos para
+  promoverla.
 budget: "18.000"
 private_percentage: "6.000"
 public_percentage: "12.000"
