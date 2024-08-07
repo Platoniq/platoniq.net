@@ -29,6 +29,10 @@ El White Paper tiene por objeto fomentar una participación comunitaria integrad
 
 #### ¿Por qué somos diferentes?
 
+La propuesta metodológica está pensada para que el marco de diseño pueda aterrizar ideas de participación más abiertas y justas. 
+
+Con la intención de proporcionar herramientas para poder empezar e imaginar cómo poner en funcionamiento estructuras y tejer redes para participación que reflejan realidades diversas, se realizaron una serie de entrevistas cuyo contenido fue anonimizado y transformado en relatos de ficción para que pudieran inspirar nuevos relatos de la organización.
+
 ![Diagnóstico participativo](/media/photo_2024-07-31_15-48-56.jpg "Diagnóstico participativo")
 
 #### Lo que dicen de nosotros...
