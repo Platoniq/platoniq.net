@@ -3,18 +3,16 @@ layout: project
 slug: participatory-diagnosis-wikimedia-project
 state: closed
 title: Cómo diseñar futuros de participación en el movimiento Wikimedia
-subtitle: Dinamizamos la producción participativa de documentos que examinan la
-  historia de una organización, realizan una evaluación de su situación actual y
-  proponen un marco para diseñar una gobernanza más abierta y justa.
+subtitle: Wikimedia es un unicornio de Internet. Es una de las plataformas en
+  línea más conocidas para el conocimiento abierto, desde la creación hasta el
+  intercambio en todo el mundo. Pocos movimientos o iniciativas de Internet que
+  hayan logrado sobrevivir pueden presumir de lo mismo.
 banner_image:
   path: /media/projects/captura-de-pantalla-2024-08-07-a-las-11.50.37.png
   alt: Wikimedia
 date_start: 2024-08-07T11:43:00.000Z
 date_end: 2024-08-07T11:43:00.000Z
-description: Wikimedia es un unicornio de Internet. Es una de las plataformas en
-  línea más conocidas para el conocimiento abierto, desde la creación hasta el
-  intercambio en todo el mundo. Pocos movimientos o iniciativas de Internet que
-  hayan logrado sobrevivir pueden presumir de lo mismo.
+description: platoniq
 budget: "18.000"
 private_percentage: "6.000"
 public_percentage: "12.000"
