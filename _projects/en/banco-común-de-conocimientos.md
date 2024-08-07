@@ -1,6 +1,6 @@
 ---
 layout: project
-slug: BancoComun
+slug: banco-comun-conocimientos
 state: closed
 banner_image:
   path: /media/projects/3368131461_89a5d3f0ba_c.jpg

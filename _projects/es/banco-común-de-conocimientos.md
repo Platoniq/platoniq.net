@@ -1,6 +1,6 @@
 ---
 layout: project
-slug: BancoComun
+slug: banco-comun-conocimientos
 state: closed
 title: Banco Común de Conocimientos (BCC)
 subtitle: ¿Qué te gustaría saber hacer y nunca has encontrado quién te lo
