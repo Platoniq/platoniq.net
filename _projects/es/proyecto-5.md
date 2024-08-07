@@ -53,7 +53,7 @@ A través de tres encuentros, se identificó el tipo de impacto que tienen los p
 
 Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas por La Fera: Luna Andrade, Patricia Vizcaíno, Pedro García Mejía y Shalana Rodríguez, se exploraron nuevas formas narrativas por habla de los conflictos migratorios, la economía migrante, el papel de Europa o las ventajas del cooperativismo social y solidario. Cada una de ellas, aportó una pieza audiovisual disparadora de debate, a partir de las cuales se debía desempeñar una respuesta escenificada. **El resultado es una serie de piezas de naturaleza diversa que buscan conmover a la ciudadanía y sensibilizarla sobre estas cuestiones**
 
-{% video { "title": "Temps Migrant", "url": "https://peertube.laguixeta.cat/videos/embed/a40e7792-f959-4775-a474-e4d8eac6c7de" } %}
+{% video { "title": "Temps Migrant", "url": "https://peertube.laguixeta.cat/w/d7x4g4CNhaUEyDWV6zZCrp" } %}
 
 Los Diálogos Migrantes son un primer paso en la elaboración de una Constitución Migrante que pretende dar voz y entender cuál es el modelo de sociedad de un colectivo totalmente heterogéneo atravesado por las contradicciones de un mundo complejo, que hay que navegar si queremos construir una sociedad más justa e igualitaria.
 
