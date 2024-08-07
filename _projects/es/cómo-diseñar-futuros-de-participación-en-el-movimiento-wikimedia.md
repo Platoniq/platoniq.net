@@ -12,7 +12,8 @@ banner_image:
   alt: Wikimedia
 date_start: 2024-08-07T11:43:00.000Z
 date_end: 2024-08-07T11:43:00.000Z
-description: platoniq
+description: Se nos encargó la redacción de un libro blanco que investigara cómo
+  podría ser una gobernanza más participativa dentro de Wikimedia.
 budget: "18.000"
 private_percentage: "6.000"
 public_percentage: "12.000"
