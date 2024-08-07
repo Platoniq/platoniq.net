@@ -36,25 +36,31 @@ Sin embargo, la promesa de apertura es a menudo ambigua. Por ejemplo, ¿qué sig
 
 Para ayudar a responder a esta pregunta, se nos encargó la redacción de un libro blanco que investigara cómo podría ser una gobernanza más participativa dentro de Wikimedia.
 
+![Wikimedia](/media/1-wiki.png "Wikimedia")
+
 Aunque Wikimedia comenzó con el espíritu de la mayoría de las empresas tecnológicas emergentes, moverse rápido y romper cosas. Sin embargo, a medida que crecía más allá de Estados Unidos y del inglés, este mantra inicial se volvió menos ágil. Redes sostenibles, sistemas y flujos de trabajo se hacen necesarios para trabajar a través de diferentes equipos y capítulos con claridad en torno a la toma de decisiones y la participación de la comunidad.
 
-Para hacer frente a la necesidad de cambio Wikimedia comenzó a redactar su Movement Charter.
+Para hacer frente a la necesidad de cambio Wikimedia comenzó a redactar su [Movement Charter.](https://meta.wikimedia.org/wiki/Movement_Charter)
 
-El objetivo de este libro blanco es proporcionar información para el diseño potencial de procesos participativos en el Movimiento Wikimedia, en relación con el proceso de redacción de la Carta. La investigación y las recomendaciones que se esbozan a continuación pueden ser útiles para generar un compromiso comunitario inclusivo y accesible en el Proceso de Redacción, así como en la ratificación de la Carta. Fomentar el compromiso de la comunidad en la gobernanza participativa fue una recomendación de la Estrategia del Movimiento Wikimedia 2030, y constituye uno de los pilares de la dirección estratégica del Movimiento a largo plazo. Este Libro Blanco pretende, por un lado, aportar una contribución significativa a la investigación existente sobre los antecedentes históricos de la participación en Wikimedia y, por otro, apoyar a la comunidad en la ideación, el diseño y la planificación de un proceso participativo para el proceso de redacción de la Carta del Movimiento y, posiblemente, para otros procesos participativos en el Movimiento.
+El objetivo de este [libro blanco](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf) es proporcionar información para el diseño potencial de procesos participativos en el Movimiento Wikimedia, en relación con el proceso de redacción de la Carta. La investigación y las recomendaciones que se esbozan a continuación pueden ser útiles para generar un compromiso comunitario inclusivo y accesible en el Proceso de Redacción, así como en la ratificación de la Carta. Fomentar el compromiso de la comunidad en la gobernanza participativa fue una recomendación de la Estrategia del Movimiento Wikimedia 2030, y constituye uno de los pilares de la dirección estratégica del Movimiento a largo plazo. Este Libro Blanco pretende, por un lado, aportar una contribución significativa a la investigación existente sobre los antecedentes históricos de la participación en Wikimedia y, por otro, apoyar a la comunidad en la ideación, el diseño y la planificación de un proceso participativo para el proceso de redacción de la Carta del Movimiento y, posiblemente, para otros procesos participativos en el Movimiento.
+
+![Wikimedia](/media/2-wiki.png "Wikimedia")
 
 Esta investigación nos ha permitido tomar conciencia de las complejas y a veces difíciles realidades de mantener un movimiento abierto en línea. Sin embargo, también nos ha dado la oportunidad de replantear lo que eso significa a través de conversaciones en todo el mundo.
 
-Basándonos en los principios de diseño restaurativo y transformador, nos centramos en las ideas y necesidades de las comunidades y organizaciones Wikimedia para hacer recomendaciones sobre cómo diseñar un proceso participativo con esas comunidades y organizaciones y qué espacios, roles, escalas, formas y modos de participación y procesos de toma de decisiones pueden ser elegidos para promover un compromiso comunitario más inclusivo y accesible. Este libro blanco ofrece:
+![Wikimedia](/media/3-wiki.png "Wikimedia")
 
-\    Una visión histórica del contexto actual y la participación en la gobernanza de Wikimedia
+Basándonos en los principios de diseño restaurativo y transformador, nos centramos en las ideas y necesidades de las comunidades y organizaciones Wikimedia para hacer recomendaciones sobre cómo diseñar un proceso participativo con esas comunidades y organizaciones y qué espacios, roles, escalas, formas y modos de participación y procesos de toma de decisiones pueden ser elegidos para promover un compromiso comunitario más inclusivo y accesible. 
 
-\    Un marco ético basado en Design Justice y la Carta Internacional de Diseño Indígena que prioriza las voces marginadas, respeta las diferencias culturales y trabaja hacia soluciones sostenibles y dirigidas por la comunidad que valora el impacto por encima del diseño.
+**Este libro blanco ofrece:**
 
-\    Un análisis exploratorio de los principales problemas, retos, necesidades y buenas prácticas, elaborado a partir de entrevistas y un grupo de discusión con wikimedistas,
+* Una visión histórica del contexto actual y la participación en la gobernanza de Wikimedia
+* Un marco ético basado en [Design Justice](https://designjustice.org/) y la [Carta Internacional de Diseño Indígena](https://www.theicod.org/resources/international-indigenous-design-charter) que prioriza las voces marginadas, respeta las diferencias culturales y trabaja hacia soluciones sostenibles y dirigidas por la comunidad que valora el impacto por encima del diseño.
+* Un análisis exploratorio de los principales problemas, retos, necesidades y buenas prácticas, elaborado a partir de entrevistas y un grupo de discusión con wikimedistas,
+* Estudios de casos de organizaciones transnacionales y procesos de gobernanza que han abordado cuestiones similares, incluyendo entrevistas con expertos de estas organizaciones,
+* Recomendaciones para los próximos pasos, herramientas y modelos para diseñar un proceso participativo y una lista de los primeros pasos para promover el compromiso de la comunidad.
 
-\    Estudios de casos de organizaciones transnacionales y procesos de gobernanza que han abordado cuestiones similares, incluyendo entrevistas con expertos de estas organizaciones,
-
-\    Recomendaciones para los próximos pasos, herramientas y modelos para diseñar un proceso participativo y una lista de los primeros pasos para promover el compromiso de la comunidad.
+![Wikimedia](/media/4-wiki.png "Wikimedia")
 
 Dentro de la investigación hemos querido desafiar continuamente la forma en que pensamos acerca de la participación desde las escalas, los métodos, hasta el diseño afectivo y las perspectivas.
 
@@ -62,6 +68,6 @@ Sabiendo que estos problemas pueden ser complejos a través de las geografías, 
 
 La gobernanza participativa, transparente y responsable es una exigencia básica de cualquier comunidad abierta en línea. Sin embargo, lo que estos conceptos significan está en constante cambio y nos obliga a mantenernos comprometidos y a encontrar nuevas formas de inspirar mejores prácticas para que el conocimiento y los espacios públicos digitales sean accesibles e inclusivos.
 
-Descárgate el libro blanco de Wikimedia, aquí.
+Descárgate el libro blanco de Wikimedia, [aquí.](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
 
 ¿Quieres apoyar la gobernanza participativa en línea y participar en comunidades de conocimiento abierto? ¡Pongámonos en marcha!
