@@ -24,7 +24,7 @@ DEFINICION
 
 #### ¿Qué resultados buscamos?
 
-{% metrics { "items": [{"text":"Máxima participación"},{"text":"Trackeo de resultados"},{"text":"Síntesis de propuestas"},{"text":"Formación técnico-política"},{"text":"Dirección estratégica"},{"text":"Sentimiento de pertenencia"}] } %}
+{% metrics { "items": [{"text":"Máxima participación"},{"text":"Trackeo de resultados"},{"text":"Creación de programa"},{"text":"Formación técnico-política"},{"text":"Dirección estratégica"},{"text":"Sentimiento de pertenencia"}] } %}
 
 #### ¿Cómo vamos a conseguirlo?
 
