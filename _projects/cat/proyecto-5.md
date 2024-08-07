@@ -7,7 +7,8 @@ subtitle: s﻿ubtitulo
 banner_image:
   path: /media/projects/captura-de-pantalla-2023-10-10-a-las-8.51.34.jpg
   alt: proyecto 5
-date: 2023-10-20T07:23:26.160Z
+date_start: 2024-08-07T12:29:00.000Z
+date_end: 2024-08-07T12:29:00.000Z
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
   condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse
   viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a
@@ -19,7 +20,6 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
   consectetur feugiat turpis, eget aliquam mi commodo nec.
 budget: "20.000"
 private_percentage: "50"
-public_percentage: "30"
 looking_finance_percentage: "20"
 services:
   - citizen-assemblies-dialogues
@@ -29,6 +29,11 @@ members:
   - cp
 collaborators:
   - canodrom
+date: 2023-10-20T07:23:26.160Z
+public_percentage: "30"
+call_to_action:
+  image_path: /media/projects/gif01.gif
+  url: Contáctanos
 ---
 <!--StartFragment-->
 
