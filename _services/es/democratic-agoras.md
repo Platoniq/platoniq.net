@@ -20,10 +20,18 @@ image:
   path: /media/services/symbol_innovacio.png
   alt: Visiones audaces
 ---
-Creamos espacios autogestionados de diálogo o deliberación sobre un tema concreto, con el fin de elaborar propuestas conjuntas y específicas.
+DEFINICION
 
-Disponemos de un espacio digital donde recoger y priorizar las propuestas realizadas en las diferentes Ágoras.
+#### ¿Qué resultados buscamos?
 
-Acompañamos en el proceso de elaboración de programas electorales (partidos políticos), líneas estratégicas (organizaciones) o un conjunto de propuestas políticas resultantes del proceso participativo.
+{% metrics { "items": [{"text":"Máxima participación"},{"text":"Trackeo de resultados"},{"text":"Síntesis de propuestas"},{"text":"Formación técnico-política"},{"text":"Dirección estratégica"},{"text":"Sentimiento de pertenencia"}] } %}
+
+#### ¿Cómo vamos a conseguirlo?
+
+{% questions { "items": [{"question":"Creamos espacios autogestionados de diálogo o deliberación sobre un tema concreto, con el fin de elaborar propuestas conjuntas y específicas."},{"question":"Disponemos de un espacio digital donde recoger y priorizar las propuestas realizadas en las diferentes Ágoras."},{"question":"Acompañamos en el proceso de elaboración de programas electorales (partidos políticos), líneas estratégicas (organizaciones) o un conjunto de propuestas políticas resultantes del proceso participativo."}] } %}
+
+#### ¿Por qué somos diferentes?
 
 ![Agorà Democratiche](/media/photo_2024-07-31_15-48-25.jpg "Agorà Democratiche")
+
+#### Lo que dicen de nosotros
