@@ -7,7 +7,8 @@ subtitle: s﻿ubtitulo
 banner_image:
   path: /media/projects/3368131461_89a5d3f0ba_c.jpg
   alt: proyecto3
-date: 2023-10-20T07:20:32.854Z
+date_start: 2024-08-07T11:40:00.000Z
+date_end: 2024-08-07T11:40:00.000Z
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
   condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse
   viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a
@@ -19,17 +20,21 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec
   consectetur feugiat turpis, eget aliquam mi commodo nec.
 budget: "315.000"
 private_percentage: "60"
-public_percentage: "0"
 looking_finance_percentage: "40"
 services:
   - citizen-assemblies-dialogues
 categories:
   - future_culture
 members:
-  - lrb
-  - lrm
+  - cp
+  - os
 collaborators:
   - canodrom
+date: 2023-10-20T07:20:32.854Z
+public_percentage: "0"
+call_to_action:
+  image_path: /media/projects/gif01.gif
+  url: Contáctanos
 ---
 <!--StartFragment-->
 

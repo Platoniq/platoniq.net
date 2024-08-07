@@ -2,7 +2,7 @@
 layout: project
 slug: escuelab
 state: open
-title: "School for Creativity & Democracy "
+title: "School of Creativity & Democracy "
 subtitle: SCD aims to be a gateway to the world of citizen deliberation
   experiences to be part of.
 banner_image:
@@ -10,7 +10,8 @@ banner_image:
   alt: The motor group goes out to the neighbourhood market to give the workshop
     to neighbours and vendors. Platoniq // ZEMOS98. Antonio Miñán. CC
     BY-NC-NDproyecto3
-date: 2023-10-20T07:20:32.854Z
+date_start: 2024-08-07T11:40:00.000Z
+date_end: 2024-08-07T11:40:00.000Z
 description: The School of Creativity and Democracy aims to improve citizen
   participation and political engagement in public policy and decision-making as
   well as to prepare young people for democratic renewal through alternative
@@ -19,17 +20,21 @@ description: The School of Creativity and Democracy aims to improve citizen
   Spain.
 budget: "315.000"
 private_percentage: "60"
-public_percentage: "0"
 looking_finance_percentage: "40"
 services:
   - citizen-assemblies-dialogues
 categories:
   - future_culture
 members:
-  - lrb
-  - lrm
+  - cp
+  - os
 collaborators:
   - canodrom
+date: 2023-10-20T07:20:32.854Z
+public_percentage: "0"
+call_to_action:
+  image_path: /media/projects/gif01.gif
+  url: Contáctanos
 ---
 \## How do we do it?
 

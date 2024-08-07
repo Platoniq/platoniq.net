@@ -2,14 +2,15 @@
 layout: project
 slug: escuelab
 state: open
-title: Escuela Creatividad & Democracia (ECD)
+title: Escuela de Creatividad y Democracia (ECD)
 subtitle: La ECD quiere ser una puerta de entrada al mundo a experiencias de
   participación ciudadana de las que poder formar parte
 banner_image:
   path: /media/projects/3368131461_89a5d3f0ba_c.jpg
   alt: El grupo motor sale al mercadillo del barrio a impartir el taller a vecinos
     y vendedores. Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND
-date: 2023-10-20T07:20:32.854Z
+date_start: 2024-08-07T11:40:00.000Z
+date_end: 2024-08-07T11:40:00.000Z
 description: La Escuela de la Creatividad y la Democracia pretende mejorar la
   participación ciudadana y el compromiso político en la toma de decisiones y
   políticas públicas así como preparar a los jóvenes para la renovación
@@ -18,17 +19,24 @@ description: La Escuela de la Creatividad y la Democracia pretende mejorar la
   formar una cultura de participación continua en España.
 budget: "315.000"
 private_percentage: "60"
-public_percentage: "0"
 looking_finance_percentage: "40"
 services:
   - citizen-assemblies-dialogues
 categories:
   - future_culture
 members:
-  - lrb
-  - lrm
+  - cp
+  - os
 collaborators:
   - canodrom
+date: 2023-10-20T07:20:32.854Z
+public_percentage: "0"
+call_to_action:
+  image_path: /media/projects/gif01.gif
+  image_alt: ¿Quieres saber más?
+  text: ¿Quieres saber más?
+  url: Contáctanos
+  url_text: Contáctanos
 ---
 ¿Qué tal si le damos un boost a la democracia en España? ¡Te presentamos la Escuela de Creatividad y Democracia!
 
@@ -36,7 +44,7 @@ Nuestro objetivo es nada menos que construir una cultura política que llegue al
 
 ## Impacto potencial
 
-{% metrics { "items": [ { "number": "86%", "text": "Percentaje" }, { "number": "523k",  "text": "Benefits" }, { "number": "24", "text": "Group Members" } ] } %}
+{% metrics { "items": [{"number":"86%","text":"Percentaje"},{"number":"523k","text":"Benefits"},{"number":"24","text":"Group Members"}] } %}
 
 ![](/media/3360002157_4bf40f461c_c.jpg "Simposio Educación Expandida Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND")
 
@@ -60,6 +68,6 @@ También organizamos campañas para que las ideas de los jóvenes importen de ve
 
 Estamos muy emocionados de lanzar la "Escuela para la Creatividad y la Democracia", donde podrás aprender y participar en actividades creativas que te ayudarán a ser un agente de cambio en tu comunidad. ¡Esperamos que te unas a nosotros en esta emocionante aventura!
 
-## LLamada a la acción:
+## Llamada a la acción:
 
 ¿Te animas a conocer más? ¡Contáctanos para saber más sobre este proyecto transformador! Indícanos, por favor, si eres profe, prensa, polític@ etc. y te preparamos el material que necesites.
