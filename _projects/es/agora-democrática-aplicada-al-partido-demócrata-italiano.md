@@ -44,8 +44,6 @@ call_to_action:
   url: Consúltanos
   url_text: Consúltanos
 ---
-
-
-
+![](/media/captura-de-pantalla-2024-08-07-a-las-16.13.09.png "Formación del grupo motor del taller. Taller Banco Comun de Datos impartido por Platoniq en el IES Antonio Dominguez Ortiz. // ZEMOS98. Antonio Miñán. CC BY-NC-ND")
 
 red de soporte: representación en forma de red de la similitud entre los participantes con respecto a los debates en los que participan. Dos participantes (representados como nodos) se unen en un arco si comentan las mismas propuestas con más frecuencia de lo esperado para asociaciones aleatorias. La proximidad espacial de dos nodos (participantes) es una representación de su grado de similitud. Los colores representan los grupos identificados.
