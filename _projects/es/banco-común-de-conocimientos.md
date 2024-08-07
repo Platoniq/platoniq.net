@@ -29,7 +29,8 @@ services:
 categories:
   - future_culture
 members:
-  - cp
+  - sgn
+  - os
 collaborators:
   - ay-bcn
 date: 2024-03-04T16:33:15.803Z
