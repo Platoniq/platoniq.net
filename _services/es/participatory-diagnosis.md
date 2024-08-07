@@ -27,8 +27,6 @@ El White Paper tiene por objeto fomentar una participación comunitaria integrad
 
 {% questions { "items": [{"question":"Definir los conceptos clave y el marco temático del White Paper"},{"question":"Analizar el progreso, los hitos, los problemas, etc. hasta el momento de la Gobernanza del Movimiento Wikimedia."},{"question":"Identificar casos de estudio para la gobernanza que puedan servir de inspiración para el progreso de la gobernanza de Wikimedia"},{"question":"Desarrollar un marco para diseñar un proceso para una gobernanza más participativa"}] } %}
 
-
-
 {% video { "title": " Designing Futures of Participation in the Wikimedia Movement – White Paper presentation ", "url": "https://youtu.be/vsErReqZJ2E?si=yzkMxzFpYHvg_-95" } %}
 
 #### ¿Por qué somos diferentes?
@@ -41,4 +39,4 @@ Con la intención de proporcionar herramientas para poder empezar e imaginar có
 
 #### Lo que dicen de nosotros...
 
-Si quieres consultar el informe final, [aquí](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
+Si quieres consultar el informe final, [aquí.](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
