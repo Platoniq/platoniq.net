@@ -3,7 +3,7 @@ layout: project
 slug: participatory-diagnosis-wikimedia-project
 state: closed
 banner_image:
-  path: /media/projects/goteo-matavenero_15_nico-796x1024.jpg
+  path: /media/projects/captura-de-pantalla-2024-08-07-a-las-11.50.37.png
 date_start: 2024-08-07T11:43:00.000Z
 date_end: 2024-08-07T11:43:00.000Z
 budget: "18.000"

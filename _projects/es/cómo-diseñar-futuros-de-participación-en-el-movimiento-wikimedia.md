@@ -7,7 +7,7 @@ subtitle: Dinamizamos la producción participativa de documentos que examinan la
   historia de una organización, realizan una evaluación de su situación actual y
   proponen un marco para diseñar una gobernanza más abierta y justa.
 banner_image:
-  path: /media/projects/goteo-matavenero_15_nico-796x1024.jpg
+  path: /media/projects/captura-de-pantalla-2024-08-07-a-las-11.50.37.png
   alt: Wikimedia
 date_start: 2024-08-07T11:43:00.000Z
 date_end: 2024-08-07T11:43:00.000Z
