@@ -2,7 +2,7 @@
 layout: project
 slug: BancoComun
 state: closed
-title: Banco Común de Conocimientos
+title: Banco Común de Conocimientos (BCC)
 subtitle: ¿Qué te gustaría saber hacer y nunca has encontrado quién te lo
   explicase? ¿Cuántas cosas puedes enseñarle a tus amigos que les puede ayudar?
   ¿Conoces a alguien que sabe hacer algo "valioso", "curioso", "especial"?
