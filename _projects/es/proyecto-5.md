@@ -43,15 +43,13 @@ Partiendo de esta premisa, desde la **Fundación Platoniq** hemos iniciado un pr
 
 {% metrics { "items": [{"number":"86%","text":"Participación"},{"number":"523k","text":"Alcance"},{"number":"24","text":"Acciones"}] } %}
 
-
-
 ![“Somos Migras”, de Luna Andrade](/media/captura-de-pantalla-2023-10-10-a-las-8.48.11.jpg "“Somos Migras”, de Luna Andrade")
 
 ### En busca de nuevas narrativas
 
 A través de varias ediciones de los Diálogos Migrantes el proyecto identifica el tipo de impacto que tienen los procesos de polarización y desinformación en las comunidades migrantes desde una perspectiva personal, emocional, económica, social y política.
 
- y, para hacerlo, tres colectivos de Barcelona, **Furia Mexicana, Puerta de África y Singa Barcelona,** estuvieron trabajando en el efecto que tienen los nuevos discursos a la hora de sensibilizar sobre las problemáticas migrantes desde el punto de vista de las comunidades afectadas.
+En la primera edición tres colectivos de Barcelona, **Furia Mexicana, Puerta de África y Singa Barcelona,** estuvieron trabajando en el efecto que tienen los nuevos discursos a la hora de sensibilizar sobre las problemáticas migrantes desde el punto de vista de las comunidades afectadas.
 
 {% quote { "author": "Lamine Saar, Sindicato de Vendedores Ambulantes de Barcelona" } %}De nacionalidad "migrante"{% endquote %}
 
@@ -59,12 +57,14 @@ Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas 
 
 {% video { "title": "Temps Migrant", "url": "https://peertube.laguixeta.cat/w/mfZfsuwX1etvabXcfNdWNs" } %}
 
+En la segunda edición, trabajamos con un grupo de madres migrantes solteras. A través de diferentes dinámica del Teatro Legislativo identificamos escenas básicas de su vida cotidiana que tuvieran que ver con alguna de las dimensiones de la opresión migrante. El reto fue entonces generar junto a ellas un relato emancipador que pasó por identificar las oportunidades de mejora que serían necesarias para que experiencias así no volvieran a repetirse.
+
+{% video { "title": "Madres Migrantes", "url": "https://peertube.laguixeta.cat/w/d7x4g4CNhaUEyDWV6zZCrp" } %}
+
 #### Una constitución migrante
 
 Los Diálogos Migrantes son un primer paso en la elaboración de una Constitución Migrante que pretende dar voz y entender cuál es el modelo de sociedad de un colectivo totalmente heterogéneo atravesado por las contradicciones de un mundo complejo, que hay que navegar si queremos construir una sociedad más justa e igualitaria.
 
 En palabras de la activista antiracista **Desirée Bela-Lobedde**: "A mí me interesaría un documento que abordara el racismo, el antirracismo, la derogación de la ley de extranjería, la eliminación de los CIEs, el legado colonial en las ciudades españolas, la descolonización del currículum, etc. Pero una vez recogido todo eso, me gustaría que pasara por un proceso político para que tuviera fuerza legal. Ahí es donde encontramos el obstáculo. La parte más sencilla sería elaborar la Constitución en sí, pero es difícil llevarlo a las instituciones políticas para que lo consideren. Ideológicamente sería un instrumento muy necesario y útil. Juntando a personas de diferentes colectivos, realizando encuentros, etc., se podrían llegar a consensos y recoger lo que interesa a la comunidad africana, marroquí norteafricana, gitana, etc.".
-
-{% video { "title": "Madres Migrantes", "url": "https://peertube.laguixeta.cat/w/d7x4g4CNhaUEyDWV6zZCrp" } %}
 
 No es suficiente con saber que un problema esta pasando, ni siquiera tratar de cambiar las políticas que hacen que eso ocurra, hace falta cambiar la mentalidad y la sensibilidad de todos y cada uno de los que comparten el espacio público en una sociedad como la española para que dicho espacio pueda ser común, compartido y vivido con naturalidad por cualquiera.
