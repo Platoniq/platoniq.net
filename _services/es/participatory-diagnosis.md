@@ -25,7 +25,7 @@ Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético
 
 #### ¿Cómo vamos a conseguirlo?
 
-{% questions { "items": [{"question":"Definir los conceptos clave y el marco temático del White Paper"},{"question":"Analizar el progreso, los hitos, los problemas, etc. hasta el momento de la Gobernanza del Movimiento Wikimedia."},{"question":"Identificar casos de estudio para la gobernanza que puedan servir de inspiración para el progreso de la gobernanza de Wikimedia"},{"question":"Desarrollar un marco para diseñar un proceso para una gobernanza más participativa"}] } %}
+{% questions { "items": [{"question":"Definir los conceptos clave y el marco temático"},{"question":"Analizar el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificar casos de estudio que puedan servir de inspiración"},{"question":"Desarrollar un marco para diseñar un proceso para una gobernanza más participativa"}] } %}
 
 #### ¿Por qué somos diferentes?
 
