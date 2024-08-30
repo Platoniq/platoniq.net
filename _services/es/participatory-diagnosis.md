@@ -27,13 +27,11 @@ Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético
 
 {% questions { "items": [{"question":"Definir los conceptos clave y el marco temático del White Paper"},{"question":"Analizar el progreso, los hitos, los problemas, etc. hasta el momento de la Gobernanza del Movimiento Wikimedia."},{"question":"Identificar casos de estudio para la gobernanza que puedan servir de inspiración para el progreso de la gobernanza de Wikimedia"},{"question":"Desarrollar un marco para diseñar un proceso para una gobernanza más participativa"}] } %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vsErReqZJ2E?si=olThPl4ZPzUqBnmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 #### ¿Por qué somos diferentes?
 
-La propuesta metodológica está pensada para que el marco de diseño pueda aterrizar ideas de participación más abiertas y justas. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vsErReqZJ2E?si=olThPl4ZPzUqBnmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Con la intención de proporcionar herramientas para poder empezar e imaginar cómo poner en funcionamiento estructuras y tejer redes para participación que reflejan realidades diversas, se realizaron una serie de entrevistas cuyo contenido fue anonimizado y transformado en relatos de ficción para que pudieran inspirar nuevos relatos de la organización.
+Con la intención de proporcionar herramientas para poder empezar e imaginar cómo poner en funcionamiento estructuras y tejer redes para participación que reflejan realidades diversas, realizamos una serie de entrevistas cuyo contenido se anonimiza y transforma en relatos de ficción para que puedan inspirar nuevos relatos de la organización.
 
 ![Diagnóstico participativo](/media/photo_2024-07-31_15-48-56.jpg "Diagnóstico participativo")
 
