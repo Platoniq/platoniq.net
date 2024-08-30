@@ -29,14 +29,12 @@ Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético
 
 #### ¿Por qué somos diferentes?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vsErReqZJ2E?si=olThPl4ZPzUqBnmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Con la intención de proporcionar herramientas para poder empezar e imaginar cómo poner en funcionamiento estructuras y tejer redes para participación que reflejan realidades diversas, realizamos una serie de entrevistas cuyo contenido se anonimiza y transforma en relatos de ficción para que puedan inspirar nuevos relatos de la organización.
 
 ![Diagnóstico participativo](/media/photo_2024-07-31_15-48-56.jpg "Diagnóstico participativo")
 
 #### Proyectos relacionados
 
-![Diagnóstico participativo](/media/captura-de-pantalla-2024-08-30-a-las-13.00.54.png "Diagnóstico participativo")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vsErReqZJ2E?si=olThPl4ZPzUqBnmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Un ejemplo de Diagnóstico Participativo fue el trabajo que realizamos para Wikimedia Foundation, cuyo informe final puedes consultar, [aquí.](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
