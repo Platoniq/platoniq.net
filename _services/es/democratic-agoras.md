@@ -32,6 +32,8 @@ DEFINICION
 
 #### ¿Por qué somos diferentes?
 
+#### Proyectos relacionados
+
 ![Agorà Democratiche](/media/photo_2024-07-31_15-48-25.jpg "Agorà Democratiche")
 
-#### Lo que dicen de nosotros
+#### [Ágora democrática aplicada al Partido Demócrata Italiano](https://platoniq.net/es/projects/agora-democratica-pd/)
