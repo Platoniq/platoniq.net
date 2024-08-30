@@ -32,10 +32,14 @@ DEFINICION
 
 #### ¿Por qué somos diferentes?
 
-
-
 #### Proyectos relacionados
 
 Para saber cómo aplicamos esta metodología, puedes consultar la experiencia con el [Partido Demócrata Italiano](https://platoniq.net/es/projects/agora-democratica-pd/)
+
+[Como organizar eventos más inclusivos](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/156/Manuale_su_come_organizzare_eventi_pi%C3%B9_inclusivi.pdf)
+
+[Manual metodológico](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/155/Manuale_metodologico_per_oganizzatric_tori.pdf)
+
+
 
 ![Agorà Democratiche](/media/photo_2024-07-31_15-48-25.jpg "Agorà Democratiche")
