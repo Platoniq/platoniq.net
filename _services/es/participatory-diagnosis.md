@@ -39,4 +39,4 @@ Con la intención de proporcionar herramientas para poder empezar e imaginar có
 
 ![Diagnóstico participativo](/media/captura-de-pantalla-2024-08-30-a-las-13.00.54.png "Diagnóstico participativo")
 
-Consulta el informe final que hicimos para Wikimedia, [aquí.](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
+Un ejemplo de Diagnóstico Participativo fue el trabajo que realizamos para Wikimedia Foundation, cuyo informe final puedes consultar, [aquí.](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
