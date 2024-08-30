@@ -29,7 +29,7 @@ Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético
 
 #### ¿Por qué somos diferentes?
 
-Con la intención de proporcionar herramientas para poder empezar e imaginar cómo poner en funcionamiento estructuras y tejer redes para participación que reflejan realidades diversas, realizamos una serie de entrevistas cuyo contenido se anonimiza y transforma en relatos de ficción para que puedan inspirar nuevos relatos de la organización.
+Con la intención de proporcionar herramientas para imaginar cómo poner en funcionamiento estructuras y tejer redes para la participación que reflejan realidades diversas, realizamos una serie de entrevistas cuyo contenido se anonimiza y transforma en relatos de ficción para que puedan inspirar nuevos relatos de la organización.
 
 ![Diagnóstico participativo](/media/photo_2024-07-31_15-48-56.jpg "Diagnóstico participativo")
 
