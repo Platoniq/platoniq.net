@@ -27,8 +27,6 @@ Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético
 
 {% questions { "items": [{"question":"Definir los conceptos clave y el marco temático del White Paper"},{"question":"Analizar el progreso, los hitos, los problemas, etc. hasta el momento de la Gobernanza del Movimiento Wikimedia."},{"question":"Identificar casos de estudio para la gobernanza que puedan servir de inspiración para el progreso de la gobernanza de Wikimedia"},{"question":"Desarrollar un marco para diseñar un proceso para una gobernanza más participativa"}] } %}
 
-{% video { "title": " Designing Futures of Participation in the Wikimedia Movement – White Paper presentation ", "url": "<iframe width="560" height="315" src="https://www.youtube.com/embed/vsErReqZJ2E?si=olThPl4ZPzUqBnmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" } %}
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vsErReqZJ2E?si=olThPl4ZPzUqBnmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### ¿Por qué somos diferentes?
@@ -39,6 +37,8 @@ Con la intención de proporcionar herramientas para poder empezar e imaginar có
 
 ![Diagnóstico participativo](/media/photo_2024-07-31_15-48-56.jpg "Diagnóstico participativo")
 
-#### Lo que dicen de nosotros...
+#### Proyectos relacionados
 
-Si quieres consultar el informe final, [aquí.](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
+![Diagnóstico participativo](/media/captura-de-pantalla-2024-08-30-a-las-13.00.54.png "Diagnóstico participativo")
+
+Consulta el informe final que hicimos para Wikimedia, [aquí.](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
