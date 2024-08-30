@@ -32,6 +32,8 @@ DEFINICION
 
 #### ¿Por qué somos diferentes?
 
+
+
 #### Proyectos relacionados
 
 Para saber cómo aplicamos esta metodología, puedes consultar la experiencia con el [Partido Demócrata Italiano](https://platoniq.net/es/projects/agora-democratica-pd/)
