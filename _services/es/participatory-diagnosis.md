@@ -21,7 +21,7 @@ Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético
 
 #### ¿Qué resultados buscamos?
 
-{% metrics { "items": [{"text":"Mejor gobernanza"},{"text":"Conciencia del privilegio"},{"text":"Oportunidades de mejora"},{"text":"Participación inclusiva"},{"text":"Asunción de la complejidad"},{"text":"Visualización de retos"}] } %}
+{% metrics { "items": [{"text":"Mejor gobernanza"},{"text":"Conciencia del privilegio"},{"text":"Oportunidades de mejora"},{"text":"Participación inclusiva"},{"text":"Asumir la complejidad"},{"text":"Visualización de retos"}] } %}
 
 #### ¿Cómo vamos a conseguirlo?
 
