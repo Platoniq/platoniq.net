@@ -17,7 +17,7 @@ call_to_action:
   url: Contáctanos
   url_text: Contáctanos
 ---
-El White Paper tiene por objeto fomentar una participación comunitaria integradora y accesible basada en la dirección estratégica del Movimiento Wikimedia. Ofrece un panorama histórico, un marco ético que da prioridad a las voces marginadas, un análisis de cuestiones clave y buenas prácticas, estudios de casos y recomendaciones para diseñar un proceso participativo. El objetivo es apoyar la participación de la comunidad y proporcionar herramientas y modelos para promoverla.
+Este servicio tiene por ofrece un panorama histórico, un marco ético que da prioridad a las voces marginadas, un análisis de cuestiones clave y buenas prácticas, estudios de casos y recomendaciones para diseñar un proceso participativo. El objetivo es apoyar la participación de la comunidad y/o organización y proporcionar herramientas y modelos para promoverla.
 
 #### ¿Qué resultados buscamos?
 
