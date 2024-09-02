@@ -46,12 +46,14 @@ La Fundación Pare Manel, mediante la planificación estratégica, no sólo busc
 
 ##### ¿Por qué iniciar un acompañamiento estratégico?
 
-* Para tener un proceso más democrático.
+Según la propia Fundació, estas fueron algunas de las razones por las que iniciar un proceso de acompañamiento estratégico participativo:
+
+* Para obtener un proceso más democrático.
 * Para integrar múltiples perspectivas, aprovechando el potencial de la inteligencia colectiva de las participantes.
 * Para potenciar el sentimiento de pertenencia del equipo a la organización.
-* Para tener más conocimiento transversal de la Fundación Pare Manel, de los suyos grupos de interés, de las áreas de trabajo y del funcionamiento.
-* Para tener más agilidad en la detección de oportunidades, clasificarlas por orden de prioridad y explotarlas.
-* Para brindar una base sólida y un legado metodológico para elaborar un Plan Estratégico vivo, adaptable y anticipado a las distintas necesidades que pueden fluctuar con el tiempo.
+* Para tener más conocimiento transversal de la Fundación Pare Manel, de sus grupos de interés, de las áreas de trabajo y del funcionamiento.
+* Para tener más agilidad en la detección de oportunidades, clasificarlas por orden de prioridad y ser capaces de explotarlas.
+* Para brindar una base sólida y un legado metodológico vivo, adaptable y anticipado a las distintas necesidades que pueden fluctuar con el tiempo.
 
 ##### Metodología y pasos a seguir
 
