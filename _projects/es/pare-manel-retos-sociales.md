@@ -42,7 +42,7 @@ Es una herramienta de planificación estratégica que utilizan las organizacione
 
 La Fundación Pare Manel, mediante la planificación estratégica, no sólo buscaba seguir adaptándose al entorno, sino que quería crear su futuro deseado, como organización interna y con los objetivos sociales cumplidos.
 
-#### ¿Por qué decidimos iniciar un proceso consultivo participativo apoyado por la Fundación Platoniq?
+#### ¿Por qué decidimos iniciar un acompañamiento estratégico?
 
 ● Por tener un proceso más democrático.
 
