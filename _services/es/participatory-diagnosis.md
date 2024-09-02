@@ -19,6 +19,8 @@ call_to_action:
 ---
 Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético que da prioridad a las voces marginadas, un análisis de cuestiones clave y un conjunto de recomendaciones para llevar a cabo un proceso de reflexión participativo dentro de una organización, proporcionando herramientas y modelos para promoverlo.
 
+Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético que da prioridad a las voces marginadas, un análisis de cuestiones clave y un conjunto de recomendaciones para llevar a cabo un proceso de reflexión participativo dentro de una organización, proporcionando herramientas y modelos para promoverlo.
+
 #### ¿Qué resultados buscamos?
 
 {% metrics { "items": [{"text":"Mejor gobernanza"},{"text":"Conciencia del privilegio"},{"text":"Oportunidades de mejora"},{"text":"Participación inclusiva"},{"text":"Asumir la complejidad"},{"text":"Visualización de retos"}] } %}
