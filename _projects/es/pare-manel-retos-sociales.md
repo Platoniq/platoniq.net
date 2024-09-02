@@ -2,7 +2,8 @@
 layout: project
 slug: pare-manel-acompañamiento-estratégico
 state: closed
-title: "Pare Manel: retos sociales"
+title: Fundació Pare Manel. Cómo dar respuesta a los nuevos retos sociales 20
+  años después
 subtitle: La Fundación Pare Manel, fundada en 2004, nace de la implicación
   social y educativa del Padre Manel Pousa Engroñat en los barrios de Verdún-Les
   Roquetes de Barcelona. Tras su muerte, en el 2020, y del impacto social en el
