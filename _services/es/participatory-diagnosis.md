@@ -35,11 +35,11 @@ La investigación que supone este Diagnóstico participativo nos permite tomar c
 
 Como primer momento para desarrollar un buen [acompañamiento estratégico](https://platoniq.net/es/services/strategic-support/), desde la Platoniq proponemos la realización de una serie de entrevistas semiestructuradas y grupos de discusión, que informen las recomendaciones para un diseño de proceso participativo aplicado a la organización.
 
+![Diagnóstico participativo](/media/photo_2024-07-31_15-48-56.jpg "Diagnóstico participativo")
+
 Con la intención de proporcionar herramientas para imaginar cómo poner en funcionamiento estructuras y tejer redes para la participación que reflejan realidades diversas, se anonimizan las entrevistas y transforman en relatos de ficción para que puedan inspirar nuevos relatos de la organización.
 
 La entrevista ficcionada [alberga un gran potencial para tender puentes entre las personas](https://journal.platoniq.net/es/wilder-journal-1/blueprints/storytelling/). Por ello, tanto en el proyecto para la Wikimedia Foundation como CultureLabs apostamos por la narración de historias como un elemento clave en el diseño de nuestra metodología.
-
-![Diagnóstico participativo](/media/photo_2024-07-31_15-48-56.jpg "Diagnóstico participativo")
 
 #### Proyectos relacionados
 
