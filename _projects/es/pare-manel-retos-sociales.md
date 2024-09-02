@@ -16,36 +16,7 @@ banner_image:
   alt: Innovación
 date_start: 2024-09-02T13:14:00.000Z
 date_end: 2024-09-02T13:14:00.000Z
-description: >-
-  ¿Por qué decidimos iniciar un proceso consultivo participativo apoyado por la
-  Fundación Platoniq?
-
-
-  ● Por tener un proceso más democrático.
-
-
-  ● Para integrar múltiples perspectivas, aprovechando el potencial de la inteligencia
-
-
-  colectiva de las participantes.
-
-
-  ● Para potenciar el sentimiento de pertenencia del equipo a la organización.
-
-
-  ● Para tener más conocimiento transversal de la Fundación Pare Manel, de los suyos
-
-
-  grupos de interés, de las áreas de trabajo y del funcionamiento.
-
-
-  ● Para tener más agilidad en la detección de oportunidades, clasificarlas por orden de
-
-
-  prioridad y explotarlas.
-
-
-  ● Para brindar una base sólida y un legado metodológico para elaborar un Plan Estratégico vivo, adaptable y anticipado a las distintas necesidades que pueden fluctuar con el tiempo.
+description: hhh
 budget: "18000"
 private_percentage: "18000"
 public_percentage: "0"
@@ -66,10 +37,28 @@ call_to_action:
   url: Escríbenos
   url_text: Escríbenos
 ---
-
-
 Un proceso consultivo participativo sirve para analizar la situación, decidir en qué dirección queremos transformarla, y utilizar eficazmente los recursos, seleccionando entre determinadas alternativas la más adecuada.
 
 Es una herramienta de planificación estratégica que utilizan las organizaciones para el diagnóstico, el análisis, la reflexión y la toma de decisiones, sobre sus objetivos y el enfoque de las actividades futuras, para adaptarse a los cambios y demandas entorno de acuerdo con su razón de ser.
 
-Mediante la planificación estratégica no sólo nos adaptamos al entorno, sino que creamos nuestro futuro deseado, como organización interna y con los objetivos sociales cumplidos.
+La Fundación Pare Manel, mediante la planificación estratégica, no sólo buscaba seguir adaptándose al entorno, sino que quería crear su futuro deseado, como organización interna y con los objetivos sociales cumplidos.
+
+#### ¿Por qué decidimos iniciar un proceso consultivo participativo apoyado por la Fundación Platoniq?
+
+● Por tener un proceso más democrático.
+
+● Para integrar múltiples perspectivas, aprovechando el potencial de la inteligencia
+
+colectiva de las participantes.
+
+● Para potenciar el sentimiento de pertenencia del equipo a la organización.
+
+● Para tener más conocimiento transversal de la Fundación Pare Manel, de los suyos
+
+grupos de interés, de las áreas de trabajo y del funcionamiento.
+
+● Para tener más agilidad en la detección de oportunidades, clasificarlas por orden de
+
+prioridad y explotarlas.
+
+● Para brindar una base sólida y un legado metodológico para elaborar un Plan Estratégico vivo, adaptable y anticipado a las distintas necesidades que pueden fluctuar con el tiempo.
