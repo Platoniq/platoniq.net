@@ -20,11 +20,11 @@ image:
   path: /media/services/symbol_innovacio.png
   alt: Visiones audaces
 ---
-El objetivo de este servicio consiste poner en relación los valores y relatos de una organización con los de la ciudadanía en general.
+El objetivo de este servicio consiste **poner en relación los valores y relatos de una organización con los de la ciudadanía en general.**
 
-Mediante el uso de una plataforma digital de participación democrática se saca a relucir la inteligencia colectiva para construir, junto con la ciudadanía, un nuevo campo de significados, amplio y plural, abierto a las propuestas de todas las personas.
+Mediante el uso de una plataforma digital de participación democrática sacamos a relucir la **inteligencia colectiva** para construir, junto con la ciudadanía, un nuevo campo de significados, amplio y plural, **abierto a las propuestas de todas las personas.**
 
-El modelo del Ágora Democrática integra, por tanto, la dimensión física cómo la digital. Dicho de otra manera, de encuentros entre personas surgen propuestas concretas que luego se discuten en línea en la plataforma, que se acaban concretando en una hoja de ruta consensuada con la ciudadanía.
+El modelo del Ágora Democrática integra, **tanto la dimensión física cómo la digital.** Dicho de otra manera, de encuentros entre personas surgen propuestas concretas que luego se discuten en línea en la plataforma, que se acaban concretando en **una hoja de ruta consensuada con la ciudadanía.**
 
 # _
 
