@@ -23,13 +23,9 @@ Para ello se hace necesario ofrecer un **panorama histórico,** establecer un **
 
 La investigación que supone este Diagnóstico Participativo nos permite tomar conciencia de las complejas y a veces difíciles realidades que supone mantener **viva y coherente una organización abierta.** Sin embargo, también brinda la oportunidad de replantear lo que eso significa a través de conversaciones con todo el mundo.
 
-# _
-
 # ¿Qué resultados buscamos?
 
 {% metrics { "items": [{"text":"Mejor gobernanza"},{"text":"Conciencia del privilegio"},{"text":"Oportunidades de mejora"},{"text":"Participación inclusiva"},{"text":"Asumir la complejidad"},{"text":"Visualización de retos"}] } %}
-
-# _
 
 # ¿Cómo lo conseguimos?
 
