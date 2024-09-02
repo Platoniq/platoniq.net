@@ -20,7 +20,11 @@ image:
   path: /media/services/symbol_innovacio.png
   alt: Visiones audaces
 ---
-DEFINICION
+El objetivo de este servicio consiste poner en relación los valores y relatos de una organización con los de la ciudadanía en general.
+
+Mediante el uso de una plataforma digital de participación democrática se saca a relucir la inteligencia colectiva para construir, junto con la ciudadanía, un nuevo campo de significados, amplio y plural, abierto a las propuestas de todas las personas.
+
+El modelo del Ágora Democrática integra, por tanto, la dimensión física cómo la digital, O dicho de otra manera, de encuentros entre personas surgen propuestas concretas que luego se discuten en línea en la plataforma.
 
 #### ¿Qué resultados buscamos?
 
@@ -39,7 +43,5 @@ Para saber cómo aplicamos esta metodología, puedes consultar la experiencia co
 [Como organizar eventos más inclusivos](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/156/Manuale_su_come_organizzare_eventi_pi%C3%B9_inclusivi.pdf)
 
 [Manual metodológico](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/155/Manuale_metodologico_per_oganizzatric_tori.pdf)
-
-
 
 ![Agorà Democratiche](/media/photo_2024-07-31_15-48-25.jpg "Agorà Democratiche")
