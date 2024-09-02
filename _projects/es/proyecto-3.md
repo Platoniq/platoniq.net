@@ -6,7 +6,7 @@ title: Escuela de Creatividad y Democracia (ECD)
 subtitle: La ECD quiere ser una puerta de entrada al mundo a experiencias de
   participación ciudadana de las que poder formar parte
 banner_image:
-  path: /media/projects/3368131461_89a5d3f0ba_c.jpg
+  path: /media/projects/ecd.png
   alt: El grupo motor sale al mercadillo del barrio a impartir el taller a vecinos
     y vendedores. Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND
 date_start: 2024-08-07T11:40:00.000Z

@@ -5,7 +5,7 @@ state: open
 title: projecte 3
 subtitle: s﻿ubtitulo
 banner_image:
-  path: /media/projects/3368131461_89a5d3f0ba_c.jpg
+  path: /media/projects/ecd.png
   alt: proyecto3
 date_start: 2024-08-07T11:40:00.000Z
 date_end: 2024-08-07T11:40:00.000Z
