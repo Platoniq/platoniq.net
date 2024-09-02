@@ -37,11 +37,11 @@ Como primer momento para desarrollar un buen [acompañamiento estratégico](http
 
 ![Diagnóstico participativo](/media/photo_2024-07-31_15-48-56.jpg "Diagnóstico participativo")
 
-Con la intención de proporcionar herramientas para imaginar cómo poner en funcionamiento estructuras y tejer redes para la participación que reflejan realidades diversas, se anonimizan las entrevistas y transforman en relatos de ficción para que puedan inspirar nuevos relatos de la organización.
-
-La entrevista ficcionada [alberga un gran potencial para tender puentes entre las personas](https://journal.platoniq.net/es/wilder-journal-1/blueprints/storytelling/). Por ello, tanto en el proyecto para la Wikimedia Foundation como CultureLabs apostamos por la narración de historias como un elemento clave en el diseño de nuestra metodología.
+Con la intención de proporcionar herramientas para imaginar cómo poner en funcionamiento estructuras y tejer redes para la participación que reflejan realidades diversas, se anonimizan las entrevistas y transforman en relatos de ficción para que puedan inspirar nuevos relatos.
 
 # Proyectos relacionados
+
+La entrevista ficcionada [alberga un gran potencial para tender puentes entre las personas](https://journal.platoniq.net/es/wilder-journal-1/blueprints/storytelling/). Por ello, tanto en el proyecto para la Wikimedia Foundation como CultureLabs apostamos por la narración de historias como un elemento clave en el diseño de nuestra metodología.
 
 Puedes consultar el [informe final (White Paper)](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf) del Diagnóstico Participativo que realizamos para [Wikimedia Foundation](https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Designing_futures_of_participation_in_the_Wikimedia_Movement). [](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
 
