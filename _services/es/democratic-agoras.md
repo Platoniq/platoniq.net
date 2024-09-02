@@ -34,7 +34,7 @@ El modelo del Ágora Democrática integra, por tanto, la dimensión física cóm
 
 # _
 
-# ¿Cómo vamos a conseguirlo?
+# ¿Cómo lo conseguimos?
 
 {% questions { "items": [{"question":"Creando espacios autogestionados de diálogo o deliberación sobre un tema concreto, con el fin de elaborar propuestas conjuntas y específicas."},{"question":"Ofreciendo un espacio digital donde recoger y priorizar las propuestas realizadas en las diferentes Ágoras."},{"question":"Acompañando en el proceso de elaboración de programas electorales (partidos políticos), líneas estratégicas (organizaciones) o un conjunto de propuestas políticas resultantes del proceso participativo."}] } %}
 
@@ -42,9 +42,9 @@ El modelo del Ágora Democrática integra, por tanto, la dimensión física cóm
 
 # Metodología destacada
 
-Nuestro objetivo es crear Ágoras que sean capaces de facilitar la participación de todas las personas presentes sin discriminación de origen, género, clase, edad, discapacidad, orientación sexual o credo. Para ello, cómo organizadores de un Ágora es nuestra responsabilidad promover espacios lo más inclusivo posible, que permita la participación de todas las personas.
+Nuestro objetivo es crear Ágoras que sean capaces de facilitar la participación de todas las personas presentes sin discriminación de origen, género, clase, edad, discapacidad, orientación sexual o credo. Para ello, cómo organizadores de un Ágora es nuestra responsabilidad **promover espacios lo más inclusivos posible**, que permita la participación de todas las personas.
 
-Considerando las barreras físicas y simbólicas que las personas participantes puedan enfrentar y evaluando qué impacto pueden tener en el Ágora, tenemos diseñada una metodología sobre la creación de espacios inclusivos que considera tanto las barreras físicas, como las simbólicas, tanto en el espacio físico como en el virtual.
+Considerando las **barreras** que las personas participantes puedan enfrentar y evaluando qué impacto pueden tener en el Ágora **en cada una de ellas,** tenemos diseñada una metodología sobre la creación de espacios inclusivos que considera las posibles dificultades **físicas** o **simbólicas,** tanto en entornos online cómo offline.
 
 Consulta nuestro manual (en italiano) sobre [cómo organizar eventos más inclusivos](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/156/Manuale_su_come_organizzare_eventi_pi%C3%B9_inclusivi.pdf)
 
