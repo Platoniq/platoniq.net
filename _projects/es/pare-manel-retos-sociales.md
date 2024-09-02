@@ -13,7 +13,7 @@ subtitle: La Fundación Pare Manel, fundada en 2004, nace de la implicación
   asegurando una sostenibilidad económica en la fundación y siguiendo generando
   un impacto social.
 banner_image:
-  path: /media/projects/symbol_innovacio.png
+  path: /media/projects/photo_2024-07-31_15-47-18.jpg
   alt: Innovación
 date_start: 2024-09-02T13:14:00.000Z
 date_end: 2024-09-02T13:14:00.000Z
