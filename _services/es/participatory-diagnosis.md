@@ -25,7 +25,7 @@ Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético
 
 #### ¿Cómo vamos a conseguirlo?
 
-{% questions { "items": [{"question":"Definir los conceptos clave y el marco temático"},{"question":"Analizar el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificar casos de estudio que puedan servir de inspiración"},{"question":"Desarrollar un marco para diseñar un proceso para una gobernanza más participativa"}] } %}
+{% questions { "items": [{"question":"Analizar el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificar casos de estudio que puedan servir de inspiración"},{"question":"Desarrollar un marco para diseñar un proceso para una gobernanza más participativa"}] } %}
 
 #### ¿Por qué somos diferentes?
 
