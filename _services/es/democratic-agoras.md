@@ -34,14 +34,20 @@ El modelo del Ágora Democrática integra, por tanto, la dimensión física cóm
 
 {% questions { "items": [{"question":"Creando espacios autogestionados de diálogo o deliberación sobre un tema concreto, con el fin de elaborar propuestas conjuntas y específicas."},{"question":"Ofreciendo un espacio digital donde recoger y priorizar las propuestas realizadas en las diferentes Ágoras."},{"question":"Acompañando en el proceso de elaboración de programas electorales (partidos políticos), líneas estratégicas (organizaciones) o un conjunto de propuestas políticas resultantes del proceso participativo."}] } %}
 
-#### ¿Por qué somos diferentes?
+# _
 
-#### Proyectos relacionados
+# Metodología destacada
 
-Para saber cómo aplicamos esta metodología, puedes consultar la experiencia con el [Partido Demócrata Italiano](https://platoniq.net/es/projects/agora-democratica-pd/)
+Nuestro objetivo es crear Ágoras que sean capaces de facilitar la participación de todas las personas presentes sin discriminación de origen, género, clase, edad, discapacidad, orientación sexual o credo. Para ello, cómo organizadores de un Ágora es nuestra responsabilidad promover espacios lo más inclusivo posible, que permita la participación de todas las personas.
 
-[Como organizar eventos más inclusivos](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/156/Manuale_su_come_organizzare_eventi_pi%C3%B9_inclusivi.pdf)
+Considerando las barreras físicas y simbólicas que las personas participantes puedan enfrentar y evaluando qué impacto pueden tener en el Ágora, tenemos diseñada una metodología sobre la creación de espacios inclusivos que considera tanto las barreras físicas, como las simbólicas, tanto en el espacio físico como en el virtual.
 
-[Manual metodológico](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/155/Manuale_metodologico_per_oganizzatric_tori.pdf)
+Consulta nuestro manual (en italiano) sobre [cómo organizar eventos más inclusivos](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/156/Manuale_su_come_organizzare_eventi_pi%C3%B9_inclusivi.pdf)
+
+# _
+
+# Proyectos relacionados
+
+Para saber cómo aplicamos esta metodología, puedes consultar la experiencia que llevamos a cabo con el [Partido Demócrata Italiano](https://platoniq.net/es/projects/agora-democratica-pd/) en 2021 para decidir, junto a sus socios y socias, lo que acabó siendo su programa político[](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/155/Manuale_metodologico_per_oganizzatric_tori.pdf)
 
 ![Agorà Democratiche](/media/photo_2024-07-31_15-48-25.jpg "Agorà Democratiche")
