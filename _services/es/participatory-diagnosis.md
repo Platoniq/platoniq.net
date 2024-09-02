@@ -23,13 +23,15 @@ Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético
 
 {% metrics { "items": [{"text":"Mejor gobernanza"},{"text":"Conciencia del privilegio"},{"text":"Oportunidades de mejora"},{"text":"Participación inclusiva"},{"text":"Asumir la complejidad"},{"text":"Visualización de retos"}] } %}
 
-#### ¿Cómo vamos a conseguirlo?
+#### ¿Cómo lo conseguimos?
 
-{% questions { "items": [{"question":"Analizar el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificar casos de estudio que puedan servir de inspiración"},{"question":"Desarrollar un marco para diseñar un proceso para una gobernanza más participativa"}] } %}
+{% questions { "items": [{"question":"Analizamos el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificamos casos de estudio que puedan servir de inspiración"},{"question":"Desarrollamos un marco para diseñar un proceso para una gobernanza más participativa"}] } %}
 
 #### ¿Por qué somos diferentes?
 
-Con la intención de proporcionar herramientas para imaginar cómo poner en funcionamiento estructuras y tejer redes para la participación que reflejan realidades diversas, realizamos una serie de entrevistas cuyo contenido se anonimiza y transforma en relatos de ficción para que puedan inspirar nuevos relatos de la organización.
+Como primer momento para desarrollar un buen [acompañamiento estratégico](https://platoniq.net/es/services/strategic-support/), desde la Platoniq proponemos la realización de una serie de entrevistas semiestructuradas y grupos de discusión, que informen las recomendaciones para un diseño de proceso participativo aplicado a la organización.
+
+Con la intención de proporcionar herramientas para imaginar cómo poner en funcionamiento estructuras y tejer redes para la participación que reflejan realidades diversas, se anonimizan las entrevistas y transforman en relatos de ficción para que puedan inspirar nuevos relatos de la organización.
 
 La entrevista ficcionada [alberga un gran potencial para tender puentes entre las personas](https://journal.platoniq.net/es/wilder-journal-1/blueprints/storytelling/). Por ello, tanto en el proyecto para la Wikimedia Foundation como CultureLabs apostamos por la narración de historias como un elemento clave en el diseño de nuestra metodología.
 
@@ -40,3 +42,7 @@ La entrevista ficcionada [alberga un gran potencial para tender puentes entre la
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vsErReqZJ2E?si=olThPl4ZPzUqBnmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Como resultado del Diagnóstico Participativo que realizamos para Wikimedia Foundation creamos un White Paper, que puedes consultar [aquí.](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
+
+Un segundo proyecto en el que empleamos esta metodología fue el CultureLabs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wmc7CNAafRM?si=lQ_a8VrbGjpsK8nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
