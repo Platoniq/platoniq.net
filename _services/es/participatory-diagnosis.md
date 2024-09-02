@@ -17,7 +17,9 @@ call_to_action:
   url: Contáctanos
   url_text: Contáctanos
 ---
-Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético que da prioridad a las voces marginadas, un análisis de cuestiones clave y un conjunto de recomendaciones para llevar a cabo un proceso de reflexión participativo dentro de una organización, proporcionando herramientas y modelos para promoverlo.
+Este servicio tiene por objetivo llevar a cabo un proceso de reflexión participativo dentro de una organización, proporcionando herramientas y modelos para promoverlo.
+
+Para ello trabajamos para ofrecer un panorama histórico, establecer un marco ético que da prioridad a las voces marginadas, aportar un análisis de cuestiones clave y un conjunto de recomendaciones para 
 
 Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético que da prioridad a las voces marginadas, un análisis de cuestiones clave y un conjunto de recomendaciones para llevar a cabo un proceso de reflexión participativo dentro de una organización, proporcionando herramientas y modelos para promoverlo.
 
