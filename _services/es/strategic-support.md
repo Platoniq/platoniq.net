@@ -25,8 +25,6 @@ La planificación estratégica es la herramienta que utilizan las organizacion
 
 Mediante la planificación estratégica no sólo nos adaptamos al entorno, sino que **creamos nuestro futuro deseado**, como organización interna y con los objetivos sociales cumplidos.
 
-# _
-
 # ¿Qué resultados buscamos?
 
 {% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Hoja de ruta clara"},{"number":"","text":"Mayor agilidad"},{"text":"Sentido de pertencia"},{"text":"Mejor planificación"},{"text":"Proyecto ilusionante"}] } %}
