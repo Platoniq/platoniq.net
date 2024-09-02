@@ -23,21 +23,21 @@ Para ello se hace necesario ofrecer un **panorama histórico,** establecer un **
 
 La investigación que supone este Diagnóstico Participativo nos permite tomar conciencia de las complejas y a veces difíciles realidades que supone mantener **viva y coherente una organización abierta.** Sin embargo, también brinda la oportunidad de replantear lo que eso significa a través de conversaciones con todo el mundo.
 
-##### _
+# _
 
-##### ¿Qué resultados buscamos?
+# ¿Qué resultados buscamos?
 
 {% metrics { "items": [{"text":"Mejor gobernanza"},{"text":"Conciencia del privilegio"},{"text":"Oportunidades de mejora"},{"text":"Participación inclusiva"},{"text":"Asumir la complejidad"},{"text":"Visualización de retos"}] } %}
 
-##### _
+# _
 
-##### ¿Cómo lo conseguimos?
+# ¿Cómo lo conseguimos?
 
 {% questions { "items": [{"question":"Analizamos el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificamos casos de estudio que puedan servir de inspiración"},{"question":"Desarrollamos un marco para diseñar un proceso para una gobernanza más participativa"},{"question":"Elaboramos un informe final (White Paper) con una hoja de ruta clara que promueva la participación a largo plazo"}] } %}
 
-##### _
+# _
 
-##### Metodología destacada
+# Metodología destacada
 
 Como primer momento para desarrollar un buen [acompañamiento estratégico](https://platoniq.net/es/services/strategic-support/), en Platoniq apostamos por la realización de una serie de entrevistas semiestructuradas y grupos de discusión, que informen las recomendaciones para un diseño de proceso participativo estratégico. De esta forma obtenemos la base necesaria para plantearnos los retos futuros de la organización.
 
@@ -45,9 +45,9 @@ Como primer momento para desarrollar un buen [acompañamiento estratégico](http
 
 Con la intención de proporcionar herramientas para imaginar cómo poner en funcionamiento estructuras y tejer redes para la participación que reflejan realidades diversas, se anonimizan las entrevistas y transforman en relatos de ficción para que puedan inspirar nuevos relatos.
 
-##### _
+# _
 
-##### Proyectos relacionados
+# Proyectos relacionados
 
 La entrevista ficcionada [alberga un gran potencial para tender puentes entre las personas](https://journal.platoniq.net/es/wilder-journal-1/blueprints/storytelling/). Por ello, tanto en el proyecto para la Wikimedia Foundation como CultureLabs apostamos por la narración de historias como un elemento clave en el diseño de nuestra metodología.
 
