@@ -26,11 +26,15 @@ Mediante el uso de una plataforma digital de participación democrática se saca
 
 El modelo del Ágora Democrática integra, por tanto, la dimensión física cómo la digital. Dicho de otra manera, de encuentros entre personas surgen propuestas concretas que luego se discuten en línea en la plataforma, que se acaban concretando en una hoja de ruta consensuada con la ciudadanía.
 
-#### ¿Qué resultados buscamos?
+# _
+
+# ¿Qué resultados buscamos?
 
 {% metrics { "items": [{"text":"Máxima participación"},{"text":"Trackeo de resultados"},{"text":"Creación de programa"},{"text":"Formación técnico-política"},{"text":"Dirección estratégica"},{"text":"Sentimiento de pertenencia"}] } %}
 
-#### ¿Cómo vamos a conseguirlo?
+# _
+
+# ¿Cómo vamos a conseguirlo?
 
 {% questions { "items": [{"question":"Creando espacios autogestionados de diálogo o deliberación sobre un tema concreto, con el fin de elaborar propuestas conjuntas y específicas."},{"question":"Ofreciendo un espacio digital donde recoger y priorizar las propuestas realizadas en las diferentes Ágoras."},{"question":"Acompañando en el proceso de elaboración de programas electorales (partidos políticos), líneas estratégicas (organizaciones) o un conjunto de propuestas políticas resultantes del proceso participativo."}] } %}
 
