@@ -23,15 +23,15 @@ Para ello se hace necesario ofrecer un panorama histórico, establecer un marco 
 
 La investigación que supone este Diagnóstico participativo nos permite tomar conciencia de las complejas y a veces difíciles realidades de mantener viva y coherente una organización abierta. Sin embargo, también brinda la oportunidad de replantear lo que eso significa a través de conversaciones con todo el mundo.
 
-#### ¿Qué resultados buscamos?
+# ¿Qué resultados buscamos?
 
 {% metrics { "items": [{"text":"Mejor gobernanza"},{"text":"Conciencia del privilegio"},{"text":"Oportunidades de mejora"},{"text":"Participación inclusiva"},{"text":"Asumir la complejidad"},{"text":"Visualización de retos"}] } %}
 
-#### ¿Cómo lo conseguimos?
+# ¿Cómo lo conseguimos?
 
 {% questions { "items": [{"question":"Analizamos el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificamos casos de estudio que puedan servir de inspiración"},{"question":"Desarrollamos un marco para diseñar un proceso para una gobernanza más participativa"},{"question":"Elaboramos un informe final (White Paper) con una hoja de ruta clara que promueva la participación a largo plazo"}] } %}
 
-#### ¿Por qué somos diferentes?
+# ¿Por qué somos diferentes?
 
 Como primer momento para desarrollar un buen [acompañamiento estratégico](https://platoniq.net/es/services/strategic-support/), desde la Platoniq proponemos la realización de una serie de entrevistas semiestructuradas y grupos de discusión, que informen las recomendaciones para un diseño de proceso participativo aplicado a la organización.
 
@@ -41,7 +41,7 @@ Con la intención de proporcionar herramientas para imaginar cómo poner en func
 
 La entrevista ficcionada [alberga un gran potencial para tender puentes entre las personas](https://journal.platoniq.net/es/wilder-journal-1/blueprints/storytelling/). Por ello, tanto en el proyecto para la Wikimedia Foundation como CultureLabs apostamos por la narración de historias como un elemento clave en el diseño de nuestra metodología.
 
-#### Proyectos relacionados
+# Proyectos relacionados
 
 Puedes consultar el [informe final (White Paper)](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf) del Diagnóstico Participativo que realizamos para [Wikimedia Foundation](https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Designing_futures_of_participation_in_the_Wikimedia_Movement). [](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
 
