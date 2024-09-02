@@ -27,9 +27,13 @@ La investigación que supone este Diagnóstico Participativo nos permite tomar c
 
 {% metrics { "items": [{"text":"Mejor gobernanza"},{"text":"Conciencia del privilegio"},{"text":"Oportunidades de mejora"},{"text":"Participación inclusiva"},{"text":"Asumir la complejidad"},{"text":"Visualización de retos"}] } %}
 
+# _
+
 # ¿Cómo lo conseguimos?
 
 {% questions { "items": [{"question":"Analizamos el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificamos casos de estudio que puedan servir de inspiración"},{"question":"Desarrollamos un marco para diseñar un proceso para una gobernanza más participativa"},{"question":"Elaboramos un informe final (White Paper) con una hoja de ruta clara que promueva la participación a largo plazo"}] } %}
+
+# _
 
 # Metodología destacada
 
@@ -38,6 +42,8 @@ Como primer momento para desarrollar un buen [acompañamiento estratégico](http
 ![Diagnóstico participativo](/media/photo_2024-07-31_15-48-56.jpg "Diagnóstico participativo")
 
 Con la intención de proporcionar herramientas para imaginar cómo poner en funcionamiento estructuras y tejer redes para la participación que reflejan realidades diversas, se anonimizan las entrevistas y transforman en relatos de ficción para que puedan inspirar nuevos relatos.
+
+# _
 
 # Proyectos relacionados
 
