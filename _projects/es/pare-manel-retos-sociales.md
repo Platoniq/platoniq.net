@@ -16,7 +16,13 @@ banner_image:
   alt: Innovación
 date_start: 2024-09-02T13:14:00.000Z
 date_end: 2024-09-02T13:14:00.000Z
-description: hhh
+description: La Fundación Pare Manel, fundada en 2004, nace de la implicación
+  social y educativa del Padre Manel Pousa Engroñat en los barrios de Verdún-Les
+  Roquetes de Barcelona. Hoy sigue siendo una referencia para los vecinos y
+  vecinas del barrio en el que trabaja, sin embargo para mantener la calidad de
+  sus servicios decidieron de abrirse, escucharse y repensarse para dar
+  respuesta a nuevos retos sociales asegurando una sostenibilidad económica y
+  seguir generando un impacto social positivo en su comunidad.
 budget: "18000"
 private_percentage: "18000"
 public_percentage: "0"
