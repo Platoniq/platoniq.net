@@ -39,7 +39,7 @@ La entrevista ficcionada [alberga un gran potencial para tender puentes entre la
 
 #### Proyectos relacionados
 
-Como resultado del Diagnóstico Participativo que realizamos para Wikimedia Foundation creamos un White Paper, que puedes consultar [aquí.](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
+Puedes consultar el [informe final (White Paper)](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf) del Diagnóstico Participativo que realizamos para [Wikimedia Foundation](https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Designing_futures_of_participation_in_the_Wikimedia_Movement). [](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vsErReqZJ2E?si=olThPl4ZPzUqBnmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
