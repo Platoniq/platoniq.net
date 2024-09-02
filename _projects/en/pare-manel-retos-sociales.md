@@ -16,7 +16,6 @@ categories:
   - democratic_innovation
 members:
   - os
-  - cp
 collaborators:
   - pare-manel
 call_to_action:
