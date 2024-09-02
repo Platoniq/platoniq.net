@@ -42,7 +42,7 @@ Es una herramienta de planificación estratégica que utilizan las organizacione
 
 La Fundación Pare Manel, mediante la planificación estratégica, no sólo buscaba seguir adaptándose al entorno, sino que quería crear su futuro deseado, como organización interna y con los objetivos sociales cumplidos.
 
-![](/media/photo_2024-07-31_15-47-11.jpg "Formación del grupo motor del taller. Taller Banco Comun de Datos impartido por Platoniq en el IES Antonio Dominguez Ortiz. // ZEMOS98. Antonio Miñán. CC BY-NC-ND")
+![¿Hay alguien ahí?](/media/photo_2024-07-31_15-47-11.jpg "¿Hay alguien ahí?")
 
 ##### ¿Por qué iniciar un acompañamiento estratégico?
 
@@ -52,5 +52,31 @@ La Fundación Pare Manel, mediante la planificación estratégica, no sólo busc
 * Para tener más conocimiento transversal de la Fundación Pare Manel, de los suyos grupos de interés, de las áreas de trabajo y del funcionamiento.
 * Para tener más agilidad en la detección de oportunidades, clasificarlas por orden de prioridad y explotarlas.
 * Para brindar una base sólida y un legado metodológico para elaborar un Plan Estratégico vivo, adaptable y anticipado a las distintas necesidades que pueden fluctuar con el tiempo.
+
+##### Metodología y pasos a seguir
+
+![Acompañamiento estratégico: proceso](/media/captura-de-pantalla-2024-09-02-a-las-17.19.02.png "Acompañamiento estratégico: proceso")
+
+En su viaje hacia la renovación de su estrategia, la Fundació Pare Manel tuvo que pasar por estos hitos, todos ellos enfocados a armonizar las opiniones del conjunto de sus trabajadores, así como del grupo motor que sirvió de tractor en todas las etapas del camino.
+
+1. **Taller de Ignición:** Relato actual y turbulencias
+2. **Taller intermedio grupo motor:** Tturbulencias externas e internas
+3. **Taller de Profundización I:** Campo de acción
+4. **Taller intermedio grupo motor:** Priorizar y desglose de desafíos complejos
+5. **Taller de Profundización 2:** Entender nuestras beneficiarias. Cómo nos organizamos como Fundación para llegar a nuestros objetivos (gobernanza)
+6. **Taller intermedio grupo motor:** Datos fiables, digestión perfiles de beneficiarios y visión
+7. **Taller de Profundización 3:** Qué objetivos queremos alcanzar, cómo llegamos y cómo medimos el impacto.
+8. **Taller intermedio grupo motor:** Sistematización de la información y formulación del Plan Estratégico
+9. **Entrega del informe final** 
+10. **Celebración**
+
+##### Resultados destacados
+
+Una vez superada la etapa de diagnóstico y la etapa de análisis de la información recogida tanto de la organización como de su entorno, llegó el momento de asumir el reto de la formulación del Plan Estratégico. Ambas acciones fundamentales a tener en cuenta en el proceso de formulación del Plan y que fueron determinantes para su desarrollo son:
+
+* la sistematización de la información recogida en las etapas anteriores, que implica la lectura y digestión de los resultados obtenidos, la armonización de los mismos para que sean comparables, la clasificación y reordenación, en su caso
+* la toma de decisiones sobre los objetivos y las estrategias de la organización y su formulación, para que compartan el lenguaje y narrativa propia de la organización, y que permita a todo el mundo entenderlo y sentirse reconocido
+
+Para dibujar las estrategias más adecuadas para la organización es clave que exista concordancia y coherencia entre la fase de diagnóstico y la formalización de los objetivos.
 
 ![Informe Final](/media/photo_2024-07-31_15-47-06.jpg "Informe Final")
