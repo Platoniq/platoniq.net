@@ -31,9 +31,9 @@ La investigación que supone este Diagnóstico Participativo nos permite tomar c
 
 {% questions { "items": [{"question":"Analizamos el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificamos casos de estudio que puedan servir de inspiración"},{"question":"Desarrollamos un marco para diseñar un proceso para una gobernanza más participativa"},{"question":"Elaboramos un informe final (White Paper) con una hoja de ruta clara que promueva la participación a largo plazo"}] } %}
 
-# ¿Por qué somos diferentes?
+# Metodología destacada
 
-Como primer momento para desarrollar un buen [acompañamiento estratégico](https://platoniq.net/es/services/strategic-support/), desde la Platoniq proponemos la realización de una serie de entrevistas semiestructuradas y grupos de discusión, que informen las recomendaciones para un diseño de proceso participativo aplicado a la organización.
+Como primer momento para desarrollar un buen [acompañamiento estratégico](https://platoniq.net/es/services/strategic-support/), en Platoniq apostamos por la realización de una serie de entrevistas semiestructuradas y grupos de discusión, que informen las recomendaciones para un diseño de proceso participativo estratégico. De esta forma obtenemos la base necesaria para plantearnos los retos futuros de la organización.
 
 ![Diagnóstico participativo](/media/photo_2024-07-31_15-48-56.jpg "Diagnóstico participativo")
 
