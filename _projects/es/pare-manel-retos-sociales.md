@@ -42,6 +42,8 @@ Es una herramienta de planificación estratégica que utilizan las organizacione
 
 La Fundación Pare Manel, mediante la planificación estratégica, no sólo buscaba seguir adaptándose al entorno, sino que quería crear su futuro deseado, como organización interna y con los objetivos sociales cumplidos.
 
+![](/media/photo_2024-07-31_15-47-11.jpg "Formación del grupo motor del taller. Taller Banco Comun de Datos impartido por Platoniq en el IES Antonio Dominguez Ortiz. // ZEMOS98. Antonio Miñán. CC BY-NC-ND")
+
 ##### ¿Por qué iniciar un acompañamiento estratégico?
 
 * Para tener un proceso más democrático.
@@ -50,3 +52,5 @@ La Fundación Pare Manel, mediante la planificación estratégica, no sólo busc
 * Para tener más conocimiento transversal de la Fundación Pare Manel, de los suyos grupos de interés, de las áreas de trabajo y del funcionamiento.
 * Para tener más agilidad en la detección de oportunidades, clasificarlas por orden de prioridad y explotarlas.
 * Para brindar una base sólida y un legado metodológico para elaborar un Plan Estratégico vivo, adaptable y anticipado a las distintas necesidades que pueden fluctuar con el tiempo.
+
+![Informe Final](/media/photo_2024-07-31_15-47-06.jpg "Informe Final")
