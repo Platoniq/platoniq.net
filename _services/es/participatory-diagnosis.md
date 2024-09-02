@@ -17,11 +17,11 @@ call_to_action:
   url: Contáctanos
   url_text: Contáctanos
 ---
-Este servicio tiene por objetivo llevar a cabo un proceso de reflexión participativo dentro de una organización, proporcionando herramientas y modelos para promoverlo.
+Este servicio tiene por objetivo llevar a cabo un **proceso de reflexión participativo dentro de una organización,** proporcionando herramientas y modelos para promoverlo.
 
-Para ello se hace necesario ofrecer un panorama histórico, establecer un marco ético que da prioridad a las voces marginadas, aportar un análisis de cuestiones clave y, finalmente, plantear un conjunto de recomendaciones que ayuden a la organización a la hora de dinamizar participativamente el análisis y la obtención de conclusiones.
+Para ello se hace necesario ofrecer un **panorama histórico,** establecer un **marco ético** que da prioridad a las voces marginadas, aportar un **análisis de cuestiones clave** y, finalmente, plantear un conjunto de **recomendaciones** que ayuden a la organización a la hora de dinamizar participativamente el análisis y la obtención de conclusiones.
 
-La investigación que supone este Diagnóstico participativo nos permite tomar conciencia de las complejas y a veces difíciles realidades de mantener viva y coherente una organización abierta. Sin embargo, también brinda la oportunidad de replantear lo que eso significa a través de conversaciones con todo el mundo.
+La investigación que supone este Diagnóstico Participativo nos permite tomar conciencia de las complejas y a veces difíciles realidades que supone mantener **viva y coherente una organización abierta.** Sin embargo, también brinda la oportunidad de replantear lo que eso significa a través de conversaciones con todo el mundo.
 
 # ¿Qué resultados buscamos?
 
