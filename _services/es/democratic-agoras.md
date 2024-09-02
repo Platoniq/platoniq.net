@@ -24,7 +24,7 @@ El objetivo de este servicio consiste poner en relación los valores y relatos d
 
 Mediante el uso de una plataforma digital de participación democrática se saca a relucir la inteligencia colectiva para construir, junto con la ciudadanía, un nuevo campo de significados, amplio y plural, abierto a las propuestas de todas las personas.
 
-El modelo del Ágora Democrática integra, por tanto, la dimensión física cómo la digital, O dicho de otra manera, de encuentros entre personas surgen propuestas concretas que luego se discuten en línea en la plataforma.
+El modelo del Ágora Democrática integra, por tanto, la dimensión física cómo la digital. Dicho de otra manera, de encuentros entre personas surgen propuestas concretas que luego se discuten en línea en la plataforma, que se acaban concretando en una hoja de ruta consensuada con la ciudadanía.
 
 #### ¿Qué resultados buscamos?
 
@@ -32,7 +32,7 @@ El modelo del Ágora Democrática integra, por tanto, la dimensión física cóm
 
 #### ¿Cómo vamos a conseguirlo?
 
-{% questions { "items": [{"question":"Creamos espacios autogestionados de diálogo o deliberación sobre un tema concreto, con el fin de elaborar propuestas conjuntas y específicas."},{"question":"Disponemos de un espacio digital donde recoger y priorizar las propuestas realizadas en las diferentes Ágoras."},{"question":"Acompañamos en el proceso de elaboración de programas electorales (partidos políticos), líneas estratégicas (organizaciones) o un conjunto de propuestas políticas resultantes del proceso participativo."}] } %}
+{% questions { "items": [{"question":"Creando espacios autogestionados de diálogo o deliberación sobre un tema concreto, con el fin de elaborar propuestas conjuntas y específicas."},{"question":"Ofreciendo un espacio digital donde recoger y priorizar las propuestas realizadas en las diferentes Ágoras."},{"question":"Acompañando en el proceso de elaboración de programas electorales (partidos políticos), líneas estratégicas (organizaciones) o un conjunto de propuestas políticas resultantes del proceso participativo."}] } %}
 
 #### ¿Por qué somos diferentes?
 
