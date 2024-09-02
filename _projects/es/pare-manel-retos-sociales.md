@@ -44,20 +44,9 @@ La Fundación Pare Manel, mediante la planificación estratégica, no sólo busc
 
 #### ¿Por qué decidimos iniciar un acompañamiento estratégico?
 
-● Por tener un proceso más democrático.
-
-● Para integrar múltiples perspectivas, aprovechando el potencial de la inteligencia
-
-colectiva de las participantes.
-
-● Para potenciar el sentimiento de pertenencia del equipo a la organización.
-
-● Para tener más conocimiento transversal de la Fundación Pare Manel, de los suyos
-
-grupos de interés, de las áreas de trabajo y del funcionamiento.
-
-● Para tener más agilidad en la detección de oportunidades, clasificarlas por orden de
-
-prioridad y explotarlas.
-
-● Para brindar una base sólida y un legado metodológico para elaborar un Plan Estratégico vivo, adaptable y anticipado a las distintas necesidades que pueden fluctuar con el tiempo.
+* Por tener un proceso más democrático.
+* Para integrar múltiples perspectivas, aprovechando el potencial de la inteligencia colectiva de las participantes.
+* Para potenciar el sentimiento de pertenencia del equipo a la organización.
+* Para tener más conocimiento transversal de la Fundación Pare Manel, de los suyos grupos de interés, de las áreas de trabajo y del funcionamiento.
+* Para tener más agilidad en la detección de oportunidades, clasificarlas por orden de prioridad y explotarlas.
+* Para brindar una base sólida y un legado metodológico para elaborar un Plan Estratégico vivo, adaptable y anticipado a las distintas necesidades que pueden fluctuar con el tiempo.
