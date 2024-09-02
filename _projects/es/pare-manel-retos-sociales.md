@@ -6,13 +6,11 @@ title: Fundació Pare Manel. Cómo dar respuesta a los nuevos retos sociales 20
   años después
 subtitle: La Fundación Pare Manel, fundada en 2004, nace de la implicación
   social y educativa del Padre Manel Pousa Engroñat en los barrios de Verdún-Les
-  Roquetes de Barcelona. Tras su muerte, en el 2020, y del impacto social en el
-  barrio como consecuencia de la pandemia, la dirección y el patronato de la
-  Fundación Pare Manel deciden que es el momento idóneo para empezar un proceso
-  interno de cambio; para iniciar un Plan Estratégico. Todo esto con la idea de
-  abrirse, escucharse, y repensarse para dar respuesta a nuevos retos sociales
-  asegurando una sostenibilidad económica en la fundación y siguiendo generando
-  un impacto social.
+  Roquetes de Barcelona. Hoy sigue siendo una referencia para los vecinos y
+  vecinas del barrio en el que trabaja, sin embargo para mantener la calidad de
+  sus servicios decidieron de abrirse, escucharse y repensarse para dar
+  respuesta a nuevos retos sociales asegurando una sostenibilidad económica y
+  seguir generando un impacto social positivo en su comunidad.
 banner_image:
   path: /media/projects/photo_2024-07-31_15-47-18.jpg
   alt: Innovación
