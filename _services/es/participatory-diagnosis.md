@@ -25,7 +25,7 @@ Este servicio tiene por objetivo ofrecer un panorama histórico, un marco ético
 
 #### ¿Cómo lo conseguimos?
 
-{% questions { "items": [{"question":"Analizamos el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificamos casos de estudio que puedan servir de inspiración"},{"question":"Desarrollamos un marco para diseñar un proceso para una gobernanza más participativa"},{"question":"Elaboramos un informe final con una hoja de ruta clara que promueva la participación a largo plazo"}] } %}
+{% questions { "items": [{"question":"Analizamos el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificamos casos de estudio que puedan servir de inspiración"},{"question":"Desarrollamos un marco para diseñar un proceso para una gobernanza más participativa"},{"question":"Elaboramos un informe final (White Paper) con una hoja de ruta clara que promueva la participación a largo plazo"}] } %}
 
 #### ¿Por qué somos diferentes?
 
