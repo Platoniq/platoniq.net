@@ -39,9 +39,9 @@ La entrevista ficcionada [alberga un gran potencial para tender puentes entre la
 
 #### Proyectos relacionados
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vsErReqZJ2E?si=olThPl4ZPzUqBnmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Como resultado del Diagnóstico Participativo que realizamos para Wikimedia Foundation creamos un White Paper, que puedes consultar [aquí.](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vsErReqZJ2E?si=olThPl4ZPzUqBnmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Un segundo proyecto en el que empleamos esta metodología fue el [CultureLabs](https://culture-labs.eu/methodology-of-culturelabs/), un proyecto en el que nos embarcamos junto a otras entidades para desarrollar una metodología que apoyase la creación conjunta de actividades participativas centradas en el patrimonio cultural.
 
