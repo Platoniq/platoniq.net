@@ -53,7 +53,7 @@ También aplicamos la **creatividad** a todo el proceso generando **nuestras pro
 
 # Proyectos relacionados
 
-La Fundació Pare Manel confió su redacción de Plan Estratégico a la Fundació Platoniq en 2023. Según ellos mismos, y tras cuatro meses de trabajo junto a todos los trabajadores , estas fueron algunas de sus **conclusiones** a las que llegaron para iniciar un proceso de acompañamiento estratégico participativo:
+La Fundació Pare Manel confió su redacción de Plan Estratégico a la Fundació Platoniq en 2023 ([consulta el proyecto en detalle aquí](https://platoniq.net/es/projects/pare-manel-acompa%C3%B1amiento-estrat%C3%A9gico/)). Según ellos mismos, y tras cuatro meses de trabajo junto a todos los trabajadores , estas fueron algunas de sus **conclusiones** a las que llegaron para iniciar un proceso de acompañamiento estratégico participativo:
 
 * Para obtener un proceso **más democrático.**
 * Para **integrar múltiples perspectivas,** aprovechando el potencial de la inteligencia colectiva de las participantes.
@@ -62,6 +62,6 @@ La Fundació Pare Manel confió su redacción de Plan Estratégico a la Fundaci�
 * Para tener más **agilidad en la detección de oportunidades,** clasificarlas por orden de prioridad y ser capaces de explotarlas.
 * Para brindar una base sólida y un **legado metodológico vivo, adaptable y anticipado** a las distintas necesidades que pueden fluctuar con el tiempo.
 
-![El equipo de la Fundació Pare Manel](/media/photo_2024-07-31_15-47-18.jpg "El equipo de la Fundació Pare Manel")
+![El equipo de la Fundació Pare Manel](/media/captura-de-pantalla-2024-09-02-a-las-17.11.53.png "El equipo de la Fundació Pare Manel")
 
 **"Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad"**. Fundació Pare Manel
