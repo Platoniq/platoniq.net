@@ -13,9 +13,11 @@ call_to_action:
 Image:
   path: /media/services/gif01.gif
   alt: Platoniq
-description: >
-  Diseñamos procesos participativos abiertos para debatir y trabajar planes de
-  acción consensuados con la ciudadanía.
+description: Diseñamos procesos participativos abiertos para debatir y trabajar
+  planes de acción consensuados con la ciudadanía. Un Ágora Democrática es un
+  evento físico y digital, enfocado a una temática concreta, en el cual se
+  debate y se trabaja en propuestas concretas, planteadas y compartidas por las
+  participantes.
 image:
   path: /media/services/symbol_innovacio.png
   alt: Visiones audaces
