@@ -70,35 +70,36 @@ En su viaje hacia la renovación de su estrategia, la Fundació Pare Manel tuvo 
    Durante el taller se quiso compartir que los Planes Estratégicos no son figuras inmóviles, sino que deben ser revisadas periódicamente y adaptadas a los tiempos cambiantes de los que formamos parte.
 
    ![¿Hay alguien ahí?](/media/photo_2024-07-31_15-47-11.jpg "¿Hay alguien ahí?")
-3. **Taller de Profundización 2:** Entender nuestras beneficiarias. Cómo nos organizamos como Fundación para llegar a nuestros objetivos (gobernanza)
 
-   \- Reflexionar sobre la importancia de un Plan Estratégico para una organización y cómo se despliega y se instrumentaliza con ejemplos concretos.
+**Taller de Profundización 2:** Entender nuestras beneficiarias. Cómo nos organizamos como Fundación para llegar a nuestros objetivos (gobernanza)
 
-   \- Poner en común los diferentes DAFOS de cada área trabajados previamente para ser desglosados ​​con acompañamiento de Platoniq.
+\- Reflexionar sobre la importancia de un Plan Estratégico para una organización y cómo se despliega y se instrumentaliza con ejemplos concretos.
 
-   \- Priorizar e identificar a las beneficiarias más importantes para la Fundación Pare Manel.
+\- Poner en común los diferentes DAFOS de cada área trabajados previamente para ser desglosados ​​con acompañamiento de Platoniq.
 
-   \- Reflexionar sobre la importancia de la relación de las beneficiarias seleccionadas con la Fundación Pare Manel.
+\- Priorizar e identificar a las beneficiarias más importantes para la Fundación Pare Manel.
 
-   \- Entender qué dinámicas y estructura existen en la forma en que la Fundación Pare Manel actualmente se organiza.
+\- Reflexionar sobre la importancia de la relación de las beneficiarias seleccionadas con la Fundación Pare Manel.
 
-   \- Reflexionar en torno al modelo actual de la fundación en torno a los pilares fundamentales y la participación de las diferentes beneficiarias.
-4. **Taller de Profundización 3:** Qué objetivos queremos alcanzar, cómo llegamos y cómo medimos el impacto.
+\- Entender qué dinámicas y estructura existen en la forma en que la Fundación Pare Manel actualmente se organiza.
 
-   Introducir la importancia de los datos fiables y cómo éstos nos servirán para apoyarnos en las acciones estratégicas a realizar.
+\- Reflexionar en torno al modelo actual de la fundación en torno a los pilares fundamentales y la participación de las diferentes beneficiarias.
 
-   Crear y redactar una visión con acciones y capacidad de ser medible en su impacto.
+**Taller de Profundización 3:** Qué objetivos queremos alcanzar, cómo llegamos y cómo medimos el impacto.
 
-   Crear un puente desde la visión audaz a la instrumentalización de un Plan Estratégico.
+Introducir la importancia de los datos fiables y cómo éstos nos servirán para apoyarnos en las acciones estratégicas a realizar.
 
-   Generar una metáfora en el imaginario de los diferentes integrantes de la Fundación Padre Manel en torno a los elementos de un jardín para reforzar el relato del proceso estratégico y de la nueva etapa de la Fundación.
+Crear y redactar una visión con acciones y capacidad de ser medible en su impacto.
 
+Crear un puente desde la visión audaz a la instrumentalización de un Plan Estratégico.
 
+Generar una metáfora en el imaginario de los diferentes integrantes de la Fundación Padre Manel en torno a los elementos de un jardín para reforzar el relato del proceso estratégico y de la nueva etapa de la Fundación.
 
-1. **Entrega del informe final** 
-2. **Celebración**
+**Entrega del informe final** 
 
-![¿Hay alguien ahí?](/media/photo_2024-07-31_15-47-11.jpg "¿Hay alguien ahí?")
+**Celebración**
+
+![¿Hay alguien ahí?](/media/captura-de-pantalla-2024-09-03-a-las-16.05.15.png "¿Hay alguien ahí?")
 
 ##### Resultados destacados
 
