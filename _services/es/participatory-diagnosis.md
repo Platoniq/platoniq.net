@@ -4,7 +4,8 @@ slug: participatory-diagnosis
 title: Diagnóstico Participativo
 description: Dinamizamos la producción participativa de documentos que examinan
   la historia de una organización, realizan una evaluación de su situación
-  actual y proponen un marco para diseñar una gobernanza más abierta y justa.
+  actual y proponen un marco para diseñar una gobernanza más abierta y justa en
+  el futuro.
 image:
   path: /media/services/visiones-audaces.png
   alt: Visiones audaces
