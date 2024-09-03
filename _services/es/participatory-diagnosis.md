@@ -40,11 +40,11 @@ La investigación que supone este Diagnóstico Participativo nos permite tomar c
 
 # Metodología destacada
 
-Como primer momento para desarrollar un buen [acompañamiento estratégico](https://platoniq.net/es/services/strategic-support/), en Platoniq apostamos por la realización de una serie de entrevistas semiestructuradas y grupos de discusión, que informen las recomendaciones para un diseño de proceso participativo estratégico. De esta forma obtenemos la base necesaria para plantearnos los retos futuros de la organización.
+Como primer paso para desarrollar un buen [acompañamiento estratégico](https://platoniq.net/es/services/strategic-support/), en Platoniq apostamos por el diagnóstico participativo de los retos y oportunidades de la organización, mediante la realización de una serie de entrevistas semi-estructuradas y grupos de discusión que informen las recomendaciones para el diseño estratégico. De esta forma obtenemos los consensos necesarios y el sentimiento de pertenencia para plantearnos los retos futuros de la organización.
 
 ![Diagnóstico participativo](/media/photo_2024-07-31_15-48-56.jpg "Diagnóstico participativo")
 
-Con la intención de proporcionar herramientas para imaginar cómo poner en funcionamiento estructuras y tejer redes para la participación que reflejan realidades diversas, se anonimizan las entrevistas y transforman en relatos de ficción para que puedan inspirar nuevos relatos.
+Estas entrevistas se anonimizan y transforman en **relatos de ficción** para que puedan inspirar nuevos relatos, que permitan **imaginar** cómo poner en funcionamiento estructuras y tejer redes para la participación de todos los miembros de una organización reflejando toda su diversidad.
 
 # _
 
