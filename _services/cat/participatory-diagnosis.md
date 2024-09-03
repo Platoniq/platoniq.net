@@ -11,6 +11,7 @@ image:
   path: /media/services/visiones-audaces.png
 collaborators:
   - wikimedia
+  - culturelabs
 call_to_action:
   image_path: /media/services/gif01.gif
   url: Contáctanos

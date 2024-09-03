@@ -8,6 +8,7 @@ image:
   alt: platoniq
 collaborators:
   - wikimedia
+  - culturelabs
 call_to_action:
   image_path: /media/services/gif01.gif
   url: Contáctanos

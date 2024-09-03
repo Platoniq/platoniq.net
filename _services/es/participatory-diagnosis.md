@@ -11,6 +11,7 @@ image:
   alt: Visiones audaces
 collaborators:
   - wikimedia
+  - culturelabs
 call_to_action:
   image_path: /media/services/gif01.gif
   image_alt: ¿Quieres saber más?
