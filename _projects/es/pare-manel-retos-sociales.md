@@ -57,15 +57,13 @@ La Fundación Pare Manel, mediante la planificación estratégica, no sólo busc
 En su viaje hacia la renovación de su estrategia, la Fundació Pare Manel tuvo que pasar por estos hitos, todos ellos enfocados a armonizar las opiniones del conjunto de sus trabajadores, así como del grupo motor que sirvió de tractor en todas las etapas del camino.
 
 1. **Taller de Ignición:** Relato actual y turbulencias
-2. **Taller intermedio grupo motor:** Tturbulencias externas e internas
-3. **Taller de Profundización I:** Campo de acción
-4. **Taller intermedio grupo motor:** Priorizar y desglose de desafíos complejos
-5. **Taller de Profundización 2:** Entender nuestras beneficiarias. Cómo nos organizamos como Fundación para llegar a nuestros objetivos (gobernanza)
-6. **Taller intermedio grupo motor:** Datos fiables, digestión perfiles de beneficiarios y visión
-7. **Taller de Profundización 3:** Qué objetivos queremos alcanzar, cómo llegamos y cómo medimos el impacto.
-8. **Taller intermedio grupo motor:** Sistematización de la información y formulación del Plan Estratégico
-9. **Entrega del informe final** 
-10. **Celebración**
+2. **Taller de Profundización I:** Campo de acción
+3. **Taller de Profundización 2:** Entender nuestras beneficiarias. Cómo nos organizamos como Fundación para llegar a nuestros objetivos (gobernanza)
+4. **Taller de Profundización 3:** Qué objetivos queremos alcanzar, cómo llegamos y cómo medimos el impacto.
+5. **Entrega del informe final** 
+6. **Celebración**
+
+![Acompañamiento estratégico: fases](/media/captura-de-pantalla-2024-09-03-a-las-15.59.01.png "Acompañamiento estratégico: fases")
 
 ##### Resultados destacados
 
