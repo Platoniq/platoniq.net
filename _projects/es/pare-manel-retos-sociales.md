@@ -95,10 +95,6 @@ Crear un puente desde la visión audaz a la instrumentalización de un Plan Estr
 
 Generar una metáfora en el imaginario de los diferentes integrantes de la Fundación Padre Manel en torno a los elementos de un jardín para reforzar el relato del proceso estratégico y de la nueva etapa de la Fundación.
 
-**Entrega del informe final** 
-
-**Celebración**
-
 ![¿Hay alguien ahí?](/media/captura-de-pantalla-2024-09-03-a-las-16.05.15.png "¿Hay alguien ahí?")
 
 ##### Resultados destacados
@@ -109,7 +105,5 @@ Una vez superada la etapa de diagnóstico y la etapa de análisis de la informac
 * la toma de decisiones sobre los objetivos y las estrategias de la organización y su formulación, para que compartan el lenguaje y narrativa propia de la organización, y que permita a todo el mundo entenderlo y sentirse reconocido
 
 Para dibujar las estrategias más adecuadas para la organización es clave que exista concordancia y coherencia entre la fase de diagnóstico y la formalización de los objetivos.
-
-1. 1. ![¿Hay alguien ahí?](/media/photo_2024-07-31_15-47-11.jpg "¿Hay alguien ahí?")
 
 ![Informe Final](/media/photo_2024-07-31_15-47-06.jpg "Informe Final")
