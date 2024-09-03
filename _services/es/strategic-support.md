@@ -16,8 +16,8 @@ Image:
   alt: platoniq
 description: Acompañamos a las organizaciones en la elaboración de su plan
   estratégico mediante la reflexión sobre su identidad, entorno, gobernanza y
-  trayectoria, estableciendo la hoja de ruta que permita afrontar los
-  principales retos que les impiden visionar futuros deseables.
+  trayectoria, estableciendo la hoja de ruta que les permita visionar futuros
+  deseables.
 image:
   path: /media/services/symbol_innovacio.png
   alt: Acompañamiento estratégico
