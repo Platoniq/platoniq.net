@@ -72,7 +72,7 @@ En este sentido, Platoniq aspira a poder dejar un legado en las organizaciones y
 
 Además, durante el taller se quiso compartir que los Planes Estratégicos no son figuras inmóviles, sino que deben ser revisadas periódicamente y adaptadas a los tiempos cambiantes de los que formamos parte.
 
-![Pasos audaces](/media/captura-de-pantalla-2024-09-04-a-las-10.45.37.png "Pasos audaces")
+![Desglose desafío complejo](/media/captura-de-pantalla-2024-09-04-a-las-10.58.31.png "Desglose desafío complejo")
 
 **Taller de Profundización 2:** Entender nuestras beneficiarias. 
 
