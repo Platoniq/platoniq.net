@@ -3,10 +3,11 @@ layout: project
 slug: agora-democratica-pd
 state: closed
 title: Las Ágoras Democráticas del Partido Demócrata Italiano
-subtitle: Un Ágora Democrática es un evento de un día de duración, enfocado a
-  una temática concreta elegida por la Organizadora, en la cual se debate y se
-  trabaja en propuestas concretas, planteadas y compartidas por las
-  participantes.
+subtitle: El experimento de las Ágoras democráticas fue **una oportunidad
+  única** para escuchar la voz de la ciudadanía, para dar visibilidad a temas y
+  temas que se consideraron importantes en ese momento, para ponerse en contacto
+  con otras personas interesadas en los mismos desafíos y para sacar propuestas
+  y posibles soluciones a los desafíos del país.
 banner_image:
   path: /media/projects/photo_2024-07-31_15-48-25.jpg
   alt: Agora Democrática PD
@@ -92,7 +93,7 @@ El aterrizaje estba previsto para enero de 2022, cuando el Partido Demócrata se
 
 ##### Resultados
 
-El experimento de las Ágoras democráticas fue **una oportunidad única** para escuchar la voz de la ciudadanía, para dar visibilidad a temas y temas que se consideraron importantes en ese momento, para ponerse en contacto con otras personas interesadas en los mismos desafíos y para sacar propuestas y posibles soluciones a los desafíos de nuestro país.
+El experimento de las Ágoras democráticas fue **una oportunidad única** para escuchar la voz de la ciudadanía, para dar visibilidad a temas y temas que se consideraron importantes en ese momento, para ponerse en contacto con otras personas interesadas en los mismos desafíos y para sacar propuestas y posibles soluciones a los desafíos del país.
 
 ![Participantes de una de las Ágoras](/media/captura-de-pantalla-2024-09-04-a-las-17.32.32.png "Participantes de una de las Ágoras")
 
