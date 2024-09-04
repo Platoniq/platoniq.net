@@ -34,22 +34,22 @@ call_to_action:
   url: Consúltanos
   url_text: Consúltanos
 ---
-Las Ágoras Democráticas representan uno de los mayores experimentos de democracia participativa.
+Las Ágoras Democráticas representan **uno de los mayores experimentos de democracia participativa.**
 
-En Italia, en 2021, acompañamos la iniciativa impulsada por el Partido Demócrata encaminada a ampliar e innovar los espacios y métodos de participación democrática y a desarrollar, de la forma más compartida y amplia posible, un ambicioso programa de centro izquierda.
+En 2021, acompañamos la iniciativa impulsada por el Partido Demócrata italiano encaminada a **ampliar e innovar los espacios y métodos de participación democrática** y a desarrollar, de la forma más compartida y amplia posible, un ambicioso programa de centro izquierda.
 
-A través de un camino que comenzó en julio  de 2021, el Partido Demócrata experimentó el uso de una plataforma digital de participación democrática diseñada por Platoniq para sacar a relucir la inteligencia colectiva y construir, junto con la ciudadanía, un nuevo campo político, amplio y plural, abierto a las propuestas de todas las personas que se reconocen en los valores del centro izquierda.
+A través de un camino que comenzó en julio, el Partido Demócrata experimentó el uso de una plataforma digital de participación democrática diseñada por Platoniq para sacar a relucir **la inteligencia colectiva** y construir, junto con la ciudadanía, **un nuevo campo político, amplio y plural, abierto a las propuestas de todas las personas** que se reconocen en los valores del centro izquierda.
 
 ![Roles](/media/photo_2024-07-31_15-48-04.jpg "Roles")
 
 ##### ¿Cómo se llevó a cabo el proyecto?
 
-Como forma de organización, se plantearon dos "lugares" de encuentro, con características y objetivos diferenciados
+Como forma de organización, se plantearon **dos "lugares" de encuentro,** con características y objetivos diferenciados
 
-1. Las Ágoras individuales: eventos de una jornada (presenciales, híbridos u online), de los que surgían diversas propuestas compartidas por los participantes;
-2. La plataforma digital Ágora Democrática: el "lugar" en el que se discutían colectivamente las propuestas surgidas de las Ágoras individuales y a través de la cual se seleccionaron aquellas que gozaron de mayor apoyo.
+1. **Las Ágoras individuales:** eventos de una jornada (presenciales, híbridos u online), de los que surgían diversas propuestas compartidas por los participantes;
+2. **La plataforma digital Ágora Democrática:** el "lugar" en el que se discutían colectivamente las propuestas surgidas de las Ágoras individuales y a través de la cual se seleccionaron aquellas que gozaron de mayor apoyo.
 
-El modelo del Ágora Democrática integra, tanto la dimensión física con la digital: de encuentros entre personas surgen propuestas concretas que luego se discuten en línea en la plataforma.
+El modelo del Ágora Democrática integra, tanto la dimensión física con la digital: **de encuentros entre personas surgen propuestas concretas que luego se discuten en línea en la plataforma.**
 
 ##### ¿Quién estuvo invitado a participar?
 
@@ -63,14 +63,14 @@ En palabras del ex primer ministro italiano, Enrico Letta, **“El Ágora está 
 
 Se plantearon dos grandes temas
 
-1. la Italia que queremos
-2. la democracia que queremos
+1. **la Italia que queremos**
+2. **la democracia que queremos**
 
 Ambos temas estuvieron organizados en 6 categorías, dentro de las cuales se ubicaron todas las preguntas. Por ejemplo, en la categoría "Igualdad de género, cohesión territorial e inclusión social" se celebraron ágoras dedicadas a la igualdad salarial, pero también a la reurbanización de una zona urbana específica, o al uso de los fondos de la política de cohesión de la Unión Europea en zonas deprimidas.
 
 Estos fueron los temas más recurrentes: digitalización, innovación, competitividad, turismo, transición ecológica, infraestructura, sostenibilidad, juventud, investigación, cultura, igualdad de género, cohesión territorial, inclusión social, justicia, impuestos
 
-La idea era abordar temas de relevancia local, pero intentando enmarcar el debate en un marco más general, para garantizar que las propuestas aprobadas fueran comprendidas y posiblemente aplicables también en otros realidades. Esto es esencial para permitir que las propuestas obtengan consenso y generen debate en la plataforma.
+La idea era abordar temas de relevancia local, pero intentando enmarcar el debate en un marco más general, para **garantizar que las propuestas aprobadas fueran comprendidas y posiblemente aplicables también en otros realidades.** Esto es esencial para permitir que las propuestas obtengan consenso y generen debate en la plataforma.
 
 ##### Tres fases, un destino
 
@@ -86,13 +86,13 @@ A partir de septiembre las Ágoras tomaron vuelo: la plataforma entra en pleno f
 
 ↓ **ATERRIZAJE** (a partir del 1 de enero de 2022)
 
-El aterrizaje estba previsto para enero de 2022, cuando el Partido Demócrata se comprometió a adoptar y llevar adelante al menos el 50% de las 100 propuestas más apoyadas y comentadas, tal como prevé el pacto de participación.
+El aterrizaje estba previsto para enero de 2022, cuando el Partido Demócrata se comprometió a adoptar y llevar adelante al menos **el 50% de las 100 propuestas más apoyadas y comentadas,** tal como prevé el pacto de participación.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lVu-mJPQH7Q?si=NBdc-cY7LYiIMwaB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Resultados
 
-El experimento de las Ágoras democráticas es una oportunidad única para escuchar la voz de la ciudadanía, para dar visibilidad a temas y temas que se consideraron importantes en ese momento, para ponerse en contacto con otras personas interesadas en los mismos desafíos y para sacar propuestas y posibles soluciones a los desafíos de nuestro país.
+El experimento de las Ágoras democráticas fue **una oportunidad única** para escuchar la voz de la ciudadanía, para dar visibilidad a temas y temas que se consideraron importantes en ese momento, para ponerse en contacto con otras personas interesadas en los mismos desafíos y para sacar propuestas y posibles soluciones a los desafíos de nuestro país.
 
 ![Participantes de una de las Ágoras](/media/captura-de-pantalla-2024-09-04-a-las-17.32.32.png "Participantes de una de las Ágoras")
 
