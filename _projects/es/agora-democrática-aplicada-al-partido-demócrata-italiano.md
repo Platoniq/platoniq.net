@@ -2,7 +2,7 @@
 layout: project
 slug: agora-democratica-pd
 state: closed
-title: Agora democrática aplicada al Partido Demócrata Italiano
+title: Las Ágoras Democráticas del Partido Demócrata Italiano
 subtitle: Un Ágora Democrática es un evento de un día de duración, enfocado a
   una temática concreta elegida por la Organizadora, en la cual se debate y se
   trabaja en propuestas concretas, planteadas y compartidas por las
