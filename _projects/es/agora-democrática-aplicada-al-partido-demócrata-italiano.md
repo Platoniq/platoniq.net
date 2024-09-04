@@ -40,7 +40,7 @@ En Italia, en 2021, acompañamos la iniciativa impulsada por el Partido Demócra
 
 A través de un camino que comenzó en julio  de 2021, el Partido Demócrata experimentó el uso de una plataforma digital de participación democrática diseñada por Platoniq para sacar a relucir la inteligencia colectiva y construir, junto con la ciudadanía, un nuevo campo político, amplio y plural, abierto a las propuestas de todas las personas que se reconocen en los valores del centro izquierda.
 
-![Roles](/media/captura-de-pantalla-2024-09-04-a-las-17.07.25.png "Roles")
+![Roles](/media/photo_2024-07-31_15-48-04.jpg "Roles")
 
 ##### ¿Cómo se llevó a cabo el proyecto?
 
