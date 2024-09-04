@@ -60,6 +60,8 @@ En su viaje hacia la renovación de su estrategia, la Fundació Pare Manel tuvo 
 
 El taller de ignición, es el punto de partida, es el momento en el que se empezó a pensar como Fundación y familia donde vernos en el futuro. El momento en el que se empezó a hacerse preguntas se fueron despertando los distintos intereses hacia el cambio y la acción. ¿Dónde nos gustaría llegar? ¿Qué queremos aprender durante ese proceso? ¿Cómo aportar desde cada una de nuestras experiencias y conocimientos? ¿Cómo queremos que sea la Fundación Pare Manel en los próximos años? ¿Qué objetivos queremos ver cumplidos? Fueron algunas de las preguntas que surgieron.
 
+![Turbulencias](/media/captura-de-pantalla-2024-09-04-a-las-10.57.02.png "Turbulencias")
+
 **Taller de Profundización I:** Campo de acción
 
 En este taller se trabajó sobre el trabajo previo realizado durante el taller de Ignition y en las siguientes reuniones de trabajo entre el equipo de Platoniq y el grupo motor de la Fundación Pare Manel.
