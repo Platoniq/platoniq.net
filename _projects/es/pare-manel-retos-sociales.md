@@ -96,7 +96,7 @@ A esto lo llamamos el paso de un puente desde la visión audaz a la instrumental
 
 Una vez superada la etapa de diagnóstico y la etapa de análisis de la información recogida tanto de la organización como de su entorno, llegó el momento de asumir el reto de la formulación del Plan Estratégico. Ambas acciones fundamentales a tener en cuenta en el proceso de formulación del Plan y que fueron determinantes para su desarrollo.
 
-Por un lado, la sistematización de la información recogida en las etapas anteriores, que implica la lectura y digestión de los resultados obtenidos, la armonización de los mismos para que sean comparables, la clasificación y reordenación, en su caso
+Por un lado, la sistematización de la información recogida en las etapas anteriores, que implica la lectura y digestión de los resultados obtenidos, la armonización de los mismos para que sean comparables, la clasificación y reordenación, si hiciera falta.
 
 Y por otro, la toma de decisiones sobre los objetivos y las estrategias de la organización y su formulación, para que compartan el lenguaje y narrativa propia de la organización, y que permita a todo el mundo entenderlo y sentirse reconocido.
 
