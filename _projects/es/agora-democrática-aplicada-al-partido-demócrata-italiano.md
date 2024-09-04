@@ -34,74 +34,66 @@ call_to_action:
   url: Consúltanos
   url_text: Consúltanos
 ---
-Las Ágoras Democráticas aspiran a ser uno de los mayores experimentos de democracia participativa en el país.
+Las Ágoras Democráticas aspiran a ser uno de los mayores experimentos de democracia participativa.
 
-A través de un camino que comenzó con la fase Beta en julio y finalizará el 31 de diciembre de 2021, el Partido Demócrata pretende experimentar el uso de una plataforma digital de participación democrática para sacar a relucir la inteligencia colectiva y construir, junto con la ciudadanía, una Un nuevo campo político, amplio y plural, abierto a las propuestas de todas las personas que se reconocen en los valores del centro izquierda.
+En Italia, en 2021, acompañamos la iniciativa impulsada por el Partido Demócrata encaminada a ampliar e innovar los espacios y métodos de participación democrática y a desarrollar, de la forma más compartida y amplia posible, un ambicioso programa de centro izquierda.
+
+A través de un camino que comenzó en julio  de 2021, el Partido Demócrata experimentó el uso de una plataforma digital de participación democrática diseñada por Platoniq para sacar a relucir la inteligencia colectiva y construir, junto con la ciudadanía, un nuevo campo político, amplio y plural, abierto a las propuestas de todas las personas que se reconocen en los valores del centro izquierda.
 
 ![Roles](/media/captura-de-pantalla-2024-09-04-a-las-17.07.25.png "Roles")
 
-Este camino se realizará a través de:
+##### ¿Cómo se llevó a cabo el proyecto?
 
-1. Las Ágoras individuales: eventos de una jornada (presenciales, híbridos u online), de los que surgirán propuestas adelantadas y compartidas por los participantes;
+Como forma de organización, se plantearon dos "lugares" de encuentro, con características y objetivos diferenciados
 
-2. La plataforma digital Ágoras Democráticas↖: el "lugar" en el que se discutirán colectivamente las propuestas que surjan de las Ágoras individuales y a través del cual se seleccionarán aquellas que gocen de mayor apoyo.
+1. Las Ágoras individuales: eventos de una jornada (presenciales, híbridos u online), de los que surgían diversas propuestas compartidas por los participantes;
+2. La plataforma digital Ágora Democrática: el "lugar" en el que se discutían colectivamente las propuestas surgidas de las Ágoras individuales y a través de la cual se seleccionaron aquellas que gozaron de mayor apoyo.
 
-El modelo del Ágora Democrática integra, por tanto, la dimensión física con la digital: de encuentros entre personas surgirán propuestas concretas que luego se discutirán en línea en la plataforma.
+El modelo del Ágora Democrática integra, tanto la dimensión física con la digital: de encuentros entre personas surgen propuestas concretas que luego se discuten en línea en la plataforma.
 
-El camino está abierto a todas las personas que se reconozcan en la Carta de Valores↖, independientemente de pertenecer al PD u otras entidades políticas. Todos los participantes registrados en la plataforma tendrán los mismos derechos y deberán cumplir los mismos deberes:
+##### ¿Quién estuvo invitado a participar?
 
-→ Todos podrán participar y/u organizar un Ágora, presentar sus propuestas durante los eventos, comentar y apoyar las propuestas en la plataforma.
+En palabras del ex primer ministro italiano, Enrico Letta, **“El Ágora está abierta no sólo a nuestros militantes, sino a todas las personas que quieran contribuir a la construcción de un nuevo centro izquierda. Espero encontrarme con muchos de los que han estado involucrados en política en el PD en los últimos años. Pero también aquellos que han aportado compromiso cívico fuera de nuestro partido: en asociaciones, sindicatos, otras fuerzas políticas con las que queremos dialogar, redes de ciudadanía. En las últimas semanas hemos debatido con grupos parlamentarios, órganos de gestión, clubes, buscando juntos formas de hacer que este camino sea realmente inclusivo e innovador".**
 
-→ Todos deben respetar la Carta de Valores↖ y las condiciones de servicio de la plataforma↖.
+##### ¿Qué se discutió en las Ágoras?
 
-Las Ágoras pueden discutir y hacer propuestas sobre diversos temas relacionados con dos grandes temas:
+Se plantearon dos grandes temas
 
-la Italia que queremos, la democracia que queremos
+1. la Italia que queremos
+2. la democracia que queremos
 
-Todas las Ágoras podrán debatir y hacer propuestas sobre diversos temas relacionados con estos dos grandes temas.
+![Prendi parte](/media/captura-de-pantalla-2024-09-04-a-las-17.45.55.png "Prendi parte")
 
-Ambos temas están organizados en 6 categorías, dentro de las cuales se pueden ubicar todas las cuestiones. Es suficiente indicar la categoría temática intuitivamente más cercana al tema específico del Ágora individual.
+Ambos temas estuvieron organizados en 6 categorías, dentro de las cuales se ubicaron todas las preguntas. Por ejemplo, en la categoría "Igualdad de género, cohesión territorial e inclusión social" se celebraron ágoras dedicadas a la igualdad salarial, pero también a la reurbanización de una zona urbana específica, o al uso de los fondos de la política de cohesión de la Unión Europea en zonas deprimidas.
 
-Por ejemplo, en la categoría "Igualdad de género, cohesión territorial e inclusión social" se pueden celebrar ágoras dedicadas a la igualdad salarial, pero también
+Estos fueron los temas más recurrentes: digitalización, innovación, competitividad, turismo, transición ecológica, infraestructura, sostenibilidad, juventud, investigación, cultura, igualdad de género, cohesión territorial, inclusión social, justicia, impuestos
 
-a la reurbanización de una zona urbana específica, o al uso de los fondos de la política de cohesión de la Unión Europea en zonas deprimidas.
-
-Es posible abordar temas de relevancia local, pero un Ágora dedicada a cuestiones estrictamente vinculadas a un único territorio aún debe intentar enmarcar el debate en un marco más general, para garantizar que las propuestas aprobadas sean comprendidas y posiblemente aplicables también en otros realidades. Esto es esencial para permitir que las propuestas obtengan consenso y generen debate en la plataforma.
+La idea era abordar temas de relevancia local, pero intentando enmarcar el debate en un marco más general, para garantizar que las propuestas aprobadas fueran comprendidas y posiblemente aplicables también en otros realidades. Esto es esencial para permitir que las propuestas obtengan consenso y generen debate en la plataforma.
 
 ##### Tres fases, un destino
 
-las etapas del viaje
-
-Las Ágoras Democráticas se dividen en 3 fases:
+Las Ágoras Democráticas se dividieron en 3 fases:
 
 ![Fases del proyecto](/media/captura-de-pantalla-2024-09-04-a-las-17.03.26.png "Fases del proyecto")
 
 ↓ **DESPEGUE** (de julio al 31 de agosto)
 
-De julio a agosto la plataforma Ágora Democrática está despegando: un número limitado de pre-Ágora están activos para probar el funcionamiento de la plataforma y los mecanismos de participación.
+De julio a agosto la plataforma Ágora Democrática se desplegó: un número limitado de participantes probaron el funcionamiento de la plataforma y los mecanismos de participación.
 
 ↓ **VIAJE** (del 1 de septiembre al 31 de diciembre)
 
-A partir de septiembre las Ágoras toman vuelo: la plataforma entra en pleno funcionamiento, con todas las funciones esperadas. De esta forma cada uno puede participar y/u organizar las Ágoras que prefiera. Esta fase finaliza el 31 de diciembre de 2021.
+A partir de septiembre las Ágoras tomaron vuelo: la plataforma entra en pleno funcionamiento, con todas las funciones esperadas. De esta forma cada uno puede participar y/u organizar las Ágoras que prefiera. Esta fase finalizó el 31 de diciembre de 2021.
 
 ↓ **ATERRIZAJE** (a partir del 1 de enero de 2022)
 
-El aterrizaje está previsto para enero de 2022: el Partido Demócrata se compromete a adoptar y llevar adelante al menos el 50% de las 100 propuestas más apoyadas y comentadas, tal como prevé el pacto de participación↖.
+El aterrizaje estba previsto para enero de 2022, cuando el Partido Demócrata se comprometió a adoptar y llevar adelante al menos el 50% de las 100 propuestas más apoyadas y comentadas, tal como prevé el pacto de participación.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lVu-mJPQH7Q?si=NBdc-cY7LYiIMwaB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Resultados
 
-El experimento de las Ágoras democráticas es una oportunidad única para hacer oír a la gente
+El experimento de las Ágoras democráticas es una oportunidad única para escuchar la voz de la ciudadanía, para dar visibilidad a temas y temas que se consideraron importantes en ese momento, para ponerse en contacto con otras personas interesadas en los mismos desafíos y para sacar propuestas y posibles soluciones a los desafíos de nuestro país.
 
-tu voz, para dar visibilidad a temas y temas que consideres importantes, para ponerte en contacto con otras personas interesadas en los mismos desafíos y temas que tú, para sacar propuestas y posibles soluciones a los desafíos de nuestro país.
+![Participantes de una de las Ágoras](/media/captura-de-pantalla-2024-09-04-a-las-17.32.32.png "Participantes de una de las Ágoras")
 
-¿Qué mejor oportunidad para hacer todo esto que organizar un Ágora? 
-
-![](/media/captura-de-pantalla-2024-08-07-a-las-16.13.09.png "Fichas de los participantes")
-
-Podrás decidir por ti mismo el tema a tratar,
-
-Tendrás la oportunidad de asegurarte de que una o más de tus ideas realmente formen parte del debate público.
-
-conocerás a muchas personas interesadas en los mismos retos y temas que tú que te abrirán los ojos a diferentes puntos de vista y compartirán ideas que quizás nunca habías pensado,
-
-¡Podrás ser protagonista de una verdadera innovación democrática!
+En palabras de [Nicoletta Pirozzi](https://www.huffingtonpost.it/blog/2022/10/29/news/partito_democratico-10528877/), Las Ágoras Democráticas **"ayudaron al PD a liberar finalmente todas esas energías que desde la base y desde fuera quisieran aportar su propia contribución, pero que hoy a menudo son ignoradas o frustradas. La línea del Partido será más coherente y duradera, porque es el resultado de un debate largo y compartido, limitando también la tendencia de los dirigentes actuales a recurrir a trucos extemporáneos que a menudo sólo tienden a complacer a una porción limitada del electorado. Finalmente, preparará mejor al Partido para las próximas citas electorales, en las que podría presentarse con posiciones bien definidas y distintivas, ya conocidas por los ciudadanos, representativas de lo que es el Partido y de lo que quiere".**
