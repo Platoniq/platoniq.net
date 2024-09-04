@@ -34,7 +34,7 @@ call_to_action:
   url: Consúltanos
   url_text: Consúltanos
 ---
-Las Ágoras Democráticas aspiran a ser uno de los mayores experimentos de democracia participativa.
+Las Ágoras Democráticas representan uno de los mayores experimentos de democracia participativa.
 
 En Italia, en 2021, acompañamos la iniciativa impulsada por el Partido Demócrata encaminada a ampliar e innovar los espacios y métodos de participación democrática y a desarrollar, de la forma más compartida y amplia posible, un ambicioso programa de centro izquierda.
 
