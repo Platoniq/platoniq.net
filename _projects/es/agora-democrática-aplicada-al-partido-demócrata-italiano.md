@@ -53,13 +53,11 @@ El modelo del Ágora Democrática integra, tanto la dimensión física con la di
 
 ##### ¿Quién estuvo invitado a participar?
 
-![Prendi parte](/media/captura-de-pantalla-2024-09-04-a-las-17.49.05.png "Prendi parte")
-
 En palabras del ex primer ministro italiano, Enrico Letta, **“El Ágora está abierta no sólo a nuestros militantes, sino a todas las personas que quieran contribuir a la construcción de un nuevo centro izquierda. Espero encontrarme con muchos de los que han estado involucrados en política en el PD en los últimos años. Pero también aquellos que han aportado compromiso cívico fuera de nuestro partido: en asociaciones, sindicatos, otras fuerzas políticas con las que queremos dialogar, redes de ciudadanía. En las últimas semanas hemos debatido con grupos parlamentarios, órganos de gestión, clubes, buscando juntos formas de hacer que este camino sea realmente inclusivo e innovador".**
 
-##### ¿Qué se discutió en las Ágoras?
+![Prendi parte](/media/captura-de-pantalla-2024-09-04-a-las-17.49.05.png "Prendi parte")
 
-![Prendi parte](/media/captura-de-pantalla-2024-09-04-a-las-17.45.55.png "Prendi parte")
+##### ¿Qué se discutió en las Ágoras?
 
 Se plantearon dos grandes temas
 
@@ -67,6 +65,8 @@ Se plantearon dos grandes temas
 2. **la democracia que queremos**
 
 Ambos temas estuvieron organizados en 6 categorías, dentro de las cuales se ubicaron todas las preguntas. Por ejemplo, en la categoría "Igualdad de género, cohesión territorial e inclusión social" se celebraron ágoras dedicadas a la igualdad salarial, pero también a la reurbanización de una zona urbana específica, o al uso de los fondos de la política de cohesión de la Unión Europea en zonas deprimidas.
+
+![Prendi parte](/media/captura-de-pantalla-2024-09-04-a-las-17.45.55.png "Prendi parte")
 
 Estos fueron los temas más recurrentes: digitalización, innovación, competitividad, turismo, transición ecológica, infraestructura, sostenibilidad, juventud, investigación, cultura, igualdad de género, cohesión territorial, inclusión social, justicia, impuestos
 
