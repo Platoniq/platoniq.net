@@ -38,9 +38,9 @@ Las Ágoras Democráticas representan **uno de los mayores experimentos de democ
 
 En 2021, acompañamos la iniciativa impulsada por el Partido Demócrata italiano encaminada a **ampliar e innovar los espacios y métodos de participación democrática** y a desarrollar, de la forma más compartida y amplia posible, un ambicioso programa de centro izquierda.
 
-A través de un camino que comenzó en julio, el Partido Demócrata experimentó el uso de una plataforma digital de participación democrática diseñada por Platoniq para sacar a relucir **la inteligencia colectiva** y construir, junto con la ciudadanía, **un nuevo campo político, amplio y plural, abierto a las propuestas de todas las personas** que se reconocen en los valores del centro izquierda.
+![Save the date](/media/photo_2024-07-31_15-48-04.jpg "Save the date")
 
-![Roles](/media/photo_2024-07-31_15-48-04.jpg "Roles")
+A través de un camino que comenzó en julio, el Partido Demócrata experimentó el uso de una plataforma digital de participación democrática diseñada por Platoniq para sacar a relucir **la inteligencia colectiva** y construir, junto con la ciudadanía, **un nuevo campo político, amplio y plural, abierto a las propuestas de todas las personas** que se reconocen en los valores del centro izquierda.
 
 ##### ¿Cómo se llevó a cabo el proyecto?
 
@@ -80,6 +80,8 @@ Las Ágoras Democráticas se dividieron en **3 fases:**
 
 De julio a agosto la plataforma Ágora Democrática se desplegó: un número limitado de participantes probaron el funcionamiento de la plataforma y los mecanismos de participación.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lVu-mJPQH7Q?si=NBdc-cY7LYiIMwaB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ↓ **VIAJE** (del 1 de septiembre al 31 de diciembre)
 
 A partir de septiembre las Ágoras tomaron vuelo: la plataforma entra en pleno funcionamiento, con todas las funciones esperadas. De esta forma cada uno puede participar y/u organizar las Ágoras que prefiera. Esta fase finalizó el 31 de diciembre de 2021.
@@ -87,8 +89,6 @@ A partir de septiembre las Ágoras tomaron vuelo: la plataforma entra en pleno f
 ↓ **ATERRIZAJE** (a partir del 1 de enero de 2022)
 
 El aterrizaje estba previsto para enero de 2022, cuando el Partido Demócrata se comprometió a adoptar y llevar adelante al menos **el 50% de las 100 propuestas más apoyadas y comentadas,** tal como prevé el pacto de participación.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lVu-mJPQH7Q?si=NBdc-cY7LYiIMwaB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Resultados
 
