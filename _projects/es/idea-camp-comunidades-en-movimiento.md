@@ -67,7 +67,7 @@ Tras el Campamento de Ideas invitamos a los 50 Idea Makers a desarrollar propues
 
 El programa se articuló a través de una serie de actividades, incluidos talleres facilitados por colectivos locales y el equipo del Campamento de Ideas, sesiones de desarrollo de ideas, paseos por el barrio, debates colectivos, reuniones con organizaciones locales.
 
-![Prendi parte](/media/idea_camp_2017_0234-1280x720.jpg "Prendi parte")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7CX-Rc9qpW0?si=b-6VG8M2h3NMsdHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Durante tres días, 50 Idea Makers seleccionados, expertos invitados, los centros de la red Connected Action for the Commons y un grupo de representantes de municipios europeos han intercambiado reflexiones y retos, han aprendido unos de otros y han seguido desarrollando ideas. Su ambición: contribuir a construir sociedades con mayor igualdad; traducir el sentido común en políticas inclusivas sostenibles.
 
@@ -84,5 +84,7 @@ El Campamento de Ideas no es sólo trabajo. Es también una celebración de la p
 El encuentro reunió a concejales y asesores municipales, innovadores culturales y políticos de Madrid y La Coruña (España), Nápoles (Italia), Varsovia (Polonia), Chișinăa (Moldavia), Estocolmo (Suecia), Rijeka (Croacia), Atenas (Grecia).
 
 Durante el encuentro, los participantes debatieron sobre cómo abrir sus administraciones a los nuevos movimientos democráticos liderados por los ciudadanos o, como dijo Ana Méndez, del Ayuntamiento de Madrid: «cómo comunitarizar la ciudad». La reunión sobre Desarrollo Innovador de Ciudades fue un gran complemento del Campamento de Ideas.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CxK_LVE2ntw?si=oD5rPUBUOg3rL6lK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 El Campamento de Ideas es más que un acontecimiento: es una comunidad creciente de profesionales inspiradores de toda Europa y de fuera de ella, que juntos contribuyen a crear un futuro mejor.
