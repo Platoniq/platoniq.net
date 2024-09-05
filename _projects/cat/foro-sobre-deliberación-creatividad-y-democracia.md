@@ -3,7 +3,7 @@ layout: project
 slug: Foro-Deliberación-Creatividad-Democracia
 state: open
 banner_image:
-  path: /media/projects/foro-banner2.png
+  path: /media/projects/01_cast.png
 date_start: 2024-09-05T17:28:00.000Z
 date_end: 2024-09-05T17:28:00.000Z
 budget: "28.000"

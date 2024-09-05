@@ -9,7 +9,7 @@ subtitle: El Foro sobre Deliberación, Creatividad y Democracia se enmarca dentr
   y divulgación en el que debatir y compartir proyectos en torno a las prácticas
   ciudadanas de participación política.
 banner_image:
-  path: /media/projects/foro-banner2.png
+  path: /media/projects/01_cast.png
   alt: FDCD
 date_start: 2024-09-05T17:28:00.000Z
 date_end: 2024-09-05T17:28:00.000Z
