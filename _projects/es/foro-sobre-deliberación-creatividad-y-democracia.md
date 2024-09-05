@@ -48,11 +48,15 @@ Durante cuatro días, el Canòdrom de Barcelona acogerá presentaciones, tallere
 
 **1) Presentación de la Escuela de Creatividad y Democracia de Platoniq**
 
+![ECD](/media/04_cast.png "ECD")
+
 En el acto se presentarán las diferentes actividades de la Escuela, así como las formaciones y módulos que se dirigen tanto a la ciudadanía como al personal funcionario y político.
 
 📍Abierto a cualquier persona interesada en la innovación democrática.
 
 **2) Escuela de otoño sobre Asambleas Ciudadanas impulsada por FIDE, con la colaboración de Deliberativa**
+
+![FIDE](/media/05_cast.png "FIDE")
 
 Una formación de alto reconocimiento dirigida a funcionarios, políticos, sociedad civil y organizaciones privadas involucradas en las distintas etapas del proceso de toma de decisiones.
 
@@ -60,15 +64,17 @@ Una formación de alto reconocimiento dirigida a funcionarios, políticos, socie
 
 **3) La Deliberación en el mundo local, organiza Raons Públiques** 
 
+![Raons](/media/02_cast.png "Raons")
+
 Jornada para dar a conocer buenas prácticas y debatir sobre cómo incorporar procesos deliberativos con ciudadanía para la toma de decisiones sobre políticas públicas en contextos locales.
 
 📍Dirigida a equipos técnicos de administraciones públicas y profesionales de la participación.
 
 **4) Encuentro anual de Red Delib. Red de profesionales deliberativos de la península ibérica**
 
+![Red Delib](/media/03_cast.png "Red Delib")
+
 El encuentro tiene por objetivo profundizar en el conocimiento entre miembros de la Red, intercambiar experiencias, dudas, conocimiento, y establecer una hoja de ruta para la Red.
-
-
 
 **Una iniciativa de:** Platoniq, Deliberativa, FIDE, Raons, Red Delib
 
