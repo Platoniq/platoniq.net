@@ -3,7 +3,7 @@ layout: project
 slug: idea-camp
 state: closed
 banner_image:
-  path: /media/projects/captura-de-pantalla-2024-09-05-a-las-16.30.27.png
+  path: /media/projects/idea_camp_2017_0286-1280x720.jpg
 date_start: 2024-09-05T16:33:00.000Z
 date_end: 2024-09-05T16:33:00.000Z
 budget: "20.000"
