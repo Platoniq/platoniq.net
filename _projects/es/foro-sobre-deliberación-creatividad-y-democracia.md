@@ -35,9 +35,11 @@ collaborators:
   - Red-Delib
   - Raons
   - FIDE
-  - Capitalitat-Europea-Democracia
   - Diputació-Barcelona
   - OSF
+  - ay-bcn
+  - pemb
+  - Capitalitat-Europea-Democracia
 call_to_action:
   image_path: /media/site-symbols/info.png
   image_alt: ¿Quieres saber más?
