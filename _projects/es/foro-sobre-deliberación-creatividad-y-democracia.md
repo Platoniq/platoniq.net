@@ -44,9 +44,7 @@ Las actividades del Foro están diseñadas para promover activamente valores pro
 
 Durante cuatro días, el Canòdrom de Barcelona acogerá presentaciones, talleres y prácticas protagonizadas por expertas, personal de la administración, técnicas nacionales e internacionales y la ciudadanía de Barcelona.
 
-##### [Programa](https://openspaces.platoniq.net/conferences/FDCD/program/420)
-
-**1) Presentación de la Escuela de Creatividad y Democracia de Platoniq**
+[](https://openspaces.platoniq.net/conferences/FDCD/program/420)**1) Presentación de la Escuela de Creatividad y Democracia de Platoniq**
 
 ![ECD](/media/04_cast.png "ECD")
 
