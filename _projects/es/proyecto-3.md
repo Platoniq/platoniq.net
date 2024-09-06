@@ -2,7 +2,7 @@
 layout: project
 slug: escuelab
 state: open
-title: Escuela de Creatividad y Democracia (ECD)
+title: Escuela de Creatividad y Democracia
 subtitle: La Escuela de la Creatividad y la Democracia se enfoca a mejorar la
   participación ciudadana y el compromiso político en la toma de decisiones y
   políticas públicas así como preparar a los jóvenes para la renovación
