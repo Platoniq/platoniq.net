@@ -68,7 +68,11 @@ Para ello hemos diseñado cuatro itinerarios que responden a cuatro perfiles: **
 
 Estamos haciendo muchas cosas emocionantes para fortalecer la democracia y hacer que los jóvenes participen más en la toma de decisiones. Por ejemplo, trabajamos con grupos cívicos y expertos para seguir de cerca lo que pasa en las asambleas ciudadanas y asegurarnos de que esos resultados se escuchen en la política real.
 
-Una formación práctica, con algunos toques de teoría. Poniendo el énfasis en las experiencias de participación reales que se están llevando a cabo en estos momentos, **ofrecemos contacto directo con las problemáticas y oportunidades de la participación**, a la búsqueda de nuevas soluciones creativas para que las recomendaciones ciudadanas acaben impactando en políticas públicas reales que cambien la vida de las personas y las comunidades.
+Una formación práctica, con algunos toques de teoría. Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa 'learning by doing' formamos una nueva generación comprometida con la participación continua.
+
+Poniendo el énfasis en las experiencias de participación reales que se están llevando a cabo en estos momentos, **ofrecemos contacto directo con las problemáticas y oportunidades de la participación**, a la búsqueda de nuevas soluciones creativas para que las recomendaciones ciudadanas acaben impactando en políticas públicas reales que cambien la vida de las personas y las comunidades.
+
+{% quote { "author": "Katy Rubin, experta en Teatro Legislativo" } %}Necesitamos análisis, diálogo, interacción e improvisación para convertir la liberación emocional en una intervención práctica.{% endquote %}
 
 También organizamos campañas para que las ideas de los jóvenes importen de verdad en el gobierno y para expresarse y ser escuchados en la sociedad. Además, estamos creando programas de formación que enseñan cómo funcionan otras formas de democracia y cómo formar parte de ellas.
 
@@ -80,18 +84,10 @@ Y eso no es todo! Estamos experimentando con nuevas formas de juntar a la gente 
 
 Para cada uno de los perfiles previstos hemos diseñado un itinerario de capacitación que conseguirá que los participantes de la escuela puedan enfocarse de manera profesionalizada a la participación ciudadana, así como desarrollen sus habilidades creativas en cada uno de sus ámbitos de acción.
 
-
-
 ![Mindset Rev](/media/mindset2.jpg "Mindset Rev")
 
 *Podrás participar de las experiencias de deliberación que llevamos a cabo desde Platoniq*
 
-## ¿Cómo lo hacemos?
-
-Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa 'learning by doing' formamos una nueva generación comprometida con la participación continua.
-
-{% quote { "author": "Katy Rubin, experta en Teatro Legislativo" } %}Necesitamos análisis, diálogo, interacción e improvisación para convertir la liberación emocional en una intervención práctica.{% endquote %}
-
-## Actividades del proyecto¿Te apuntas?
+## ¿Te apuntas?
 
 ¿Te animas a conocer más? ¡Contáctanos para saber más sobre este proyecto transformador! Indícanos, por favor, si eres profe, prensa, polític@ etc. y te preparamos el material que necesites.
