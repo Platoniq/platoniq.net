@@ -3,15 +3,19 @@ layout: project
 slug: escuelab
 state: open
 title: Escuela de Creatividad y Democracia (ECD)
-subtitle: La ECD quiere ser una puerta de entrada al mundo a experiencias de
-  participación ciudadana de las que poder formar parte
+subtitle: La Escuela de la Creatividad y la Democracia se enfoca a mejorar la
+  participación ciudadana y el compromiso político en la toma de decisiones y
+  políticas públicas así como preparar a los jóvenes para la renovación
+  democrática mediante prácticas alternativas y estrategias culturales.
+  Combinando formatos online y presenciales, la oferta de la Escuela busca
+  formar una cultura de participación continua en España.
 banner_image:
   path: /media/projects/ecd.png
   alt: El grupo motor sale al mercadillo del barrio a impartir el taller a vecinos
     y vendedores. Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND
 date_start: 2024-08-07T11:40:00.000Z
 date_end: 2024-08-07T11:40:00.000Z
-description: La Escuela de la Creatividad y la Democracia pretende mejorar la
+description: La Escuela de la Creatividad y la Democracia se enfoca a mejorar la
   participación ciudadana y el compromiso político en la toma de decisiones y
   políticas públicas así como preparar a los jóvenes para la renovación
   democrática mediante prácticas alternativas y estrategias culturales.
@@ -42,10 +46,6 @@ call_to_action:
 
 Nuestro objetivo es nada menos que construir una cultura política que llegue al corazón, basada en una 'legitimidad afectiva'. Se centra en la creatividad y la participación ciudadana como piezas clave en el diseño de políticas públicas. Además, ¡está especialmente dirigida a jóvenes de 15 a 25 años!I
 
-## Impacto potencial
-
-{% metrics { "items": [{"number":"86%","text":"Percentaje"},{"number":"523k","text":"Benefits"},{"number":"24","text":"Group Members"}] } %}
-
 ![](/media/3360002157_4bf40f461c_c.jpg "Simposio Educación Expandida Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND")
 
 *Simposio Educación Expandida. Platoniq // ZEMOS98. Antonio Miñán. CC BY-NC-ND*
@@ -54,9 +54,7 @@ Nuestro objetivo es nada menos que construir una cultura política que llegue al
 
 Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa 'learning by doing' formamos una nueva generación comprometida con la participación continua.
 
-{% quote %}Necesitamos análisis, diálogo, interacción e improvisación para convertir la liberación emocional en una intervención práctica.{% endquote %}
-
-\--Katy Rubin, experta en Teatro Legislativo
+{% quote { "author": "Katy Rubin, experta en Teatro Legislativo" } %}Necesitamos análisis, diálogo, interacción e improvisación para convertir la liberación emocional en una intervención práctica.{% endquote %}
 
 ## Actividades del proyecto
 
