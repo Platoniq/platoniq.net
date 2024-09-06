@@ -47,11 +47,11 @@ call_to_action:
   url: Escríbenos
   url_text: Escríbenos
 ---
-Las actividades del Foro están diseñadas para promover activamente valores propios de la democracia, como la igualdad, la libertad, la justicia o la solidaridad, desde el punto de vista de la deliberación y la participación ciudadana, en un ejercicio de profundización democrática.
+Las actividades del Foro están diseñadas para promover activamente valores propios de la democracia, como la igualdad, la libertad, la justicia o la solidaridad, desde el punto de vista de **la deliberación y la participación ciudadana,** en un ejercicio de profundización democrática.
 
-Durante cuatro días, el Canòdrom de Barcelona acogerá presentaciones, talleres y prácticas protagonizadas por expertas, personal de la administración, técnicas nacionales e internacionales y la ciudadanía de Barcelona.
+Durante cuatro días, el Canòdrom de Barcelona acogerá **presentaciones, talleres y prácticas** protagonizadas por expertas, personal de la administración, técnicas nacionales e internacionales y la ciudadanía de Barcelona.
 
-# Programa
+### Programa
 
 ##### **1) La Deliberación en el mundo local, organiza Raons Públiques**
 
