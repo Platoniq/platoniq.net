@@ -46,21 +46,25 @@ En un contexto de desafección, polarización y desinformación, los jóvenes qu
 
 La Escuela de Creatividad y Democracia es un espacio de formación único cuyo propósito es dotar a la juventud de herramientas y experiencias que impulsen la regeneración democrática.
 
+![Participante de IdeaCamp](/media/download-36.jpeg "Participante de IdeaCamp")
+
 La participación ciudadana es a la vez indicador de salud democrática, ciudadanía activa y política comprometida con los asuntos públicos que afectan a toda la sociedad.
 
 A través de la creatividad y defendiendo el derecho de los ciudadanos a la participación, promovemos la recuperación de la legitimidad afectiva de la democracia 
 
 ##### ¿Qué nos proponemos?
 
-Nuestro objetivo es nada menos que construir una cultura política que llegue al corazón, basada en una 'legitimidad afectiva'. Se centra en la creatividad y la participación ciudadana como piezas clave en el diseño de políticas públicas. Además, ¡está especialmente dirigida a personas de 18 a 35 años!
+Nuestro objetivo es nada menos que construir una cultura política que llegue al corazón, basada en la idea de **legitimidad afectiva.** Centrados en la creatividad y la participación ciudadana como piezas clave en el diseño de políticas públicas, la Escuela está especialmente dirigida a **personas de 18 a 35 años.**
 
-* Formar a los futuros profesionales de la deliberación en los valores de la participación, la creatividad y la confianza mutua
-* Proporcionar experiencias de participación donde llevar a cabo los conocimientos adquiridos con impacto social
-* Abrir un espacio de experimentación donde compartir inquietudes y habilidades
+* **Formar a los futuros profesionales de la deliberación** en los valores de la participación, la creatividad y la confianza mutua
+* **Proporcionar experiencias de participación** donde llevar a cabo los conocimientos adquiridos con impacto social
+* **Abrir un espacio de experimentación** donde compartir inquietudes y habilidades
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seB-CIZhdFo?si=yOd1c5XaltUXkTFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### ¿A quién nos dirigimos?
 
-La Escuela de Creatividad y Democracia está especialmente diseñada para complementar aquellos estudios que tengan que ver con la ciencia política, la sociología, la filosofía, la programación, la comunicación y la investigación cualitativa, siempre enfocadas a la incidencia ciudadana, con la voluntad de aportar ejemplos vivos de participación y relanzar la democracia deliberativa en España.  
+La Escuela de Creatividad y Democracia está especialmente diseñada para **complementar aquellos estudios que tengan que ver con la ciencia política, la sociología, la filosofía, la programación, la comunicación y la investigación cualitativa, siempre enfocadas a la incidencia ciudadana,** con la voluntad de aportar ejemplos vivos de participación y relanzar la democracia deliberativa en España.  
 
 Para ello hemos diseñado cuatro itinerarios que responden a cuatro perfiles: **facilitación**, **participación digital**, **investigación creativa** y **comunicación ciudadana.**
 
@@ -72,13 +76,19 @@ Estamos haciendo muchas cosas emocionantes para fortalecer la democracia y hacer
 
 Una formación práctica, con algunos toques de teoría. Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa ***learning by doing*** formamos una nueva generación comprometida con la participación continua.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQzijuRLKZE?si=fLhpc-EDZ5e28zlH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Poniendo el énfasis en las experiencias de participación reales que se están llevando a cabo en estos momentos, **ofrecemos contacto directo con las problemáticas y oportunidades de la participación**, a la búsqueda de nuevas soluciones creativas para que las recomendaciones ciudadanas acaben impactando en políticas públicas reales que cambien la vida de las personas y las comunidades.
 
 {% quote { "author": "Katy Rubin, experta en Teatro Legislativo" } %}Necesitamos análisis, diálogo, interacción e improvisación para convertir la liberación emocional en una intervención práctica.{% endquote %}
 
+\-
+
 También organizamos campañas para que las ideas de los jóvenes importen de verdad en el gobierno y para expresarse y ser escuchados en la sociedad. Además, estamos creando programas de formación que enseñan cómo funcionan otras formas de democracia y cómo formar parte de ellas.
 
-Además del contacto directo con experiencias de participación, desde la Escuela se pondrá al servicio de las participantes un **podcast sobre deliberación** donde poder conversar sobre los temas más relevantes del momentos con profesionales o activistas protagonistas de las últimas campañas de incidencia ciudadana en nuestro país y una **plataforma digital de participación** donde poder conocer y ensayar desde dentro las habilidades necesarias para dinamizar diálogos y asambleas ciudadanas.
+Además del contacto directo con experiencias de participación, desde la Escuela se pondrá al servicio de las participantes un **podcast sobre deliberación** donde poder conversar sobre los temas más relevantes del momentos con profesionales o activistas protagonistas de las últimas campañas de incidencia ciudadana en nuestro país, una **plataforma digital de participación** donde poder conocer y ensayar desde dentro las habilidades necesarias para dinamizar diálogos y asambleas ciudadanas y el **Wilder Journal**, un espaciodonde publicar los testimonios y reflexiones de las participantes durante y después de su paso por la Escuela.
+
+![Participante del Diálogo sobre los Océanos](/media/oceans.jpg "Participante del Diálogo sobre los Océanos")
 
 Y eso no es todo! Estamos experimentando con nuevas formas de juntar a la gente y que se sientan inspirados para compartir sus ideas y colaborar. Y para que todo esto llegue a más personas, estamos usando internet y las redes sociales para difundir información interesante y promover el diálogo abierto.
 
