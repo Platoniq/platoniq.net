@@ -54,7 +54,7 @@ En el acto se presentarán las diferentes actividades de la Escuela, así como l
 
 🗣️ [INSCRÍBETE](https://openspaces.platoniq.net/conferences/FDCD/f/420/meetings/200)
 
-**2) Escuela de otoño sobre Asambleas Ciudadanas impulsada por FIDE, con la colaboración de Deliberativa**
+##### **2) Escuela de otoño sobre Asambleas Ciudadanas impulsada por FIDE, con la colaboración de Deliberativa**
 
 ![FIDE](/media/05_cast.png "FIDE")
 
@@ -64,7 +64,7 @@ Una formación de alto reconocimiento dirigida a funcionarios, políticos, socie
 
 🗣️ [INSCRÍBETE](https://openspaces.platoniq.net/conferences/FDCD/f/420/meetings/195)
 
-**[3) La Deliberación en el mundo local, organiza Raons Públiques](https://openspaces.platoniq.net/conferences/FDCD/f/420/meetings/195)** 
+##### **3) La Deliberación en el mundo local, organiza Raons Públiques** 
 
 ![Raons](/media/02_cast.png "Raons")
 
@@ -74,7 +74,7 @@ Jornada para dar a conocer buenas prácticas y debatir sobre cómo incorporar pr
 
 🗣️ [INSCRÍBETE](https://openspaces.platoniq.net/conferences/FDCD/f/420/meetings/196)
 
-**4) Encuentro anual de Red Delib. Red de profesionales deliberativos de la península ibérica**
+##### **4) Encuentro anual de Red Delib. Red de profesionales deliberativos de la península ibérica**
 
 ![Red Delib](/media/03_cast.png "Red Delib")
 
