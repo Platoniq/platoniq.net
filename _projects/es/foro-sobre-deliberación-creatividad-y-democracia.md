@@ -49,7 +49,9 @@ Las actividades del Foro están diseñadas para promover activamente valores pro
 
 Durante cuatro días, el Canòdrom de Barcelona acogerá presentaciones, talleres y prácticas protagonizadas por expertas, personal de la administración, técnicas nacionales e internacionales y la ciudadanía de Barcelona.
 
-##### **1) La Deliberación en el mundo local, organiza Raons Públiques** 
+# Programa
+
+##### **1) La Deliberación en el mundo local, organiza Raons Públiques**
 
 ![Raons](/media/02_cast.png "Raons")
 
