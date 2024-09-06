@@ -94,9 +94,7 @@ Y eso no es todo! Estamos experimentando con nuevas formas de juntar a la gente 
 
 Para cada uno de los perfiles previstos hemos diseñado un itinerario de capacitación que conseguirá que los participantes de la escuela puedan enfocarse de manera profesionalizada a la participación ciudadana, así como desarrollen sus habilidades creativas en cada uno de sus ámbitos de acción.
 
-![Mindset Rev](/media/mindset2.jpg "Mindset Rev")
-
-*Podrás participar de las experiencias de deliberación que llevamos a cabo desde Platoniq*
+![Mindset Rev](/media/mindset2.jpg "Podrás participar de las experiencias de deliberación que llevamos a cabo desde Platoniq")
 
 ## ¿Te apuntas?
 
