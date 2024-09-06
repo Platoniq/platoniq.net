@@ -96,6 +96,6 @@ Para cada uno de los perfiles previstos hemos diseñado un itinerario de capacit
 
 ![Mindset Rev](/media/mindset2.jpg "Podrás participar de las experiencias de deliberación que llevamos a cabo desde Platoniq")
 
-## ¿Te apuntas?
+##### ¿Te apuntas?
 
 ¿Te animas a conocer más? ¡Contáctanos para saber más sobre este proyecto transformador! Indícanos, por favor, si eres profe, prensa, polític@ etc. y te preparamos el material que necesites.
