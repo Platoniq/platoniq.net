@@ -30,9 +30,14 @@ members:
   - cp
   - os
 collaborators:
-  - ay-bcn
   - canodrom
   - deliberativa
+  - Red-Delib
+  - Raons
+  - FIDE
+  - Capitalitat-Europea-Democracia
+  - Diputació-Barcelona
+  - OSF
 call_to_action:
   image_path: /media/site-symbols/info.png
   image_alt: ¿Quieres saber más?
