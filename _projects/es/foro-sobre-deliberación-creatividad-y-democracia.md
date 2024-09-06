@@ -53,7 +53,7 @@ Durante cuatro días, el Canòdrom de Barcelona acogerá **presentaciones, talle
 
 ### Programa
 
-##### **1) La Deliberación en el mundo local, organiza Raons Públiques**
+##### **1) Deliberación en el mundo local, organiza Raons Públiques**
 
 ![Raons](/media/02_cast.png "Raons")
 
