@@ -68,7 +68,9 @@ Para ello hemos diseñado cuatro itinerarios que responden a cuatro perfiles: **
 
 Estamos haciendo muchas cosas emocionantes para fortalecer la democracia y hacer que los jóvenes participen más en la toma de decisiones. Por ejemplo, trabajamos con grupos cívicos y expertos para seguir de cerca lo que pasa en las asambleas ciudadanas y asegurarnos de que esos resultados se escuchen en la política real.
 
-Una formación práctica, con algunos toques de teoría. Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa 'learning by doing' formamos una nueva generación comprometida con la participación continua.
+![Itinerario ECD](/media/captura-de-pantalla-2024-09-06-a-las-12.08.36.png "Itinerario ECD")
+
+Una formación práctica, con algunos toques de teoría. Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa ***learning by doing*** formamos una nueva generación comprometida con la participación continua.
 
 Poniendo el énfasis en las experiencias de participación reales que se están llevando a cabo en estos momentos, **ofrecemos contacto directo con las problemáticas y oportunidades de la participación**, a la búsqueda de nuevas soluciones creativas para que las recomendaciones ciudadanas acaben impactando en políticas públicas reales que cambien la vida de las personas y las comunidades.
 
