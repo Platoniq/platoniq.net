@@ -44,27 +44,7 @@ Las actividades del Foro están diseñadas para promover activamente valores pro
 
 Durante cuatro días, el Canòdrom de Barcelona acogerá presentaciones, talleres y prácticas protagonizadas por expertas, personal de la administración, técnicas nacionales e internacionales y la ciudadanía de Barcelona.
 
-[](https://openspaces.platoniq.net/conferences/FDCD/program/420)**1) Presentación de la Escuela de Creatividad y Democracia de Platoniq**
-
-![ECD](/media/04_cast.png "ECD")
-
-En el acto se presentarán las diferentes actividades de la Escuela, así como las formaciones y módulos que se dirigen tanto a la ciudadanía como al personal funcionario y político.
-
-📍Abierto a cualquier persona interesada en la innovación democrática.
-
-🗣️ [INSCRÍBETE](https://openspaces.platoniq.net/conferences/FDCD/f/420/meetings/200)
-
-##### **2) Escuela de otoño sobre Asambleas Ciudadanas impulsada por FIDE, con la colaboración de Deliberativa**
-
-![FIDE](/media/05_cast.png "FIDE")
-
-Una formación de alto reconocimiento dirigida a funcionarios, políticos, sociedad civil y organizaciones privadas involucradas en las distintas etapas del proceso de toma de decisiones.
-
-[📍Dirigida a responsables políticos, personal técnico de la administración pública, y organizaciones de la sociedad civil interesadas en formarse para activar o formar parte de Asambleas ciudadanas (tanto en la península ibérica como en otros países europeos) ](https://openspaces.platoniq.net/conferences/FDCD/f/420/meetings/195)
-
-🗣️ [INSCRÍBETE](https://openspaces.platoniq.net/conferences/FDCD/f/420/meetings/195)
-
-##### **3) La Deliberación en el mundo local, organiza Raons Públiques** 
+##### **1) La Deliberación en el mundo local, organiza Raons Públiques** 
 
 ![Raons](/media/02_cast.png "Raons")
 
@@ -74,10 +54,30 @@ Jornada para dar a conocer buenas prácticas y debatir sobre cómo incorporar pr
 
 🗣️ [INSCRÍBETE](https://openspaces.platoniq.net/conferences/FDCD/f/420/meetings/196)
 
-##### **4) Encuentro anual de Red Delib. Red de profesionales deliberativos de la península ibérica**
+##### **2) Encuentro anual de Red Delib. Red de profesionales deliberativos de la península ibérica**
 
 ![Red Delib](/media/03_cast.png "Red Delib")
 
 El encuentro tiene por objetivo profundizar en el conocimiento entre miembros de la Red, intercambiar experiencias, dudas, conocimiento, y establecer una hoja de ruta para la Red.
+
+##### **3) Presentación de la Escuela de Creatividad y Democracia de Platoniq**
+
+![ECD](/media/04_cast.png "ECD")
+
+En el acto se presentarán las diferentes actividades de la Escuela, así como las formaciones y módulos que se dirigen tanto a la ciudadanía como al personal funcionario y político.
+
+📍Abierto a cualquier persona interesada en la innovación democrática.
+
+🗣️ [INSCRÍBETE](https://openspaces.platoniq.net/conferences/FDCD/f/420/meetings/200)
+
+##### **4) Escuela de otoño sobre Asambleas Ciudadanas impulsada por FIDE, con la colaboración de Deliberativa**
+
+![FIDE](/media/05_cast.png "FIDE")
+
+Una formación de alto reconocimiento dirigida a funcionarios, políticos, sociedad civil y organizaciones privadas involucradas en las distintas etapas del proceso de toma de decisiones.
+
+📍Dirigida a responsables políticos, personal técnico de la administración pública, y organizaciones de la sociedad civil interesadas en formarse para activar o formar parte de Asambleas ciudadanas (tanto en la península ibérica como en otros países europeos) 
+
+🗣️ [INSCRÍBETE](https://openspaces.platoniq.net/conferences/FDCD/f/420/meetings/195)
 
 El Foro sobre Deliberación, Creatividad y Democracia es una iniciativa de: **Platoniq, Deliberativa, FIDE, Raons, Red Delib,** que cuenta con la colaboración de: **Capital Europea de la Democracia, Ayuntamiento de Barcelona y Diputación de Barcelona** y el apoyo de **Open Society Foundations.**
