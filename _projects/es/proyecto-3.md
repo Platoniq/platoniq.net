@@ -60,7 +60,7 @@ Nuestro objetivo es nada menos que construir una cultura política que llegue al
 * **Proporcionar experiencias de participación** donde llevar a cabo los conocimientos adquiridos con impacto social
 * **Abrir un espacio de experimentación** donde compartir inquietudes y habilidades
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/seB-CIZhdFo?si=yOd1c5XaltUXkTFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l3A8SZsX5hY?si=4i96NVoy04DFj8_W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### ¿A quién nos dirigimos?
 
@@ -76,8 +76,6 @@ Estamos haciendo muchas cosas emocionantes para fortalecer la democracia y hacer
 
 Una formación práctica, con algunos toques de teoría. Pensar, debatir y ser capaces de proponer medidas para problemas complejos. Aprender a evaluar argumentos y tomar decisiones en conjunto. Con este programa ***learning by doing*** formamos una nueva generación comprometida con la participación continua.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQzijuRLKZE?si=fLhpc-EDZ5e28zlH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Poniendo el énfasis en las experiencias de participación reales que se están llevando a cabo en estos momentos, **ofrecemos contacto directo con las problemáticas y oportunidades de la participación**, a la búsqueda de nuevas soluciones creativas para que las recomendaciones ciudadanas acaben impactando en políticas públicas reales que cambien la vida de las personas y las comunidades.
 
 {% quote { "author": "Katy Rubin, experta en Teatro Legislativo" } %}Necesitamos análisis, diálogo, interacción e improvisación para convertir la liberación emocional en una intervención práctica.{% endquote %}
@@ -88,7 +86,7 @@ También organizamos campañas para que las ideas de los jóvenes importen de ve
 
 Además del contacto directo con experiencias de participación, desde la Escuela se pondrá al servicio de las participantes un **podcast sobre deliberación** donde poder conversar sobre los temas más relevantes del momentos con profesionales o activistas protagonistas de las últimas campañas de incidencia ciudadana en nuestro país, una **plataforma digital de participación** donde poder conocer y ensayar desde dentro las habilidades necesarias para dinamizar diálogos y asambleas ciudadanas y el **Wilder Journal**, un espaciodonde publicar los testimonios y reflexiones de las participantes durante y después de su paso por la Escuela.
 
-![Participante del Diálogo sobre los Océanos](/media/oceans.jpg "Participante del Diálogo sobre los Océanos")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQzijuRLKZE?si=fLhpc-EDZ5e28zlH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Y eso no es todo! Estamos experimentando con nuevas formas de juntar a la gente y que se sientan inspirados para compartir sus ideas y colaborar. Y para que todo esto llegue a más personas, estamos usando internet y las redes sociales para difundir información interesante y promover el diálogo abierto.
 
