@@ -26,7 +26,7 @@ Te invitamos a unirte al proyecto internacional de alfabetización mediática de
 
 # ¿Qué resultados buscamos?
 
-{% metrics { "items": [{"text":"Pensamiento crítico"},{"text":"Alfabetización digital"},{"text":"Toolkit digital"},{"text":"Capacitación profesorado"},{"text":"Creatividad contra la desinformación"},{"text":"Lucha contra la desinformación"}] } %}
+{% metrics { "items": [{"text":"Pensamiento crítico"},{"text":"Alfabetización digital"},{"text":"Toolkit digital"},{"text":"Capacitación profesorado"},{"text":"Medición de impacto"},{"text":"Lucha contra la desinformación"}] } %}
 
 # _
 
