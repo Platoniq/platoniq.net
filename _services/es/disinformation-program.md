@@ -66,6 +66,6 @@ Al finalizar el proyecto, el material podrá ser utilizado por otros grupos de e
 
 ![SMILES](/media/captura-de-pantalla-2024-09-09-a-las-15.55.15.png "SMILES")
 
-
+https://smiles.platoniq.net/processes/training
 
 https://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline\_study\_-_Country_report_Spain-ES_v1.1.pdf
