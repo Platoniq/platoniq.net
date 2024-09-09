@@ -4,7 +4,7 @@ slug: democratic-funding
 image:
   path: /media/services/symbol_cooperativa.png
 collaborators:
-  - Goteo
+  - ay-bcn
 call_to_action:
   image_path: /media/services/gif01.gif
   url: Pregúntanos

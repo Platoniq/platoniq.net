@@ -10,7 +10,7 @@ image:
   path: /media/services/symbol_cooperativa.png
   alt: Financiación democrática
 collaborators:
-  - Goteo
+  - ay-bcn
 call_to_action:
   image_path: /media/services/gif01.gif
   image_alt: ¿Quieres saber más?
