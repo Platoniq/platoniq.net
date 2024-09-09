@@ -25,7 +25,7 @@ call_to_action:
 * una plataforma eficiente, abierta y productiva capaz de conectar a los creadores culturales con la gente de su comunidad: un punto de encuentro para la participación ciudadana en las futuras agendas culturales;
 * un referente nacional de innovación cultural distribuida.
 
-{% metrics { "items": [{"text":"Dinero recaudado","number":"20.948.115"},{"text":"Proyectos exitosos","number":"83,8%"},{"text":"Comunidad","number":"354.912"}] } %}
+{% metrics { "items": [{"text":"Dinero recaudado","number":"21M"},{"text":"Proyectos exitosos","number":"83,8%"},{"text":"Comunidad","number":"355k"}] } %}
 
 # Goteo como red social
 
