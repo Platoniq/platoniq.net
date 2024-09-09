@@ -24,13 +24,19 @@ call_to_action:
 
 👉 ¿Quieres formarte para capacitar a las nuevas generaciones en la lucha contra la desinformación?
 
+Si tu respuesta es ¡SÍ!, te invitamos a unirte al proyecto internacional de alfabetización mediática de Platoniq. A través de este proyecto, adquirirás herramientas, habilidades y conocimientos para reconocer y combatir la desinformación, y trasladar este conocimiento a jóvenes de entre 12 y 15 años mediante talleres especializados. 
+
+Un proyecto de alfabetización mediática cuyo objetivo es ayudar a las personas jóvenes a aprender a combatir la desinformación. El proyecto reúne a entidades entre las cuales se incluyen bibliotecas, organizaciones de alfabetización mediática e institutos de investigación, con el objetivo de desarrollar, testear y medir el impacto de un enfoque educativo innovador para combatir la propagación de la desinformación.
+
+# _
+
 # ¿Qué resultados buscamos?
 
 {% metrics { "items": [{"text":"Pensamiento crítico"},{"text":"Alfabetización digital"},{"text":"Lucha contra la desinformación"},{"text":"Capacitación para profesores y bibliotecarios"},{"text":"Creatividad contra la desinformación"},{"text":"Toolkit digital"}] } %}
 
-Si tu respuesta es ¡SÍ!, te invitamos a unirte al proyecto internacional de alfabetización mediática de Platoniq. A través de este proyecto, adquirirás herramientas, habilidades y conocimientos para reconocer y combatir la desinformación, y trasladar este conocimiento a jóvenes de entre 12 y 15 años mediante talleres especializados. 
 
-Un proyecto de alfabetización mediática cuyo objetivo es ayudar a las personas jóvenes a aprender a combatir la desinformación. El proyecto reúne a entidades entre las cuales se incluyen bibliotecas, organizaciones de alfabetización mediática e institutos de investigación, con el objetivo de desarrollar, testear y medir el impacto de un enfoque educativo innovador para combatir la propagación de la desinformación.
+
+# _
 
 # ¿Cómo lo conseguimos?
 
@@ -58,11 +64,15 @@ Los talleres están dirigidos a jóvenes de entre 12 y 15 años, con especial at
 
 Los efectos de los talleres se medirán y analizarán ampliamente. También se prestará atención a las posibles diferencias entre los sistemas educativos y las culturas de los países participantes. Se involucará en la medición de impacto tanto el personal docente y bibliotecario como las estudiantes. Se pedirá permiso para el uso de los datos.
 
+# _
+
 # Metodología destacada
 
 Destaca el legado de este tipo de capacitaciones sobre los colegios, institutos y bibliotecas. La capacitación, los talleres, el manual para formadoras, la caja de herramientas digital y la medición de impacto están disponibles de forma gratuita para las escuelas y bibliotecas participantes. 
 
 Al finalizar el proyecto, el material podrá ser utilizado por otros grupos de estudiantes de la misma escuela y también en otras escuelas. Así mismo, los resultados de la medición de impacto a nivel institucional se comparten con el personal docente y bibliotecario, estudiantes y organizaciones participantes.
+
+# _
 
 # Proyectos relacionados
 
