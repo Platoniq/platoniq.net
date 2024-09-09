@@ -37,10 +37,10 @@ Introducir las nuevas formas de economía colaborativa en el sector creativo eme
 
 # Proyectos relacionados
 
-Crowdcoop es una plataforma de financiación colectiva especializada en las cooperativas y sus necesidades particulares. O como nos gusta llamarlo: la nueva fábrica de proyectos cooperativos por una economía más social y más sostenible.
+**Crowdcoop** es una plataforma de financiación colectiva especializada en las cooperativas y sus necesidades particulares. O como nos gusta llamarlo: la nueva fábrica de proyectos cooperativos por una economía más social y más sostenible.
 
 Por un lado, las cooperativas obtienen asesoramiento y formación para dar impulso a su proyecto y crear comunidad a su alrededor. De manera complementaria, a través del crowdfunding las cooperativas pueden encontrar el apoyo y mecenazgo necesarios para crear su proyecto, darlo a conocer y consolidarlo.
 
-Se trata de una vía de financiación transparente que reactiva el papel corresponsable de la sociedad civil, proporciona legitimidad y permite evaluar la viabilidad del proyecto a través de su comunidad. Todo ello con el objetivo y la prioridad de dar servicio al mundo cooperativo y a la economía social, compartiendo los valores y la filosofía del cooperativismo que contribuye a la justicia social. Además, en Crowdcoop agilizamos la financiación cooperativa con una plataforma digital que refuerza la relación con los futuros socios.
+Se trata de una vía de financiación transparente que reactiva el papel corresponsable de la sociedad civil, proporciona legitimidad y permite evaluar la viabilidad del proyecto a través de su comunidad. Todo ello con el objetivo y la prioridad de dar servicio al mundo cooperativo y a la economía social, compartiendo los valores y la filosofía del cooperativismo que contribuye a la justicia social. Además, en **Crowdcoop** agilizamos la financiación cooperativa con una plataforma digital que refuerza la relación con los futuros socios.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5bzfj2IkznQ?si=sMfdVTMGDF_Mr0pP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
