@@ -18,23 +18,15 @@ call_to_action:
   url: Contáctanos
   url_text: Contáctanos
 ---
-👉 ¿Eres docente o bibliotecaria y quieres que las personas jóvenes sean más resilientes a la desinformación?
-
-👉 ¿Te preocupa la falta de espacios para la educación democrática y el pensamiento crítico?
-
-👉 ¿Quieres formarte para capacitar a las nuevas generaciones en la lucha contra la desinformación?
-
-Si tu respuesta es ¡SÍ!, te invitamos a unirte al proyecto internacional de alfabetización mediática de Platoniq. A través de este proyecto, adquirirás herramientas, habilidades y conocimientos para reconocer y combatir la desinformación, y trasladar este conocimiento a jóvenes de entre 12 y 15 años mediante talleres especializados. 
-
 Un proyecto de alfabetización mediática cuyo objetivo es ayudar a las personas jóvenes a aprender a combatir la desinformación. El proyecto reúne a entidades entre las cuales se incluyen bibliotecas, organizaciones de alfabetización mediática e institutos de investigación, con el objetivo de desarrollar, testear y medir el impacto de un enfoque educativo innovador para combatir la propagación de la desinformación.
+
+Te invitamos a unirte al proyecto internacional de alfabetización mediática de Platoniq. A través de este proyecto, adquirirás herramientas, habilidades y conocimientos para reconocer y combatir la desinformación, y trasladar este conocimiento a jóvenes de entre 12 y 15 años mediante talleres especializados. 
 
 # _
 
 # ¿Qué resultados buscamos?
 
 {% metrics { "items": [{"text":"Pensamiento crítico"},{"text":"Alfabetización digital"},{"text":"Lucha contra la desinformación"},{"text":"Capacitación para profesores y bibliotecarios"},{"text":"Creatividad contra la desinformación"},{"text":"Toolkit digital"}] } %}
-
-
 
 # _
 
