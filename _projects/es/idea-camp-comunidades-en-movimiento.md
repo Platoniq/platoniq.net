@@ -69,17 +69,9 @@ La metodología Moving Communities ha sido diseñada por Platoniq, junto con el 
 
 La metodología profundiza en 3 áreas temáticas:
 
-1. OMS (comunidades): se refiere a las comunidades a las que se dirige la idea o a las que pretende implicar. ¿Son sus necesidades
-
-desafíos, pero también su papel, ¿se comprenden claramente y se tienen en cuenta en el desarrollo de la idea?  
-
-2. 2. CÓMO (estrategias): se refiere a la puesta en práctica de la idea. ¿Cuáles son los socios y las partes interesadas que se necesitan y cómo conseguir su participación?
-
-que participen. ¿Cómo ampliar la idea y hacerla más participativa? 
-
-3. 3. POR QUÉ (valores): se refiere al impacto y el valor de la idea. ¿Qué
-
-¿Cuál es la narrativa más allá de la idea y cómo garantizar un impacto más amplio?
+1. OMS (comunidades): se refiere a las comunidades a las que se dirige la idea o a las que pretende implicar. ¿Son sus necesidades desafíos, pero también su papel, ¿se comprenden claramente y se tienen en cuenta en el desarrollo de la idea?  
+2. CÓMO (estrategias): se refiere a la puesta en práctica de la idea. ¿Cuáles son los socios y las partes interesadas que se necesitan y cómo conseguir su participación? ¿Cómo ampliar la idea y hacerla más participativa? 
+3. POR QUÉ (valores): se refiere al impacto y el valor de la idea. ¿Cuál es la narrativa más allá de la idea y cómo garantizar un impacto más amplio?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7CX-Rc9qpW0?si=b-6VG8M2h3NMsdHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
