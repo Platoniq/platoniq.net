@@ -45,3 +45,9 @@ Por ello, en alianza también con ParticipaLab, el Laboratorio de Inteligencia C
 Como resultado de esta primera acción, se han acordado dos líneas de trabajo a desarrollar en los próximos meses. Por una parte, la dinamización de la comunidad actual, utilizando herramientas estratégicas de comunicación con usuarios previamente segmentados, y por otra, aumentar el alcance de las propuestas ciudadanas en espacios ajenos a la plataforma.
 
 Estas dos líneas se van a concretar en el próximo taller, el 1 de febrero en Medialab, y al que estás invitadx si te interesan alguno de estos dos ámbitos de trabajo. En todo caso, os mantenemos informadxs de los avances.
+
+##### El Dashboard de propuestas en Decide.Madrid
+
+El primero se basa en lo que llamamos el "involucramiento progresivo" (o progressive engagement), utilizando mecánicas de ludificación (o “gamificación”). Estas mecánicas se centran en proporcionar incentivos a los participantes de forma escalonada, por un lado, invitando a superar metas y, por otro, al alcanzarlas, recompensar con recursos nuevos. Dado el éxito del crowdfunding especialmente en cuanto a la capacitación y engagement, buscamos trasladar a la sección de Propuestas Ciudadanas de Decide lo aprendido en la dinamización de campañas de crowdfunding de Goteo.org. 
+
+![Gamificación](/media/captura-de-pantalla-2024-09-09-a-las-9.55.27.png "Gamificación")
