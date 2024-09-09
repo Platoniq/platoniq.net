@@ -42,7 +42,7 @@ call_to_action:
   url: Contáctanos
   url_text: Contáctanos
 ---
-¿Abrimos un banco?
+##### ¿Abrimos un banco?
 
 ¿Qué te gustaría saber hacer y nunca has encontrado quién te lo explicase? ¿Cuántas cosas puedes enseñarle a tus amigos que les puede ayudar? ¿Conoces a alguien que sabe hacer algo "valioso", "curioso", "especial"?
 
@@ -50,7 +50,7 @@ Bajo la premisa de que todos tenemos algo que enseñar y que todos tenemos algo 
 
 ¡Descubre el Banco Común de Conocimientos (BCC)! Un proyecto revolucionario que ha transformado la forma en que compartimos y protegemos el conocimiento.
 
-## Impacto
+##### Impacto
 
 {% metrics { "items": [{"number":"13.234","text":"aportes "},{"number":"234","text":"conexiones generadas"},{"number":"23","text":"presentaciones en público"}] } %}
 
