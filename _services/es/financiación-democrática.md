@@ -41,7 +41,7 @@ Hasta el momento, las dinámicas del llamado Giving 2.0 (Donaciones 2.0) se han 
 
 Introducir las nuevas formas de economía colaborativa en el sector creativo emergente es una manera de crear innovación cultural. Es necesario generar un cambio en el sistema establecido y dar la posibilidad a los creadores y productores culturales de obtener recursos, no sólo a través de las vías tradicionales de financiación (generalmente, entidades públicas), sino también a través de su propia comunidad y organizaciones privadas, las cuales, por medio de pequeñas donaciones a los creadores de su elección, posibilitarían el aumento de tejido creativo en su entorno y, a la larga, un mayor número de colaboraciones entre los ámbitos cultural, social, tecnológico y económico.
 
-{% quote %}"Tu capital depende de la confianza: las contribuciones no ocurren de manera automática. Incluso si contactas con un gran número de gente, todavía tienes que ganar su confianza, especialmente si no los conoces personalmente. {% endquote %}
+
 
 # _
 
