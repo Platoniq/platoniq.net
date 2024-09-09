@@ -18,6 +18,8 @@ call_to_action:
   url: Pregúntanos
   url_text: Pregúntanos
 ---
+Goteo es un sitio de micromecenazgo que se enfoca en proyectos que, además de otorgar recompensas individuales, también generan un retorno colectivo a través de la promoción de los comunes, el software de código abierto y/o el contenido libre.
+
 # ¿Qué es Goteo?
 
 * Goteo es una incubadora de proyectos que produce y conecta las buenas ideas con los contextos que las necesitan;
