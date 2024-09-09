@@ -3,11 +3,11 @@ layout: project
 slug: agora-democratica-pd
 state: closed
 title: Las Ágoras Democráticas del Partido Demócrata Italiano
-subtitle: El experimento de las Ágoras democráticas fue **una oportunidad
-  única** para escuchar la voz de la ciudadanía, para dar visibilidad a temas y
-  temas que se consideraron importantes en ese momento, para ponerse en contacto
-  con otras personas interesadas en los mismos desafíos y para sacar propuestas
-  y posibles soluciones a los desafíos del país.
+subtitle: El experimento de las Ágoras democráticas fueuna oportunidad única
+  para escuchar la voz de la ciudadanía, para dar visibilidad a temas y temas
+  que se consideraron importantes en ese momento, para ponerse en contacto con
+  otras personas interesadas en los mismos desafíos y para sacar propuestas y
+  posibles soluciones a los desafíos del país.
 banner_image:
   path: /media/projects/photo_2024-07-31_15-48-25.jpg
   alt: Agora Democrática PD
