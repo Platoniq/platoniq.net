@@ -3,7 +3,9 @@ layout: project
 slug: Decide-Madrid
 state: closed
 title: "Decide Madrid: propuestas ciudadanas"
-subtitle: "Decide Madrid: propuestas ciudadanas"
+subtitle: El objetivo es aportar la experiencia de Platoniq en metodologías de
+  co-creación y en procesos de financiación colectiva para idear mejoras en una
+  de las herramientas específicas de Decide Madrid, las propuestas ciudadanas.
 banner_image:
   path: /media/projects/decide-madrid_1.jpg
   alt: Decide Madrid
@@ -35,6 +37,8 @@ call_to_action:
 En Platoniq estamos muy ilusionados porque hemos empezado a trabajar la participación democrática. Además, hemos empezado de la mano de un partner inmejorable, Decide Madrid, el proyecto de participación del Ayuntamiento de Madrid, que además, es quien está detrás del desarrollo de Consul -con réplicas en más de 30 ciudades alrededor del mundo.
 
 El objetivo es aportar la experiencia de Platoniq en metodologías de co-creación y en procesos de financiación colectiva para idear mejoras en una de las herramientas específicas de Decide Madrid, las propuestas ciudadanas. Ese es el espacio donde los madrileños pueden hacer propuestas específicas -desde propuestas de política pública a sugerir mejoras concretas en un barrio- para que, si consiguen los apoyos necesarios, lleguen a adoptarse por la administración. Ese es el compromiso del Ayuntamiento, y hasta ahora, sólo dos propuestas lo han conseguido.
+
+![Qué me llevo](/media/quemellevo.png "Qué me llevo")
 
 Por ello, en alianza también con ParticipaLab, el Laboratorio de Inteligencia Colectiva para la Participación Democrática de MediaLab, hemos empezado a trabajar para idear dos pilotos que propongan mejoras en alguna de las distintas fases de la propuestas. La primera actividad, llevada a cabo el pasado 12 de diciembre, fue un taller con expertos en participación y en plataformas digitales. En él, analizamos el ciclo de una propuesta y propusimos nuevas fases para promover su éxito, y trabajamos juntos para identificar posibles usuarios y sus motivaciones para participar en las diferentes fases de una propuesta ciudadana. También creamos posibles escenarios a desarrollar y los validamos tanto con los participantes del taller como con el equipo de ParticipaLab y de Decide Madrid.
 
