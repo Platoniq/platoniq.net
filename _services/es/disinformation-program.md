@@ -10,7 +10,7 @@ image:
   path: /media/services/cultura-futura.png
   alt: Cultura futura
 collaborators:
-  - affac
+  - Smiles
 call_to_action:
   image_path: /media/services/gif01.gif
   image_alt: ¿Te interesa?

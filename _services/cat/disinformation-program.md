@@ -8,7 +8,7 @@ description: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit.
 image:
   path: /media/services/cultura-futura.png
 collaborators:
-  - affac
+  - Smiles
 call_to_action:
   image_path: /media/services/gif01.gif
   url: Contáctanos
