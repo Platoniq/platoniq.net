@@ -49,8 +49,6 @@ También aplicamos la **creatividad** a todo el proceso generando **nuestras pro
 
 ![Universo](/media/captura-de-pantalla-2024-08-06-a-las-12.13.43.png "Universo")
 
-
-
 # _
 
 # Proyectos relacionados
@@ -67,3 +65,5 @@ La Fundació Pare Manel confió su redacción de Plan Estratégico a la Fundaci�
 ![El equipo de la Fundació Pare Manel](/media/captura-de-pantalla-2024-09-02-a-las-17.11.53.png "El equipo de la Fundació Pare Manel")
 
 **"Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad"**. Fundació Pare Manel
+
+Un servicio desarrollado gracias al programa de subvenciones del **Ayuntamiento de Barcelona** para el fortalecimiento de la Economía Social y Solidaria y para la Intercooperación en la Estrategia #ESSBCN2030 - ENFORTIM LA ESS 2023
