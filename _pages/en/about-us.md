@@ -1,46 +1,31 @@
 ---
 layout: about-us
 slug: about-us
-title: About Platoniq.
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
-  dolores consectetur voluptate eos cupiditate ea alias, distinctio corporis
-  quis aspernatur consequuntur velit aliquam quae facere, dolorem ab aperiam
-  animi doloribus.
+title: About Platoniq
+description: The Platoniq Foundation designs digital participatory processes and
+  facilitates innovative participatory methodologies to contribute to building
+  more democratic and just societies and organisations, making use of open civic
+  technologies.
 img:
   source: /media/site-symbols/drops-about-us.png
   alt: drops-png
 Image:
   path: /media/pages/drops-about-us.png
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut consectetur feugiat turpis, eget aliquam mi commodo nec. Ut maximus massa non ante suscipit, vel facilisis tellus semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus egestas placerat nibh, ut ultrices enim. In a tincidunt massa. Integer laoreet euismod elit in pharetra. Aenean aliquam tempor ipsum, eget elementum arcu finibus et. Quisque fringilla tortor non urna convallis, nec ullamcorper erat tristique. Phasellus at tortor sapien. In enim elit, fermentum quis congue quis, pellentesque non nibh.
+Platoniq was born with the aim of spreading the right to a free culture and the democratisation of the media. Together with the lawyer Abel Garriga, we created the first free licence in Spain, under the name Aire Incondicional. From this stage we highlight the Burn Station project, a system for the distribution of music and radio programmes under copyleft licences in public spaces. With it we developed our first open source software for the distribution of free content. It was replicated and adapted in schools and on several continents.
 
-### Impacto Potencial:
+A few years later, our driving force became the creation and sharing of free knowledge. With the Bank of Common Knowledge (2006-2009), we generated dynamics of exchange and collective production around the free transmission of knowledge and mutual education. We created the first temporary citizen laboratory spaces with pioneering participation and co-creation methodologies.
 
-#### Aquí irian las cajitas verdes (86%, 523k, 24)
+Our work was internationally recognised, receiving an honourable mention at the UNESCO Digital Arts Awards (France, 2005), the Festival de Cultura Digital Transmediale in Berlin (2006, Germany) where we won second prize with the project Burn Station and at the Festival Internacional de Artes Electrónicas y Video Transitio_MX in Mexico D.F. (2007, Mexico) when we received the Transnational Communities Award.
 
-- Elemento de lista 1
-- Elemento de lista 2
-- Elemento de lista 3
+In this first stage, Platoniq managed to position itself as a pioneering organisation in the design of tools for citizen emancipation and social innovation, disseminated in innovation congresses and digital culture festivals and implemented in organisations such as the Mondragón Group in the Basque Country and a multitude of educational spaces in Europe, Asia and Latin America.
 
-En enim elit, fermentum quis congue quis, pellentesque non nibh.
+After a stage of distribution and knowledge creation and exchange, the next cycle had to address the problems of sustainability and financing of activities and projects with a social impact. And that is how Goteo.org was born, an incubator that produces and connects good ideas with the contexts that need them and a platform that makes them a reality through crowdfunding. 
 
-<img src="/media/pexels-yan-krukau-7691721.jpg" alt="image" width="80%" height="auto" style="display: block; margin: 0 auto">
+The two organisations have been a driving force and vanguard in their field, inspiring many other initiatives and leading the way through creativity and innovation.
 
-### In enim elit, fermentum quis congue quis.
+In 2021, a new stage begins with the merger of both projects, becoming Platoniq Foundation. Our teams are united, as are our challenges and objectives. At this juncture, moreover, the urgency to act with the conviction that the metamorphosis towards a more democratic, fair and equitable society is possible is revealed to us. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut consectetur feugiat turpis, eget aliquam mi commodo nec.
+We need to make it a reality so that it ceases to be a utopia.
 
-{% quote %}Esta es la quote{% endquote %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut consectetur feugiat turpis, eget aliquam mi commodo nec.
-
-Ejemplo de vídeo
-
-<a href="https://www.youtube.com/watch?v=FEa2diI2qgA" target="_blank">
- <img src="https://img.youtube.com/vi/FEa2diI2qgA/mqdefault.jpg" alt="Título del vídeo de prueba" width="80%" style="display: block; margin: 0 auto" />
-</a>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec condimentum eros. Fusce vitae maximus sapien, ut iaculis ligula. Suspendisse viverra libero at lectus lobortis sollicitudin. Curabitur molestie metus a sagittis feugiat. Aenean convallis ullamcorper placerat. Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin ligula.
-
-Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris dolor, pellentesque eget nibh vel, interdum rutrum urna. Integer iaculis fermentum tempor. Vestibulum bibendum nulla vel volutpat mollis. Sed rhoncus ultricies auctor. Ut consectetur feugiat turpis, eget aliquam mi commodo nec.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Impact over the years
