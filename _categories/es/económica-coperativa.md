@@ -2,7 +2,7 @@
 layout: category
 call_to_action: cta-contact-service
 slug: democratic_economy
-title: Financiación Democrática
+title: Crowdfunding cívico
 subtitle: Somos pioneros en el fortalecimiento de la Economía Social y Solidaria
   mediante el impulso de la financiación ética y el crowdfunding cívico.
   Trabajamos por la autonomía financiera colectiva, abriendo los marcos de
