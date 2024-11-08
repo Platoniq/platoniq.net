@@ -2,8 +2,14 @@
 layout: offers
 slug: offers
 title: Ofertas de trabajo
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet dolores consectetur voluptate eos cupiditate ea alias, distinctio corporis quis aspernatur consequuntur velit aliquam quae facere, dolorem ab aperiam animi doloribus.
+description: Si tienes ganas de innovar, tienes la mente despierta y te gusta
+  experimentar, escríbenos... nunca se sabe.
 img:
-    source: /media/site-symbols/happy-faces.png
-    alt: happyt-faces-png
+  source: /media/site-symbols/happy-faces.png
+  alt: happyt-faces-png
+subtitle: Escríbemos
+Image:
+  path: /media/pages/heart.png
+  alt: heart
 ---
+Ofertas abiertas
