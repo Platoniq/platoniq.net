@@ -5,10 +5,10 @@ slug: future_culture
 title: Future Culture
 subtitle: >-
   We have extensive experience developing visionary courses and workshops that
-  make us imagine and project a more ethical and desirable future. Through
-  culture, research and art we foster citizen dialogue and social
-  transformation, combining online and face-to-face formats that put creativity
-  at the heart of public policy design. 
+  make us imagine and project a more ethical and desirable future. 
+
+
+  Through culture, research and art we foster citizen dialogue and social transformation, combining online and face-to-face formats that put creativity at the heart of public policy design. 
 
 
   This is how we prepare young people for democratic renewal, through alternative practices and new cultural strategies. Yes, we want to broaden democracy, and we want to do it in a way that anyone can feel part of it.
