@@ -10,7 +10,10 @@ subtitle: >-
   challenges. 
 
 
-  We design actions and activities with the aim of co-creating inspiring, exciting and motivating stories of the future that will enable them to achieve their objectives. Our speciality: operationalising results and establishing impact monitoring and evaluation systems, in accordance with each of the phases of our services.
+  We design actions and activities with the aim of co-creating inspiring, exciting and motivating stories of the future that will enable them to achieve their objectives. 
+
+
+  Our speciality: operationalising results and establishing impact monitoring and evaluation systems, in accordance with each of the phases of our services.
 symbol:
   path: /media/categories/symbol_cooperativa.png
 services:
