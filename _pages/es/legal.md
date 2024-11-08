@@ -1,7 +1,7 @@
 ---
 layout: common-pages
 slug: legal-notice
-title: Aviso Legal.
+title: Aviso Legal
 description: >-
   Los términos y condiciones que a continuación se indican regulan el acceso y
   el uso del sitio web https://platoniq.net, realizado por FUNDACIÓN PLATONIQ,
