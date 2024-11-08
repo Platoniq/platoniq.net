@@ -1,7 +1,7 @@
 ---
 layout: common-pages
 slug: privacy-policy
-title: Política de Privacidad.
+title: Política de Privacidad
 description: De conformidad con el Reglamento (UE) 2016/679, de 27 de abril de
   2016, relativo a la protección de las personas físicas en lo que respecta al
   tratamiento de datos personales y a la libre circulación de estos datos y
