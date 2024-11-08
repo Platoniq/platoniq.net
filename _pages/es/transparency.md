@@ -1,55 +1,20 @@
 ---
 layout: transparency
 slug: transparency
-title: Transparencia.
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet dolores consectetur voluptate eos cupiditate ea alias, distinctio corporis quis aspernatur consequuntur velit aliquam quae facere, dolorem ab aperiam animi doloribus.
+title: Transparencia
+description: La Fundación promueve la transparencia, la economía colaborativa y
+  ética, la innovación democrática y la replicabilidad de las experiencias. Se
+  financia a través de alianzas con instituciones públicas y privadas que
+  comparten su misión y visión. Contamos con 12 personas contratadas
+  distribuidas entre las oficinas de Barcelona, Madrid, Roma y Palma (sede
+  social y fiscal) y un equipo de colaboradores en el estado español y en otros
+  países europeos.
 img:
-    source: /media/site-symbols/drops-about-us.png
-    alt: drops-transparency
+  source: /media/site-symbols/drops-about-us.png
+  alt: drops-transparency
+subtitle: En construcción
+Image:
+  path: /media/pages/heart.png
+  alt: heart
 ---
-{% documents 
-{ "title": "", 
-    "items": [ 
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "Información Institucional"}, 
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "contratos y convenios de administración"},
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "Sunvenciones y ajustes publicos"}
-      ] 
-    } 
-%}
-
-{% documents 
-{ "title": "Memoria de Actividades", 
-    "items": [ 
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "Memoria 2021"}, 
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "Memoria 2020"}, 
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "Memoria 2019"}, 
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "Memoria 2018"}, 
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "Memoria 2017"}
-      ] 
-    } 
-%}
-
-{% documents
-{ "title": "Balance Economico", 
-    "items": [ 
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "Balance 2021"}, 
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "Balance 2020"},
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "Balance 20219"},
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "Balance 2018"},
-        { "file": "/media/documents/document_test.pdf", 
-          "title": "Balance 2017"}
-      ] 
-    } 
-%}
+En construcción
