@@ -1,7 +1,7 @@
 ---
 layout: who
 slug: who
-title: Who are We.
+title: Who are We
 description: We are a group of artists, political scientists, philosophers,
   programmers, communicators and analysts convinced that by providing citizens
   with democratic tools we can build a fairer future.
