@@ -2,13 +2,12 @@
 layout: offers
 slug: offers
 title: Job openings
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
-  dolores consectetur voluptate eos cupiditate ea alias, distinctio corporis
-  quis aspernatur consequuntur velit aliquam quae facere, dolorem ab aperiam
-  animi doloribus.
+description: If you feel like innovating, have a keen mind and like to
+  experiment, write to us... you never know.
 img:
   source: /media/site-symbols/happy-faces.png
   alt: happyt-faces-png
 Image:
   path: /media/pages/heart.png
 ---
+Open offers
