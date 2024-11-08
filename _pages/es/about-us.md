@@ -34,6 +34,6 @@ EN 2021 se inicia una nueva etapa con la fusión de ambos proyectos convirtiénd
 
 {% metrics { "items": [{"number":"32","text":"Proyectos nacionales e internacionales"},{"text":"Recaudación de Goteo","number":"20M"},{"text":"Diàlogos ciudadanos","number":"14"}] } %}
 
-{% video { "title": "Síguenos la corriente", "url": "https://www.youtube.com/watch?v=hJNra7lM5Po&t=3s" } %}
+{% video { "title": "Síguenos la corriente", "url": "https://youtu.be/hJNra7lM5Po?si=bV9_EbJ77jy_UnGU" } %}
 
 {% quote %}Si el cielo es el límite, ¿dónde estamos?{% endquote %}
