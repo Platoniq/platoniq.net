@@ -19,17 +19,17 @@ call_to_action:
   text: platoniq
   url_text: platoniq
 ---
-Este servicio tiene por objetivo llevar a cabo un **proceso de reflexión participativo dentro de una organización,** proporcionando herramientas y modelos para promoverlo.
+This service aims to carry out **a participatory reflection process within an organisation, providing tools and models to promote it.**
 
-Para ello se hace necesario ofrecer un **panorama histórico,** establecer un **marco ético** que da prioridad a las voces marginadas, aportar un **análisis de cuestiones clave** y, finalmente, plantear un conjunto de **recomendaciones** que ayuden a la organización a la hora de dinamizar participativamente el análisis y la obtención de conclusiones.
+To do so, it is necessary to provide a **historical overview,** establish an **ethical framework** that prioritises marginalised voices, provide an analysis of **key issues** and, finally, put forward a set of **recommendations** that will help the organisation to make the analysis and the drawing of conclusions more dynamic in a participatory way.
 
-La investigación que supone este Diagnóstico Participativo nos permite tomar conciencia de las complejas y a veces difíciles realidades que supone mantener **viva y coherente una organización abierta.** Sin embargo, también brinda la oportunidad de replantear lo que eso significa a través de conversaciones con todo el mundo.
+The research involved in this Participatory Appraisal allows us to become aware of the complex and sometimes difficult realities of keeping an open organisation **alive and coherent.** However, it also provides the opportunity to rethink what that means through conversations with everyone.
 
 # _
 
-# ¿Qué resultados buscamos?
+# What results are we looking for?
 
-{% metrics { "items": [{"text":"Mejor gobernanza"},{"text":"Conciencia del privilegio"},{"text":"Oportunidades de mejora"},{"text":"Participación inclusiva"},{"text":"Asumir la complejidad"},{"text":"Visualización de retos"}] } %}
+{% metrics { "items": [{"text":"Better gobernance"},{"text":"Privilege consciousness"},{"text":"Oportunities for improvements"},{"text":"Inclusive participation"},{"text":"Taking on complexity"},{"text":"Visualization of challenges"}] } %}
 
 # _
 
