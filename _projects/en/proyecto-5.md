@@ -49,7 +49,7 @@ In the first edition, three collectives from Barcelona, Furia Mexicana, Puerta d
 
 
 
-{% quote { "author": "Lamine Saar, Sindicato de Vendedores Ambulantes de Barcelona" } %}De nacionalidad "migrante"{% endquote %}
+{% quote %}Nationality: "migrant"{% endquote %}
 
 In addition to the three workshops, together with four content creators coordinated by La Fera: Luna Andrade, Patricia Vizcaíno, Pedro García Mejía and Shalana Rodríguez, new narrative forms were explored by talking about migratory conflicts, the migrant economy, the role of Europe or the advantages of social and solidarity cooperativism. Each of them contributed an audiovisual piece that triggered debate, from which a staged response had to be developed. **The result is a series of pieces of a diverse nature that seek to move the public and raise awareness of these issues.**
 
