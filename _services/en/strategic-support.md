@@ -44,9 +44,9 @@ Through strategic planning we not only adapt to the environment, but also create
 
 # Metodología destacada
 
-En la Fundación Platoniq no sólo utilizamos **las principales metodologías de planificación estratégica**: PESTEL, DAFO, OKR, entrevistas en profundidad o la definición de la misión, visión y valores.
+At Fundación Platoniq we not only use the **main strategic planning methodologies**: PESTEL, SWOT, OKR, in-depth interviews or the definition of mission, vision and values.
 
-También aplicamos la **creatividad** a todo el proceso generando **nuestras propias metodologías**, cómo [el camino del héroe](https://journal.platoniq.net/es/wilder-journal-2/rethink/plan-estrategico/), [la ascensión a una montaña](https://journal.platoniq.net/es/wilder-journal-2/rethink/strategic-planning/) o la visualización de universos (ver imagen 👇) para darnos la oportunidad de pensar más allá, identificar las virtudes de la organización y definir algunos de los hitos más importantes a tomar en cuenta cuando decidimos emprender este camino.
+We also apply **creativity** to the whole process by generating **our own methodologies,** such as the hero's journey, mountain climbing or the visualisation of universes (see image 👇) to give us the opportunity to think beyond, identify the organisation's strengths and define some of the most important milestones to take into account when we decide to embark on this journey.
 
 ![Universo](/media/captura-de-pantalla-2024-08-06-a-las-12.13.43.png "Universo")
 
@@ -54,17 +54,19 @@ También aplicamos la **creatividad** a todo el proceso generando **nuestras pro
 
 # Proyectos relacionados
 
-La Fundació Pare Manel confió su redacción de Plan Estratégico a la Fundació Platoniq en 2023 ([consulta el proyecto en detalle aquí](https://platoniq.net/es/projects/pare-manel-acompa%C3%B1amiento-estrat%C3%A9gico/)). Según ellos mismos, y tras cuatro meses de trabajo junto a todos los trabajadores , estas fueron algunas de sus **conclusiones** a las que llegaron para iniciar un proceso de acompañamiento estratégico participativo:
+The Fundació Pare Manel entrusted the drafting of its Strategic Plan to the Fundació Platoniq in 2023 (consult the project in detail here). According to them, and after four months of work with all the workers, these were some of the **conclusions** they reached to initiate a process of participatory strategic accompaniment:
 
-* Para obtener un proceso **más democrático.**
-* Para **integrar múltiples perspectivas,** aprovechando el potencial de la inteligencia colectiva de las participantes.
-* Para **potenciar el sentimiento de pertenencia** del equipo a la organización.
-* Para tener más **conocimiento transversal** de la Fundación Pare Manel, de sus grupos de interés, de las áreas de trabajo y del funcionamiento.
-* Para tener más **agilidad en la detección de oportunidades,** clasificarlas por orden de prioridad y ser capaces de explotarlas.
-* Para brindar una base sólida y un **legado metodológico vivo, adaptable y anticipado** a las distintas necesidades que pueden fluctuar con el tiempo.
+* To obtain a **more democratic process.**
+* To **integrate multiple perspectives,** taking advantage of the potential of the collective intelligence of the participants.
+* To **strengthen the team's sense** of belonging to the organisation.
+* To have more **transversal knowledge** of the Pare Manel Foundation, its interest groups, areas of work and functioning.
+* To be more agile in **detecting opportunities,** classify them in order of priority and be able to exploit them.
+* To provide a solid base and a living methodological legacy, **adaptable and anticipated** to the different needs that may fluctuate over time.
+
+
 
 ![El equipo de la Fundació Pare Manel](/media/captura-de-pantalla-2024-09-02-a-las-17.11.53.png "El equipo de la Fundació Pare Manel")
 
-**"Ahora sabemos cómo seguir siendo una entidad de referencia con objetivos sociales claros y un impacto positivo en la comunidad"**. Fundació Pare Manel
+**‘Now we know how to continue to be a benchmark organisation with clear social objectives and a positive impact on the community’.** Fundació Pare Manel
 
-Un servicio desarrollado gracias al programa de subvenciones del **Ayuntamiento de Barcelona** para el fortalecimiento de la Economía Social y Solidaria y para la Intercooperación en la Estrategia #ESSBCN2030 - ENFORTIM LA ESS 2023
+A service developed thanks to the Barcelona City Council grant programme for the strengthening of the Social and Solidarity Economy and for Intercooperation in the #ESSBCN2030 - ENFORTIM LA ESS 2023 Strategy.
