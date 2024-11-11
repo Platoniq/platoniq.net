@@ -38,7 +38,7 @@ El objetivo de esta parte es mapear, registrar y hacer balance de los distintos 
 
 **2a Fase. Formación a profesores y bibliotecarios**
 
-La formación está dirigida a personal bibliotecario y a docentes de educación secundaria, que tengan habilidades básicas en torno al aprendizaje y la alfabetización digital.
+La formación está dirigida a personal bibliotecario y a docentes de educación secundaria, que tengan habilidades básicas en torno al aprendizaje y la alfabetización digital ([INFORMACIÓN PARA COLEGIOS Y BIBLIOTECAS](https://smiles.platoniq.net/uploads/decidim/attachment/file/125/SMILES_Escuelas_y_Bibliotecas_v1_0_ES.pdf))
 
 La formación tendrá una duración de dos días y dotará a las participantes de los conocimientos, habilidades y herramientas necesarias para llevar a cabo un taller sobre desinformación en el aula.
 
@@ -50,9 +50,11 @@ En los talleres, el alumnado aprenderá a reflexionar críticamente sobre las no
 
 Los talleres están dirigidos a jóvenes de entre 12 y 15 años, con especial atención a aquellas personas que provienen de contextos más vulnerables. Se realizarán dos talleres por escuela, en dos grupos de un mínimo de 20 estudiantes, entre octubre y noviembre de 2022. El objetivo es que bibliotecas y escuelas puedan seguir trabajando juntas en esta área tras los talleres.
 
-**4a Fase. Informe final**
+![SMILES](/media/photo_2024-10-03_12-18-57.jpg "SMILES")
 
-Los efectos de los talleres se medirán y analizarán ampliamente. También se prestará atención a las posibles diferencias entre los sistemas educativos y las culturas de los países participantes. Se involucará en la medición de impacto tanto el personal docente y bibliotecario como las estudiantes. Se pedirá permiso para el uso de los datos.
+**4a Fase.[ Informe final](https://smiles.platoniq.net/uploads/decidim/attachment/file/100/Baseline_study_-_Country_report_Spain-EN_v1.1.pdf)**
+
+Los efectos de los talleres se medirán y analizarán ampliamente. También se prestará atención a las posibles diferencias entre los sistemas educativos y las culturas de los países participantes. Se involucrará en la medición de impacto tanto el personal docente y bibliotecario como las estudiantes. Se pedirá permiso para el uso de los datos.
 
 # _
 
@@ -69,5 +71,3 @@ Al finalizar el proyecto, el material podrá ser utilizado por otros grupos de e
 ![SMILES](/media/captura-de-pantalla-2024-09-09-a-las-15.55.15.png "SMILES")
 
 https://smiles.platoniq.net/processes/training
-
-https://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline\_study\_-_Country_report_Spain-ES_v1.1.pdf

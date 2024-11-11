@@ -33,7 +33,7 @@ The aim of this part is to map, record and take stock of the different types of 
 
 **2nd Phase. Training for teachers and librarians**
 
-The training is aimed at library staff and secondary school teachers, who have basic skills around digital learning and digital literacy.
+The training is aimed at library staff and secondary school teachers, who have basic skills around digital learning and digital literacy ([INFORMATION FOR SCHOOL AND LIBRARIES](https://smiles.platoniq.net/uploads/decidim/attachment/file/123/SMILES_School_and_Library_v1_0_EN.pdf))
 
 The training will last two days and will equip participants with the knowledge, skills and tools necessary to conduct a workshop on misinformation in the classroom.
 
@@ -45,7 +45,9 @@ In the workshops, students will learn to critically reflect on the news presente
 
 The workshops are aimed at young people aged between 12 and 15, with a special focus on those from the most vulnerable backgrounds. Two workshops per school, in two groups of a minimum of 20 students, will be held between October and November 2022. The aim is that libraries and schools can continue to work together in this area after the workshops.
 
-**Phase 4. Final report**
+![SMILES](/media/photo_2024-10-03_12-18-57.jpg "SMILES")
+
+**Phase 4. [Final report](https://smiles.platoniq.net/uploads/decidim/attachment/file/100/Baseline_study_-_Country_report_Spain-EN_v1.1.pdf)**
 
 The effects of the workshops will be extensively measured and analysed. Attention will also be paid to possible differences between the education systems and cultures of the participating countries. Teachers, librarians and students will be involved in the impact measurement. Permission will be sought for the use of the data.
 
@@ -64,5 +66,3 @@ At the end of the project, the material can be used by other groups of students 
 ![SMILES](/media/captura-de-pantalla-2024-09-09-a-las-15.55.15.png "SMILES")
 
 https://smiles.platoniq.net/processes/training
-
-https://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline\_study\_-_Country_report_Spain-ES_v1.1.pdf
