@@ -26,11 +26,15 @@ private_percentage: "60"
 looking_finance_percentage: "40"
 services:
   - citizen-assemblies-dialogues
+  - open-source-digital-tools
+  - playbooks
+  - Democratic-agoras
 categories:
   - future_culture
 members:
   - cp
   - os
+  - sgn
 collaborators:
   - canodrom
 date: 2023-10-20T07:20:32.854Z
@@ -66,7 +70,12 @@ Nuestro objetivo es nada menos que construir una cultura política que llegue al
 
 La Escuela de Creatividad y Democracia está especialmente diseñada para **complementar aquellos estudios que tengan que ver con la ciencia política, la sociología, la filosofía, la programación, la comunicación y la investigación cualitativa, siempre enfocadas a la incidencia ciudadana,** con la voluntad de aportar ejemplos vivos de participación y relanzar la democracia deliberativa en España.  
 
-Para ello hemos diseñado cuatro itinerarios que responden a cuatro perfiles: **facilitación**, **participación digital**, **investigación creativa** y **comunicación ciudadana.**
+Para ello hemos diseñado cuatro itinerarios que responden a cuatro perfiles: 
+
+* **facilitación** 
+* **participación digital**
+* **investigación creativa** 
+* **comunicación ciudadana.**
 
 ##### ¿Qué ofrecemos?
 
@@ -84,7 +93,7 @@ Poniendo el énfasis en las experiencias de participación reales que se están 
 
 También organizamos campañas para que las ideas de los jóvenes importen de verdad en el gobierno y para expresarse y ser escuchados en la sociedad. Además, estamos creando programas de formación que enseñan cómo funcionan otras formas de democracia y cómo formar parte de ellas.
 
-Además del contacto directo con experiencias de participación, desde la Escuela se pondrá al servicio de las participantes un **podcast sobre deliberación** donde poder conversar sobre los temas más relevantes del momentos con profesionales o activistas protagonistas de las últimas campañas de incidencia ciudadana en nuestro país, una **plataforma digital de participación** donde poder conocer y ensayar desde dentro las habilidades necesarias para dinamizar diálogos y asambleas ciudadanas y el **Wilder Journal**, un espaciodonde publicar los testimonios y reflexiones de las participantes durante y después de su paso por la Escuela.
+Además del contacto directo con experiencias de participación, desde la Escuela se pondrá al servicio de las participantes un **podcast sobre deliberación** donde poder conversar sobre los temas más relevantes del momentos con profesionales o activistas protagonistas de las últimas campañas de incidencia ciudadana en nuestro país, una **plataforma digital de participación** donde poder conocer y ensayar desde dentro las habilidades necesarias para dinamizar diálogos y asambleas ciudadanas y el **[Wilder Journal](https://journal.platoniq.net/es/wilder-journal-2/)**, un espaciodonde publicar los testimonios y reflexiones de las participantes durante y después de su paso por la Escuela.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQzijuRLKZE?si=fLhpc-EDZ5e28zlH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

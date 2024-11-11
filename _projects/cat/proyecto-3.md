@@ -23,11 +23,15 @@ private_percentage: "60"
 looking_finance_percentage: "40"
 services:
   - citizen-assemblies-dialogues
+  - open-source-digital-tools
+  - playbooks
+  - Democratic-agoras
 categories:
   - future_culture
 members:
   - cp
   - os
+  - sgn
 collaborators:
   - canodrom
 date: 2023-10-20T07:20:32.854Z
