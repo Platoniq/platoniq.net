@@ -14,7 +14,7 @@ subtitle: >-
   Sabemos que queda mucho por hacer, lo suficiente para no dejar de imaginar nuevas formas de implicación ciudadana que nos ayuden a construir marcos de convivencia más robustos y respetuosos.
 symbol:
   path: /media/categories/symbol_empoderament.png
-  alt: innovacion Inclusiva
+  alt: innovacion democrática
 services:
   - open-source-digital-tools
   - citizen-assemblies-dialogues

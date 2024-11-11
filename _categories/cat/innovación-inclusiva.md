@@ -2,15 +2,19 @@
 layout: category
 call_to_action: cta-contact-service
 slug: democratic_innovation
-title: Innovació Inclusiva
-subtitle: Phasellus eget vestibulum ligula. Praesent bibendum lacinia porta. Sed
-  nec tincidunt nulla, ac ultricies massa. Praesent non tempus diam. Morbi
-  molestie blandit ipsum ut vulputate. Praesent sapien sem, euismod non sem
-  quis, ultrices euismod ex. Praesent nec arcu eleifend, hendrerit turpis sed,
-  tincidunt odio. Ut imperdiet non nisi ut congue.
+title: Innovació Democràtica
+subtitle: >-
+  Fa més de vint anys que impulsem la innovació democràtica a través
+  d'experiències de participació oberta al servei de les comunitats.
+
+
+  Mitjançant la combinació de ferramentes digitals i metodologies analògiques, treballem per millorar la qualitat de les institucions públiques sumant la veu de la ciutadania.
+
+
+  Sabem que queda molt per fer, prou per no deixar d'imaginar noves maneres d'implicació ciutadana que ens ajudin a construir marcs de convivència més robustos i respectuosos.
 symbol:
   path: /media/categories/symbol_empoderament.png
-  alt: innovacion Inclusiva
+  alt: innovació demcoràtica
 services:
   - open-source-digital-tools
   - citizen-assemblies-dialogues
