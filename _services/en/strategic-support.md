@@ -22,13 +22,13 @@ Through strategic planning we not only adapt to the environment, but also create
 
 # _
 
-# ¿Qué resultados buscamos?
+# What results are we looking for?
 
 {% metrics { "items": [{"number":"","text":"Maximum participation"},{"number":"","text":"Clear roadmap"},{"number":"","text":"Increased agility"},{"text":"Sense of comunity"},{"text":"Better planification"},{"text":"Enthusiastic project"}] } %}
 
 # _
 
-# ¿Cómo lo conseguimos?
+# How do we achieve this?
 
 * We help identify the internal and external factors that condition the development of organisations
 * We provide tools that enable the definition of the organisation's major challenges, strategic objectives and medium and long-term results
@@ -42,7 +42,7 @@ Through strategic planning we not only adapt to the environment, but also create
 
 # _
 
-# Metodología destacada
+# Methodology highlighted
 
 At Fundación Platoniq we not only use the **main strategic planning methodologies**: PESTEL, SWOT, OKR, in-depth interviews or the definition of mission, vision and values.
 
@@ -52,7 +52,7 @@ We also apply **creativity** to the whole process by generating **our own method
 
 # _
 
-# Proyectos relacionados
+# Related projects
 
 The Fundació Pare Manel entrusted the drafting of its Strategic Plan to the Fundació Platoniq in 2023 (consult the project in detail here). According to them, and after four months of work with all the workers, these were some of the **conclusions** they reached to initiate a process of participatory strategic accompaniment:
 
