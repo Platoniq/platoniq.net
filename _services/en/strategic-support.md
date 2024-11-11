@@ -24,7 +24,7 @@ Through strategic planning we not only adapt to the environment, but also create
 
 # ¿Qué resultados buscamos?
 
-{% metrics { "items": [{"number":"","text":"Máxima participación"},{"number":"","text":"Hoja de ruta clara"},{"number":"","text":"Mayor agilidad"},{"text":"Sentido de pertencia"},{"text":"Mejor planificación"},{"text":"Proyecto ilusionante"}] } %}
+{% metrics { "items": [{"number":"","text":"Maximum participation"},{"number":"","text":"Clear roadmap"},{"number":"","text":"Increased agility"},{"text":"Sense of comunity"},{"text":"Better planification"},{"text":"Enthusiastic project"}] } %}
 
 # _
 
