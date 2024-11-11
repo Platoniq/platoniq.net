@@ -68,6 +68,10 @@ Al finalizar el proyecto, el material podrá ser utilizado por otros grupos de e
 
 # Proyectos relacionados
 
-![SMILES](/media/captura-de-pantalla-2024-09-09-a-las-15.55.15.png "SMILES")
+**SMILES: un proyecto de alfabetización mediática** cuyo objetivo fue ayudar a las personas jóvenes a aprender a combatir los bulos. Se desarrolló y puso a prueba una serie de talleres dirigidos a estudiantes de entre 12 y 15 años, los cuales se impartieron en bibliotecas y escuelas de los Países Bajos, España y Bélgica.
 
-https://smiles.platoniq.net/processes/training
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qDfAoZTxNUg?si=-H0SeCClYlHPtiWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+![SMILES](/media/captura-de-pantalla-2024-09-09-a-las-15.55.15.png "SMILES")

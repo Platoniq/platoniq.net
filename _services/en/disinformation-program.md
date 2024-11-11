@@ -63,6 +63,12 @@ At the end of the project, the material can be used by other groups of students 
 
 # Related projects
 
+**SMILES: a media literacy project** aimed at helping young people learn how to combat hoaxes. A series of workshops for students aged 12-15 were developed and tested in libraries and schools in the Netherlands, Spain and Belgium.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qDfAoZTxNUg?si=-H0SeCClYlHPtiWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 ![SMILES](/media/captura-de-pantalla-2024-09-09-a-las-15.55.15.png "SMILES")
 
 https://smiles.platoniq.net/processes/training
