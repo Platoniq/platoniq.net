@@ -43,6 +43,9 @@ public_percentage: "0"
 call_to_action:
   image_path: /media/projects/gif01.gif
   url: Contáctanos
+  image_alt: Want to know more?
+  text: Want to know more?
+  url_text: Contact us
 ---
 In a context of disaffection, polarisation and disinformation, young people want to be the new protagonists of politics and citizen participation. 
 
