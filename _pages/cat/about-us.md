@@ -34,6 +34,6 @@ L'any 2021 s'inicia una nova etapa amb la fusió de tots dos projectes convertin
 
 {% metrics { "items": [{"number":"32","text":"Projectes nacionals i internacionals"},{"text":"Recaptació de Goteo","number":"20M"}, {"text":"Diàlegs ciutadans","number":"14"}] } %}
 
-{% vídeo { "title": "Segueix-nos el corrent", "url": "https://www.youtube.com/embed/hJNra7lM5Po?si=xlpf5pEfd4Ly25pu" } %}
+{% video { "title": "Segueix-nos el corrent", "url": "https://www.youtube.com/embed/hJNra7lM5Po?si=xlpf5pEfd4Ly25pu" } %}
 
 {% quote %}Si el cel és el límit, on som?{% endquote %}
