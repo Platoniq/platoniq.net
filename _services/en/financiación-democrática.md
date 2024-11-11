@@ -2,10 +2,10 @@
 layout: service
 slug: democratic-funding
 title: Civic crowdfunding
-description: Goteo.org is our civic crowdfunding platform, through which we fund
-  initiatives with social impact - at regional, national and international level
-  - and with which we promote cooperativism and strengthen citizen
-  collaboration.
+description: Goteo.org **is our civic crowdfunding platform,** through which we
+  fund initiatives with social impact - at regional, national and international
+  level - and with which we promote **cooperativism** and strengthen **citizen
+  collaboration.**
 image:
   path: /media/services/symbol_cooperativa.png
 collaborators:
