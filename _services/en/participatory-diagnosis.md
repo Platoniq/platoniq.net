@@ -60,6 +60,6 @@ You can consult the final report ([White Paper](https://upload.wikimedia.org/wik
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vsErReqZJ2E?si=olThPl4ZPzUqBnmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Un segundo proyecto en el que empleamos esta metodología fue el [CultureLabs](https://culture-labs.eu/methodology-of-culturelabs/), un proyecto en el que nos embarcamos junto a otras entidades para desarrollar una metodología que apoyase la creación conjunta de actividades participativas centradas en el patrimonio cultural.
+A second project in which we used this methodology was [CultureLabs](https://culture-labs.eu/methodology-of-culturelabs/), a project we embarked on together with other entities to develop a methodology to support the co-creation of participatory activities focused on cultural heritage.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wmc7CNAafRM?si=lQ_a8VrbGjpsK8nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
