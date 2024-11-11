@@ -33,7 +33,7 @@ The research involved in this Participatory Appraisal allows us to become aware 
 
 # _
 
-# ¿Cómo lo conseguimos?
+# How do we achieve this?
 
 * We analysed the organisation's progress, milestones and governance issues
 * We identified inspiring case studies
