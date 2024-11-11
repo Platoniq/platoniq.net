@@ -22,32 +22,34 @@ Through the use of a digital platform for democratic participation, we bring out
 
 The Democratic Agora model integrates **both the physical and digital dimensions.** In other words, meetings between people give rise to specific proposals that are then discussed online on the platform, **which end up becoming a roadmap agreed with the citizens.**
 
-
-
 # _
 
-# ¿Qué resultados buscamos?
+# What results are we looking for?
 
 {% metrics { "items": [{"text":"Maximum participation"},{"text":"Results tracking"},{"text":"Program creation"},{"text":"Tecnico-political training"},{"text":"Strategic direction"},{"text":"Sense of community"}] } %}
 
 # _
 
-# ¿Cómo lo conseguimos?
+# How do we achieve this?
 
-{% questions { "items": [{"question":"Creando espacios autogestionados de diálogo o deliberación sobre un tema concreto, con el fin de elaborar propuestas conjuntas y específicas."},{"question":"Ofreciendo un espacio digital donde recoger y priorizar las propuestas realizadas en las diferentes Ágoras."},{"question":"Acompañando en el proceso de elaboración de programas electorales (partidos políticos), líneas estratégicas (organizaciones) o un conjunto de propuestas políticas resultantes del proceso participativo."}] } %}
-
-# _
-
-# Metodología destacada
-
-Nuestro objetivo es crear Ágoras que sean capaces de facilitar la participación de todas las personas presentes sin discriminación de origen, género, clase, edad, discapacidad, orientación sexual o credo. Para ello, cómo organizadores de un Ágora es nuestra responsabilidad **promover espacios lo más inclusivos posible**, que permita la participación de todas las personas.
-
-Considerando las **barreras** que las personas participantes puedan enfrentar y evaluando qué impacto pueden tener en el Ágora **en cada una de ellas,** tenemos diseñada una metodología sobre la creación de espacios inclusivos que considera las posibles dificultades **físicas** o **simbólicas,** tanto en entornos online cómo offline.
-
-Consulta nuestro manual (en italiano) sobre [cómo organizar eventos más inclusivos](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/156/Manuale_su_come_organizzare_eventi_pi%C3%B9_inclusivi.pdf)
+* Creating self-managed spaces for dialogue or deliberation on a specific topic, in order to elaborate joint and specific proposals.
+* Offering a digital space where to collect and prioritise the proposals made in the different Agoras.
+* Accompanying in the process of elaboration of electoral programmes (political parties), strategic lines (organisations) or a set of political proposals resulting from the participatory process.
 
 # _
 
-# Proyectos relacionados
+# Methodology highlighted
 
-Para saber cómo aplicamos esta metodología, puedes consultar la experiencia que llevamos a cabo con el [Partido Demócrata Italiano](https://platoniq.net/es/projects/agora-democratica-pd/) en 2021 para decidir, junto a sus socios y socias, lo que acabó siendo su programa político
+Our aim is to create Agoras that are able to facilitate the participation of all people present without discrimination of origin, gender, class, age, disability, sexual orientation or creed. To this end, as organisers of an Agora, it is our responsibility **to promote spaces that are as inclusive as possible, allowing for the participation of all people.**
+
+Considering the **barriers** that participants may face and assessing what impact the Agora may have on each of them, we have designed a methodology on the creation of **inclusive spaces** that considers possible physical or symbolic difficulties, both in online and offline environments.[](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/156/Manuale_su_come_organizzare_eventi_pi%C3%B9_inclusivi.pdf)
+
+See our handbook (in Italian) on [how to organise more inclusive events.](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/156/Manuale_su_come_organizzare_eventi_pi%C3%B9_inclusivi.pdf)
+
+# _
+
+# Related projects
+
+To find out how we apply this methodology, you can consult the experience we carried out with the [Italian Democratic Party](https://platoniq.net/es/projects/agora-democratica-pd/) in 2021 to decide, together with their partners, what became their political programme.
+
+![Agorà Democratiche](/media/photo_2024-07-31_15-48-25.jpg "Agorà Democratiche")
