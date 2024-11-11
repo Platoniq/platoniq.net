@@ -33,7 +33,7 @@ The research involved in this Participatory Appraisal allows us to become aware 
 
 # How do we achieve this?
 
-{% questions { "items": [{"question":"Analizamos el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificamos casos de estudio que puedan servir de inspiración"},{"question":"Desarrollamos un marco para diseñar un proceso para una gobernanza más participativa"},{"question":"Elaboramos un informe final (White Paper) con una hoja de ruta clara que promueva la participación a largo plazo"}] } %}
+{% questions { "items": [{"question":"We analysed the organisation's progress, milestones and governance issues"},{"question":"We identified inspiring case studies"},{"question":"We developed a framework for designing a process for more participatory governance"},{"question":"We developed a final report (White Paper) with a clear roadmap that promotes long-term participation"}] } %}
 
 # _
 
