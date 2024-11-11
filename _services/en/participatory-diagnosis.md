@@ -35,25 +35,28 @@ The research involved in this Participatory Appraisal allows us to become aware 
 
 # ¿Cómo lo conseguimos?
 
-{% questions { "items": [{"question":"Analizamos el progreso, los hitos y los problemas de gobernanza de la organización"},{"question":"Identificamos casos de estudio que puedan servir de inspiración"},{"question":"Desarrollamos un marco para diseñar un proceso para una gobernanza más participativa"},{"question":"Elaboramos un informe final (White Paper) con una hoja de ruta clara que promueva la participación a largo plazo"}] } %}
+* We analysed the organisation's progress, milestones and governance issues
+* We identified inspiring case studies
+* We developed a framework for designing a process for more participatory governance
+* We developed a final report (White Paper) with a clear roadmap that promotes long-term participation
 
 # _
 
-# Metodología destacada
+# Methodology highlighted
 
-Como primer paso para desarrollar un buen [acompañamiento estratégico](https://platoniq.net/es/services/strategic-support/), en Platoniq apostamos por el diagnóstico participativo de los retos y oportunidades de la organización, mediante la realización de una serie de entrevistas semi-estructuradas y grupos de discusión que informen las recomendaciones para el diseño estratégico. De esta forma obtenemos los consensos necesarios y el sentimiento de pertenencia para plantearnos los retos futuros de la organización.
+As a first step in developing a good [strategic accompaniment](https://platoniq.net/es/services/strategic-support/), at Platoniq we are committed to a participatory diagnosis of the organisation's challenges and opportunities, through a series of semi-structured interviews and discussion groups that inform the recommendations for the strategic design. In this way, we obtain the necessary consensus and sense of belonging in order to set out the organisation's future challenges.
 
 ![Diagnóstico participativo](/media/photo_2024-07-31_15-48-56.jpg "Diagnóstico participativo")
 
-Estas entrevistas se anonimizan y transforman en **relatos de ficción** para que puedan inspirar nuevos relatos, que permitan **imaginar** cómo poner en funcionamiento estructuras y tejer redes para la participación de todos los miembros de una organización reflejando toda su diversidad.
+These interviews are anonymised and transformed into **fictional tales** so that they can inspire new narratives, which allow us to **imagine** how to put structures and networks in place for the participation of all members of an organisation, reflecting all its diversity.
 
 # _
 
-# Proyectos relacionados
+# Related projects
 
-La entrevista ficcionada [alberga un gran potencial para tender puentes entre las personas](https://journal.platoniq.net/es/wilder-journal-1/blueprints/storytelling/). Por ello, tanto en el proyecto para la Wikimedia Foundation como CultureLabs apostamos por la narración de historias como un elemento clave en el diseño de nuestra metodología.
+The fictionalised interview has great potential to build bridges between people. For this reason, both in the project for the Wikimedia Foundation and CultureLabs we are committed to storytelling as a key element in the design of our methodology.
 
-Puedes consultar el [informe final (White Paper)](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf) del Diagnóstico Participativo que realizamos para [Wikimedia Foundation](https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Designing_futures_of_participation_in_the_Wikimedia_Movement). [](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)
+You can consult the final report ([White Paper](https://upload.wikimedia.org/wikipedia/commons/9/92/Designing_the_future_of_participation_in_the_Wikimedia_Movement.pdf)) of the Participatory Diagnosis we carried out for the Wikimedia Foundation. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vsErReqZJ2E?si=olThPl4ZPzUqBnmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
