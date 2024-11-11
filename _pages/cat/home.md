@@ -1,9 +1,9 @@
 ---
 layout: home
 slug: home
-title: Dissenyem <span style="color:#e30062">futurs més justos</span> i, per què no, també més <span style="color:#e30062">divertits</span> 
+title: Dissenyem <strong>futurs més justos</strong> i, per què no, també més <strong>divertits</strong> 
 subtitle: Creativitat i Democràcia
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nunc id cursus metus aliquam eleifend mi in nulla. Hac habitasse platea ictumst vestibulum. Eros in cursus turpis massa tincidunt dui ut ornare.
+description: La Fundació Platoniq dissenya processos participatius digitals i facilita metodologies innovadores de participació per contribuir a formar societats i organitzacions més democràtiques, fent ús de tecnologies cíviques obertes.
 image: 
     path: /media/site-symbols/happy-faces.png
 ---
