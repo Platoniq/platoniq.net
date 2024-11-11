@@ -18,4 +18,8 @@ call_to_action:
   url: Contáctanos
   url_text: Contáctanos
 ---
+
+
+![Playbooks](/media/photo_2024-07-31_15-48-13.jpg "Playbooks")
+
 ![Diálogo ciudadano](/media/photo_2024-07-31_15-48-28.jpg "Diálogo ciudadano")
