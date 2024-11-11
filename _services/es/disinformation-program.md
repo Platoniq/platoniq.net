@@ -18,9 +18,9 @@ call_to_action:
   url: Contáctanos
   url_text: Contáctanos
 ---
-Un proyecto de alfabetización mediática cuyo objetivo es ayudar a las personas jóvenes a aprender a combatir la desinformación. El proyecto reúne a entidades entre las cuales se incluyen bibliotecas, organizaciones de alfabetización mediática e institutos de investigación, con el objetivo de desarrollar, testear y medir el impacto de un enfoque educativo innovador para combatir la propagación de la desinformación.
+Un proyecto de alfabetización mediática cuyo objetivo es ayudar a las personas jóvenes a aprender a **combatir la desinformación.** El proyecto reúne a entidades entre las cuales se incluyen bibliotecas, organizaciones de alfabetización mediática e institutos de investigación, con el objetivo de desarrollar, testear y medir el impacto de un enfoque educativo innovador para combatir la propagación de la desinformación.
 
-Te invitamos a unirte al proyecto internacional de alfabetización mediática de Platoniq. A través de este proyecto, adquirirás herramientas, habilidades y conocimientos para reconocer y combatir la desinformación, y trasladar este conocimiento a jóvenes de entre 12 y 15 años mediante talleres especializados. 
+**Te invitamos a unirte al proyecto internacional de alfabetización mediática de Platoniq.** A través de este proyecto, adquirirás herramientas, habilidades y conocimientos para reconocer y combatir la desinformación, y trasladar este conocimiento a jóvenes de entre 12 y 15 años mediante talleres especializados. 
 
 # _
 
@@ -31,8 +31,6 @@ Te invitamos a unirte al proyecto internacional de alfabetización mediática de
 # _
 
 # ¿Cómo lo conseguimos?
-
-![Fases](/media/captura-de-pantalla-2024-09-09-a-las-15.38.56.png "Fases")
 
 **1a Fase. Investigación preliminar**
 
