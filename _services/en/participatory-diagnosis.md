@@ -1,4 +1,6 @@
 ---
+layout: service
+slug: participatory-diagnosis
 title: Participatory Diagnosis
 description: We facilitate the participatory production of documents that
   examine the history of an organisation, make an assessment of its current
