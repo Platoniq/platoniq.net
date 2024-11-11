@@ -30,7 +30,13 @@ Through strategic planning we not only adapt to the environment, but also create
 
 # ¿Cómo lo conseguimos?
 
-{% questions { "items": [{"question":"Ayudamos a identificar los factores internos y externos que condicionan el desarrollo de las organizaciones"},{"question":"Facilitamos herramientas que permiten definir los grandes retos de la organización, los objetivos estratégicos y los resultados a medio y largo plazo"},{"question":"Co-diseñamos acciones y actividades futuras que pueden llevarse a cabo de forma realista con los recursos y organización interna disponible"},{"question":"Co-creamos relatos de futuro inspiradores para que la comunidad sea capaz de acompañar en el camino"},{"question":"Establecemos sistemas de seguimiento y evaluación del impacto que permiten medir el nivel de consecución de los hitos y objetivos"}] } %}
+* We help identify the internal and external factors that condition the development of organisations
+* We provide tools that enable the definition of the organisation's major challenges, strategic objectives and medium and long-term results
+* We co-design future actions and activities that can realistically be carried out with the resources and internal organisation available
+* We co-create inspiring narratives of the future so that the community is able to accompany along the way
+* We set up impact monitoring and evaluation systems that allow us to measure the level of achievement of milestones and objectives
+
+
 
 ![Sky is the limit](/media/photo_2024-07-31_15-47-45.jpg "Sky is the limit")
 
