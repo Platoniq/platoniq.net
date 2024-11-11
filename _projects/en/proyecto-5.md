@@ -41,7 +41,7 @@ Based on this premise, at Platoniq we have initiated a project that seeks new na
 
 ![“Somos Migras”, de Luna Andrade](/media/captura-de-pantalla-2023-10-10-a-las-8.48.11.jpg "“Somos Migras”, de Luna Andrade")
 
-###### In search of new narratives
+### In search of new narratives
 
 Through several editions of the Migrant Dialogues, the project identifies the kind of impact that processes of polarisation and misinformation have on migrant communities from a personal, emotional, economic, social and political perspective.
 
@@ -59,7 +59,7 @@ In the second edition, we worked with a group of single migrant mothers. Through
 
 {% video { "title": "Madres Migrantes", "url": "https://peertube.laguixeta.cat/w/d7x4g4CNhaUEyDWV6zZCrp" } %}
 
-###### A migrant constitution
+### A migrant constitution
 
 The Migrant Dialogues are a first step in the elaboration of a Migrant Constitution that aims to give a voice to and understand the model of society of a totally heterogeneous group of people who are traversed by the contradictions of a complex world, which must be navigated if we want to build a fairer and more egalitarian society.
 

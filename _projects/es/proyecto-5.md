@@ -57,7 +57,7 @@ En la segunda edición, trabajamos con un grupo de madres migrantes solteras. A 
 
 {% video { "title": "Madres Migrantes", "url": "https://peertube.laguixeta.cat/w/d7x4g4CNhaUEyDWV6zZCrp" } %}
 
-#### Una constitución migrante
+### Una constitución migrante
 
 Los Diálogos Migrantes son un primer paso en la elaboración de una Constitución Migrante que pretende dar voz y entender cuál es el modelo de sociedad de un colectivo totalmente heterogéneo atravesado por las contradicciones de un mundo complejo, que hay que navegar si queremos construir una sociedad más justa e igualitaria.
 
