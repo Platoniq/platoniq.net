@@ -1,7 +1,7 @@
 ---
 layout: service
 slug: disinformation-program
-title: Youth against disinformation
+title: Anti-Disinformation Programme
 description: We deliver programmes to teachers and librarians that aim to help
   young people fight misinformation by providing them with critical and creative
   tools to identify fake news and escape polarisation.
