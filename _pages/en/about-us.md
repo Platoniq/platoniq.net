@@ -32,6 +32,6 @@ We need to make it a reality so that it ceases to be a utopia.
 
 {% metrics { "items": [{"number":"32","text":"International projects"},{"text":"Goteo","number":"20M"},{"text":"Citizen dialogues","number":"14"}] } %}
 
-{% video { "title": "Síguenos la corriente", "url": "https://youtu.be/hJNra7lM5Po?si=0T2fK6Dve2qkae0G" } %}
+{% video { "title": "Síguenos la corriente", "url": "https://www.youtube.com/embed/hJNra7lM5Po?si=xlpf5pEfd4Ly25pu" } %}
 
 {% quote %}If the sky is the limit, where are we?{% endquote %}
