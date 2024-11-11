@@ -35,7 +35,7 @@ call_to_action:
   url: Contáctanos
   url_text: Contáctanos
 ---
-No importa de donde procedas, ni siquiera si eres de aquí. Si no respondes al estereotipo blanco, europeo, bien formado y con capacidad adquisitiva tienes un problema del que no vas a poder escapar: la desigualdad de [trato y la discriminación](https://app.asana.com/0/1206229921988761/1206229925746767) por motivos raciales.
+No importa de donde procedas, ni siquiera si eres de aquí. Si no respondes al estereotipo blanco, europeo, bien formado y con capacidad adquisitiva tienes un problema del que no vas a poder escapar: **la desigualdad de [trato y la discriminación](https://app.asana.com/0/1206229921988761/1206229925746767) por motivos raciales.**
 
 Partiendo de esta premisa, desde la **Fundación Platoniq** hemos iniciado un proyecto que busca nuevas narrativas que puedan compensar la polarización que sufren las personas racializadas en España con la intención de elaborar de manera participativa una Constitución Migrante.
 
