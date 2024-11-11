@@ -17,6 +17,4 @@ call_to_action:
   url: Contáctanos
   url_text: Contáctanos
 ---
-![Playbooks](/media/photo_2024-07-31_15-48-13.jpg "Playbooks")
-
 ![Playbooks](/media/captura-de-pantalla-2024-11-11-a-las-21.35.46.png "Playbooks")
