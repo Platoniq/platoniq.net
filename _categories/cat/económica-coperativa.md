@@ -2,17 +2,16 @@
 layout: category
 call_to_action: cta-contact-service
 slug: democratic_economy
-title: Econòmica Coperativa
-subtitle: Ut ac faucibus mauris, ut dictum ligula. Donec quis elit elit. Proin
-  elit mauris, condimentum quis aliquet ac, efficitur nec mauris. Quisque eros
-  ex, laoreet sed lobortis nec, interdum a augue. Duis nec justo porta, aliquam
-  lectus quis, vestibulum est. Vestibulum vitae hendrerit erat. Proin consequat
-  at velit non sollicitudin. Aenean blandit molestie sem eget vestibulum.
-  Curabitur condimentum felis vel felis facilisis, nec venenatis odio tempus.
-  Nulla pellentesque ullamcorper odio, eu malesuada elit congue non. Sed
-  vulputate pharetra placerat. Nunc vel nibh vitae mauris varius maximus. Etiam
-  euismod nibh sit amet efficitur malesuada. Praesent est ipsum, sagittis sed
-  suscipit ac, cursus interdum risus.
+title: Crowdfunding cívic
+subtitle: >-
+  Som pioners en l'enfortiment de l'economia social i solidària mitjançant
+  l'impuls del finançament ètic i el crowdfunding cívic.
+
+
+  Treballem per l'autonomia financera col·lectiva, obrint els marcs de col·laboració entre projectes ciutadans i les institucions públiques i privades.
+
+
+  Acompanyem en la difusió, formació i possibles vies de finançament a totes aquelles iniciatives que treballin per la inclusió, el reconeixement i el foment de l'autonomia, tant personal com col·lectiva.
 symbol:
   path: /media/categories/symbol_cooperativa.png
   alt: cooperative_economy
