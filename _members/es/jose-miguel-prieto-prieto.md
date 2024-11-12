@@ -11,7 +11,7 @@ description: Diseña estrategias para para construir conjuntamente las política
   impacto de incidencia política ciudadana “Crowdvocacy”, proceso coordinado
   entre plataformas de participación donde las iniciativas cívicas amplifican su
   influencia, obteniendo recursos, y estimulando el liderazgo. Miembro del
-  Patronato de la fundación Ciudadana Civio
+  Patronato de la fundación Ciudadana Civio.
 email: olivierschulbaum@platoniq.net
 facebook: https://www.facebook.com/
 twitter: https://www.facebook.com/
