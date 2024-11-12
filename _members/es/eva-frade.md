@@ -5,7 +5,7 @@ type: author
 image:
   path: /media/members/4y7a6525-1-.jpg
   alt: Eva Frade
-position: Jurista y secretaria técnica de la Fundación
+position: Jurista y secretaria técnica
 description: >-
   Gestiona proyectos y co-gestiona Goteo.org
 
