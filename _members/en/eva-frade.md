@@ -5,7 +5,7 @@ type: author
 image:
   path: /media/members/4y7a6525-1-.jpg
   alt: Eva Frade
-position: Lawyer and technical secretary of the Foundation
+position: Lawyer and technical secretary
 description: >-
   He manages projects and co-manages Goteo.org.
 
