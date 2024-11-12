@@ -21,6 +21,6 @@ description: Siempre girando alrededor del tótem de la conectividad desde los
   investigando y poniendo en marcha nuevas experiencias para expandir la
   democracia.
 email: roxu[at]platoniq.net
-twitter: rxnetwalker
-linkedin: pag-netwalker
+twitter: https://x.com/RXnetwalker
+linkedin: https://www.linkedin.com/in/pag-netwalker/
 ---
