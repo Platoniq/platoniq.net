@@ -12,5 +12,5 @@ description: Investigadora, diseñadora y gestora de proyectos dedicados a la
   aprovechar las plataformas de código abierto para mejorar la experiencia de
   los usuarios y desarrollar soluciones que fomenten la accesibilidad, la
   transparencia y la participación.
-email: nadia@platoniq.net
+email: nadia[at]platoniq.net
 ---

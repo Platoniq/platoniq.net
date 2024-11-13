@@ -11,5 +11,5 @@ description: Researcher, designer, and project manager dedicated to digital
   technologies. My focus involves leveraging open-source platforms to enhance
   user experiences and develop solutions that bolster accessibility,
   transparency, and participation.
-email: nadia@platoniq.net
+email: nadia[at]platoniq.net
 ---
