@@ -13,6 +13,6 @@ description: Presidenta y cofundadora de Goteo. Ha impulsado Platoniq,
   y, especialmente , en la ideación y diseño de metodologías abiertas para la
   educación mutua y la participación ciudadana, que se han reproducido en
   multitud de contextos y lugares del mundo.
-email: susana.noguero@platoniq.net
+email: susana.noguero[at]platoniq.net
 linkedin: https://twitter.com/?lang=en
 ---
