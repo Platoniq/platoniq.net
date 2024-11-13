@@ -14,5 +14,5 @@ description: >-
 
 
   Activist and politician by nature, she works in the administration of the foundation and its institutional representation.
-email: evafrade@platoniq.net
+email: evafrade[at]platoniq.net
 ---
