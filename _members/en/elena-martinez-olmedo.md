@@ -3,7 +3,7 @@ slug: sgn
 title: Susana Garcia Noguero
 type: author
 image:
-  path: /media/members/susana.jpg
+  path: /media/members/photo_2024-11-13_08-48-48.jpg
   alt: Elena Martinez Olmedo
 position: colaborator
 description: President and co-founder of Goteo. She has promoted Platoniq,
