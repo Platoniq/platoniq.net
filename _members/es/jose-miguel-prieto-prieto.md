@@ -3,7 +3,7 @@ slug: os
 title: Olivier Schulbaum
 type: author
 image:
-  path: /media/members/olivier-schulbaum-292672660.jpg
+  path: /media/members/captura-de-pantalla-2024-11-13-a-las-8.42.39.png
   alt: Olivier Schulbaum
 position: Director estratégico
 description: Diseña estrategias para para construir conjuntamente las políticas
