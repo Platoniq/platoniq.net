@@ -8,5 +8,5 @@ image:
 position: Software developer
 description: I research, develop, innovate. I work designing and implementing
   digital solutions to human problems.
-email: daniel.subiabre@platoniq.net
+email: daniel.subiabre[at]platoniq.net
 ---

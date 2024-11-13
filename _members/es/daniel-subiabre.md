@@ -8,5 +8,5 @@ image:
 position: Desarrollador de software
 description: Investigo, desarrollo, innovo. Trabajo diseñando y llevando a cabo
   soluciones digitales a problemas humanos.
-email: daniel.subiabre@platoniq.net
+email: daniel.subiabre[at]platoniq.net
 ---
