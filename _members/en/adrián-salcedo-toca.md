@@ -8,5 +8,5 @@ image:
 position: Communication and Audiovisual Technician
 description: Poet and cultural critic, he designs and executes what you see and
   hear from Platoniq on social media.
-email: adrian@goteo.org
+email: adrian[at]goteo.org
 ---
