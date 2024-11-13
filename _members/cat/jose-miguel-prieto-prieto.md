@@ -9,7 +9,7 @@ position: col·laboradora
 description: Nulla dictum rhoncus sapien sed volutpat. Etiam nec sollicitudin
   ligula. Etiam rutrum blandit porttitor. Nulla facilisi. Vestibulum mauris
   dolor, pellentesque eget nibh vel, interdum rutrum urna.
-email: olivierschulbaum@platoniq.net
+email: olivierschulbaum[at]platoniq.net
 facebook: https://www.facebook.com/
 twitter: https://www.facebook.com/
 linkedin: https://twitter.com/?lang=en

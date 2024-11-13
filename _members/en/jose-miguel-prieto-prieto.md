@@ -12,7 +12,7 @@ description: It designs strategies for co-constructing tomorrow's public
   platforms where civic initiatives amplify their influence, obtaining
   resources, and stimulating leadership. Member of the Board of Trustees of the
   Civio Citizens' Foundation.
-email: olivierschulbaum@platoniq.net
+email: olivierschulbaum[at]platoniq.net
 facebook: https://www.facebook.com/
 twitter: https://www.facebook.com/
 linkedin: https://twitter.com/?lang=en
