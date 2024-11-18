@@ -2,6 +2,7 @@
 slug: cp
 title: Cristian Palazzi
 type: author
+order: technical_team
 image:
   path: /media/members/img_9408.jpg
 email: cristianpalazzi[at]platoniq.net

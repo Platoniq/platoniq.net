@@ -2,6 +2,7 @@
 slug: sgn
 title: Susana Garcia Noguero
 type: author
+order: direction
 image:
   path: /media/members/photo_2024-11-13_08-48-48.jpg
   alt: Elena Martinez Olmedo
