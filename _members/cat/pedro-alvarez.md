@@ -1,7 +1,8 @@
 ---
 slug: roxu
-title: roxu Pedro Álvarez
+title: Pedro Álvarez
 type: author
+order: technical_team
 image:
   path: /media/members/photo_2024-11-08_18-56-56.jpg
 email: roxu[at]platoniq.net

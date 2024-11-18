@@ -2,6 +2,7 @@
 slug: os
 title: Olivier Schulbaum
 type: author
+order: direction
 image:
   path: /media/members/captura-de-pantalla-2024-11-13-a-las-8.42.39.png
   alt: Olivier Schulbaum

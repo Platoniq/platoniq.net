@@ -2,6 +2,7 @@
 slug: as
 title: Andrea Santiago
 type: author
+order: "technical_team"
 image:
   path: /media/members/andrea-santiago.jpg
   alt: Andrea Santiago
