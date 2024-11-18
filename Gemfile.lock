@@ -9,8 +9,8 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: ae80c9f4e2c8bb658d6f65695daf18fb73d1fff2
-  branch: develop
+  revision: ab112cc51e3abb4fd0389f6a4c0bf28e4c6f3019
+  branch: fix/who
   specs:
     jekyll-theme-platoniq.net (0.0.1)
       jekyll (~> 4.2)
@@ -81,8 +81,8 @@ GEM
       listen (~> 3.0)
     jekyll-youtube (1.0.0)
       jekyll
-    kramdown (2.4.0)
-      rexml
+    kramdown (2.5.0)
+      rexml (>= 3.3.6)
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.4)
@@ -105,9 +105,9 @@ GEM
     rexml (3.3.9)
     rouge (4.5.1)
     safe_yaml (1.0.5)
-    sass-embedded (1.80.6-aarch64-linux-gnu)
+    sass-embedded (1.81.0-aarch64-linux-gnu)
       google-protobuf (~> 4.28)
-    sass-embedded (1.80.6-x86_64-linux-gnu)
+    sass-embedded (1.81.0-x86_64-linux-gnu)
       google-protobuf (~> 4.28)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)

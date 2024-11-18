@@ -4,7 +4,7 @@ gem 'jekyll', '~> 4.3'
 
 # gem 'jekyll-theme-platoniq.net', path: '../jekyll-theme-platoniq.net'
 # gem "jekyll-theme-platoniq.net", git: "https://github.com/Platoniq/jekyll-theme-platoniq.net.git"
-gem 'jekyll-theme-platoniq.net', git: 'https://github.com/Platoniq/jekyll-theme-platoniq.net.git', branch: 'develop'
+gem 'jekyll-theme-platoniq.net', git: 'https://github.com/Platoniq/jekyll-theme-platoniq.net.git', branch: 'fix/who'
 gem "csv", "~> 3.3"
 gem "base64", "~> 0.2.0"
 
