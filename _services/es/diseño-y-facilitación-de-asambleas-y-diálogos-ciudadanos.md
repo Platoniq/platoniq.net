@@ -33,41 +33,30 @@ Entendemos la participación desde la innovación, no solo desde el punto de vis
 # 
 ¿Cómo lo conseguimos?
 
-\* Goteo es una incubadora de proyectos que produce y conecta las buenas ideas con los contextos que las necesitan;
-
-\* una red social en Internet que posibilita las micro-donaciones del público cultural, instituciones y empresas a los proyectos innovadores de su elección: una vía alternativa de financiación acorde con los nuevos modelos digitales;
-
-\* una plataforma eficiente, abierta y productiva capaz de conectar a los creadores culturales con la gente de su comunidad: un punto de encuentro para la participación ciudadana en las futuras agendas culturales;
-
-\* un referente nacional de innovación cultural distribuida.
+* diseñando metodologías ad hoc que se ajusten a los objetivos de cada experiencia de participación;
+* promoviendo una selección de participantes que ponga a los "afectados" en el centro, teniendo en cuenta la discriminación positiva y potenciando la voz de quienes mas lo necesitan;
+* adaptando y moderando espacios tanto físicos como digitales para crear lugares seguros e informados en los que poder expresar todas las opiniones de manera segura y respetuosa;
+* alineando todos los objetivos hacia el bien común y el potencial de la inteligencia colectiva.
 
 ![Playbooks](/media/photo_2024-07-31_15-48-13.jpg "Playbooks")
 
+# _
+
 # Platoniq como agente democratizador
 
-Introducir las nuevas formas de economía colaborativa en el sector creativo emergente es una manera de crear **innovación cultural.**
- Es necesario generar un cambio en el sistema establecido y dar la 
-posibilidad a los creadores y productores culturales de obtener 
-recursos, no sólo a través de las vías tradicionales de financiación 
-(generalmente, entidades públicas), sino también a través de su propia 
-comunidad y organizaciones privadas, las cuales, por medio de pequeñas 
-donaciones a los creadores de su elección, posibilitarían el aumento de 
-tejido creativo en su entorno y, a la larga, un mayor número de 
-colaboraciones entre los ámbitos cultural, social, tecnológico y 
-económico.
+El equipo de Platoniq tiene en cuenta todas las variables posibles a la hora de llevar a cabo asambleas y diálogos ciudadanos. Para ello, cuenta con sociólogos, analistas, facilitadores, abogados y filósofos, enfocados a extraer lo mejor de cada proceso a partir de su propia experiencia.
 
-# 
+Creemos que es necesario incluir un cambio en la forma que tenemos de abordar los Diálogoso y Asambleas Ciudadanas, que hagan posible incluir voces no humanas cuando estas sean relevantes y pongan en primera línea la creatividad como herramientas de emancipación
 
-Proyectos relacionados
+# _
 
+# Proyectos relacionados
 
 
 **Crowdcoop** es una plataforma de financiación 
 colectiva especializada en las cooperativas y sus necesidades 
 particulares. O como nos gusta llamarlo: la nueva fábrica de proyectos 
 cooperativos por una economía más social y más sostenible.
-
-
 
 Por un lado, las cooperativas obtienen asesoramiento y formación para
  dar impulso a su proyecto y crear comunidad a su alrededor. De manera 
