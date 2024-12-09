@@ -1,11 +1,11 @@
 ---
 layout: service
 slug: citizen-assemblies-dialogues
-title: Diseño y facilitación de Asambleas y Diálogos ciudadanos
-description: Diseñamos y facilitamos experiencias de participación en forma de
-  asambleas o diálogos ciudadanos, para dar cabida y canalizar la creatividad,
-  capacidad e interés de cualquiera a la hora de afrontar los problemas públicos
-  y políticos con la mirada puesta en el bien común.
+title: Diseño y facilitación de Asambleas y Diálogos Ciudadanos
+description: Diseñamos y facilitamos **experiencias de participación** en forma
+  de asambleas o diálogos ciudadanos para dar cabida y canalizar la creatividad,
+  capacidad e interés de la ciudadanía a la hora de afrontar los problemas
+  públicos y políticos con la mirada puesta en el bien común.
 image:
   path: /media/services/innovacion-democratica.png
   alt: Innovación Democrática
@@ -18,21 +18,15 @@ call_to_action:
   url: Contáctanos
   url_text: Contáctanos
 ---
-Goteo es un sitio de **micromecenazgo** que se enfoca en proyectos que, además de otorgar recompensas individuales, también generan un retorno colectivo a través de **la promoción de los comunes, el software de código abierto y/o el contenido libre.**
+Platoniq diseña y acompaña procesos participativos digitales y facilita metodologías innovadoras de participación para contribuir a formar **sociedades y organizaciones más democráticas y justas,** haciendo uso de tecnologías cívicas abiertas.
 
-Hasta el momento, las dinámicas del llamado Giving 2.0 (Donaciones 
-2.0) se han inscrito mayoritariamente en el entorno social. Platoniq 
-busca trasladar este modelo al ámbito de la innovación cultural. Podemos
- decir que hoy la innovación consiste en el desarrollo y explotación de 
-nuevas ideas que satisfacen objetivos valiosos. Y estos objetivos no son
- sólo económicos o tecnológicos, sino que incluyen, cada vez más, **objetivos sociales y culturales.**
+Partiendo de la idea de creatividad democrática, en Platoniq ayudamos a organizaciones públicas y privadas sin ánimo de lucro a que lleven a cabo sus **procesos de participación inclusivos, interseccionales y seguros** de acuerdo a metodologías audaces e integradoras.   
+
+Entendemos la participación desde la innovación, no solo desde el punto de vista tecnológico, sino también **social y cultural.**
 
 # _
 
 # Impacto hasta el momento
-
-
-
 
 {% metrics { "items": [{"text":"Diálogos facilitados","number":"7"},{"text":"Participantes","number":"148"},{"text":"Recomendaciones alcanzadas","number":"59"}] } %}
 
