@@ -34,7 +34,7 @@ nuevas ideas que satisfacen objetivos valiosos. Y estos objetivos no son
 
 
 
-{% metrics { "items": [] } %}
+{% metrics { "items": [{"text":"Diálogos facilitados","number":"7"},{"text":"Participantes","number":"148"},{"text":"Recomendaciones alcanzadas","number":"59"}] } %}
 
 # 
 ¿Cómo lo conseguimos?
@@ -49,7 +49,7 @@ nuevas ideas que satisfacen objetivos valiosos. Y estos objetivos no son
 
 ![Playbooks](/media/photo_2024-07-31_15-48-13.jpg "Playbooks")
 
-# Goteo como red social
+# Platoniq como agente democratizador
 
 Introducir las nuevas formas de economía colaborativa en el sector creativo emergente es una manera de crear **innovación cultural.**
  Es necesario generar un cambio en el sistema establecido y dar la 
