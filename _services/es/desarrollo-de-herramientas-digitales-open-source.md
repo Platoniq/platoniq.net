@@ -20,12 +20,9 @@ call_to_action:
 ---
 Goteo es un sitio de **micromecenazgo** que se enfoca en proyectos que, además de otorgar recompensas individuales, también generan un retorno colectivo a través de **la promoción de los comunes, el software de código abierto y/o el contenido libre.**
 
-Hasta el momento, las dinámicas del llamado Giving 2.0 (Donaciones 
-2.0) se han inscrito mayoritariamente en el entorno social. Platoniq 
-busca trasladar este modelo al ámbito de la innovación cultural. Podemos
- decir que hoy la innovación consiste en el desarrollo y explotación de 
-nuevas ideas que satisfacen objetivos valiosos. Y estos objetivos no son
- sólo económicos o tecnológicos, sino que incluyen, cada vez más, **objetivos sociales y culturales.**
+ll
+
+
 
 # _
 
