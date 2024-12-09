@@ -53,6 +53,6 @@ Introducir las nuevas formas de economía colaborativa en el sector creativo eme
 
 # Proyectos relacionados
 
-**Crowdcoop** es una plataforma de financiación colectiva especializada en las cooperativas y sus necesidades particulares. O como nos gusta llamarlo: la nueva fábrica de proyectos cooperativos por una economía más social y más sostenible.
+**m** es una plataforma de financiación colectiva especializada en las cooperativas y sus necesidades particulares. O como nos gusta llamarlo: la nueva fábrica de proyectos cooperativos por una economía más social y más sostenible.
 
 Por un lado, las cooperativas obtienen asesoramiento y formación para dar impulso a su proyecto y crear comunidad a su alrededor. De manera complementaria, a través del crowdfunding las cooperativas pueden encontrar el apoyo y mecenazgo necesarios para crear su proyecto, darlo a conocer y consolidarlo.
