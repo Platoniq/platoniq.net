@@ -2,7 +2,7 @@
 layout: category
 call_to_action: cta-contact-service
 slug: democratic_economy
-title: Civic crowdfunding
+title: Alternative Funding
 subtitle: >-
   We are pioneers in strengthening the Social and Solidarity Economy by
   promoting ethical financing and civic crowdfunding. 
