@@ -18,11 +18,21 @@ call_to_action:
   url: Pregúntanos
   url_text: Pregúntanos
 ---
+En Platoniq somos expertos en desarrollar herramientas, tanto de participación ciudadana, como de financiación colectiva.
+
+En 2011 lanzamos **Goteo, el crowdfunding cívico pionero en fortalecer la economía social y solidaria** y a día de hoy más de 9.000 proyectos se han postulado para poder ser sostenidos colaborativamente. Después de un proceso de selección y acompañamiento, la plataforma ha redistribuido más de 21 millones de euros y ha conseguido aglutinar a una comunidad activa y comprometida de más de 350.000 personas.
+
+Además, somos uno de los responsables de **desarrollar la tecnología cívica de participación Decidim** y son muchas las aplicaciones que hemos implementado para organizaciones e instituciones.
+
+
+
+
+
+
+
 Goteo es un sitio de **micromecenazgo** que se enfoca en proyectos que, además de otorgar recompensas individuales, también generan un retorno colectivo a través de **la promoción de los comunes, el software de código abierto y/o el contenido libre.**
 
 ll
-
-
 
 # _
 
