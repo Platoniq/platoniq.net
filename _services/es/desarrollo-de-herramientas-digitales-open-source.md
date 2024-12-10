@@ -31,19 +31,17 @@ Además, somos uno de los responsables de **desarrollar aplicaciones de la tecno
 
 {% numbers { "items": [{"label":"Procesos","number":"4"},{"label":"Participantes","number":"246"},{"label":"Dinero recaudado en Goteo","number":"21M"}] } %}
 
-![Decide Madrid](/media/photo_2024-07-31_15-48-10.jpg "Decide Madrid")
-
 # _
 
 # ¿Cómo lo conseguimos?
 
-Goteo es una incubadora de proyectos que produce y conecta las buenas ideas con los contextos que las necesitan;
+Platoniq es a la vez un laboratorio de innovación ciudadana y una incubadora de proyectos que produce y conecta las buenas ideas con los contextos que las necesitan y en este sentido:
 
-una red social en Internet que posibilita las micro-donaciones del público cultural, instituciones y empresas a los proyectos innovadores de su elección: una vía alternativa de financiación acorde con los nuevos modelos digitales;
+* potenciamos el sentido de pertenencia de las comunidades a la hora de decidir sus propias normas, apisunauna red social en Internet que posibilita las micro-donaciones del público cultural, instituciones y empresas a los proyectos innovadores de su elección: una vía alternativa de financiación acorde con los nuevos modelos digitales;
+* una plataforma eficiente, abierta y productiva capaz de conectar a los creadores culturales con la gente de su comunidad: un punto de encuentro para la participación ciudadana en las futuras agendas culturales;
+* un referente nacional de innovación cultural distribuida.
 
-una plataforma eficiente, abierta y productiva capaz de conectar a los creadores culturales con la gente de su comunidad: un punto de encuentro para la participación ciudadana en las futuras agendas culturales;
 
-un referente nacional de innovación cultural distribuida.
 
 # _
 
@@ -56,8 +54,24 @@ Introducir las nuevas formas de economía colaborativa en el sector creativo eme
 
 # Proyectos relacionados
 
+**ANECA** se abre a la participación de toda la comunidad universitaria y 
+científica, proponiendo por primera vez un proceso de deliberación 
+colectiva para recabar aportaciones sobre el mismo. Se estrena de este modo la 
+nueva plataforma de participación de ANECA, en la que, durante unas 
+semanas, será posible intervenir en la definición de este modelo de 
+evaluación. Concretamente, se ofrecen varios modos de participación, 
+orientados a deliberar sobre el texto del borrador publicado: se podrán 
+proponer enmiendas para cada párrafo del borrador, apoyar las enmiendas 
+de otras personas y, también, escribir y valorar comentarios sobre 
+ellas. Todas estas aportaciones, cuya relevancia será subrayada por el 
+nivel de apoyo que cada una concite en la comunidad, serán tomadas en 
+consideración por ANECA y podrán traducirse en modificaciones concretas 
+del borrador de cara a su publicación como documento definitivo..
+
 ![ANECA](/media/captura-de-pantalla-2024-12-10-a-las-9.37.59.png "ANECA")
 
-**m** es una plataforma de financiación colectiva especializada en las cooperativas y sus necesidades particulares. O como nos gusta llamarlo: la nueva fábrica de proyectos cooperativos por una economía más social y más sostenible.
 
-Por un lado, las cooperativas obtienen asesoramiento y formación para dar impulso a su proyecto y crear comunidad a su alrededor. De manera complementaria, a través del crowdfunding las cooperativas pueden encontrar el apoyo y mecenazgo necesarios para crear su proyecto, darlo a conocer y consolidarlo.
+
+**DECIDE MADRID** En Decide Madrid puedes hacer propuestas, votar en consultas ciudadanas, plantear, apoyar o votar proyectos con presupuestos participativos, decidir la normativa municipal y abrir debates para intercambiar opiniones con otras personas. 
+
+![Decide Madrid](/media/captura-de-pantalla-2024-12-10-a-las-10.35.28.png "Decide Madrid")
