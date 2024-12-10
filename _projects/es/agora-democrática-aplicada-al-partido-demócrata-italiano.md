@@ -3,7 +3,7 @@ layout: project
 slug: agora-democratica-pd
 state: closed
 title: Las Ágoras Democráticas del Partido Demócrata Italiano
-subtitle: El experimento de las Ágoras democráticas fueuna oportunidad única
+subtitle: El experimento de las Ágoras democráticas fueron una oportunidad única
   para escuchar la voz de la ciudadanía, para dar visibilidad a temas y temas
   que se consideraron importantes en ese momento, para ponerse en contacto con
   otras personas interesadas en los mismos desafíos y para sacar propuestas y
@@ -89,7 +89,7 @@ A partir de septiembre las Ágoras tomaron vuelo: la plataforma entra en pleno f
 
 ↓ **ATERRIZAJE** (a partir del 1 de enero de 2022)
 
-El aterrizaje estba previsto para enero de 2022, cuando el Partido Demócrata se comprometió a adoptar y llevar adelante al menos **el 50% de las 100 propuestas más apoyadas y comentadas,** tal como prevé el pacto de participación.
+El aterrizaje estaba previsto para enero de 2022, cuando el Partido Demócrata se comprometió a adoptar y llevar adelante al menos **el 50% de las 100 propuestas más apoyadas y comentadas,** tal como prevé el pacto de participación.
 
 ##### Resultados
 
