@@ -31,10 +31,6 @@ Además, somos uno de los responsables de **desarrollar aplicaciones de la tecno
 
 # _
 
-# Impacto hasta el momento
-
-{% numbers { "items": [{"label":"Procesos","number":"4"},{"label":"Participantes","number":"246"},{"label":"Dinero recaudado en Goteo","number":"21M"}] } %}
-
 # _
 
 # ¿Cómo lo conseguimos?
