@@ -54,6 +54,4 @@ Consulta nuestro manual (en italiano) sobre [cómo organizar eventos más inclus
 
 Para saber cómo aplicamos esta metodología, puedes consultar la experiencia que llevamos a cabo con el [Partido Demócrata Italiano](https://platoniq.net/es/projects/agora-democratica-pd/) en 2021 para decidir, junto a sus socios y socias, lo que acabó siendo su programa político[](https://agorademocratiche-staging.s3.amazonaws.com/agora-democratiche-staging/uploads/decidim/attachment/file/155/Manuale_metodologico_per_oganizzatric_tori.pdf)
 
-![Agorà Democratiche](/media/photo_2024-07-31_15-48-25.jpg "Agorà Democratiche")
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lVu-mJPQH7Q?si=yZIaqOHfJaqaYURq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
