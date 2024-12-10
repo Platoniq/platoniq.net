@@ -37,12 +37,10 @@ Además, somos uno de los responsables de **desarrollar aplicaciones de la tecno
 
 Platoniq es a la vez un laboratorio de innovación ciudadana y una incubadora de proyectos que produce y conecta las buenas ideas con los contextos que las necesitan y en este sentido:
 
-* potenciamos el sentido de pertenencia de las comunidades a la hora de decidir sus propias normas, fomentando la auto-regulación y la autonomía 
-* apisunauna red social en Internet que posibilita las micro-donaciones del público cultural, instituciones y empresas a los proyectos innovadores de su elección: una vía alternativa de financiación acorde con los nuevos modelos digitales;
-* una plataforma eficiente, abierta y productiva capaz de conectar a los creadores culturales con la gente de su comunidad: un punto de encuentro para la participación ciudadana en las futuras agendas culturales;
-* un referente nacional de innovación cultural distribuida.
-
-
+* potenciamos el sentido de pertenencia de las comunidades a la hora de decidir sus propias normas, fomentando la auto-regulación y la autonomía.
+* programando tecnología específicamente diseñada para el empoderamiento de las comunidades.
+* conectando agentes responsables de tomar decisiones y participantes para la participación ciudadana en las futuras agendas sociales y culturales.
+* formando a los equipos para que puedan gestionar autónomamente los recursos.
 
 # _
 
