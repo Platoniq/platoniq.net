@@ -59,6 +59,6 @@ Introducir las nuevas formas de economía colaborativa en el sector creativo eme
 
 ![ANECA](/media/captura-de-pantalla-2024-12-10-a-las-9.37.59.png "ANECA")
 
-**DECIDE MADRID** En Decide Madrid puedes hacer propuestas, votar en consultas ciudadanas, plantear, apoyar o votar proyectos con presupuestos participativos, decidir la normativa municipal y abrir debates para intercambiar opiniones con otras personas. 
+**DECIDE MADRID.** En Decide Madrid puedes hacer propuestas, votar en consultas ciudadanas, plantear, apoyar o votar proyectos con presupuestos participativos, decidir la normativa municipal y abrir debates para intercambiar opiniones con otras personas. 
 
 ![Decide Madrid](/media/captura-de-pantalla-2024-12-10-a-las-10.35.28.png "Decide Madrid")
