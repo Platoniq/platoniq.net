@@ -13,6 +13,9 @@ collaborators:
   - decide_madrid
   - aneca
   - oidp
+  - UCLG
+  - bcncomu
+  - SC
 call_to_action:
   image_path: /media/services/gif01.gif
   image_alt: ¿Quieres saber más?
