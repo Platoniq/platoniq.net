@@ -33,6 +33,8 @@ ll
 
 # Impacto hasta el momento
 
+{% numbers { "items": [{"label":"Procesos","number":"4"},{"label":"Participantes","number":"246"},{"label":"Impacto económico","number":"21M"}] } %}
+
 ![Decide Madrid](/media/photo_2024-07-31_15-48-10.jpg "Decide Madrid")
 
 # _
