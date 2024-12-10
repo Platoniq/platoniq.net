@@ -19,7 +19,7 @@ call_to_action:
   url: Pregúntanos
   url_text: Pregúntanos
 ---
-En Platoniq somos expertos en desarrollar herramientas, tanto de participación ciudadana, como de financiación colectiva.
+Platoniq se ha especializado a lo largo de los años en el desarrollo de **proyectos tecnológicos donde se ponga al usuario en el centro.** 
 
 En 2011 lanzamos **Goteo, el crowdfunding cívico pionero en fortalecer la economía social y solidaria** y a día de hoy más de 9.000 proyectos se han postulado para poder ser sostenidos colaborativamente. Después de un proceso de selección y acompañamiento, la plataforma ha redistribuido más de 21 millones de euros y ha conseguido aglutinar a una comunidad activa y comprometida de más de 350.000 personas.
 
@@ -37,14 +37,16 @@ Además, somos uno de los responsables de **desarrollar aplicaciones de la tecno
 
 Platoniq es a la vez un laboratorio de innovación ciudadana y una incubadora de proyectos que produce y conecta las buenas ideas con los contextos que las necesitan y en este sentido:
 
-* potenciamos el sentido de pertenencia de las comunidades a la hora de decidir sus propias normas, fomentando la auto-regulación y la autonomía.
-* programando tecnología específicamente diseñada para el empoderamiento de las comunidades.
-* conectando agentes responsables de tomar decisiones y participantes para la participación ciudadana en las futuras agendas sociales y culturales.
-* formando a los equipos para que puedan gestionar autónomamente los recursos.
+* Aportamos valor acompañando a iniciativas colectivas de toda índole a encauzar la participación a través de interficies digitales. 
+* En todo el ciclo del proyecto buscamos potenciar el trabajo colaborativo y en abierto, haciendo uso de licencias libres para asegurar la devolución al común de cada desarrollo e innovación. 
+* Trabajamos en base a las buenas prácticas  y principios éticos de las comunidades de software libre y de fuentes abiertas.
+* Potenciamos el sentido de pertenencia de las comunidades a la hora de decidir sus propias normas, fomentando la auto-regulación y la autonomía.
+* Programamos tecnología específicamente diseñada para el empoderamiento de las comunidades.
+* Conectamos agentes responsables de tomar decisiones y participantes para que la participación ciudadana sea efectiva en todas las fases del proceso.
 
 # _
 
-# Goteo como red social y Decidim como 
+# Goteo como red social y Decidim como
 
 Introducir las nuevas formas de economía colaborativa en el sector creativo emergente es una manera de crear **innovación cultural.**
  Es necesario generar un cambio en el sistema establecido y dar la  posibilidad a los creadores y productores culturales de obtener  recursos, no sólo a través de las vías tradicionales de financiación  (generalmente, entidades públicas), sino también a través de su propia  comunidad y organizaciones privadas, las cuales, por medio de pequeñas  donaciones a los creadores de su elección, posibilitarían el aumento de  tejido creativo en su entorno y, a la larga, un mayor número de  colaboraciones entre los ámbitos cultural, social, tecnológico y  económico.
