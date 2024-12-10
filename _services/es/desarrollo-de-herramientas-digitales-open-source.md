@@ -37,7 +37,8 @@ Además, somos uno de los responsables de **desarrollar aplicaciones de la tecno
 
 Platoniq es a la vez un laboratorio de innovación ciudadana y una incubadora de proyectos que produce y conecta las buenas ideas con los contextos que las necesitan y en este sentido:
 
-* potenciamos el sentido de pertenencia de las comunidades a la hora de decidir sus propias normas, apisunauna red social en Internet que posibilita las micro-donaciones del público cultural, instituciones y empresas a los proyectos innovadores de su elección: una vía alternativa de financiación acorde con los nuevos modelos digitales;
+* potenciamos el sentido de pertenencia de las comunidades a la hora de decidir sus propias normas, fomentando la auto-regulación y la autonomía 
+* apisunauna red social en Internet que posibilita las micro-donaciones del público cultural, instituciones y empresas a los proyectos innovadores de su elección: una vía alternativa de financiación acorde con los nuevos modelos digitales;
 * una plataforma eficiente, abierta y productiva capaz de conectar a los creadores culturales con la gente de su comunidad: un punto de encuentro para la participación ciudadana en las futuras agendas culturales;
 * un referente nacional de innovación cultural distribuida.
 
@@ -54,23 +55,9 @@ Introducir las nuevas formas de economía colaborativa en el sector creativo eme
 
 # Proyectos relacionados
 
-**ANECA** se abre a la participación de toda la comunidad universitaria y 
-científica, proponiendo por primera vez un proceso de deliberación 
-colectiva para recabar aportaciones sobre el mismo. Se estrena de este modo la 
-nueva plataforma de participación de ANECA, en la que, durante unas 
-semanas, será posible intervenir en la definición de este modelo de 
-evaluación. Concretamente, se ofrecen varios modos de participación, 
-orientados a deliberar sobre el texto del borrador publicado: se podrán 
-proponer enmiendas para cada párrafo del borrador, apoyar las enmiendas 
-de otras personas y, también, escribir y valorar comentarios sobre 
-ellas. Todas estas aportaciones, cuya relevancia será subrayada por el 
-nivel de apoyo que cada una concite en la comunidad, serán tomadas en 
-consideración por ANECA y podrán traducirse en modificaciones concretas 
-del borrador de cara a su publicación como documento definitivo..
+**ANECA** se abre a la participación de toda la comunidad universitaria y científica, proponiendo por primera vez un proceso de deliberación colectiva para recabar aportaciones sobre el mismo. Se estrena de este modo la nueva plataforma de participación de ANECA, en la que, durante unas semanas, será posible intervenir en la definición de este modelo de evaluación. Concretamente, se ofrecen varios modos de participación, orientados a deliberar sobre el texto del borrador publicado: se podrán proponer enmiendas para cada párrafo del borrador, apoyar las enmiendas de otras personas y, también, escribir y valorar comentarios sobre ellas. Todas estas aportaciones, cuya relevancia será subrayada por el  nivel de apoyo que cada una concite en la comunidad, serán tomadas en consideración por ANECA y podrán traducirse en modificaciones concretas del borrador de cara a su publicación como documento definitivo..
 
 ![ANECA](/media/captura-de-pantalla-2024-12-10-a-las-9.37.59.png "ANECA")
-
-
 
 **DECIDE MADRID** En Decide Madrid puedes hacer propuestas, votar en consultas ciudadanas, plantear, apoyar o votar proyectos con presupuestos participativos, decidir la normativa municipal y abrir debates para intercambiar opiniones con otras personas. 
 
