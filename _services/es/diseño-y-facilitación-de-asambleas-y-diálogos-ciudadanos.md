@@ -30,8 +30,7 @@ Entendemos la participación desde la innovación, no solo desde el punto de vis
 
 {% metrics { "items": [{"text":"Diálogos facilitados","number":"7"},{"text":"Participantes","number":"148"},{"text":"Recomendaciones alcanzadas","number":"59"}] } %}
 
-# 
-¿Cómo lo conseguimos?
+# ¿Cómo lo conseguimos?
 
 * diseñando metodologías ad hoc que se ajusten a los objetivos de cada experiencia de participación;
 * promoviendo una selección de participantes que ponga a los "afectados" en el centro, teniendo en cuenta la discriminación positiva y potenciando la voz de quienes mas lo necesitan;
@@ -52,7 +51,6 @@ Creemos que es necesario incluir un cambio en la forma que tenemos de abordar lo
 
 # Proyectos relacionados
 
-
 **Crowdcoop** es una plataforma de financiación 
 colectiva especializada en las cooperativas y sus necesidades 
 particulares. O como nos gusta llamarlo: la nueva fábrica de proyectos 
@@ -63,12 +61,6 @@ Por un lado, las cooperativas obtienen asesoramiento y formación para
 complementaria, a través del crowdfunding las cooperativas pueden 
 encontrar el apoyo y mecenazgo necesarios para crear su proyecto, darlo a
  conocer y consolidarlo.
-
-
-
-
-
-
 
 ![Diálogo ciudadano](/media/photo_2024-07-31_15-48-28.jpg "Diálogo ciudadano")
 
