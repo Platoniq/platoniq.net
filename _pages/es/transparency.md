@@ -101,17 +101,7 @@ Asimismo, como **entidad beneficiaria** de la Ley 49/2002, de 23 de diciembre, d
 
 Actualmente, la Fundación y sus patronos participan de las siguientes redes o entidades, entre otras:
 
-![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdOWkoIlRWmCS5SQS7bT2Mige2voW13cAPybUmaORW8CqD9fKDufadWEogFCd43Whou2mk4va2uPz2-5QdjhJZ2KLhc-s38c-sPq4kEMxHd8PidI7igvUUsx661T_KwOrwcuL_Smg?key=8cmFG5-fiAtPUupDvtj6h7nw)
-
-![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBUqiSD0JqDNm-4FB9IgE_TMDSRFYawrenCcZgotAK6F6QRBGK-J5QHt_sXZqsH4nOolByRDsdMLK62YmDmGKkPPmZ-lwfLNsKpSMoxORpf-eZ5tEWew0jbhQtPZSwwE4PYHMx?key=8cmFG5-fiAtPUupDvtj6h7nw)![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeB65WAL4m8k-Mt3MZYdwftSUFeDIaLP4g8Gl3ephHYeq_IFdZE7GS1GOsWjLfjirTPYsp39CE0CpMLk9x7grUQqgEDohhAdUnlXZxyrA_mO9QKOddQsBfgk62nqKV6W_AKVJU9Yw?key=8cmFG5-fiAtPUupDvtj6h7nw)![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc8gvhH9JKtmJrByZC5MaQHM2X2egjPMPrv6rqLZ-FbyCuy6cAqI91rcR2YcBjGGhUfdFgwjeR0DTc6RyNoXiImXpjJpmZh0SPHzndDLlXn0q7T7i3BbZjdNfH9SwX7yLo-ap8R-Q?key=8cmFG5-fiAtPUupDvtj6h7nw)
-
-![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXen9ae-q9L3IwvEGkhwxpLNas9ZD15unN9dju74d_Wqy8DiMYX2IIVJSRJFYSGqN0xqSGzURVfWUWzeVLK5k6HvdoLLJ8_nGhp0IIYSx9n-XmaWYWPTcmPSYRshy500dhpVHLsv2Q?key=8cmFG5-fiAtPUupDvtj6h7nw)![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0LWzLvM53H-WO35CC7OBJjCMPDWmHtEh_04see_zYZztdGER95k2CMVetFtr-89RIyhE0VmOgJ7f6fY3k3dHKFPrcPg0UfnXeiDJWOhyNE3VrWv7oK8j0XjOp33dXtdZbFy2W?key=8cmFG5-fiAtPUupDvtj6h7nw)
-
-![Ampliando Democracia](/media/ampliando-democracia-2x.png "Ampliando Democracia")
-
-![alda](/media/images.png "alda")
-
-![](/media/logo-red_delib.png)
+[XES](https://xes.cat/), [CIVIO](https://civio.es/), [Marea Deliberativa](https://mareadeliberativa.org/), [Red Delib](https://delibrede.net/), [Ampliando Democracia](https://ampliandodemocracia.org/).
 
 **PROYECTOS SUBVENCIONADOS**
 
