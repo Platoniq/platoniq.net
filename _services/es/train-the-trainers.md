@@ -18,7 +18,7 @@ call_to_action:
   url: Contáctanos
   url_text: Contáctanos
 ---
-El proyecto SMILES pretende poner a prueba enfoques educativos innovadores en forma de talleres sobre noticias falsas en centros de secundaria impartidos por profesores y bibliotecarios, y supervisar su eficacia. El método del proyecto consiste en desplegar un enfoque de «formación de formadores», en el que se dota a los profesores y bibliotecarios de los conocimientos, habilidades y materiales necesarios para impartir talleres a alumnos de secundaria (de entre 12 y 15 años). El objetivo general es mejorar la preparación digital de los centros de secundaria y capacitar a los jóvenes para el uso crítico de la tecnología digital. https://smiles.platoniq.net/
+El método del proyecto es un programa de «formación de formadores», en el que profesores y bibliotecarios reciben los conocimientos, habilidades y materiales necesarios para impartir talleres a alumnos de secundaria (12-15 años). En concreto, 60 profesores y bibliotecarios han recibido formación para organizar talleres sobre «noticias falsas» dirigidos a los jóvenes, y organizarán los talleres en centros de secundaria de Bélgica, España y los Países Bajos para 600 jóvenes participantes.
 
 
 
@@ -59,6 +59,8 @@ Mezcla de estilos de aprendizaje
 
 # Proyectos relacionados
 
-**SMILES.** El método del proyecto es un programa de «formación de formadores», en el que profesores y bibliotecarios reciben los conocimientos, habilidades y materiales necesarios para impartir talleres a alumnos de secundaria (12-15 años). En concreto, 60 profesores y bibliotecarios han recibido formación para organizar talleres sobre «noticias falsas» dirigidos a los jóvenes, y organizarán los talleres en centros de secundaria de Bélgica, España y los Países Bajos para 600 jóvenes participantes.
+**SMILES.** El proyecto SMILES pretende poner a prueba enfoques educativos innovadores en forma de talleres sobre noticias falsas en centros de secundaria impartidos por profesores y bibliotecarios, y supervisar su eficacia. El método del proyecto consiste en desplegar un enfoque de «formación de formadores», en el que se dota a los profesores y bibliotecarios de los conocimientos, habilidades y materiales necesarios para impartir talleres a alumnos de secundaria (de entre 12 y 15 años). El objetivo general es mejorar la preparación digital de los centros de secundaria y capacitar a los jóvenes para el uso crítico de la tecnología digital. https://smiles.platoniq.net/
+
+
 
 ![](/media/captura-de-pantalla-2024-09-09-a-las-15.55.15.png)
