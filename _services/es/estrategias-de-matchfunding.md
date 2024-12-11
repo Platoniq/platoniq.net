@@ -31,23 +31,21 @@ Revitalizar el territorio
 
 Empoderar a la comunidad
 
-
-
 # \-
 
 # ¿Cómo lo conseguimos?
 
 Estas son las **fases de trabajo** por las cuales pasa una convocatoria de crowdfunding
 
-1. Redacción de las bases y planificación con la institución convocante.
-2. Ajustes, programación del algoritmo matchfunding y creación de la página de la convocatoria junto con la adaptación de los correspondientes contenidos, a la plataforma Goteo.org.
-3. Lanzamiento y publicación de la convocatoria de matchfunding.
-4. Captación de proyectos, difusión de la convocatoria, taller abierto de crowdfunding, monitorización de la recepción de propuestas y resolución de consultas.
-5. Selección de los proyectos entre la Fundación Goteo y la institución convocadora.
-6. Taller de comunicación para campañas de crowdfunding, únicamente dirigido a los proyectos seleccionados.
-7. Periodo de asesoramiento premium a través de sesiones en línea, llamadas y correos, por cada proyecto seleccionado.
-8. Lanzamiento de las campañas de crowdfunding: dos rondas de financiación.
-9. Firmas de contratos con los promotores de los proyectos cofinanciados con éxito, informes de recaudación y transferencia de los fondos.
+* Redacción de las bases y planificación con la institución convocante.
+* Ajustes, programación del algoritmo matchfunding y creación de la página de la convocatoria junto con la adaptación de los correspondientes contenidos, a la plataforma Goteo.org.
+* Lanzamiento y publicación de la convocatoria de matchfunding.
+* Captación de proyectos, difusión de la convocatoria, taller abierto de crowdfunding, monitorización de la recepción de propuestas y resolución de consultas.
+* Selección de los proyectos entre la Fundación Goteo y la institución convocadora.
+* Taller de comunicación para campañas de crowdfunding, únicamente dirigido a los proyectos seleccionados.
+* Periodo de asesoramiento premium a través de sesiones en línea, llamadas y correos, por cada proyecto seleccionado.
+* Lanzamiento de las campañas de crowdfunding: dos rondas de financiación.
+* Firmas de contratos con los promotores de los proyectos cofinanciados con éxito, informes de recaudación y transferencia de los fondos.
 
 # Proyectos relacionados
 
