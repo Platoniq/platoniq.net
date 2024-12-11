@@ -49,7 +49,7 @@ Estas son las **fases de trabajo** por las cuales pasa una convocatoria de crowd
 8. Lanzamiento de las campañas de crowdfunding: dos rondas de financiación.
 9. Firmas de contratos con los promotores de los proyectos cofinanciados con éxito, informes de recaudación y transferencia de los fondos.
 
-# Casos de éxito
+# Proyectos relacionados
 
 El matchfunding supone, no sólo una nueva manera de asignar y repartir los fondo, sino además y sobre todo, diseñar un nuevo escenario de funciones y responsabilidades entre todos los agentes implicados, que tengan como resultado el reforzamiento de la función y la vida pública. La administración pública o las entidades convocantes se pueden abrir a las nuevas posibilidades, sin que éstas resulten sustitutivas de las anteriores, sino que tengan un efecto multiplicador.
 
