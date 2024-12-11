@@ -55,7 +55,7 @@ Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas 
 
 En la segunda edición, trabajamos con un grupo de madres migrantes solteras. A través de diferentes dinámica del Teatro Legislativo identificamos escenas básicas de su vida cotidiana que tuvieran que ver con alguna de las dimensiones de la opresión migrante. **El reto fue entonces generar junto a ellas un relato emancipador** que pasó por identificar las oportunidades de mejora que serían necesarias para que experiencias así no volvieran a repetirse.
 
-{% video { "title": "Madres Migrantes", "url": "https://peertube.laguixeta.cat/w/d7x4g4CNhaUEyDWV6zZCrp" } %}
+{% video { "title": "Madres Migrantes", "url": "https://videos.laguixeta.cat/w/1xhwfBetQmUr5xSg1VDDSe" } %}
 
 ### Una constitución migrante
 
