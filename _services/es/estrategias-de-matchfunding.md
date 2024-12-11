@@ -53,8 +53,18 @@ La administración pública o las entidades convocantes se pueden abrir a las nu
 
 De modo que se unen dos procesos y dos modos de financiar la cultura, la participación, la educación, las iniciativas ciudadanas en una misma herramienta y se transforma el proceso de adjudicación de ayudas, generalmente restringido, en un fenómeno abierto, participativo y social, siempre bajo las bases y las condiciones de la entidad convocante y la Fundación Goteo.
 
+![Matchfunding](/media/captura-de-pantalla-2024-12-11-a-las-18.07.01.png "Matchfunding")
+
 
 
 Hacendera
 
 Arrela't
+
+Canal de micromecenatge per impulsar projectes amb retorn social al 
+territori. Projectes fets amb amor des de l'Alt Pirineu i Aran. El 
+projecte Arrela’t té com a objectiu fer realitat 18 projectes i 
+contribuïr a posar en pràctica noves fórmules per a reactivar el teixit 
+socio-econòmic de l’Alt Pirineu
+
+![Arrela't](/media/captura-de-pantalla-2024-12-11-a-las-18.13.44.png "Arrela't")
