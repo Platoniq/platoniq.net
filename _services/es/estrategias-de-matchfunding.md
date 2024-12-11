@@ -25,6 +25,8 @@ Al matchfunding se une la comunidad y la ciudadanía implicada en los proyectos 
 
 # ¿Qué resultados buscamos?
 
+Colaboración público-privada
+
 
 
 # \-
@@ -53,16 +55,8 @@ De modo que se unen dos procesos y dos modos de financiar la cultura, la partici
 
 ![Matchfunding](/media/captura-de-pantalla-2024-12-11-a-las-18.07.01.png "Matchfunding")
 
+**Arrela't.** Las Oficinas Jóvenes y servicios de promoción económica de las 6 comarcas del Alt Pirineu y Aran, con el apoyo de los grupos Leader, de la DGJ, del Ateneo Cooperativo del Alt Pirineu, de IDAPA y con la colaboración de las diputaciones de Lleida y Girona acordaron poner en marcha una campaña de micromecenazgo público-privada.
 
-
-Hacendera
-
-Arrela't
-
-Canal de micromecenatge per impulsar projectes amb retorn social al 
-territori. Projectes fets amb amor des de l'Alt Pirineu i Aran. El 
-projecte Arrela’t té com a objectiu fer realitat 18 projectes i 
-contribuïr a posar en pràctica noves fórmules per a reactivar el teixit 
-socio-econòmic de l’Alt Pirineu
+Se creó así un canal de micromecenazgo apoyado por dichas instituciones, que colaboran con 24.000 euros para complementar los 6 proyectos al año con la voluntad de impulsar proyectos con retorno social al territorio contribuyendo a poner en práctica nuevas fórmulas para reactivar el tejido socio-económico del Alt Pirineu.
 
 ![Arrela't](/media/captura-de-pantalla-2024-12-11-a-las-18.13.44.png "Arrela't")
