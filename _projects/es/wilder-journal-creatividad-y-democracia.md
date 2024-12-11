@@ -45,7 +45,7 @@ La cultura nos ayuda a saber observar y saber reconocer **quiénes deben ser esc
 
 # _
 
-# Qué encontrarás?
+# ¿Qué encontrarás?
 
 Aquí encontrarás proyectos que trabajan con el [teatro legislativo](https://journal.platoniq.net/es/wilder-journal-2/futures/revolutionmindset/), las [historias comunes](https://journal.platoniq.net/es/wilder-journal-2/futures/storytelling/) y la [visualización de datos](https://journal.platoniq.net/es/wilder-journal-2/futures/web-dubois-data/) situando a la [juventud](https://journal.platoniq.net/es/wilder-journal-2/learnings/expo-desinformaci%C3%B3n/) como protagonista. También, [comunidades](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/colombia-comparte-tu-rollo/) como **creadoras de su propia narrativa y configuradoras de un futuro decidido por todas.**
 
