@@ -31,8 +31,6 @@ Además, somos uno de los responsables de **desarrollar aplicaciones de la tecno
 
 # _
 
-# _
-
 # ¿Cómo lo conseguimos?
 
 Platoniq es a la vez un laboratorio de innovación ciudadana y una incubadora de proyectos que produce y conecta las buenas ideas con los contextos que las necesitan y en este sentido:
