@@ -39,8 +39,24 @@ call_to_action:
   url: Escríbenos
   url_text: Escríbenos
 ---
-La Fundación Platoniq diseña procesos participativos digitales y facilita metodologías innovadoras de participación para contribuir a formar sociedades y organizaciones más democráticas y justas, haciendo uso de tecnologías cívicas abiertas.
+Desde la Fundación Platoniq defendemos la cultura como alternativa al desarrollo y como base para la cohesión social. Por eso lanzamos el **Wilder Journal** poniendo el foco en la creatividad y arte como catalizadores democráticos.
 
-Es además impulsora de la plataforma de crowdfunding cívico Goteo.org, a través de la cual financia iniciativas con impacto social -a nivel regional, nacional e internacional-, fomenta el cooperativismo y refuerza el conjunto de la Economía Social y Solidaria. Por ello, la Fundación es miembro de la XES Xarxa d’Economia Solidària de Catalunya.
+La cultura nos ayuda a saber observar y saber reconocer **quiénes deben ser escuchados, cuál es la mejor manera de escuchar y cómo es posible comunicar de forma más creativa para que nuestras propuestas como sociedad civil sean escuchadas.**
 
-La Fundación promueve la transparencia, la economía colaborativa y ética, la innovación democrática y la replicabilidad de las experiencias. Se financia a través de alianzas con instituciones públicas y privadas que comparten su misión y visión. Contamos con 23 personas contratadas distribuidas entre las oficinas de Barcelona, Madrid, Roma y Palma (sede social y fiscal) y un equipo de colaboradores en el estado español y en otros países europeos.
+# _
+
+# Qué encontrarás?
+
+Aquí encontrarás proyectos que trabajan con el [teatro legislativo](https://journal.platoniq.net/es/wilder-journal-2/futures/revolutionmindset/), las [historias comunes](https://journal.platoniq.net/es/wilder-journal-2/futures/storytelling/) y la [visualización de datos](https://journal.platoniq.net/es/wilder-journal-2/futures/web-dubois-data/) situando a la [juventud](https://journal.platoniq.net/es/wilder-journal-2/learnings/expo-desinformaci%C3%B3n/) como protagonista. También, [comunidades](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/colombia-comparte-tu-rollo/) como **creadoras de su propia narrativa y configuradoras de un futuro decidido por todas.**
+
+La Fundación Platoniq ha trabajado extensamente en derribar muros para promover [enfoques inclusivos y de diseño](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/culture-creativity-and-deliberation-methodologies/) inspirados en la justicia, **centrándose en prácticas deliberativas de toma de perspectiva para fomentar la empatía a través de la co-creación y la creatividad.** También dentro de las organizaciones sociales, [planificando la estrategia de manera participativa](https://journal.platoniq.net/es/wilder-journal-2/futures/strategic-planning/) para encarnar futuros deseables para la organización y para el mundo. 
+
+A pesar de la crisis ecológica, el aumento de la desigualdad y el auge de los autoritarismos, siempre estamos a tiempo de **tomar las riendas y reapropiarnos del futuro** tomando decisiones colectivamente.
+
+Para poder diseñar el futuro esperanzador que queremos, primero debemos ser capaces de imaginarlo. «El progreso es la realización de las utopías», decía Oscar Wilde. «La utopía sirve para caminar», añadía Eduardo Galeano. Desde aquí reivindicamos la fuerza de esta idea y abrimos las puertas a otros mundos posibles. **Mundos que se comprometen con el fomento de la movilización ciudadana desde el potencial cohesionador y accionador de la creatividad y el arte.**
+
+# _
+
+# Cada número, un artista
+
+Las ilustraciones que acompañan la segunda edición son de [Jean-Louis Vidière Ésèpe](https://journal.platoniq.net/es/wilder-journal-2/interviews/esepe-danse-macabre/), y se plantean como la revisión de un género clásico: *les vanités.* Nos remitimos a esas pinturas que evocan **la fragilidad de la existencia** para reconocer que, efectivamente, nuestra vida es fugaz. Sin embargo, en nuestras manos está **dejar un legado digno a las generaciones futuras** para que puedan seguir con sus vidas, también frágiles y finitas, pero que valga la pena ser vividas.
