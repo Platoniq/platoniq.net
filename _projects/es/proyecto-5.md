@@ -51,7 +51,7 @@ En la primera edición tres colectivos de Barcelona, **Furia Mexicana, Puerta de
 
 Además de los tres talleres, junto a cuatro creadoras de contenido coordinadas por La Fera: Luna Andrade, Patricia Vizcaíno, Pedro García Mejía y Shalana Rodríguez, se exploraron nuevas formas narrativas por habla de los conflictos migratorios, la economía migrante, el papel de Europa o las ventajas del cooperativismo social y solidario. Cada una de ellas, aportó una pieza audiovisual disparadora de debate, a partir de las cuales se debía desempeñar una respuesta escenificada. **El resultado es una serie de piezas de naturaleza diversa que buscan conmover a la ciudadanía y sensibilizarla sobre estas cuestiones**
 
-{% video { "title": "Temps Migrant", "url": "https://peertube.laguixeta.cat/w/mfZfsuwX1etvabXcfNdWNs" } %}
+{% video { "title": "Temps Migrant", "url": "https://videos.laguixeta.cat/w/mfZfsuwX1etvabXcfNdWNs" } %}
 
 En la segunda edición, trabajamos con un grupo de madres migrantes solteras. A través de diferentes dinámica del Teatro Legislativo identificamos escenas básicas de su vida cotidiana que tuvieran que ver con alguna de las dimensiones de la opresión migrante. **El reto fue entonces generar junto a ellas un relato emancipador** que pasó por identificar las oportunidades de mejora que serían necesarias para que experiencias así no volvieran a repetirse.
 

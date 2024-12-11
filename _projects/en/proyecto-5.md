@@ -47,13 +47,11 @@ Through several editions of the Migrant Dialogues, the project identifies the ki
 
 In the first edition, three collectives from Barcelona, Furia Mexicana, Puerta de África and Singa Barcelona, were working on the effect that new discourses have on raising awareness of migrant issues from the point of view of the affected communities.
 
-
-
 {% quote %}Nationality: "migrant"{% endquote %}
 
 In addition to the three workshops, together with four content creators coordinated by La Fera: Luna Andrade, Patricia Vizcaíno, Pedro García Mejía and Shalana Rodríguez, new narrative forms were explored by talking about migratory conflicts, the migrant economy, the role of Europe or the advantages of social and solidarity cooperativism. Each of them contributed an audiovisual piece that triggered debate, from which a staged response had to be developed. **The result is a series of pieces of a diverse nature that seek to move the public and raise awareness of these issues.**
 
-{% video { "title": "Temps Migrant", "url": "https://peertube.laguixeta.cat/w/mfZfsuwX1etvabXcfNdWNs" } %}
+{% video { "title": "Temps Migrant", "url": "https://videos.laguixeta.cat/w/mfZfsuwX1etvabXcfNdWNs" } %}
 
 In the second edition, we worked with a group of single migrant mothers. Through different dynamics of the Legislative Theatre, we identified basic scenes from their daily lives that had to do with some of the dimensions of migrant oppression. **The challenge was then to generate together with them an emancipatory story** that went through identifying the opportunities for improvement that would be necessary so that experiences like this would not be repeated.
 
