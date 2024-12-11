@@ -27,6 +27,10 @@ Al matchfunding se une la comunidad y la ciudadanía implicada en los proyectos 
 
 Colaboración público-privada
 
+Revitalizar el territorio
+
+Empoderar a la comunidad
+
 
 
 # \-
