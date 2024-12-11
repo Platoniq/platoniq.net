@@ -25,9 +25,7 @@ Al matchfunding se une la comunidad y la ciudadanía implicada en los proyectos 
 
 # ¿Qué resultados buscamos?
 
-d
 
-{% numbers { "items": [{"label":"colaboración público-privada"}] } %}
 
 # \-
 
