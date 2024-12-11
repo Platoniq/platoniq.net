@@ -1,7 +1,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "frame-src https://videos.laguixeta.cat; default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https://videos.laguixeta.cat;"
+    X-Frame-Options= ALLOW-FROM https://videos.laguixeta.cat https://peertube.laguixeta.cat
 
     # Optional: Add CORS headers if needed
     Access-Control-Allow-Origin = "https://videos.laguixeta.cat"
