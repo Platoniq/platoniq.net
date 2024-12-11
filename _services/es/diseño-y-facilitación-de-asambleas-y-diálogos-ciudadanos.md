@@ -51,17 +51,14 @@ Creemos que es necesario incluir un cambio en la forma que tenemos de abordar lo
 
 # Proyectos relacionados
 
-**Crowdcoop** es una plataforma de financiación 
-colectiva especializada en las cooperativas y sus necesidades 
-particulares. O como nos gusta llamarlo: la nueva fábrica de proyectos 
-cooperativos por una economía más social y más sostenible.
+**We the Internet.** ¿Cuántas veces has podido ser parte de un proceso histórico? 78 países participaron en "We, The Internet", el mayor diálogo ciudadano global sobre el futuro de internet. 
 
-Por un lado, las cooperativas obtienen asesoramiento y formación para
- dar impulso a su proyecto y crear comunidad a su alrededor. De manera 
-complementaria, a través del crowdfunding las cooperativas pueden 
-encontrar el apoyo y mecenazgo necesarios para crear su proyecto, darlo a
- conocer y consolidarlo.
+Organizado por Missions Publiques, y facilitado por Platoniq, los diálogos de cada país pusieron en común a distintas voces, contextos y experiencias locales en busca de incidir en su desarrollo digital. 
+
+En España, el diálogo fue implementado por **Platoniq** apostando por la tecnología y la participación ciudadana para mejorar las sociedades. 
 
 ![Diálogo ciudadano](/media/photo_2024-07-31_15-48-28.jpg "Diálogo ciudadano")
+
+**Asamblea Mundial sobre los Océanos.** En este caso, junto a Mission Publiques y Raons, facilitamos un Diálogo Ciudadano compuesto por más de 30 nacionalidades alrededor de los derechos de los océanos. Este Diálogo debe informar sobre la Futura Asamblea sobre los Océanos organizada por la ONU y prevista para 2025.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDkvhzTdOR8?si=bnPCzYyaOUclvK2-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
