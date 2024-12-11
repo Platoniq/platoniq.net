@@ -47,11 +47,9 @@ Estas son las **fases de trabajo** por las cuales pasa una convocatoria de crowd
 
 # Casos de éxito
 
-El matchfunding supone, no sólo una nueva manera de asignar y repartir los fondo, sino además y sobre todo, diseñar un nuevo escenario de funciones y responsabilidades entre todos los agentes implicados, que tengan como resultado el reforzamiento de la función y la vida pública.
+El matchfunding supone, no sólo una nueva manera de asignar y repartir los fondo, sino además y sobre todo, diseñar un nuevo escenario de funciones y responsabilidades entre todos los agentes implicados, que tengan como resultado el reforzamiento de la función y la vida pública. La administración pública o las entidades convocantes se pueden abrir a las nuevas posibilidades, sin que éstas resulten sustitutivas de las anteriores, sino que tengan un efecto multiplicador.
 
-La administración pública o las entidades convocantes se pueden abrir a las nuevas posibilidades, sin que éstas resulten sustitutivas de las anteriores, sino que tengan un efecto multiplicador.
-
-De modo que se unen dos procesos y dos modos de financiar la cultura, la participación, la educación, las iniciativas ciudadanas en una misma herramienta y se transforma el proceso de adjudicación de ayudas, generalmente restringido, en un fenómeno abierto, participativo y social, siempre bajo las bases y las condiciones de la entidad convocante y la Fundación Goteo.
+De modo que se unen dos procesos y dos modos de financiar la cultura, la participación, la educación, las iniciativas ciudadanas en una misma herramienta y se transforma el proceso de adjudicación de ayudas, generalmente restringido, en un fenómeno abierto, participativo y social.
 
 ![Matchfunding](/media/captura-de-pantalla-2024-12-11-a-las-18.07.01.png "Matchfunding")
 
