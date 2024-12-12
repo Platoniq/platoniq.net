@@ -20,7 +20,7 @@ description: >-
   En Goteo no ofrecemos solamente financiación, sino que somos un 
 
   equipo de personas que acompañan a los proyectos y les asesoran paso por
-   paso. **Somos facilitadoras de alianzas y creamos comunidad alrededor de cada campaña.**
+   pas**o. Somos facilitadoras de alianzas y creamos comunidad alrededor de cada campaña.**
 
   Somos **[transparentes](https://stats.goteo.org/home/es)** y **comprometidos con la Economía Social y Solidaria y la transformación social.**
 budget: "600.000"
