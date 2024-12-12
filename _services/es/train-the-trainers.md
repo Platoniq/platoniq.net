@@ -18,7 +18,20 @@ call_to_action:
   url: Contáctanos
   url_text: Contáctanos
 ---
-Proporcionamos formación a los profesionales de la participación sobre cómo aprovechar la cocreación y el codiseño en sus prácticas y trabajos a la hora de generar soluciones innovadoras para la participación ciudadana, partiendo de nuestros playbooks y manuales para facilitadores.
+Esta formación está dirigida a facilitadoras a activar para facilitar eventos, talleres o procesos participativos (sobre todo en colaboración con Platoniq, aunque podría ser útil para facilitar eventos que no estén coordinados por nosotras). La formación tiene entre sus objetivos crear un grupo de habilitadores de participación, que sean capaces de acompañar el grupo en una serie de pasos metodológicos y en lograr resultados esperados, en un ambiente dónde se sientan lo más cómodas posible para participar y dónde tengan lugar intercambios, debates, momentos de co-creación, exploraciones de territorios y conceptos desconocidos, etc. 
+
+Es una formación modular, dependiendo del contenido específico y del enfoque del evento o taller. Puede tener lugar de manera presencial o en línea, dependiendo de la naturaleza de la colaboración y del alcance geográfico del equipo. Cuando sea posible, siempre es aconsejable tener mínimo un encuentro presencial de preparación, para solucionar dudas de la manera más efectiva pero también para apoyar la cohesión del equipo facilitador, ya que esto suele tener mucho impacto en el éxito del evento.
+
+Los tiempos de duración de la formación depende del evento específico, ya que una metodología muy compleja o un equipo facilitator muy grande van a necesitar de más encuentros. 
+
+Estructura mínima:
+
+* Primer encuentro de intro al evento a facilitar, intro del team, organización interna, primeros rasgos metodológicos,
+* Creación de manual de facilitación a compartir con el equipo facilitador,
+* (Módulos opcionales de deep dive metodológico),
+* Segundo encuentro con detalles metodológicos del evento,
+* Reunión last minute antes del evento,
+* Informe final
 
 ![Train the trainers](/media/photo_2024-07-31_15-47-52.jpg "Train the trainers")
 
