@@ -21,19 +21,29 @@ call_to_action:
 
 Pero, ¿y si los espacios deliberativos pudieran ser diferentes? ¿Y si, en lugar de adaptarnos nosotros a ellos, fueran los políticos los que se adaptaran a nuestras necesidades? Imagina un entorno donde las sillas se mueven para crear círculos de diálogo, donde las paredes cuentan historias de quienes han participado antes, y donde cada rincón invita a compartir ideas. Espacios que no sean una copia fría de los institucionales, sino un espejo vivo de la creatividad y la capacidad de diálogo que tenemos los ciudadanos.
 
+Spatial Justice se traduce al castellano como justicia espacial. Este concepto pone el foco en cómo la organización, diseño y uso del espacio afectan las oportunidades de las personas para participar plenamente en la vida social, económica y política. La justicia espacial no solo aborda la distribución equitativa de recursos físicos como el acceso a infraestructuras, sino también el poder de decidir sobre el uso y diseño de esos espacios.
+
 # \-
 
 # ¿Qué resultados esperamos?
 
 {% metrics { "items": [{"text":"Mayor participación de comunidades diversas "},{"text":"Capacidad para replicar el modelo"},{"text":"Mejora en la percepción de accesibilidad y pertenencia "},{"text":"Diseño y pilotaje de espacios inclusivos y funcionales"}] } %}
 
-Spatial Justice se traduce al castellano como justicia espacial. Este concepto pone el foco en cómo la organización, diseño y uso del espacio afectan las oportunidades de las personas para participar plenamente en la vida social, económica y política. La justicia espacial no solo aborda la distribución equitativa de recursos físicos como el acceso a infraestructuras, sino también el poder de decidir sobre el uso y diseño de esos espacios.
+# \-
 
-En Platoniq, conectamos este enfoque con nuestras prácticas de justicia del diseño (Design Justice), que se centran en garantizar que los procesos de diseño no solo incluyan, sino que estén liderados por las comunidades más afectadas por las desigualdades. Creemos que tanto el espacio físico como los métodos utilizados para diseñarlo deben reflejar y potenciar la diversidad, la equidad y la capacidad creativa de las personas.
-
-Al igual que en la justicia del diseño, en la justicia espacial consideramos que no basta con ofrecer espacios accesibles; también es esencial que estos espacios sean cocreados por quienes los utilizarán. Esto significa integrar metodologías participativas que involucren a las comunidades desde el inicio, tanto en la conceptualización del espacio como en las decisiones sobre cómo será usado. Así, cerramos la brecha entre el diseño del espacio y las formas en que este fomenta (o limita) el diálogo y la colaboración.
+# ¿Cómo lo conseguimos?
 
 Nuestro enfoque holístico 360º asegura que el diseño del espacio esté completamente alineado con los principios de justicia del diseño: que sea inclusivo, participativo y transformador. Ya sea en asambleas ciudadanas, espacios comunitarios o plataformas digitales, trabajamos para que los entornos deliberativos no solo reflejen la diversidad de sus usuarios, sino que potencien su capacidad para imaginar y construir futuros más justos.
+
+* Conectando este enfoque con nuestras prácticas de justicia del diseño (Design Justice)
+* Garantizando que los procesos de diseño no solo incluyan, sino que estén liderados por las comunidades más afectadas por las desigualdades.
+* Integrando metodologías participativas que involucren a las comunidades desde el inicio, tanto en la conceptualización del espacio como en las decisiones sobre cómo será usado.
+
+Creemos que tanto el espacio físico como los métodos utilizados para diseñarlo deben reflejar y potenciar la diversidad, la equidad y la capacidad creativa de las personas. Así, cerramos la brecha entre el diseño del espacio y las formas en que este fomenta (o limita) el diálogo y la colaboración.
+
+Al igual que en la justicia del diseño, en la justicia espacial consideramos que no basta con ofrecer espacios accesibles; también es esencial que estos espacios sean cocreados por quienes los utilizarán.
+
+
 
 
 
