@@ -2,7 +2,7 @@
 layout: project
 slug: Goteo
 state: open
-title: "Goteo: financiación colectiva y crowdvocacy"
+title: "Goteo: plataforma de financiación colectiva e incidencia ciudadana"
 subtitle: >-
   Goteo es más que un crowdfunding, es el barómetro de las necesidades de una
   sociedad más colaborativa y transparente. En un mundo cada vez más polarizado,
