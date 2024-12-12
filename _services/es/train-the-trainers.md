@@ -26,21 +26,7 @@ El método del proyecto es un programa de «formación de formadores», en el qu
 
 # Qué resultados buscamos
 
-Formar un equipo de facilitadores 
-
-Alinear objetivos
-
-Comprensión de responsabilidades
-
-Capacitar sobre qué y cómo
-
-Visión del proceso global
-
-Abordaje de la complejidad
-
-Cohesión de grupos
-
-Mezcla de estilos de aprendizaje
+{% metrics { "items": [{"text":"Formar un equipo de facilitadores "},{"text":"Alinear objetivos"},{"text":"Comprensión de coresponsabilidades"},{"text":"Capacitar sobre el qué y el cómo"},{"text":"Visión global del proceso"},{"text":"Abordaje de la complejidad"},{"text":"Mezcla de estilos de aprendizaje"},{"text":"Cohesión de grupos"}] } %}
 
 # \-
 
@@ -61,4 +47,4 @@ Mezcla de estilos de aprendizaje
 
 ![](/media/captura-de-pantalla-2024-09-09-a-las-15.55.15.png)
 
-**Be part:** Basado en conceptos como desarrollo liderado por jóvenes, los modelos de participación juvenil, la co-creación, el aprendizaje basado en proyectos y empoderamiento juvenil, la capacitación tiene como objetivo preparar a las enseñantes para comprender mejor estos conceptos clave, así como la metodología de participación y los temas de poder y rango. La formación desafía los roles tradicionales e invita a las y los docentes a ir más allá del "participation washing": al convertirse en "docentes-facilitadoras", pueden acompañar a sus estudiantes en la consecución de un cambio real.
+**Be part.** Basado en conceptos como desarrollo liderado por jóvenes, los modelos de participación juvenil, la co-creación, el aprendizaje basado en proyectos y empoderamiento juvenil, la capacitación tiene como objetivo preparar a las enseñantes para comprender mejor estos conceptos clave, así como la metodología de participación y los temas de poder y rango. La formación desafía los roles tradicionales e invita a las y los docentes a ir más allá del "participation washing": al convertirse en "docentes-facilitadoras", pueden acompañar a sus estudiantes en la consecución de un cambio real.
