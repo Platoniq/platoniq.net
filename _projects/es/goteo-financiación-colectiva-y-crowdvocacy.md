@@ -48,8 +48,19 @@ call_to_action:
   url_text: Consúltanos
 ---
 **Goteo es más que un crowdfunding,** es el barómetro de 
-las necesidades de una sociedad más colaborativa y transparente. Lo 
-dicen nuestros datos: más de 21 millones de euros redistribuidos entre 
+las necesidades de una sociedad más colaborativa y transparente. 
+
+
+
+# _
+
+# ¿Qué hemos conseguido hasta el momento?
+
+{% metrics { "items": [{"text":"Dinero recaudado","number":"21M"},{"text":"Proyectos exitosos","number":"83,3%"},{"text":"Comunidad","number":"355k"}] } %}
+
+
+
+Lo dicen nuestros datos: más de 21 millones de euros redistribuidos entre 
 los 2.022 proyectos financiados hasta la fecha y 350.000 personas 
 colaborando para hacerlo posible. Con una tasa de éxito del 84%. Sí, del
  84%. 
