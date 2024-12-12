@@ -26,7 +26,7 @@ Este taller es una formación inspirada a nuestra experiencia y práctica en los
 
 # ¿Qué resultados buscamos?
 
-{% numbers { "items": [{"label":"Distribución justa de beneficios y cargas"},{"label":"Participación justa"},{"label":"Implicación significativa"},{"label":"Reconocimiento de las tradiciones"},{"label":"Identificación de formas de opresión"},{"label":"Poner a las personas en el centro"},{"label":"Codiseño y coprodución "},{"label":"Planteo de desafíos profundos"}] } %}
+{% metrics { "items": [{"text":"Distribución justa de beneficios y cargas"},{"text":"Participación justa"},{"text":"Implicación significativa"},{"text":"Reconocimiento de las tradiciones"},{"text":"Identificación de formas de opresión"},{"text":"Personas en el centro"},{"text":"Codiseño y coproducción"},{"text":"Planteo de desafíos profundos"}] } %}
 
 # _
 
