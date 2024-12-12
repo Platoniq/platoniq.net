@@ -26,7 +26,7 @@ Proporcionamos formación a los profesionales de la participación sobre cómo a
 
 # ¿Qué resultados buscamos?
 
-{% metrics { "items": [{"text":"Formar un equipo de facilitadores "},{"text":"Alinear objetivos"},{"text":"Comprensión de coresponsabilidades"},{"text":"Capacitar sobre el qué y el cómo"},{"text":"Visión global del proceso"},{"text":"Abordaje de la complejidad"},{"text":"Mezcla de estilos de aprendizaje"},{"text":"Cohesión de grupos"}] } %}
+{% metrics { "items": [{"text":"Alinear objetivos"},{"text":"Comprensión de coresponsabilidades"},{"text":"Visión global del proceso"},{"text":"Abordaje de la complejidad"},{"text":"Mezcla de estilos de aprendizaje"},{"text":"Cohesión de grupos"}] } %}
 
 # \-
 
