@@ -57,7 +57,7 @@ Estudiamos prácticas globales alineadas con el Design Justice pero especialment
 
 # Metodología destacada
 
-Aplicamos los [10 puntos del Manifiesto sobre Design Justice](https://designjustice.org/read-the-principles) a la Inteligencia artificial para especular sobre futuros en los que ‘cultivamos’ datos de forma ética en lugar del modelo actual de extracción de datos, construímos una metáfora basada en la agricultura comunitaria, haciéndola más accesible y abierta a la exploración.
+Aplicamos los [10 puntos del Manifiesto sobre Design Justice](https://designjustice.org/read-the-principles) a la Inteligencia artificial para especular sobre futuros en los que ‘cultivamos’ datos de forma ética en lugar del modelo actual de extracción de datos, construimos una metáfora basada en la agricultura comunitaria, haciéndola más accesible y abierta a la exploración.
 
 ![IA y Design Justice](/media/captura-de-pantalla-2024-12-12-a-las-11.47.19.png "IA y Design Justice")
 
