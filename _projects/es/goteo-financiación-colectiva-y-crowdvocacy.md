@@ -17,23 +17,12 @@ banner_image:
 date_start: 2024-12-12T17:43:00.000Z
 date_end: 2024-12-12T17:43:00.000Z
 description: >-
-  **Goteo es más que un crowdfunding,** es el barómetro de 
-
-  las necesidades de una sociedad más colaborativa y transparente. Lo 
-
-  dicen nuestros datos: más de 21 millones de euros redistribuidos entre 
-
-  los 2.022 proyectos financiados hasta la fecha y 350.000 personas 
-
-  colaborando para hacerlo posible. Con una tasa de éxito del 84%. Sí, del
-   84%. 
-
   En Goteo no ofrecemos solamente financiación, sino que somos un 
 
   equipo de personas que acompañan a los proyectos y les asesoran paso por
    paso. **Somos facilitadoras de alianzas y creamos comunidad alrededor de cada campaña.**
 
-  Somos **[transparentes](https://stats.goteo.org/home/es)**, **rigurosos** (de los 9.796 proyectos recibidos, 2.654 acabaron por publicarse) y **comprometidos con la Economía Social y Solidaria y la transformación social.**
+  Somos **[transparentes](https://stats.goteo.org/home/es)** y **comprometidos con la Economía Social y Solidaria y la transformación social.**
 budget: "600.000"
 private_percentage: 60%
 public_percentage: 40%
