@@ -24,14 +24,7 @@ Es una formación modular, dependiendo del contenido específico y del enfoque d
 
 Los tiempos de duración de la formación depende del evento específico, ya que una metodología muy compleja o un equipo facilitator muy grande van a necesitar de más encuentros. 
 
-Estructura mínima:
 
-* Primer encuentro de intro al evento a facilitar, intro del team, organización interna, primeros rasgos metodológicos,
-* Creación de manual de facilitación a compartir con el equipo facilitador,
-* (Módulos opcionales de deep dive metodológico),
-* Segundo encuentro con detalles metodológicos del evento,
-* Reunión last minute antes del evento,
-* Informe final
 
 ![Train the trainers](/media/photo_2024-07-31_15-47-52.jpg "Train the trainers")
 
