@@ -25,7 +25,7 @@ Al matchfunding se une la comunidad y la ciudadanía implicada en los proyectos 
 
 # ¿Qué resultados buscamos?
 
-{% metrics { "items": [{"text":"Colaboración público-privada"},{"text":"Revitalizar el territorio"},{"text":"Empoderar a la comunidad"}] } %}
+{% metrics { "items": [{"text":"Dinero aportado","number":"1.1M"},{"text":"Proyectos exitosos","number":"90%"},{"text":"Convocatorias","number":"12"}] } %}
 
 # \-
 
