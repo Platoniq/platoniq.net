@@ -60,6 +60,15 @@ las necesidades de una sociedad más colaborativa y transparente.
 
 
 
+* Goteo es una incubadora de proyectos que produce y conecta las buenas ideas con los contextos que las necesitan;
+* una red social en Internet que posibilita las micro-donaciones del público, instituciones y empresas a los proyectos innovadores de su elección: una vía alternativa de financiación acorde con los nuevos modelos digitales;
+* una plataforma eficiente, abierta y productiva capaz de conectar iniciativas, creadores y emprendedores con la gente de su comunidad: un punto de encuentro para la participación ciudadana en las futuras agendas sociales y culturales;
+* una herramienta de crowdvocacy que provoca la transformación de las instituciones públicas promoviendo la incidencia ciudadana.
+
+
+
+
+
 Lo dicen nuestros datos: más de 21 millones de euros redistribuidos entre 
 los 2.022 proyectos financiados hasta la fecha y 350.000 personas 
 colaborando para hacerlo posible. Con una tasa de éxito del 84%. Sí, del
