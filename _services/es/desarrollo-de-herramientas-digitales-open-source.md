@@ -31,13 +31,21 @@ Además, somos uno de los responsables de **desarrollar aplicaciones de la tecno
 
 # _
 
+# ¿Qué resultados buscamos?
+
+{% metrics { "items": [{"text":"Promover cultura libre"},{"text":"Reforzar el procomún"},{"text":"Más transparencia y rendición de cuentas"},{"text":"Empoderar digitalmente a las comunidades"},{"text":"Conectar agentes"},{"text":"Facilitar procesos organizativos"}] } %}
+
+
+
+# _
+
 # ¿Cómo lo conseguimos?
 
 Platoniq es a la vez un laboratorio de innovación ciudadana y una incubadora de proyectos que produce y conecta las buenas ideas con los contextos que las necesitan y en este sentido:
 
 * Aportamos valor acompañando a iniciativas colectivas de toda índole a encauzar la participación a través de interficies digitales. 
 * En todo el ciclo del proyecto buscamos potenciar el trabajo colaborativo y en abierto, haciendo uso de licencias libres para asegurar la devolución al común de cada desarrollo e innovación. 
-* Trabajamos en base a las buenas prácticas  y principios éticos de las comunidades de software libre y de fuentes abiertas.
+* Trabajamos en base a las buenas prácticas y principios éticos de las comunidades de software libre y de fuentes abiertas.
 * Potenciamos el sentido de pertenencia de las comunidades a la hora de decidir sus propias normas, fomentando la auto-regulación y la autonomía.
 * Programamos tecnología específicamente diseñada para el empoderamiento de las comunidades.
 * Conectamos agentes responsables de tomar decisiones y participantes para que la participación ciudadana sea efectiva en todas las fases del proceso.
