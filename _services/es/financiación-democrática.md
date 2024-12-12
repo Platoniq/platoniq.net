@@ -37,9 +37,11 @@ Hasta el momento, las dinámicas del llamado Giving 2.0 (Donaciones 2.0) se han 
 
 # _
 
-# Goteo como red social
+# Goteo como red social y herramienta de crowdvocacy
 
-Introducir las nuevas formas de economía colaborativa en el sector creativo emergente es una manera de crear **innovación cultural.** Es necesario generar un cambio en el sistema establecido y dar la posibilidad a los creadores y productores culturales de obtener recursos, no sólo a través de las vías tradicionales de financiación (generalmente, entidades públicas), sino también a través de su propia comunidad y organizaciones privadas, las cuales, por medio de pequeñas donaciones a los creadores de su elección, posibilitarían el aumento de tejido creativo en su entorno y, a la larga, un mayor número de colaboraciones entre los ámbitos cultural, social, tecnológico y económico.
+Una de las características de nuestros diseños es su voluntad de incidencia en las instituciones públicas. Ejemplo de ello es Goteo, nuestra plataforma de crowdfunding cívico que además de impulsar la realización de proyectos ha permitido que determinados colectivos, como el Sindicato de vendedores ambulantes de Barcelona, el Sindicato de Inquilinas e inquilinos, los Mensakas o las Kellys se organicen y generen presión sobre las instituciones sobre un tema concreto.
+
+Entendemos que la comunidad, en tiempos de crisis, responde autoorganizándose para dar respuesta colectiva a través del crowdvocacy (o "gobierno de la multitud") que es como llamamos al proceso distribuido y coordinado entre diferentes plataformas donde las iniciativas cívicas pueden amplificar su influencia, obtener recursos, y estimular el liderazgo de la difusión para los promotores de iniciativas cívicas.
 
 ![Testimonios Goteo](/media/captura-de-pantalla-2024-09-09-a-las-16.43.42.png "Testimonios Goteo")
 
