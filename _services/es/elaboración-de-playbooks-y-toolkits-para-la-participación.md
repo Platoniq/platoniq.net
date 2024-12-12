@@ -9,7 +9,7 @@ image:
   path: /media/services/innovacion-democratica.png
   alt: Innovación democrática
 collaborators:
-  - affac
+  - ECF
 call_to_action:
   image_path: /media/services/gif01.gif
   image_alt: ¿Quieres saber más?
@@ -41,18 +41,10 @@ Nuestro enfoque holístico 360º asegura que el diseño del espacio esté comple
 
 Creemos que tanto el espacio físico como los métodos utilizados para diseñarlo deben reflejar y potenciar la diversidad, la equidad y la capacidad creativa de las personas. Así, cerramos la brecha entre el diseño del espacio y las formas en que este fomenta (o limita) el diálogo y la colaboración.
 
-Al igual que en la justicia del diseño, en la justicia espacial consideramos que no basta con ofrecer espacios accesibles; también es esencial que estos espacios sean cocreados por quienes los utilizarán.
+# \-
 
+# Proyectos relacionados
 
+**[IdeaCamp:](https://ideacamp2017.eu/)** Festival de tres días que acompañaba 50 ideas a transformarse en 50 proyectos. La formación a facilitadoras que hicimos fue formar partners de los otros hubs para que facilitaran los momentos metodológicos junto a nosotras.
 
-
-
-
-
-
-
-
-
-
-
-![Playbooks](/media/captura-de-pantalla-2024-11-11-a-las-21.35.46.png "Playbooks")
+![Playbooks](/media/unnamed.jpg "Playbooks")
