@@ -58,7 +58,11 @@ Planteo de desafíos profundos
 
 # Metodología destacada
 
-Aplicamos los [10 puntos del Manifiesto sobre Design Justice](https://designjustice.org/read-the-principles) a la Inteligencia artificial para especular sobre futuros en los que ‘cultivamos’ datos de forma ética en lugar del modelo actual de extracción de datos, construimos una metáfora basada en la agricultura comunitaria, haciéndola más accesible y abierta a la exploración.
+Aplicamos los [10 puntos del Manifiesto sobre Design Justice](https://designjustice.org/read-the-principles) a la Inteligencia artificial para especular sobre futuros en los que ‘cultivamos’ datos de forma ética en lugar del modelo actual de extracción de datos, construimos una metáfora basada en la agricultura comunitaria, haciéndola más accesible y abierta a la exploración, entrelazando tecnologías ancestrales para imaginar y activar. 
+
+Un ejemplo de escenario sería el que se basa en el conocimiento ancestral de la MILPA, que consiste en el co-cultivo de cosechas. La MILPA es un método de cultivo originario de Mesoamérica, muy presente en  la península de Yucatán.  Uno de los ejemplos más famosos son las Tres Hermanas: el co-cultivo de fríjol negro, maíz y calabaza. 
+
+Las MILPAS no son sólo una buena práctica agrícola, sino también una metáfora de la interdependencia de nuestras comunidades, tanto humanas como no humanas, así como de la solidaridad y la sostenibilidad.
 
 ![IA y Design Justice](/media/captura-de-pantalla-2024-12-12-a-las-11.47.19.png "IA y Design Justice")
 
