@@ -67,4 +67,4 @@ Desde hace mucho años las personas que formamos parte de Platoniq estamos crean
 
 **IdeaCamp.** Otros proyectos recientemente impulsados por Platoniq también plantean con fuerza el rol de quien desarrolla un proyecto en las comunidades que resultan afectadas por estas intervenciones. En [Idea Camp 2017](https://ideacamp2017.eu/) 50 Idea Makers provenientes de muchos países europeos y vecinos de Europa se han encontrado para avanzar sus proyectos e intercambiar inspiraciones y contaminaciones. Platoniq ha desarrollado las metodologías que ayudaron a transformar estas ideas en proyectos avanzados y ha centrado sus planteamientos justamente en perspectivas críticas sobre roles en comunidades, priorizando el impacto de los procesos por encima de las intenciones de los/las ideadores/as y creando un ambiente fértil para compartir conocimientos y herramientas. 
 
-![](/media/captura-de-pantalla-2024-09-05-a-las-17.17.37.png)
+![IdeaCamp](/media/captura-de-pantalla-2024-09-05-a-las-17.17.37.png "IdeaCamp")
