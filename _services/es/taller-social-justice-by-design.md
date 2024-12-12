@@ -28,21 +28,7 @@ Este taller es una formación inspirada a nuestra experiencia y práctica en los
 
 # ¿Qué resultados buscamos?
 
-Distribución justa de beneficios y cargas
-
-Participación justa
-
-Implicación significativa
-
-Reconocimiento de las tradiciones
-
-Identificación de formas de opresión
-
-Personas en el centro
-
-Co-producción
-
-Planteo de desafíos profundos
+{% numbers { "items": [{"label":"Distribución justa de beneficios y cargas"},{"label":"Participación justa"},{"label":"Implicación significativa"},{"label":"Reconocimiento de las tradiciones"},{"label":"Identificación de formas de opresión"},{"label":"Poner a las personas en el centro"},{"label":"Codiseño y coprodución "},{"label":"Planteo de desafíos profundos"}] } %}
 
 # _
 
