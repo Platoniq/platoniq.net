@@ -24,7 +24,7 @@ El método del proyecto es un programa de «formación de formadores», en el qu
 
 # \-
 
-# Qué resultados buscamos
+# ¿Qué resultados buscamos?
 
 {% metrics { "items": [{"text":"Formar un equipo de facilitadores "},{"text":"Alinear objetivos"},{"text":"Comprensión de coresponsabilidades"},{"text":"Capacitar sobre el qué y el cómo"},{"text":"Visión global del proceso"},{"text":"Abordaje de la complejidad"},{"text":"Mezcla de estilos de aprendizaje"},{"text":"Cohesión de grupos"}] } %}
 
@@ -32,12 +32,12 @@ El método del proyecto es un programa de «formación de formadores», en el qu
 
 # ¿Cómo lo conseguimos?
 
-* Mediante prácticas de pensamiento estructurado y creativo, cualquier persona de su equipo puede aumentar el impacto de su programa
-* Colabore, imagine escenarios y tenga en cuenta diferentes perspectivas mientras trabaja en sus retos.
-* Centre su visión en grupos de beneficiarios y usuarios reales. 
-* Estructure sus colaboraciones y redes de influencia
-* Desarrolle un ecosistema interno más fuerte y una estructura a largo plazo
-* Hable con su público y desarrolle su narrativa
+* Mediante prácticas de pensamiento estructurado y creativo, cualquier persona de su equipo puede aumentar el impacto de su programa.
+* Colaborando, imaginando escenarios y teniendo en cuenta diferentes perspectivas mientras se trabaja en los retos.
+* Centrando la visión en grupos de beneficiarios y usuarios reales. 
+* Estructurando las colaboraciones y redes de influencia.
+* Desarrollando un ecosistema interno más fuerte y una estructura a largo plazo.
+* Desarrollando una narrativa propia que permita hablar con su público.
 
 # _
 
