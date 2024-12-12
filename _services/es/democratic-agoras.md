@@ -13,9 +13,15 @@ call_to_action:
 Image:
   path: /media/services/gif01.gif
   alt: Platoniq
-description: Diseñamos procesos participativos abiertos para debatir y trabajar
-  planes de acción concretos y consensuados con la ciudadanía a través de una
-  facilitación creativa de eventos híbridos seguros e inclusivos.
+description: >-
+  Diseñamos procesos participativos abiertos para debatir y trabajar planes de
+  acción concretos y consensuados con la ciudadanía a través de una facilitación
+  creativa de eventos híbridos seguros e inclusivos.
+
+
+
+
+  {% metrics { "items": [{"number":"Usuarios","text":"100K"}] } %}
 image:
   path: /media/services/symbol_innovacio.png
   alt: Visiones audaces
