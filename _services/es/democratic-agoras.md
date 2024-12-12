@@ -34,7 +34,10 @@ El modelo del Ágora Democrática integra, **tanto la dimensión física cómo l
 
 # _
 
-# ¿Cómo lo conseguimos?
+* # ¿Cómo lo conseguimos?
+* Creando espacios autogestionados de diálogo o deliberación sobre un tema concreto, con el fin de elaborar propuestas conjuntas y específicas.
+* Ofreciendo un espacio digital donde recoger y priorizar las propuestas realizadas en las diferentes Ágoras.
+* Acompañando en el proceso de elaboración de programas electorales (partidos políticos), líneas estratégicas (organizaciones) o un conjunto de propuestas políticas resultantes del proceso participativo.
 
 # _
 
