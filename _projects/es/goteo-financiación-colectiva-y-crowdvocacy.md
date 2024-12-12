@@ -20,9 +20,7 @@ description: >-
   En Goteo no ofrecemos solamente financiación, sino que somos un 
 
   equipo de personas que acompañan a los proyectos y les asesoran paso por
-   paso. Somos facilitadoras de alianzas y creamos comunidad alrededor de cada campaña.
-
-  Somos[](https://stats.goteo.org/home/es) transparentes y comprometidos con la Economía Social y Solidaria y la transformación social.
+   paso. Somos facilitadoras de alianzas y creamos comunidad alrededor de cada campaña. Somos transparentes y comprometidos con la Economía Social y Solidaria y la transformación social.
 budget: "600.000"
 private_percentage: 60%
 public_percentage: 40%
@@ -61,3 +59,11 @@ equipo de personas que acompañan a los proyectos y les asesoran paso por
  paso. **Somos facilitadoras de alianzas y creamos comunidad alrededor de cada campaña.**
 
 Somos **[transparentes](https://stats.goteo.org/home/es)**, **rigurosos** (de los 9.796 proyectos recibidos, 2.654 acabaron por publicarse) y **comprometidos con la Economía Social y Solidaria y la transformación social.**
+
+
+
+# _
+
+# Proyectos relacionados
+
+A medida que nos adentramos en una época de inevitable disminución de los ingresos fiscales y aumento de los costes sociales, será cada vez más importante que los ciudadanos, las empresas y otros agentes diversos se apoyen mutuamente aportando su tiempo, sabiduría y dinero en la medida de sus posibilidades, con el fin de sostener comunidades habitables. LOCAL GOOD YOKOHAMA pretende crear una circulación de servicios, bienes, dinero, personas e información, y crear oportunidades para que los ciudadanos y las empresas participen en actividades que mejoren el área local «Local GOOD = Suteki na Ii Koito» tanto desde Internet como desde la escena local más allá de Internet. El objetivo es crear oportunidades para que los ciudadanos y las empresas participen en actividades que mejoren el área local, tanto en internet como en sitios locales más allá de internet.
