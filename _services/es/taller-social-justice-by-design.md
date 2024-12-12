@@ -55,6 +55,14 @@ Estudiamos prácticas globales alineadas con el Design Justice pero especialment
 
 # _
 
+# Metodología destacada
+
+Aplicamos los [10 puntos del Manifiesto sobre Design Justice](https://designjustice.org/read-the-principles) a la Inteligencia artificial para especular sobre futuros en los que ‘cultivamos’ datos de forma ética en lugar del modelo actual de extracción de datos, construímos una metáfora basada en la agricultura comunitaria, haciéndola más accesible y abierta a la exploración.
+
+![IA y Design Justice](/media/captura-de-pantalla-2024-12-12-a-las-11.47.19.png "IA y Design Justice")
+
+# _
+
 # Proyectos relacionados
 
 **CultureLabs.** Algunos de los principios clave de la Design Justice interpelan las perspectivas desde las que Platoniq ha estado y sigue construyendo sus procesos, metodologías e iniciativas. Por ejemplo, entre los proyectos con los que estamos colaborando actualmente, [CultureLabs ](https://culture-labs.eu/)trata de generar procesos de inclusión a través de las herramientas del patrimonio cultural de diferentes comunidades. Las metodologías e intervenciones que hemos desarrollado están enfocadas en crear “puentes” para la participación, centrando los procesos de co-creación que se van a desarrollar en las experiencias vividas y prioridades de las comunidades mismas. Esto, por ejemplo, significa dinamizar procesos de co-creación que integran en su estructura una participación constante de las comunidades, más que tratar a las personas participantes como usuarias o beneficiarias sólo en momentos específicos (“Diseñar CON, más bien que PARA”). 
