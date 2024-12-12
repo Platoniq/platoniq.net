@@ -22,7 +22,7 @@ description: >-
   equipo de personas que acompañan a los proyectos y les asesoran paso por
    pas**o. Somos facilitadoras de alianzas y creamos comunidad alrededor de cada campaña.**
 
-  Somos **[transparentes](https://stats.goteo.org/home/es)** y **comprometidos con la Economía Social y Solidaria y la transformación social.**
+  **Somos [transparentes](https://stats.goteo.org/home/es) y comprometidos con la Economía Social y Solidaria y la transformación social.**
 budget: "600.000"
 private_percentage: 60%
 public_percentage: 40%
