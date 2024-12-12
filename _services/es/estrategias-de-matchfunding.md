@@ -25,11 +25,7 @@ Al matchfunding se une la comunidad y la ciudadanía implicada en los proyectos 
 
 # ¿Qué resultados buscamos?
 
-Colaboración público-privada
-
-Revitalizar el territorio
-
-Empoderar a la comunidad
+{% metrics { "items": [{"text":"Colaboración público-privada"},{"text":"Revitalizar el territorio"},{"text":"Empoderar a la comunidad"}] } %}
 
 # \-
 
