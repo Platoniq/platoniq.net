@@ -35,8 +35,6 @@ Además, somos uno de los responsables de **desarrollar aplicaciones de la tecno
 
 {% metrics { "items": [{"text":"Promover cultura libre"},{"text":"Reforzar el procomún"},{"text":"Más transparencia y rendición de cuentas"},{"text":"Empoderar digitalmente a las comunidades"},{"text":"Conectar agentes"},{"text":"Facilitar procesos organizativos"}] } %}
 
-
-
 # _
 
 # ¿Cómo lo conseguimos?
@@ -49,14 +47,6 @@ Platoniq es a la vez un laboratorio de innovación ciudadana y una incubadora de
 * Potenciamos el sentido de pertenencia de las comunidades a la hora de decidir sus propias normas, fomentando la auto-regulación y la autonomía.
 * Programamos tecnología específicamente diseñada para el empoderamiento de las comunidades.
 * Conectamos agentes responsables de tomar decisiones y participantes para que la participación ciudadana sea efectiva en todas las fases del proceso.
-
-# _
-
-# Goteo como red social y herramienta de crowdvocacy
-
-Una de las características de nuestros diseños es su voluntad de incidencia en las instituciones públicas. Ejemplo de ello es Goteo, nuestra plataforma de crowdfunding cívico que además de impulsar la realización de proyectos ha permitido que determinados colectivos, como el [Sindicato de vendedores ambulantes de Barcelona](https://www.goteo.org/project/top-manta-bcn), el [Sindicato de Inquilinas e inquilinos](https://www.goteo.org/project/sindicat-de-llogaters-i-llogateres), los [Mensakas](https://www.goteo.org/project/mensakas--app-de-menjar-a-domicili-responsable) o [las Kellys](https://www.goteo.org/project/las-kellys) se organicen y generen presión sobre las instituciones sobre un tema concreto. 
-
-Entendemos que la comunidad, en tiempos de crisis, responde autoorganizándose para dar **respuesta colectiva a través del crowdvocacy** (o "gobierno de la multitud") que es como llamamos al proceso distribuido y coordinado entre diferentes plataformas donde las iniciativas cívicas pueden amplificar su influencia, obtener recursos, y estimular el liderazgo de la difusión para los promotores de iniciativas cívicas.
 
 # _
 
