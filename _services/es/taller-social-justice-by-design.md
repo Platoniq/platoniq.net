@@ -21,10 +21,7 @@ call_to_action:
 ---
 La [Design justice](http://designjusticenetwork.org/) es un campo teórico y práctico que se ocupa de cuestionar cómo el diseño de objetos, procesos y sistemas influye en la distribución de riesgos, daños y beneficios entre varios grupos de personas. La Design Justice pone el foco sobre las formas en que a través del diseño se reproducen, visibilizan y / o desafían formas de opresión y dominación. 
 
-
-La Design Justice replantea los procesos de diseño, pone en el centro a las personas que normalmente están marginadas por estos, y utiliza prácticas colaborativas y creativas para abordar los desafíos más profundos a los que se enfrentan nuestras comunidades.
-
-La Design Justice también es un movimiento social en crecimiento, que apunta a asegurar una distribución más equitativa de los beneficios y cargas que conllevan los procesos de diseño; una participación justa y significativa; y el reconocimiento de las tradiciones en cuanto a diseño, conocimiento y prácticas de las comunidades implicadas.
+Este taller es una formación inspirada a nuestra experiencia y práctica en los marcos Design Justice y Safer spaces. Esta formación tiene que cómo objetivo general inspirar las participantes en darse cuenta de cómo todo proyecto, servicios, proceso está montado según principios de diseño. Este diseño puede ser excluyente o puede tomar en cuenta las experiencias y necesidades de las comunidades y personas afectadas por dicho proyecto o proceso. El taller abre reflexiones sobre el poder del diseño de procesos más justos + inclusivos, y esto es aplicable tanto al ámbito de la cultura, cómo de la governance participativa, cómo de diseño y desarrollo de plataformas, cómo de procesos participativos. 
 
 # \-
 
@@ -50,10 +47,9 @@ Planteo de desafíos profundos
 
 # ¿Cómo lo conseguimos?
 
-Desde hace mucho años las personas que formamos parte de Platoniq estamos creando cultura, procesos y herramientas desde una mirada situada geográficamente en la zona del mediterráneo. Exploramos y creemos en una innovación social y cultural que no necesariamente tiene porqué reproducir modelos anglosajones en sus enfoques, lenguaje, modelos y formas relacionales. Queremos estudiar prácticas globales alineadas con el Design Justice pero especialmente las ubicadas y que tienen al igual que Platoniq un enfoque mediterráneo. Intuimos que, como ya viene proponiéndose desde la alimentación y los cuidados, puede haber un estilo propio mediterráneo que genere otro tipo de calidad y bienestar alrededor del diseño de servicios, productos y procesos. Nuestro reto es guiarnos por el deseo y la ilusión de crear nodos y ejes de la Design Justice, tejiendo redes con una multitud de realidades burbujeantes que ya existen y que juntas crean impacto positivo e innovación continua. 
+Desde hace mucho años las personas que formamos parte de Platoniq estamos creando cultura, procesos y herramientas desde una mirada situada geográficamente en la zona del mediterráneo. Exploramos y creemos en una innovación social y cultural que no necesariamente tiene porqué reproducir modelos anglosajones en sus enfoques, lenguaje, modelos y formas relacionales. 
 
-
-
+Estudiamos prácticas globales alineadas con el Design Justice pero especialmente las ubicadas y que tienen al igual que Platoniq un enfoque mediterráneo. Intuimos que, como ya viene proponiéndose desde la alimentación y los cuidados, puede haber un estilo propio mediterráneo que genere otro tipo de calidad y bienestar alrededor del diseño de servicios, productos y procesos. Nuestro reto es guiarnos por el deseo y la ilusión de crear nodos y ejes de la Design Justice, tejiendo redes con una multitud de realidades burbujeantes que ya existen y que juntas crean impacto positivo e innovación continua. 
 
 ![Taller sobre justícia en el diseño](/media/unnamed.png "Taller sobre justícia en el diseño")
 
