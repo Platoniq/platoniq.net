@@ -47,4 +47,4 @@ Creemos que tanto el espacio físico como los métodos utilizados para diseñarl
 
 **[IdeaCamp:](https://ideacamp2017.eu/)** Festival de tres días que acompañaba 50 ideas a transformarse en 50 proyectos. La formación a facilitadoras que hicimos fue formar partners de los otros hubs para que facilitaran los momentos metodológicos junto a nosotras.
 
-![Playbooks](/media/unnamed.jpg "Playbooks")
+![Moving Communities](/media/unnamed.jpg "Moving Communities")
