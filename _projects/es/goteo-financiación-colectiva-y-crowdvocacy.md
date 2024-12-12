@@ -10,7 +10,7 @@ subtitle: >-
 
   ultraderecha, frente al negacionismo de la emergencia climática y las 
 
-  teorías de la conspiración, **Goteo sigue siendo la plataforma comunitaria de financiación colectiva que construye el futuro entre todas.**
+  teorías de la conspiració**n, Goteo sigue siendo la plataforma comunitaria de financiación colectiva que construye el futuro entre todas.**
 banner_image:
   path: /media/projects/captura-de-pantalla-2024-12-10-a-las-16.37.46.png
   alt: Goteo
