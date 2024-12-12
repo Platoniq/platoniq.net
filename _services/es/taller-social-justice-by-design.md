@@ -11,7 +11,8 @@ image:
   path: /media/services/cultura-futura.png
   alt: Cultura Futura
 collaborators:
-  - eurocrowd
+  - culturelabs
+  - ECF
 call_to_action:
   image_path: /media/services/gif01.gif
   image_alt: ¿Quieres saber más?
