@@ -42,11 +42,11 @@ Este taller es una formación inspirada a nuestra experiencia y práctica en los
 
 # Metodología destacada
 
-Aplicamos los [10 puntos del Manifiesto sobre Design Justice](https://designjustice.org/read-the-principles) a la Inteligencia artificial para especular sobre futuros en los que ‘cultivamos’ datos de forma ética en lugar del modelo actual de extracción de datos, construimos una metáfora basada en la agricultura comunitaria, haciéndola más accesible y abierta a la exploración, entrelazando tecnologías ancestrales para imaginar y activar. 
+Aplicamos los [10 puntos del Manifiesto sobre Design Justice](https://designjustice.org/read-the-principles) a la Inteligencia artificial para especular sobre futuros en los que ‘cultivamos’ datos de forma ética en lugar del modelo actual de extracción de datos.
 
-Un ejemplo de escenario sería el que se basa en el conocimiento ancestral de la MILPA, que consiste en el co-cultivo de cosechas. La MILPA es un método de cultivo originario de Mesoamérica, muy presente en  la península de Yucatán.  Uno de los ejemplos más famosos son las Tres Hermanas: el co-cultivo de fríjol negro, maíz y calabaza. 
+A través de un enfoque visual y narrativo y utilizando referencias a los orígenes de los algoritmos como cartomancia (Dzodan, 2021), queremos explorar, desde una perspectiva crítica y antirracista, el impacto de la inteligencia artificial en la sociedad y llegar a proponer acciones para transformar nuestro futuro. La actividad será llevada a cabo en un primer momento de manera colectiva para introducir rápidamente los temas fundamentales y, en seguida, en subgrupos de trabajo. La dinámica permitirá a los grupos analizar objetos tecnológicos (e.j. face ID, plataformas de entrevistas de trabajo basadas en IA), explorar valores y principios clave para lidiar con los retos impuestos por el uso de esas tecnologías y las cuestiones éticas relacionadas con la IA. Luego, trabajaremos en mapear y posicionarnos cómo stakeholders en esas líneas del tiempo, sean o no expertas en tecnología, explorando nuestras aportaciones desde nuestras experiencias en la co-construcción de futuros más justos.
 
-Las MILPAS no son sólo una buena práctica agrícola, sino también una metáfora de la interdependencia de nuestras comunidades, tanto humanas como no humanas, así como de la solidaridad y la sostenibilidad.
+
 
 ![IA y Design Justice](/media/captura-de-pantalla-2024-12-12-a-las-11.47.19.png "IA y Design Justice")
 
