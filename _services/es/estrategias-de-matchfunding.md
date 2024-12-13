@@ -58,9 +58,15 @@ Hacemos consultoría estratégica basándonos en el estudio comparativo entre la
 
 ![Decidim Barcelona](/media/captura-de-pantalla-2024-12-13-a-las-16.28.55.png "Decidim Barcelona")
 
+También aplicamos las bases del matchfunding para promover cuestiones sociales, como hicimos con el programa MatchImpulsa, un programa transversalmente feminista para la plataformación digital de la Economía Social Solidaria y colaborativa de Barcelona.
 
+Este programa innovador tuvo como objetivo potenciar y escalar proyectos de la Economía Social y Solidaria y colaborativa, reforzar la colaboración local, la proyección internacional, la adaptación de la perspectiva de género, de medidas y planes de igualdad entornos digitales de empresas y organizaciones y acelerar la economía digital como un procomún, a través de tres líneas estratégicas:
 
+* Plataformización de empresas, a través del digitESSt como herramienta de autodiagnóstico y la digiDIETA como facilitadora de píldoras formativas para la digitalización transversalmente feminista de organizaciones de la ESS.  
+* Colaboraciones estratégicas para MatchTech, MatchIgualtat y MatchUniversitat.
+*  Creación y mantenimiento de los ecosistemas estratégicos en la ciudad de Barcelona.
 
+![MatchImpulsa](/media/línies_estratègiques-1024x721.webp "MatchImpulsa")
 
 # _
 
