@@ -27,6 +27,8 @@ Al matchfunding se une la comunidad y la ciudadanía implicada en los proyectos 
 
 {% metrics { "items": [{"text":"Dinero aportado","number":"1.1M"},{"text":"Proyectos exitosos","number":"90%"},{"text":"Convocatorias","number":"12"}] } %}
 
+![FEM](/media/captura-de-pantalla-2024-12-13-a-las-15.59.08.png "FEM")
+
 # \-
 
 # ¿Cómo lo conseguimos?
@@ -42,6 +44,10 @@ Estas son las **fases de trabajo** por las cuales pasa una convocatoria de crowd
 * Periodo de asesoramiento premium.
 * Lanzamiento de las campañas
 * Reconocimiento de los proyectos cofinanciados, informes de recaudación y transferencia de los fondos.
+
+El servicio incluye análisis de datos y visualización de resultados
+
+![Datos y Resultados](/media/captura-de-pantalla-2024-12-13-a-las-16.47.32.png "Datos y Resultados")
 
 # _
 
