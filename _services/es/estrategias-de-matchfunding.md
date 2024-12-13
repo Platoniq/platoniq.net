@@ -49,7 +49,9 @@ El matchfunding supone, no sólo una nueva manera de asignar y repartir los fond
 
 De modo que se unen dos procesos y dos modos de financiar la cultura, la participación, la educación, las iniciativas ciudadanas en una misma herramienta y se transforma el proceso de adjudicación de ayudas, generalmente restringido, en un fenómeno abierto, participativo y social.
 
-![Matchfunding](/media/captura-de-pantalla-2024-12-11-a-las-18.07.01.png "Matchfunding")
+**Diputación Foral de Gipuzkoa.** A través de un acuerdo con la Diputación se llevó a cabo la convocatoria de matchfunding META!. que ayudó a desarrollar un total de 92 proyectos ciudadanos, con una aportación de 886.871 euros al tejido cultural del territorio. De esta manera, la Diputación de Gipuzkoa se afianzó como herramienta a disposición de los agentes culturales para financiar iniciativas, enriquecer y fortalecer el tejido local. 
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/273906415?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="META!Kultura. Matchfunding for Culture in the Gipuzkoa region."></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 **Arrela't.** Las Oficinas Jóvenes y servicios de promoción económica de las 6 comarcas del Alt Pirineu y Aran, con el apoyo de los grupos Leader, de la DGJ, del Ateneo Cooperativo del Alt Pirineu, de IDAPA y con la colaboración de las diputaciones de Lleida y Girona acordaron poner en marcha una campaña de micromecenazgo público-privada.
 
