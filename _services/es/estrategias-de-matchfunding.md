@@ -23,7 +23,7 @@ Al matchfunding se une la comunidad y la ciudadanía implicada en los proyectos 
 
 # _
 
-# ¿Qué resultados buscamos?
+# Impacto hasta el momento
 
 {% metrics { "items": [{"text":"Dinero aportado","number":"1.1M"},{"text":"Proyectos exitosos","number":"90%"},{"text":"Convocatorias","number":"12"}] } %}
 
