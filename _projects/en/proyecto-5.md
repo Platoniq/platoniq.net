@@ -51,11 +51,11 @@ In the first edition, three collectives from Barcelona, Furia Mexicana, Puerta d
 
 In addition to the three workshops, together with four content creators coordinated by La Fera: Luna Andrade, Patricia Vizcaíno, Pedro García Mejía and Shalana Rodríguez, new narrative forms were explored by talking about migratory conflicts, the migrant economy, the role of Europe or the advantages of social and solidarity cooperativism. Each of them contributed an audiovisual piece that triggered debate, from which a staged response had to be developed. **The result is a series of pieces of a diverse nature that seek to move the public and raise awareness of these issues.**
 
-{% video { "title": "Temps Migrant", "url": "https://videos.laguixeta.cat/w/mfZfsuwX1etvabXcfNdWNs" } %}
+{% video { "title": "Temps Migrant", "url": "https://videos.laguixeta.cat/videos/embed/a40e7792-f959-4775-a474-e4d8eac6c7de" } %}
 
 In the second edition, we worked with a group of single migrant mothers. Through different dynamics of the Legislative Theatre, we identified basic scenes from their daily lives that had to do with some of the dimensions of migrant oppression. **The challenge was then to generate together with them an emancipatory story** that went through identifying the opportunities for improvement that would be necessary so that experiences like this would not be repeated.
 
-{% video { "title": "Madres Migrantes", "url": "https://peertube.laguixeta.cat/w/d7x4g4CNhaUEyDWV6zZCrp" } %}
+{% video { "title": "Madres Migrantes", "url": "https://videos.laguixeta.cat/w/d7x4g4CNhaUEyDWV6zZCrp" } %}
 
 ### A migrant constitution
 
