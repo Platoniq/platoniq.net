@@ -55,7 +55,7 @@ In addition to the three workshops, together with four content creators coordina
 
 In the second edition, we worked with a group of single migrant mothers. Through different dynamics of the Legislative Theatre, we identified basic scenes from their daily lives that had to do with some of the dimensions of migrant oppression. **The challenge was then to generate together with them an emancipatory story** that went through identifying the opportunities for improvement that would be necessary so that experiences like this would not be repeated.
 
-{% video { "title": "Madres Migrantes", "url": "https://videos.laguixeta.cat/w/d7x4g4CNhaUEyDWV6zZCrp" } %}
+{% video { "title": "Madres Migrantes", "url": "https://videos.laguixeta.cat/videos/embed/045e3d18-abb1-4850-b643-ced95ff3836d" } %}
 
 ### A migrant constitution
 
