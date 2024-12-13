@@ -54,9 +54,11 @@ El servicio incluye, además, análisis de datos y visualización de resultados.
 
 # Metodología destacada
 
-Hacemos consultoría estratégica basándonos en el estudio comparativo entre las convocatorias de matchfunding e iniciativas de presupuestos participativos. Con la experiencia de más de 20 convocatorias de matchfundings en Goteo y el acompañamiento a Decidim Barcelona en los presupuestos con la licitación publica de Decidim Barcelona. 
+Hacemos consultoría estratégica basándonos en el estudio comparativo entre las convocatorias de [matchfunding e iniciativas de presupuestos participativos](https://journal.platoniq.net/es/wilder-journal-1/deep-dives/democratic-funding/). Dos casos paradigmáticos de esta combinación de crowdfunding y 
+presupuestos participativos que llamamos “Matchfunding” son la 
+convocatoria [Metakultura](https://meta.goteo.org/), por su parte ya acumula 6 ediciones exitosas (2016-2021) con un total de 94 proyectos financiados y 886.871€ distribuidos, como programa impulsado por la Diputación Foral de Gipuzkoa, quien aporta hasta 70.000€ para el impulso de proyectos culturales en la provincia, como herramienta a disposición de los agentes culturales para financiar iniciativas que enriquecen y fortalecen el tejido local, así como “[Conjuntament](https://www.goteo.org/call/conjuntament)”, que significa “en cooperación” en catalán, llevada a cabo por el Ayuntamiento de Barcelona en 2018, junto con la plataforma Goteo y la organización Barcelona Activa, con el objetivo de financiar proyectos sociales propuestos por la ciudadanía, conectando la democracia  deliberativa con el presupuesto público con la que salieron adelante 22 iniciativas cofinanciadas a través de 2.629 aportaciones con un reparto total de 231.336€, entre donaciones ciudadanas y los 96.000€ aportados en matchfunding.
 
-![Decidim Barcelona](/media/captura-de-pantalla-2024-12-13-a-las-16.28.55.png "Decidim Barcelona")
+![Conjuntament](/media/captura-de-pantalla-2024-12-13-a-las-17.30.23.png "Conjuntament")
 
 También aplicamos las bases del matchfunding para promover cuestiones sociales, como hicimos con el programa MatchImpulsa, un programa transversalmente feminista para la plataformación digital de la Economía Social Solidaria y colaborativa de Barcelona.
 
