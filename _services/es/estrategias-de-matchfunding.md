@@ -43,6 +43,20 @@ Estas son las **fases de trabajo** por las cuales pasa una convocatoria de crowd
 * Lanzamiento de las campañas
 * Reconocimiento de los proyectos cofinanciados, informes de recaudación y transferencia de los fondos.
 
+# _
+
+# Metodología destacada
+
+Hacemos consultoría estratégica basándonos en el estudio comparativo entre las convocatorias de matchfunding e iniciativas de presupuestos participativos. Con la experiencia de más de 20 convocatorias de matchfundings en Goteo y el acompañamiento a Decidim Barcelona en los presupuestos con la licitación publica de Decidim Barcelona. 
+
+![Decidim Barcelona](/media/captura-de-pantalla-2024-12-13-a-las-16.28.55.png "Decidim Barcelona")
+
+
+
+
+
+# _
+
 # Proyectos relacionados
 
 El matchfunding supone, no sólo una nueva manera de asignar y repartir los fondo, sino además y sobre todo, diseñar un nuevo escenario de funciones y responsabilidades entre todos los agentes implicados, que tengan como resultado el reforzamiento de la función y la vida pública. La administración pública o las entidades convocantes se pueden abrir a las nuevas posibilidades, sin que éstas resulten sustitutivas de las anteriores, sino que tengan un efecto multiplicador.
