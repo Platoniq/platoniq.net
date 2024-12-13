@@ -34,7 +34,7 @@ Al matchfunding se une la comunidad y la ciudadanía implicada en los proyectos 
 
 # ¿Cómo lo conseguimos?
 
-Estas son las **fases de trabajo** por las cuales pasa una convocatoria de crowdfunding
+Estas son las **fases de trabajo** por las cuales pasa una convocatoria de crowdfunding:
 
 * Redacción de las bases y planificación con la institución convocante.
 * Ajustes, programación del algoritmo matchfunding y creación de la página de la convocatoria.
@@ -46,7 +46,7 @@ Estas son las **fases de trabajo** por las cuales pasa una convocatoria de crowd
 * Lanzamiento de las campañas
 * Reconocimiento de los proyectos cofinanciados, informes de recaudación y transferencia de los fondos.
 
-El servicio incluye análisis de datos y visualización de resultados
+El servicio incluye, además, análisis de datos y visualización de resultados.
 
 ![Datos y Resultados](/media/captura-de-pantalla-2024-12-13-a-las-16.47.32.png "Datos y Resultados")
 
