@@ -60,4 +60,8 @@ Platoniq es a la vez un laboratorio de innovación ciudadana y una incubadora de
 
 ![Decide Madrid](/media/captura-de-pantalla-2024-12-10-a-las-10.35.28.png "Decide Madrid")
 
+**Agore Democratiche.** Un marco para la tecnopolítica y la democracia participativa que produjo varios spin-offs, entre ellos la plataforma de votación en línea Consiglio Remoto y la plataforma Agora Democratiche para el Partido Democrático Italiano (PD). La plataforma fue lanzada por el entonces secretario del PD y ex primer ministro de Italia, Enrico Letta. Agora Democratiche se basó en la plataforma de código abierto Decidim y ofrece debates en línea, eventos en línea y coordinación de eventos físicos. La plataforma consiguió más de 100.000 suscripciones en pocos meses.
+
+![Agora Democratiche](/media/captura-de-pantalla-2024-12-13-a-las-13.25.57.png "Agora Democratiche")
+
 Son muchas las organizaciones con las que hemos trabajado en sus procesos de participación y decisión, estas son algunas de ellas: United Cities and Local Governments (UCLG), International Observatory on Participatory Democracy (OIDP), BCNeComú, CATeComú, Som Conexió, Coincidim (ESF), ANECA, Universidad de Barcelona.
