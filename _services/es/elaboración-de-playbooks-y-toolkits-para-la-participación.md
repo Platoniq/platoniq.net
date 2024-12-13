@@ -1,7 +1,7 @@
 ---
 layout: service
 slug: playbooks
-title: " Justicia Espacial - Rediseñar los Espacios para la Participación Ciudadana"
+title: Diseño de espacios para la participación ciudadana (Justicia Espacial)
 description: Creamos entornos físicos y digitales diseñados para fomentar el
   diálogo inclusivo y colaborativo entre ciudadanos, utilizando la justicia
   espacial como marco para impulsar la participación democrática.
