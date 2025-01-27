@@ -6,8 +6,7 @@ baseurl: ""
 url: "https://platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
 analytics_id: G-LLGWB6TLNS
 
-#repository: "https://github.com/Platoniq/platoniq.net"
-repository: "https://github.com/temp-platoniq/platoniq.net"
+repository: "https://github.com/Platoniq/platoniq.net"
 
 twitter:
   username: platoniq
