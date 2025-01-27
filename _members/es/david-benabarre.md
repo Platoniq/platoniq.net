@@ -7,7 +7,7 @@ image:
   alt: David Benabarre
 position: Desarrollador de software
 description: Desarrolla y mantiene la infraestructura digital de la
-  organización. Entre los mundos de Goteo y Decidim. Economía Social y Software
-  Libre.
+  organización. Entre los mundos de [Goteo](https://goteo.org) y
+  [Decidim](https://decidim.org). Economía Social y Software Libre.
 email: david[at]goteo.org
 ---
