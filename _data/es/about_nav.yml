@@ -1,8 +1,8 @@
 - name: Inicio
   link: /es/home
-- name: Sobre Platoniq 
+- name: Sobre Platoniq
   link: /es/about-us
-- name: Quién Somos
+- name: Quiénes Somos
   link: /es/who
 - name: Journal
   link: https://journal.platoniq.net/es/wilder-journal-1/
