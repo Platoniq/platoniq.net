@@ -3,6 +3,6 @@ slug: nn
 title: Nadia Nadesan
 type: author
 image:
-  path: /media/members/asjv-mlb_400x400-2-.jpg
+  path: /media/members/nn.jpg
 email: nadia[at]platoniq.net
 ---

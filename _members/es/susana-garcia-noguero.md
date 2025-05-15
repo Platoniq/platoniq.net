@@ -3,7 +3,7 @@ slug: sgn
 title: Susana Garcia Noguero
 type: author
 image:
-  path: /media/members/photo_2024-11-13_08-48-48.jpg
+  path: /media/members/sgn.jpg
   alt: Susana Garcia Noguero
 position: Directora ejecutiva
 description: >-
@@ -17,5 +17,5 @@ description: >-
 
   Su carrera ha estado marcada por su capacidad para emprender proyectos pioneros donde se integra el activismo digital con el uso de plataformas tecnológicas para la creación de soluciones colaborativas, enfocadas en promover la economía social y la cultura libre. A lo largo de los años, ha trabajado en el diseño de iniciativas y plataformas que buscan transformar la relación entre ciudadanía, tecnología y poder, apostando por modelos descentralizados y participativos que fomenten la libertad, la independencia como tambien la solidaridad.
 email: susana.noguero[at]platoniq.net
-linkedin: https://twitter.com/?lang=en
+linkedin: https://www.linkedin.com/in/susana-noguero-ab884499
 ---

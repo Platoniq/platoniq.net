@@ -3,7 +3,7 @@ slug: hh
 title: Harrison Hassig
 type: author
 image:
-  path: /media/members/1670928394555.jpg
+  path: /media/members/hh.jpg
   alt: Harrison Hassig
 position: Desarrollador de software
 description: Ingeniero de corazón, informático por pasión y economista por

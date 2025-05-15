@@ -3,7 +3,7 @@ slug: nn
 title: Nadia Nadesan
 type: author
 image:
-  path: /media/members/asjv-mlb_400x400-2-.jpg
+  path: /media/members/nn.jpg
   alt: Nadia Nadesan
 position: Investigación y gestión de proyectos
 description: Investigadora, diseñadora y gestora de proyectos dedicados a la

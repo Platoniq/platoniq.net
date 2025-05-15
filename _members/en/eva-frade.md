@@ -3,16 +3,16 @@ slug: ef
 title: Eva Frade
 type: author
 image:
-  path: /media/members/4y7a6525-1-.jpg
+  path: /media/members/ef.jpg
   alt: Eva Frade
 position: Lawyer and technical secretary
 description: >-
-  He manages projects and co-manages Goteo.org.
+  Manages projects and co-manages Goteo.org.
 
 
-  She also dares to facilitate groups when talking about the future of democracy. 
+  She also dares to facilitate groups when talking about the future of democracy.
 
 
-  Activist and politician by nature, she works in the administration of the foundation and its institutional representation.
+  An activist and politician by nature, she works in the administration of the foundation and its institutional representation.
 email: evafrade[at]platoniq.net
 ---
