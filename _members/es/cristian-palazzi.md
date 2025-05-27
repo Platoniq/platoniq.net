@@ -8,9 +8,9 @@ image:
 position: Comunicación ciudadana e Incidencia
 description: Filósofo, profesor y activista social. Me dedico a la innovación
   para la transformación social, diseñando y ejecutando proyectos de impacto.
-  Imparte docencia en filosofía social y globalización y asesora a
-  varias  organizaciones dedicadas a la asistencia social en materia de
-  desarrollo ético.
+  Imparto docencia en filosofía social y globalización y asesoro a varias
+  organizaciones dedicadas a la asistencia social en materia de desarrollo
+  ético.
 email: cristianpalazzi[at]platoniq.net
 facebook: https://www.facebook.com/cpalazz1
 twitter: https://x.com/c_palazzi
