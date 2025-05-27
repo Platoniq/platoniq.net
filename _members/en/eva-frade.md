@@ -6,13 +6,11 @@ image:
   path: /media/members/ef.jpg
   alt: Eva Frade
 position: Lawyer and technical secretary
-description: >-
-  Manages projects and co-manages Goteo.org.
-
-
-  She also dares to facilitate groups when talking about the future of democracy.
-
-
-  An activist and politician by nature, she works in the administration of the foundation and its institutional representation.
+description: I am a lawyer deeply involved in digital culture, social finance
+  and participatory democracy. I coordinate Goteo.org, I am financial controller
+  and Technical Secretary of the Platoniq Foundation. I also facilitate groups
+  when talking about the future (especially if it is democratic). Activist by
+  nature, with institutional, legal and political background, always weaving
+  between numbers, people and new ways of doing things.
 email: evafrade[at]platoniq.net
 ---

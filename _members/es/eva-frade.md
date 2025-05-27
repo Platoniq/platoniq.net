@@ -6,13 +6,11 @@ image:
   path: /media/members/ef.jpg
   alt: Eva Frade
 position: Jurista y secretaria técnica
-description: >-
-  Gestiona proyectos y co-gestiona Goteo.org
-
-
-  También se atreve a facilitar grupos cuando se habla del futuro de la democracia.
-
-
-  Activista y política por naturaleza, trabaja en la administración de la fundación y en su representación institucional.
+description: Jurista metida hasta el fondo en la cultura digital, las finanzas
+  sociales y la democracia participativa. Coordino Goteo.org, soy financial
+  controller y Secretaria Técnica de la Fundación Platoniq. También me lanzo a
+  facilitar grupos cuando se habla del futuro (especialmente si es democrático).
+  Activista por naturaleza, con background institucional, legal y político,
+  siempre tejiendo entre números, personas y nuevas formas de hacer.
 email: evafrade[at]platoniq.net
 ---
