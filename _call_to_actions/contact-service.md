@@ -2,7 +2,7 @@
 uid: cta-contact-service
 en:
   title: Contact
-  content: If you want, you can also contact us filling this form
+  content: If you want, you can also contact us by completing this form
   button:
     label: Send
   image:
