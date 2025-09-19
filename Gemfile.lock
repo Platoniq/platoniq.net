@@ -10,7 +10,7 @@ GIT
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
   revision: 4287e795cec2e6b7783b73e12bea5c931c149679
-  branch: develop
+  branch: temp-restore
   specs:
     jekyll-theme-platoniq.net (0.0.1)
       jekyll (~> 4.2)
