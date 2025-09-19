@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: 4287e795cec2e6b7783b73e12bea5c931c149679
+  revision: 95b432da842b08fe07c5f6b97f5e9bb8a45fc52e
   branch: develop
   specs:
     jekyll-theme-platoniq.net (0.0.1)
@@ -128,6 +128,7 @@ GEM
 
 PLATFORMS
   aarch64-linux
+  arm64-darwin-23
   arm64-darwin-24
   x86_64-linux
 
