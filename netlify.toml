@@ -1,6 +1,6 @@
 [build]
-  # Jekyll build command
-  command = "bundle exec jekyll build"
+  # Install dependencies then build Jekyll
+  command = "bundle install && bundle exec jekyll build"
 
   # Jekyll outputs to _site directory
   publish = "_site"
