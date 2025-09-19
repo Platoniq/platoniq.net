@@ -12,7 +12,7 @@
 # Handle your multi-language routing
 [[redirects]]
   from = "/"
-  to = "/es/"
+  to = "/es/home"
   status = 302
 
 # Handle 404s for each language
