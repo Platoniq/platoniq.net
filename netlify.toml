@@ -1,0 +1,38 @@
+[build]
+  # Install dependencies then build Jekyll
+  command = "bundle install && bundle exec jekyll build"
+
+  # Jekyll outputs to _site directory
+  publish = "_site"
+
+[build.environment]
+  # Match your .ruby-version
+  RUBY_VERSION = "3.3.0"
+
+# Handle your multi-language routing
+[[redirects]]
+  from = "/"
+  to = "/es/home"
+  status = 302
+
+# Handle 404s for each language
+[[redirects]]
+  from = "/en/*"
+  to = "/en/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/es/*"
+  to = "/es/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/cat/*"
+  to = "/cat/404.html"
+  status = 404
+
+# Catch-all 404
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
