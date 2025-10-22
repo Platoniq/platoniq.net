@@ -26,6 +26,4 @@ Canòdrom - Ateneu d'Innovació Digital i Democràtica
 
 Concepción Arenal, 165- 08027 Barcelona
 
-+34 666 769 560
-
 info@platoniq.net
