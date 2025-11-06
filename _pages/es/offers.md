@@ -2,8 +2,7 @@
 layout: offers
 slug: offers
 title: Ofertas de trabajo
-description: Si tienes ganas de innovar, tienes la mente despierta y te gusta
-  experimentar, escríbenos... nunca se sabe.
+description: Si tens ganes d’innovar, tens la ment desperta i t’agrada experimentar, escriu-nos... mai se sap.
 img:
   source: /media/site-symbols/happy-faces.png
   alt: happyt-faces-png
