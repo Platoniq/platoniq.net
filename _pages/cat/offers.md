@@ -2,10 +2,7 @@
 layout: offers
 slug: offers
 title: Ofertes de treball
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
-  dolores consectetur voluptate eos cupiditate ea alias, distinctio corporis
-  quis aspernatur consequuntur velit aliquam quae facere, dolorem ab aperiam
-  animi doloribus.
+description: Si tens ganes d’innovar, tens la ment desperta i t’agrada experimentar, escriu-nos... mai se sap.
 img:
   source: /media/site-symbols/happy-faces.png
   alt: happyt-faces-png
