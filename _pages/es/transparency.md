@@ -19,25 +19,25 @@ Image:
 ---
   **FUNDACIÓN PLATONIQ** es una Fundación sin ánimo de lucro, inscrita en el Registro de Fundaciones del Ministerio de Cultura bajo el número de registro 1438, y CIF G57728172.
 
-* Certificado Registro
+* [Certificado Registro](/media/documents/transparency/Certificado%20inscripcion%201438EDU%20PLATONIQ.pdf)
 
 Nuestra **sede social** se encuentra en CALLE FORN DE L’OLIVERA 22- 07012 PALMA (ILLES BALEARS), aunque nos encontraras en nuestra sede de BARCELONA, situada en CANODROM - Ateneu d'Innovació Digital i Democràtica, y en MADRID.
 
 La **dotación inicial** de la Fundación fue de 30.050 euros provenientes de ASOCIACIÓN PLATONIQ- SISTEMA CULTURAL, segun así consta en los documentos sociales de la Fundación.
 
-* Escritura de Constitución de la Fundación Fuentes Abiertas
+* [Escritura de Constitución de la Fundación Fuentes Abiertas](/media/documents/transparency/4134_constitucion%20de%20F%20fuentes%20abiertas.pdf)
 
 Desde su constitución en 30 de septiembre de 2011, la Fundación ha ido creciendo y ampliando sus actividades, causando modificaciones sustanciales, tanto en su estructura interna como en su propuesta visual ante el mundo que la rodea. 
 
 Asi, en fecha de 27 de febrero de 2015, dejamos atrás nuestro nombre inicial FUNDACIÓN FUENTES ABIERTAS, y pasamos a denominarnos **FUNDACIÓN GOTEO**, a fin de honrar a una de nuestras mayores actividades anuales, la plataforma de crowdfunding para proyectos de impacto social [GOTEO.ORG](http://goteo.org).
 
-* Escritura cambio de denominación a Fundación Goteo
+* [Escritura cambio de denominación a Fundación Goteo](/media/documents/transparency/780_cambio%20denominacion%20a%20FGOTEO.pdf)
 
 Seis años más tarde, en 2021, el Patronato de la Fundación decide dar un paso más. Decide que disolver la ASOCIACIÓN PLATONIQ- SISTEMA CULTURAL y que sea la Fundación la que la substituya en sus actividades, absorbiendose de esta manera el personal y las acciones que hasta ese momento se llevaban a cabo desde la entidad Fundadora.
 
 Consecuentemente, en fecha de 8 de septiembre de 2021, la Fundación pasa a denominarse **FUNDACIÓN PLATONIQ**. 
 
-* Escritura de ratificación en el cambio de denominación y estatutos de Fundación Platoniq
+* [Escritura de ratificación en el cambio de denominación y estatutos de Fundación Platoniq](/media/documents/transparency/3942%20Ratificacion%20cambio%20denominacion%20y%20estatutos%20FPLATONIQ.pdf)
 
 Estos cambios sustanciales han ampliado las lineas de acción de la Fundación, siendo actualmente los fines de la Fundación, de acuerdo a sus Estatutos;
 
@@ -77,23 +77,25 @@ Estos cambios sustanciales han ampliado las lineas de acción de la Fundación, 
 
 PLAN ACTUACIÓN
 
-* Plan Actuación Fundación Fuentes Goteo 2018
-* Plan Actuación Fundación Fuentes Goteo 2019
-* Plan Actuación Fundación Fuentes Goteo 2020
-* Plan Actuación Fundación Fuentes Goteo 2021
-* Plan Actuación Fundación Fuentes Platoniq 2022
-* Plan Actuación Fundación Fuentes Platoniq 2023
-* Plan Actuación Fundación Fuentes Platoniq 2024
+* [Plan Actuación Fundación Fuentes Goteo 2018](/media/documents/transparency/Plan%20Actuacion%202018.pdf)
+* [Plan Actuación Fundación Fuentes Goteo 2019](/media/documents/transparency/Plan%20Actuacion%202019.pdf)
+* [Plan Actuación Fundación Fuentes Goteo 2020](/media/documents/transparency/Plan%20Actuacion%202020.pdf)
+* [Plan Actuación Fundación Fuentes Goteo 2021](/media/documents/transparency/Plan%20Actuacion%202021.pdf)
+* [Plan Actuación Fundación Platoniq 2022](/media/documents/transparency/Plan%20Actuacion%202022.pdf)
+* [Plan Actuación Fundación Platoniq 2023](/media/documents/transparency/Plan%20Actuacion%202023.pdf)
+* [Plan Actuación Fundación Platoniq 2024](/media/documents/transparency/Plan%20Actuacion%202024.pdf)
+* [Plan Actuación Fundación Platoniq 2025](/media/documents/transparency/Plan%20Actuacion%202025.pdf)
+* [Plan Actuación Fundación Platoniq 2026](/media/documents/transparency/Plan%20Actuacion%202026.pdf)
 
 CUENTAS ANUALES
 
-* Cuentas anuales Fundación Fuentes Goteo 2018
-* Cuentas anuales Fundación Fuentes Goteo 2019
-* Cuentas anuales Fundación Fuentes Goteo 2020
-* Cuentas anuales Fundación Fuentes Goteo 2021
-* Cuentas anuales Fundación Fuentes Platoniq 2022
-* Cuentas anuales Fundación Fuentes Platoniq 2023
-* Cuentas anuales Fundación Fuentes Platoniq 2024
+* [Cuentas anuales Fundación Fuentes Goteo 2018](/media/documents/transparency/CCAA%202018%20-%20SUBSANACION%2007-23.pdf)
+* [Cuentas anuales Fundación Fuentes Goteo 2019](/media/documents/transparency/CUANTAS%20ANUALES%202019.pdf)
+* [Cuentas anuales Fundación Fuentes Goteo 2020](/media/documents/transparency/CUENTAS%20ANUALES%202020.pdf)
+* [Cuentas anuales Fundación Fuentes Goteo 2021](/media/documents/transparency/CCAA21%20FIRMADO.pdf)
+* [Cuentas anuales Fundación Platoniq 2022](/media/documents/transparency/ccaa2022.pdf)
+* [Cuentas anuales Fundación Platoniq 2023](/media/documents/transparency/ccaa%202023%20firmado.pdf)
+* [Cuentas anuales Fundación Platoniq 2024](/media/documents/transparency/ccaa%202024%20firmado.pdf)
 
 Las cuentas de la fundación anteriores a 2018 se pueden obtener en la pagina https://www.goteo.org/blog-section/transparency#filters.
 
