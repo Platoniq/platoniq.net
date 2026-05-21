@@ -1,5 +1,5 @@
 ---
-slug: hh
+slug: hhassig
 title: Harrison Hassig
 type: author
 image:

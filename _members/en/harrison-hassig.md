@@ -1,5 +1,5 @@
 ---
-slug: hh
+slug: hhassig
 title: Harrison Hassig
 type: author
 image:
@@ -11,4 +11,7 @@ description: Engineer at heart, a computer scientist by passion, and an
   algorithms, data science and data analysis.  Currently experimenting with
   datasets within financial markets and basketball statistics.
 email: harrison[at]platoniq.net
+facebook: null
+twitter: null
+linkedin: null
 ---
