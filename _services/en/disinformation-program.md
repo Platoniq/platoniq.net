@@ -12,6 +12,9 @@ collaborators:
 call_to_action:
   image_path: /media/services/gif01.gif
   url: Contáctanos
+  image_alt: Are you interested?
+  text: Are you interested?
+  url_text: Ask us
 ---
 A media literacy project that aims to help young people learn how **to combat misinformation.** The project brings together organisations including libraries, media literacy organisations and research institutes to develop, test and measure the impact of an innovative educational approach to combat the spread of misinformation.
 
