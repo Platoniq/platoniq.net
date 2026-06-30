@@ -15,9 +15,9 @@ collaborators:
 call_to_action:
   image_path: /media/services/gif01.gif
   url: Contáctanos
-  image_alt: platoniq
-  text: platoniq
-  url_text: platoniq
+  image_alt: Want to know more?
+  text: Want to know more?
+  url_text: Ask us
 ---
 This service aims to carry out **a participatory reflection process within an organisation, providing tools and models to promote it.**
 
