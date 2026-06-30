@@ -29,6 +29,9 @@ collaborators:
 call_to_action:
   image_path: /media/site-symbols/info.png
   url: Consúltanos
+  image_alt: Want to know more?
+  text: Want to know more?
+  url_text: Ask us
 ---
 The Democratic Agoras represent **one of the greatest experiments in participatory democracy.**
 
