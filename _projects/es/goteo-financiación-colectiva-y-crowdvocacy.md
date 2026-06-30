@@ -8,9 +8,7 @@ subtitle: >-
   sociedad más colaborativa y transparente. En un mundo cada vez más polarizado,
   consecuencia directa de la proliferación de las fake news y el auge de la 
 
-  ultraderecha, frente al negacionismo de la emergencia climática y las 
-
-  teorías de la conspiración, Goteo sigue siendo la plataforma comunitaria de financiación colectiva que construye el futuro entre todas.
+  ultraderecha, frente al negacionismo de la emergencia climática y las teorías de la conspiración, Goteo sigue siendo la plataforma comunitaria de financiación colectiva que construye el futuro entre todas.
 banner_image:
   path: /media/projects/captura-de-pantalla-2024-12-10-a-las-16.37.46.png
   alt: Goteo
@@ -19,8 +17,7 @@ date_end: 2024-12-12T17:43:00.000Z
 description: >-
   En Goteo no ofrecemos solamente financiación, sino que somos un 
 
-  equipo de personas que acompañan a los proyectos y les asesoran paso por
-   paso. Somos facilitadoras de alianzas y creamos comunidad alrededor de cada campaña. Somos transparentes y comprometidos con la Economía Social y Solidaria y la transformación social.
+  equipo de personas que acompañan a los proyectos y les asesoran paso por paso. Somos facilitadoras de alianzas y creamos comunidad alrededor de cada campaña. Somos transparentes y comprometidos con la Economía Social y Solidaria y la transformación social.
 budget: "600.000"
 private_percentage: 60%
 public_percentage: 40%
@@ -49,8 +46,6 @@ call_to_action:
 ---
 **Goteo es más que un crowdfunding,** es el barómetro de 
 las necesidades de una sociedad más colaborativa y transparente. 
-
-
 
 # _
 
