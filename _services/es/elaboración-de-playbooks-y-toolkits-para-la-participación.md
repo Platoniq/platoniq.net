@@ -12,7 +12,7 @@ collaborators:
   - ECF
 call_to_action:
   image_path: /media/services/gif01.gif
-  image_alt: ¿Quieres saber más?
+  image_alt: Want to know more?
   text: ¿Quieres saber más?
   url: Contáctanos
   url_text: Contáctanos
