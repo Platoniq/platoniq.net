@@ -13,6 +13,9 @@ collaborators:
 call_to_action:
   image_path: /media/services/gif01.gif
   url: Pregúntanos
+  image_alt: Want to know more?
+  text: Want to know more?
+  url_text: Ask us
 ---
 Goteo is a **crowdfunding** site that focuses on projects that, in addition to granting individual rewards, also generate a collective return through **the promotion of the commons, open source software and/or free content.**
 
