@@ -7,9 +7,9 @@ collaborators:
   - uoc
 call_to_action:
   image_path: /media/services/gif01.gif
-  image_alt: Platoniq
+  image_alt: ¿Quieres saber más?
   text: ¿Quieres saber más?
-  url: Platoniq2
+  url: ¡Pregúntanos!
   url_text: ¡Pregúntanos!
 Image:
   path: /media/services/symbol_cooperativa.png

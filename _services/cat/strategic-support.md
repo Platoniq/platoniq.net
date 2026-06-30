@@ -14,5 +14,5 @@ collaborators:
   - uoc
 call_to_action:
   image_path: /media/services/gif01.gif
-  url: Platoniq2
+  url: ¡Pregúntanos!
 ---
