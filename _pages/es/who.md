@@ -13,4 +13,4 @@ Image:
   path: /media/pages/drops-about-us.png
   alt: platoniq
 ---
-platoniq
+Somos un equipo de artistas, politólogos, filósofos, programadores, comunicadores y analistas convencidos de que aportando herramientas democráticas a la ciudadanía podemos construir un futuro más justo.

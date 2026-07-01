@@ -11,3 +11,4 @@ img:
 Image:
   path: /media/pages/drops-about-us.png
 ---
+We are a group of artists, political scientists, philosophers, programmers, communicators and analysts convinced that by providing citizens with democratic tools we can build a fairer future.
