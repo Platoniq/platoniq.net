@@ -7,7 +7,7 @@ symbol:
   alt: contact
 title: Contacto
 call_to_action: cta-contact-simple
-description: platoniq
+description: "Platoniq "
 Image:
   path: /media/pages/banner-ingles.jpg
   alt: platoniq

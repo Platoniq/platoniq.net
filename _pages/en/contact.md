@@ -6,7 +6,7 @@ call_to_action: cta-contact-simple
 symbol:
   path: /media/site-symbols/contact.png
   alt: contact
-description: ""
+description: Platoniq
 Image:
   path: /media/pages/banner-ingles.jpg
 ---
