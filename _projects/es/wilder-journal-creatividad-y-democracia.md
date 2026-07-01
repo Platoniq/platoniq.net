@@ -2,9 +2,8 @@
 layout: project
 slug: Wilder-Journal
 state: open
-title: "Wilder Journal: Creatividad y Democracia"
-subtitle: |-
-  Este Journal que tienes “entre manos” es la manera que tenemos en 
+title: Wilder Journal
+subtitle: Este Journal que tienes “entre manos” es la manera que tenemos en
   Fundación Platoniq de abrirte las puertas a nuestro(s) mundo(s). ¡Bienvenido!
 banner_image:
   path: /media/projects/1.png
