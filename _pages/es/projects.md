@@ -16,4 +16,4 @@ Image:
   alt: platoniq
 category_select: Seleccione una categoría
 ---
-platoniq
+La mejor manera de conocernos es a través de nuestros proyectos. Iniciativas basadas en la participación que hemos llevado a cabo en diferentes países del mundo, siempre buscando dar voz a la ciudadanía, mejorar los procesos democráticos de las organizaciones o impulsando propuestas ciudadanas que tengan una incidencia política real.
