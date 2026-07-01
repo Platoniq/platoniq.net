@@ -13,7 +13,7 @@ subtitle: >-
 
   We support the dissemination, training and possible funding channels for all those initiatives that work for inclusion, recognition and the promotion of autonomy, both personal and collective.
 symbol:
-  path: /media/categories/symbol_cooperativa.png
+  path: /media/categories/symbol_innovacio.png
   alt: cooperative_economy
 services:
   - democratic-funding

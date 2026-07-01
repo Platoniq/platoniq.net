@@ -13,7 +13,7 @@ subtitle: >-
 
   Acompanyem en la difusió, formació i possibles vies de finançament a totes aquelles iniciatives que treballin per la inclusió, el reconeixement i el foment de l'autonomia, tant personal com col·lectiva.
 symbol:
-  path: /media/categories/symbol_cooperativa.png
+  path: /media/categories/symbol_innovacio.png
   alt: cooperative_economy
 services:
   - democratic-funding
