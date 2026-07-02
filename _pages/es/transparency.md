@@ -96,6 +96,7 @@ CUENTAS ANUALES
 * <a href="/media/documents/transparency/CCAA%202022%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Platoniq 2022</a>
 * <a href="/media/documents/transparency/CCAA%202023%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Platoniq 2023</a>
 * <a href="/media/documents/transparency/CCAA%202024%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Platoniq 2024</a>
+* <a href="/media/documents/transparency/CCAA%202025%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Platoniq 2025</a>
 
 Las cuentas de la fundación anteriores a 2018 se pueden obtener en la pagina https://www.goteo.org/blog-section/transparency#filters.
 

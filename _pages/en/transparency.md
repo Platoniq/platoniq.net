@@ -103,6 +103,7 @@ ANNUAL FINANCIAL STATEMENTS
 * <a href="/media/documents/transparency/CCAA%202022%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Platoniq 2022</a>
 * <a href="/media/documents/transparency/CCAA%202023%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Platoniq 2023</a>
 * <a href="/media/documents/transparency/CCAA%202024%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Platoniq 2024</a>
+* <a href="/media/documents/transparency/CCAA%202025%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Platoniq 2025</a>
 
 The foundation's financial statements prior to 2018 are available at https://www.goteo.org/blog-section/transparency#filters.
 
