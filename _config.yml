@@ -3,7 +3,7 @@ email: info@platoniq.net
 description: >-
   Static site for platoniq.
 baseurl: ""
-url: "https://platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://staging.platoniq.net" # develop/staging only — keep https://platoniq.net on main
 analytics_id: G-LLGWB6TLNS
 
 repository: "https://github.com/Platoniq/platoniq.net"
