@@ -1,14 +1,19 @@
 ---
 layout: transparency
 slug: transparency
+title: Transparency
 description: The Foundation promotes transparency, the collaborative and ethical
   economy, democratic innovation and the replicability of experiences. It is
   financed through partnerships with public and private institutions that share
   its mission and vision. We have 12 employees in our offices in Barcelona,
-  Madrid, Rome and Palma (head office and tax office) and a team of
-  collaborators in Spain and other European countries.
+  Madrid and Palma (head office and tax office) and a team of collaborators in
+  Spain and other European countries.
+img:
+  source: /media/site-symbols/drops-about-us.png
+  alt: drops-transparency
 Image:
   path: /media/pages/heart.png
+  alt: heart
 ---
 
 **PLATONIQ FOUNDATION** is a nonprofit foundation registered with the Ministry of Culture’s Registry of Foundations under registration number 1438, with tax ID number G57728172.
@@ -31,10 +36,11 @@ Six years later, in 2021, the Foundation’s Board of Trustees decided to take a
 
 Consequently, on September 8, 2021, the Foundation was renamed **FUNDACIÓN PLATONIQ**. 
 
-* <a href="/media/documents/transparency/3942%20Ratification%20of%20Name%20Change%20and%20Bylaws%20FPLATONIQ.pdf" target="_blank" rel="noopener noreferrer">Deed of ratification of the name change and bylaws of the Platoniq Foundation</a>
+* <a href="/media/documents/transparency/3942%20Ratificacion%20cambio%20denominacion%20y%20estatutos%20FPLATONIQ.pdf" target="_blank" rel="noopener noreferrer">Deed of ratification of the name change and bylaws of the Platoniq Foundation</a>
 
 These substantial changes have broadened the Foundation’s scope of action. According to its bylaws, the Foundation’s current purposes are as follows:
-\*“**\*Artículo 4. Fines**
+
+**“Article 4. Purposes**
 
 
 *To promote and develop initiatives in the cooperative, social, and solidarity economy through open technologies, innovation, access to financing, and community building, driving social and cultural change toward a more ethical and collaborative society.*
@@ -82,28 +88,29 @@ These substantial changes have broadened the Foundation’s scope of action. Acc
 
 
 **FUNDACIÓN PLATONIQ**, as an entity subject to the provisions of Law 50/2002 of December 26 on Foundations and its specific regulations, is required to submit its Annual Financial Statements and Action Plans annually.
-PLAN ACTUACIÓN
 
-* <a href="/media/documents/transparency/Plan%20Actuacion%202018.pdf" target="_blank" rel="noopener noreferrer">Plan Actuación Fundación Fuentes Goteo 2018</a>
-* <a href="/media/documents/transparency/Plan%20Actuacion%202019.pdf" target="_blank" rel="noopener noreferrer">Plan Actuación Fundación Fuentes Goteo 2019</a>
-* <a href="/media/documents/transparency/Plan%20Actuacion%202020.pdf" target="_blank" rel="noopener noreferrer">Plan Actuación Fundación Fuentes Goteo 2020</a>
-* <a href="/media/documents/transparency/Plan%20Actuacion%202021.pdf" target="_blank" rel="noopener noreferrer">Plan Actuación Fundación Fuentes Goteo 2021</a>
-* <a href="/media/documents/transparency/Plan%20Actuacion%202022.pdf" target="_blank" rel="noopener noreferrer">Plan Actuación Fundación Platoniq 2022</a>
-* <a href="/media/documents/transparency/Plan%20Actuacion%202023.pdf" target="_blank" rel="noopener noreferrer">Plan Actuación Fundación Platoniq 2023</a>
-* <a href="/media/documents/transparency/Plan%20Actuacion%202024.pdf" target="_blank" rel="noopener noreferrer">Plan Actuación Fundación Platoniq 2024</a>
-* <a href="/media/documents/transparency/Plan%20Actuacion%202025.pdf" target="_blank" rel="noopener noreferrer">Plan Actuación Fundación Platoniq 2025</a>
-* <a href="/media/documents/transparency/Plan%20Actuacion%202026.pdf" target="_blank" rel="noopener noreferrer">Plan Actuación Fundación Platoniq 2026</a>
+ACTION PLANS
+
+* <a href="/media/documents/transparency/Plan%20Actuacion%202018.pdf" target="_blank" rel="noopener noreferrer">Action Plan Fundación Fuentes Goteo 2018</a>
+* <a href="/media/documents/transparency/Plan%20Actuacion%202019.pdf" target="_blank" rel="noopener noreferrer">Action Plan Fundación Fuentes Goteo 2019</a>
+* <a href="/media/documents/transparency/Plan%20Actuacion%202020.pdf" target="_blank" rel="noopener noreferrer">Action Plan Fundación Fuentes Goteo 2020</a>
+* <a href="/media/documents/transparency/Plan%20Actuacion%202021.pdf" target="_blank" rel="noopener noreferrer">Action Plan Fundación Fuentes Goteo 2021</a>
+* <a href="/media/documents/transparency/Plan%20Actuacion%202022.pdf" target="_blank" rel="noopener noreferrer">Action Plan Fundación Platoniq 2022</a>
+* <a href="/media/documents/transparency/Plan%20Actuacion%202023.pdf" target="_blank" rel="noopener noreferrer">Action Plan Fundación Platoniq 2023</a>
+* <a href="/media/documents/transparency/Plan%20Actuacion%202024.pdf" target="_blank" rel="noopener noreferrer">Action Plan Fundación Platoniq 2024</a>
+* <a href="/media/documents/transparency/Plan%20Actuacion%202025.pdf" target="_blank" rel="noopener noreferrer">Action Plan Fundación Platoniq 2025</a>
+* <a href="/media/documents/transparency/Plan%20Actuacion%202026.pdf" target="_blank" rel="noopener noreferrer">Action Plan Fundación Platoniq 2026</a>
 
 ANNUAL FINANCIAL STATEMENTS
 
-* <a href="/media/documents/transparency/CCAA%202018%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Fuentes Goteo 2018</a>
-* <a href="/media/documents/transparency/Cuentas%20Anuales%202019.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Fuentes Goteo 2019</a>
-* <a href="/media/documents/transparency/Cuentas%20Anuales%202020.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Fuentes Goteo 2020</a>
-* <a href="/media/documents/transparency/CCAA%202021%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Fuentes Goteo 2021</a>
-* <a href="/media/documents/transparency/CCAA%202022%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Platoniq 2022</a>
-* <a href="/media/documents/transparency/CCAA%202023%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Platoniq 2023</a>
-* <a href="/media/documents/transparency/CCAA%202024%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Platoniq 2024</a>
-* <a href="/media/documents/transparency/CCAA%202025%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Cuentas anuales Fundación Platoniq 2025</a>
+* <a href="/media/documents/transparency/CCAA%202018%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Annual Accounts Fundación Fuentes Goteo 2018</a>
+* <a href="/media/documents/transparency/Cuentas%20Anuales%202019.pdf" target="_blank" rel="noopener noreferrer">Annual Accounts Fundación Fuentes Goteo 2019</a>
+* <a href="/media/documents/transparency/Cuentas%20Anuales%202020.pdf" target="_blank" rel="noopener noreferrer">Annual Accounts Fundación Fuentes Goteo 2020</a>
+* <a href="/media/documents/transparency/CCAA%202021%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Annual Accounts Fundación Fuentes Goteo 2021</a>
+* <a href="/media/documents/transparency/CCAA%202022%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Annual Accounts Fundación Platoniq 2022</a>
+* <a href="/media/documents/transparency/CCAA%202023%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Annual Accounts Fundación Platoniq 2023</a>
+* <a href="/media/documents/transparency/CCAA%202024%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Annual Accounts Fundación Platoniq 2024</a>
+* <a href="/media/documents/transparency/CCAA%202025%20Firmado.pdf" target="_blank" rel="noopener noreferrer">Annual Accounts Fundación Platoniq 2025</a>
 
 The foundation's financial statements prior to 2018 are available at https://www.goteo.org/blog-section/transparency#filters.
 
@@ -150,7 +157,7 @@ Projects **Completed** by the Foundation:
   * **GENERALITAT DE CATALUNYA - Grants for unique projects, the Network of Cooperative Cultural Centers, and Aracoop projects, to promote the social economy and cooperativism:** Implementation of the funded project “CROWDCOOP. Let’s Multiply the Impact of Cooperative Financing” in partnership with two other organizations, with a grant amount of 142,640.23 euros.
   * **CONSELL DE MALLORCA - grants for initiatives to foster, promote, and raise awareness of corporate social responsibility carried out by nonprofit organizations and public-law corporations:** implementation of the grant-funded project “FUNDLAB MALLORCA,” with a grant amount of 2,925.00 euros.
   * **Barcelona City Council - grants awarded by the Barcelona City Council for activities and projects aimed at promoting and strengthening the social and solidarity economy in the city of Barcelona:** Implementation of the subsidized project “Systematization of Collective Financing Practices in SSE Initiatives” with a grant amount of 6,268.00 euros.
- * **Gipuzkoa Provincial Council – META! Matchfunding:** Implementation of a matchfunding project for the cultural sector in the province of Gipuzkoa, totaling 114,500 euros.
+  * **Gipuzkoa Provincial Council – META! Matchfunding:** Implementation of a matchfunding project for the cultural sector in the province of Gipuzkoa, totaling 114,500 euros.
   * **Ministry of Culture and Sports – Grants for Cultural Action and Promotion:** Implementation of the subsidized project “Tools for Patronage in the Digital Age: Active Participation in Hybrid Funding. Development and Implementation,” with a grant amount of 25,000.00 euros.
   * **Ministry of Labor – Grant for activities promoting self-employment, the social economy, and corporate social responsibility, and to cover operating expenses of associations of self-employed workers, cooperatives, worker-owned companies, social integration enterprises, and other entities representing the social economy:** Implementation of the subsidized project “*Implementing the Spanish Social Economy Strategy 2017–2020 through the promotion of funding, increased visibility, and capacity building for social economy initiatives*,” with a grant amount of 39,468.05 euros.
 
@@ -160,7 +167,7 @@ Projects **Completed** by the Foundation:
   * **Barcelona City Council - grants, awarded on a competitive basis, for investments in information and communication technologies for the implementation of experimentation and innovation projects in the city of Barcelona:** implementation of the subsidized project "*Automation and Facilitation of Crowd Learning*" for an amount of €3,652.58.
   * **Barcelona City Council - call for activities and projects to promote and strengthen the social and solidarity economy in the city of Barcelona:** implementation of the subsidized project "*Systematization of collective financing practices in ESS initiatives*" for an amount of €6,268.00.
   * **Gipuzkoa Provincial Council - Matchfunding META!:** implementation of a matchfunding project for the cultural sector of the Gipuzkoa territory for an amount of 114,500 euros.
- * **Ministry of Labor and Social Economy—grants to support activities promoting self-employment, the social economy, and corporate social responsibility, and to cover the operating expenses of associations of self-employed workers, cooperatives, worker-owned companies, social integration enterprises, and other entities representing the social economy at the national level:** implementation of the subsidized project “*Support for Social Economy Entities in the Face of the COVID-19 Crisis through Specialized Training, Funding, and Access to Advisory Services*” in the amount of 33,300 euros.
+  * **Ministry of Labor and Social Economy—grants to support activities promoting self-employment, the social economy, and corporate social responsibility, and to cover the operating expenses of associations of self-employed workers, cooperatives, worker-owned companies, social integration enterprises, and other entities representing the social economy at the national level:** implementation of the subsidized project “*Support for Social Economy Entities in the Face of the COVID-19 Crisis through Specialized Training, Funding, and Access to Advisory Services*” in the amount of 33,300 euros.
   * **Government of Catalonia (Generalitat de Catalunya) – grant from Line 2: Support Measures for Unique Projects Aimed at Socioeconomic Recovery from COVID-19 for Cooperative and Social Economy Enterprises:** implementation of the subsidized project “*La Zona: Responsible Digital Consumption*” in partnership with other organizations, with a grant amount of 20,036.97 euros.
 
 * In 2021:
@@ -175,22 +182,21 @@ Projects **Completed** by the Foundation:
 
 
   * **Barcelona City Council - Grant for the socioeconomic development of the territory:** implementation of the subsidized project "*Impulsem PlataformESS!*" in consortium with other entities and for an amount of 2,000 euros.
-  * ** Generalitat de Catalunya - Line 2 grant for support measures for singular projects promoting the social and solidarity economy, creation of cooperatives, and intercooperation projects:**  realization of the subsidized project "*EscenESS.coop*" in consortium with other entities and with a grant amount of 128,350.00 euros.
+  * **Generalitat de Catalunya - Line 2 grant for support measures for singular projects promoting the social and solidarity economy, creation of cooperatives, and intercooperation projects:**  realization of the subsidized project "*EscenESS.coop*" in consortium with other entities and with a grant amount of 128,350.00 euros.
   * **Barcelona City Council - Barcelona City Council grants for the reactivation and strengthening of the Social and Solidarity Economy and the development of intercooperation projects that implement the #ESSBCN2030 Strategy:** implementation of the subsidized project "*goteo.org ft. decidim: democratic management of the goteo user community through digital participation systems*" for an amount of 7,496.48 euros.
-  **Gipuzkoa Provincial Council - Matchfunding META!:** implementation of a matchfunding project for the cultural sector of the Gipuzkoa territory for an amount of 114,500 euros.
- * **Ministry of Labor and Social Economy—grants to support activities promoting self-employment, the social economy, and corporate social responsibility, and to cover the operating expenses of associations of self-employed workers, cooperatives, worker-owned companies, social integration enterprises, and other entities representing the social economy at the national level:** Implementation of the subsidized project “*Building Alliances to Promote, Create, and Consolidate Social Economy Projects Through*” in the amount of 47,591.95 euros.
+  * **Gipuzkoa Provincial Council - Matchfunding META!:** implementation of a matchfunding project for the cultural sector of the Gipuzkoa territory for an amount of 114,500 euros.
+  * **Ministry of Labor and Social Economy—grants to support activities promoting self-employment, the social economy, and corporate social responsibility, and to cover the operating expenses of associations of self-employed workers, cooperatives, worker-owned companies, social integration enterprises, and other entities representing the social economy at the national level:** Implementation of the subsidized project “*Building Alliances to Promote, Create, and Consolidate Social Economy Projects Through*” in the amount of 47,591.95 euros.
   * **Ministry of Labor and Social Economy—grants for activities promoting self-employment, the social economy, and corporate social responsibility, and to cover the operating expenses of associations of self-employed workers, cooperatives, worker-owned companies, social integration enterprises, and other entities representing the social economy at the national level:** implementation of the subsidized project “*Design and Creation of the Impact Calculator for Social Economy Projects and Initiatives*” in the amount of 41,441.34 euros.
 
 * In 2023:
 
 
   * **Barcelona City Council - Barcelona City Council grants for the socioeconomic promotion of the territory:** implementation of the subsidized project "*PlataformESS Digital Social Market*" in consortium with other entities and for an amount of 6,000.00 euros.
-  * ** Generalitat de Catalunya - Line 2 grant for support measures for singular projects promoting the social and solidarity economy, cooperative creation, and intercooperation projects:**  implementation of the subsidized project "*SOMAUDIOVISUAL*" in consortium with other entities and for a grant amount of €59,000.00.
+  * **Generalitat de Catalunya - Line 2 grant for support measures for singular projects promoting the social and solidarity economy, cooperative creation, and intercooperation projects:**  implementation of the subsidized project "*SOMAUDIOVISUAL*" in consortium with other entities and for a grant amount of €59,000.00.
   * **Barcelona City Council - grants for carrying out district and city projects, activities, and services for the year 2023:** implementation of the subsidized project "*Media and Information Literacy for Disinformation*" for an amount of 5,000.00 euros.
   * **Barcelona City Council - grants for carrying out district and city projects, activities, and services, for the year 2023:** implementation of the subsidized project "*The Democratic Footprint of Financing*" for an amount of 7,300.00 euros.
- * **Ministry of Labor and Social Economy—grants for activities promoting self-employment, the social economy, and corporate social responsibility, and to cover the operating expenses of associations of self-employed workers, cooperatives, worker-owned companies, social integration enterprises, and other entities representing the social economy at the national level:** implementation of the subsidized project “*Strategy and*
-  * *Promotion of SSE Initiatives Through Thematic Crowdfunding Channels*” in the amount of 52,320.34 euros.
-  * **Barcelona City Council—grants for strengthening the social and solidarity economy and for inter-cooperation within the # essbcn2030*:** implementation of the subsidized project “*Development of a new business line for the provision of strategic support services*” with a grant of 6,460.45 euros.
+  * **Ministry of Labor and Social Economy—grants for activities promoting self-employment, the social economy, and corporate social responsibility, and to cover the operating expenses of associations of self-employed workers, cooperatives, worker-owned companies, social integration enterprises, and other entities representing the social economy at the national level:** implementation of the subsidized project “*Strategy and Promotion of SSE Initiatives Through Thematic Crowdfunding Channels*” in the amount of 52,320.34 euros.
+  * **Barcelona City Council—grants for strengthening the social and solidarity economy and for inter-cooperation within the #essbcn2030 strategy:** implementation of the subsidized project “*Development of a new business line for the provision of strategic support services*” with a grant of 6,460.45 euros.
 
 
 Projects **currently being implemented** by the Foundation:

@@ -12,7 +12,6 @@ description: La Fundación promueve la transparencia, la economía colaborativa 
 img:
   source: /media/site-symbols/drops-about-us.png
   alt: drops-transparency
-subtitle: En construcción
 Image:
   path: /media/pages/heart.png
   alt: heart
@@ -41,7 +40,7 @@ Consecuentemente, en fecha de 8 de septiembre de 2021, la Fundación pasa a deno
 
 Estos cambios sustanciales han ampliado las lineas de acción de la Fundación, siendo actualmente los fines de la Fundación, de acuerdo a sus Estatutos;
 
-\*“**\*Artículo 4. Fines**
+**“Artículo 4. Fines**
 
 *Fomentar y desarrollar iniciativas de la economía cooperativa, social y solidaria a través de las tecnologías abiertas, la innovación, el acceso a la financiación, y la generación de comunidad, impulsando el cambio social y cultural hacia una sociedad más ética y colaborativa.*
 
@@ -162,8 +161,7 @@ Proyectos **Completados** por al Fundación:
   * **Generalitat de Catalunya- subvenció de la Línia 2 Mesures de suport a projectes singulars de promoció de l'economia social i solidària, creació de cooperatives i projectes d'intercooperació:**  realización del proyecto subvencionado “*SOMAUDIOVISUAL*” en consorcio con otras entidades y con un importe de subvencionado de 59.000,00 euros.
   * **Ajuntament de Barcelona - subvencions per a dur a terme projectes, activitats i serveis de districte i de ciutat, per a l’any 2023:** realización del proyecto subvencionado “*Alfabetització mediatica i informacional per la desinformació*” con un importe de 5.000,00 euros.
   * **Ajuntament de Barcelona - subvencions per a dur a terme projectes, activitats i serveis de districte i de ciutat, per a l’any 2023:** realización del proyecto subvencionado “*la huella democratica de la financiación*” con un importe de 7.300,00 euros.
-  * **Ministerio del Trabajo y economía social - subvenciones a las actividades de promoción del trabajo autónomo, de la economía social y de la responsabilidad social de las empresas y para sufragar los gastos de funcionamiento de las asociaciones de trabajadores autónomos, de cooperativas, de sociedades laborales, de empresas de inserción y de otros entes representativos de la economía social de ámbito estatal:** realización del proyecto subvencionado “*Estrategia e*
-  * *impulso de iniciativas ESS a través de canales temáticos de crowdfunding*” con un importe de 52.320,34 euros.
+  * **Ministerio del Trabajo y economía social - subvenciones a las actividades de promoción del trabajo autónomo, de la economía social y de la responsabilidad social de las empresas y para sufragar los gastos de funcionamiento de las asociaciones de trabajadores autónomos, de cooperativas, de sociedades laborales, de empresas de inserción y de otros entes representativos de la economía social de ámbito estatal:** realización del proyecto subvencionado “*Estrategia e impulso de iniciativas ESS a través de canales temáticos de crowdfunding*” con un importe de 52.320,34 euros.
   * **Ajuntament de Barcelona - subvencions per a l’enfortiment de l’economia social i solidària i per la intercooperació en l’estratègia #essbcn2030:** realización del proyecto subvencionado “*Desenvolupament de nova línia de negoci per a la provisió de serveis d’acompanyamemy estratègic*” con un importe de 6.460,45 euros.
 
 Proyectos **implementados actualmente** por al Fundación:
