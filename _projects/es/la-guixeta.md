@@ -2,7 +2,7 @@
 layout: project
 slug: la-guixeta-video-cooperativo
 state: open
-title: "La Guixeta. "
+title: La Guixeta
 subtitle: La plataforma digital ética de contenidos audiovisuales y culturales en catalán
 banner_image:
   path: /media/projects/imatge-slider2.png
