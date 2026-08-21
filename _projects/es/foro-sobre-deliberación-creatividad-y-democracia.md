@@ -1,7 +1,7 @@
 ---
 layout: project
 slug: Foro-Deliberación-Creatividad-Democracia
-state: open
+state: closed
 title: Foro sobre Deliberación, Creatividad y Democracia
 subtitle: El Foro sobre Deliberación, Creatividad y Democracia se enmarca dentro
   de las directrices que marcan la capitalidad de Barcelona como Capital Europea
