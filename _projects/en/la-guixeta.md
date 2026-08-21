@@ -3,7 +3,7 @@ layout: project
 slug: la-guixeta-video-cooperativo
 state: open
 banner_image:
-  path: /media/projects/imatge-slider2.png
+  path: /media/projects/captura-de-pantalla-2026-08-21-a-las-15.40.17.png
 date_start: 2024-08-21T15:29:00.000+02:00
 date_end: 2026-08-21T15:29:00.000+02:00
 budget: "250.000"
