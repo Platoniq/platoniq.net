@@ -30,7 +30,9 @@ members:
   - ef
   - sgn
 collaborators:
-  - ay-bcn
+  - bitlab
+  - Quepo
+  - Clack
 call_to_action:
   image_path: /media/projects/gif01.gif
   image_alt: ¿Quieres saber más?
