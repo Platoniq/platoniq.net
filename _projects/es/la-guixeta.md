@@ -6,7 +6,7 @@ title: La Guixeta
 subtitle: La plataforma digital ética de contenidos audiovisuales y culturales en catalán
 banner_image:
   path: /media/projects/captura-de-pantalla-2026-08-21-a-las-15.40.17.png
-  alt: La Giuxeta
+  alt: La Guixeta
 date_start: 2024-08-21T15:29:00.000+02:00
 date_end: 2026-08-21T15:29:00.000+02:00
 description: La Guixeta es una plataforma digital dedicada a contenidos
