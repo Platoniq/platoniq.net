@@ -45,4 +45,25 @@ La Guixeta aúna las necesidades de reproducción multimedia y un servicio de st
 
 La Guixeta funciona de manera horizontal y democrática, creando relaciones justas entre la creación y el consumo que dignifican el trabajo de los trabajadores culturales sin intermediarios, situando en el centro el cooperativismo comunitario y de consumo. 
 
-La Guixeta es un espacio digital que ofrece un fácil acceso a un repositorio cultural de entretenimiento, artes, espectáculos, documentales sociales y cine crítico que enriquecerá la red cultural de los territorios de habla catalana.
+**Un modelo de financiación justo y transparente**
+
+A diferencia de las plataformas extractivistas, La Guixeta adopta un modelo de financiación sin ánimo de lucro, en el que los creadores y productores reciben el 82 % de los ingresos generados por sus contenidos. El 18 % restante se reinvierte en el mantenimiento de la plataforma y se distribuye de la siguiente manera:
+
+1. Un 6 % para el servicio de monetización, que cubre los gastos de gestión de la plataforma, las comisiones bancarias por los pagos a los creadores y las comisiones por los pagos con tarjeta de crédito.
+2. Un 6 % para Som Audiovisual SCCL, una cooperativa de servicios sin ánimo de lucro, a cambio del mantenimiento de la plataforma La Guixeta y la gestión del repositorio audiovisual.
+3. Un 6 % para el Fondo Social de La Guixeta, destinado a convocatorias de propuestas, apoyo a la creación audiovisual y otros proyectos de ayuda mutua.
+
+Este modelo garantiza que la mayor parte de los recursos generados se destinen directamente a los creadores, lo que fomenta un ecosistema cultural más equitativo y sostenible.
+
+**Ventajas para los creadores audiovisuales**
+
+Formar parte de la comunidad de La Guixeta ofrece diversas ventajas a los creadores:
+
+* Generación de ingresos para mantener la actividad de forma sencilla y directa con la comunidad.
+* Participación en una plataforma ética y coherente, basada en tecnología abierta y de código libre.
+* Copropiedad de la plataforma, con capacidad para tomar decisiones sobre los recursos compartidos.
+* Apoyo en la creación, producción, exhibición, distribución y monetización de contenidos, con atención personalizada.
+* Fomento del consumo digital responsable, alejado de dinámicas tóxicas y centrado en el valor cultural de los contenidos.
+* Disponibilidad de un espacio optimizado para compartir contenidos, con una selección cuidadosamente curada y consciente.
+
+En definitiva, La Guixeta es una plataforma que sitúa el talento local en el centro, ofreciendo una ventana para promocionar contenidos en catalán y creando un espacio de sostenibilidad económica para los creadores. Con un modelo de monetización justo y transparente, La Guixeta representa una alternativa ética y cooperativa para el sector audiovisual y cultural.
