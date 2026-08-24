@@ -3,18 +3,17 @@ layout: project
 slug: la-guixeta-video-cooperativo
 state: open
 title: La Guixeta
-subtitle: La plataforma digital ética de contenidos audiovisuales y culturales en catalán
+subtitle: The ethical digital platform for audiovisual and cultural content in Catalan
 banner_image:
   path: /media/projects/captura-de-pantalla-2026-08-21-a-las-15.40.17.png
   alt: La Guixeta
 date_start: 2024-08-21T15:29:00.000+02:00
 date_end: 2026-08-21T15:29:00.000+02:00
-description: La Guixeta es una plataforma digital dedicada a contenidos
-  audiovisuales y culturales en catalán. Un nuevo espacio de referencia desde el
-  que construir nuevas relaciones éticas de acceso y intercambio, donde los
-  productores y creadores de contenidos encontrarán soluciones a sus necesidades
-  en materia de publicación, intercambio, distribución, comunicación,
-  financiación y creación de comunidades.
+description: La Guixeta is a digital platform dedicated to audiovisual and
+  cultural content in Catalan. It is a new go-to space for building new, ethical
+  relationships around access and exchange, where content producers and creators
+  will find solutions to their needs in the areas of publication, sharing,
+  distribution, communication, funding, and community building.
 budget: "250.000"
 private_percentage: 10%
 public_percentage: 80%
@@ -35,39 +34,40 @@ collaborators:
 call_to_action:
   image_path: /media/projects/gif01.gif
   url: https://laguixeta.cat/
-  image_alt: ¿Quieres saber más?
-  text: Contáctanos
+  image_alt: Want to learn more?
+  text: Contact Us
   url_text: La Guixeta
 ---
-La Guixeta es una plataforma digital dedicada a contenidos audiovisuales y culturales en catalán. Un nuevo espacio de referencia desde el que construir nuevas relaciones éticas de acceso y intercambio, donde los productores y creadores de contenidos encontrarán soluciones a sus necesidades en materia de publicación, intercambio, distribución, comunicación, financiación y creación de comunidades. Además, es un espacio donde podrán expresar sus opiniones sobre los debates sociales de actualidad, en contacto con las comunidades afectadas. 
+La Guixeta is a digital platform dedicated to audiovisual and cultural content in Catalan. It is a new leading platform from which to build new ethical relationships around access and exchange, where content producers and creators will find solutions to their needs in the areas of publication, exchange, distribution, communication, funding, and community building. Furthermore, it is a space where they can express their opinions on current social issues, in direct contact with the communities affected.
 
-La Guixeta aúna las necesidades de reproducción multimedia y un servicio de streaming en línea tecnoético basado en Peertube con las herramientas y estrategias de financiación colectiva a través de Goteo.org. Una nueva forma de entender tanto la creación y la producción de contenidos como el acceso y el consumo de material audiovisual y cultural a través de la economía social y solidaria y el apoyo mutuo. 
+La Guixeta combines multimedia playback capabilities with a techno-ethical online streaming service based on Peertube, along with crowdfunding tools and strategies through Goteo.org. It offers a new way of understanding both the creation and production of content and the access to and consumption of audiovisual and cultural material through the social and solidarity economy and mutual support. 
 
-La Guixeta funciona de manera horizontal y democrática, creando relaciones justas entre la creación y el consumo que dignifican el trabajo de los trabajadores culturales sin intermediarios, situando en el centro el cooperativismo comunitario y de consumo.
+La Guixeta operates in a horizontal and democratic manner, fostering fair relationships between creation and consumption that uphold the dignity of cultural workers without intermediaries, placing community and consumer cooperatives at the center.
 
 **52 creadoras, entre productoras y creadoras de contenido**
 
-**Ventajas para los creadores audiovisuales**
+**Benefits for Audiovisual Creators**
 
-Formar parte de la comunidad de La Guixeta ofrece diversas ventajas a los creadores:
+* Being part of the La Guixeta community offers creators a variety of benefits:
+* Generating income to sustain their work in a simple and direct way through the community.
+* Participation in an ethical and consistent platform based on open and open-source technology.
+* Co-ownership of the platform, with the ability to make decisions regarding shared resources.
+* Support for the creation, production, exhibition, distribution, and monetization of content, with personalized attention.
+* Promotion of responsible digital consumption, free from toxic dynamics and focused on the cultural value of the content.
+* Access to an optimized space for sharing content, featuring a carefully curated and thoughtfully selected collection.
 
-* Generación de ingresos para mantener la actividad de forma sencilla y directa con la comunidad.
-* Participación en una plataforma ética y coherente, basada en tecnología abierta y de código libre.
-* Copropiedad de la plataforma, con capacidad para tomar decisiones sobre los recursos compartidos.
-* Apoyo en la creación, producción, exhibición, distribución y monetización de contenidos, con atención personalizada.
-* Fomento del consumo digital responsable, alejado de dinámicas tóxicas y centrado en el valor cultural de los contenidos.
-* Disponibilidad de un espacio optimizado para compartir contenidos, con una selección cuidadosamente curada y consciente.
+La Guixeta is a platform that puts local talent at the center, offering a platform to promote content in Catalan and creating a space for economic sustainability for creators. With a fair and transparent monetization model, La Guixeta represents an ethical and cooperative alternative for the audiovisual and cultural sector.
 
-La Guixeta es una plataforma que sitúa el talento local en el centro, ofreciendo una ventana para promocionar contenidos en catalán y creando un espacio de sostenibilidad económica para los creadores. Con un modelo de monetización justo y transparente, La Guixeta representa una alternativa ética y cooperativa para el sector audiovisual y cultural.
+**Over 250 published pieces of content** 
 
-**+ de 250 contenidos publicados** 
+**A fair and transparent funding model**
 
-**Un modelo de financiación justo y transparente**
+Unlike extractivist platforms, La Guixeta operates on a nonprofit funding model, in which creators and producers receive 82% of the revenue generated by their content. The remaining 18% is reinvested in the platform’s maintenance and distributed as follows:
 
-A diferencia de las plataformas extractivistas, La Guixeta adopta un modelo de financiación sin ánimo de lucro, en el que los creadores y productores reciben el 82 % de los ingresos generados por sus contenidos. El 18 % restante se reinvierte en el mantenimiento de la plataforma y se distribuye de la siguiente manera:
+1. 6% goes to the monetization service, which covers the platform’s operating expenses, bank fees for payments to creators, and credit card processing fees.
 
-1. Un 6 % para el servicio de monetización, que cubre los gastos de gestión de la plataforma, las comisiones bancarias por los pagos a los creadores y las comisiones por los pagos con tarjeta de crédito.
-2. Un 6 % para Som Audiovisual SCCL, una cooperativa de servicios sin ánimo de lucro, a cambio del mantenimiento de la plataforma La Guixeta y la gestión del repositorio audiovisual.
-3. Un 6 % para el Fondo Social de La Guixeta, destinado a convocatorias de propuestas, apoyo a la creación audiovisual y otros proyectos de ayuda mutua.
+   6% goes to Som Audiovisual SCCL, a nonprofit service cooperative, in exchange for maintaining the La Guixeta platform and managing the audiovisual repository.
 
-Este modelo garantiza que la mayor parte de los recursos generados se destinen directamente a los creadores, lo que fomenta un ecosistema cultural más equitativo y sostenible.
+   6% goes to the La Guixeta Social Fund, allocated for calls for proposals, support for audiovisual creation, and other mutual aid projects.
+
+This model ensures that most of the revenue generated goes directly to creators, which fosters a more equitable and sustainable cultural ecosystem.
