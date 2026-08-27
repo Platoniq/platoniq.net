@@ -9,11 +9,12 @@ banner_image:
   alt: La Guixeta
 date_start: 2024-08-21T15:29:00.000+02:00
 date_end: 2026-08-21T15:29:00.000+02:00
-description: >-
-  ![](/media/captura-de-pantalla-2026-08-27-a-las-10.04.14.png)
-
-
-  La Guixeta es una plataforma digital dedicada a contenidos audiovisuales y culturales en catalán. Un nuevo espacio de referencia desde el que construir nuevas relaciones éticas de acceso y intercambio, donde los productores y creadores de contenidos encontrarán soluciones a sus necesidades en materia de publicación, intercambio, distribución, comunicación, financiación y creación de comunidades.
+description: La Guixeta es una plataforma digital dedicada a contenidos
+  audiovisuales y culturales en catalán. Un nuevo espacio de referencia desde el
+  que construir nuevas relaciones éticas de acceso y intercambio, donde los
+  productores y creadores de contenidos encontrarán soluciones a sus necesidades
+  en materia de publicación, intercambio, distribución, comunicación,
+  financiación y creación de comunidades.
 budget: "250.000"
 private_percentage: 10%
 public_percentage: 80%
