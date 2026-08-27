@@ -66,7 +66,7 @@ Formar parte de la comunidad de La Guixeta ofrece diversas ventajas a los creado
 
 La Guixeta es una plataforma que sitúa el talento local en el centro, ofreciendo una ventana para promocionar contenidos en catalán y creando un espacio de sostenibilidad económica para los creadores. Con un modelo de monetización justo y transparente, La Guixeta representa una alternativa ética y cooperativa para el sector audiovisual y cultural.
 
-## **Más de 250 contenidos publicados, bajo un modelo de financiación justo y transparente**
+## **Más de 250 contenidos publicados dentro un modelo de financiación justo y transparente**
 
 ![](/media/captura-de-pantalla-2026-08-27-a-las-10.04.14.png)
 
