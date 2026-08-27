@@ -18,7 +18,7 @@ description: >-
   de comunidades.
 
 
-  ![](/media/mindset3.jpg)
+  ![](/media/captura-de-pantalla-2026-08-27-a-las-9.59.45.png "Creadoras independientes en La Guixeta")
 budget: "250.000"
 private_percentage: 10%
 public_percentage: 80%
@@ -45,13 +45,13 @@ call_to_action:
 ---
 La Guixeta es una plataforma digital dedicada a contenidos audiovisuales y culturales en catalán. Un nuevo espacio de referencia desde el que construir nuevas relaciones éticas de acceso y intercambio, donde los productores y creadores de contenidos encontrarán soluciones a sus necesidades en materia de publicación, intercambio, distribución, comunicación, financiación y creación de comunidades. Además, es un espacio donde podrán expresar sus opiniones sobre los debates sociales de actualidad, en contacto con las comunidades afectadas. 
 
-![](/media/mindset3.jpg)
-
 La Guixeta aúna las necesidades de reproducción multimedia y un servicio de streaming en línea tecnoético basado en Peertube con las herramientas y estrategias de financiación colectiva a través de Goteo.org. Una nueva forma de entender tanto la creación y la producción de contenidos como el acceso y el consumo de material audiovisual y cultural a través de la economía social y solidaria y el apoyo mutuo. 
 
 La Guixeta funciona de manera horizontal y democrática, creando relaciones justas entre la creación y el consumo que dignifican el trabajo de los trabajadores culturales sin intermediarios, situando en el centro el cooperativismo comunitario y de consumo.
 
 **52 creadoras, entre productoras y creadoras de contenido**
+
+![](/media/captura-de-pantalla-2026-08-27-a-las-9.59.45.png "Creadoras independientes en La Guixeta")
 
 **Ventajas para los creadores audiovisuales**
 
