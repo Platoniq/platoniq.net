@@ -18,7 +18,7 @@ description: >-
   de comunidades.
 
 
-  ![](/media/captura-de-pantalla-2026-08-27-a-las-9.59.45.png "Creadoras independientes en La Guixeta")
+  ![Creadoras independientes en La Guixeta](/media/captura-de-pantalla-2026-08-27-a-las-9.59.45.png "Creadoras independientes en La Guixeta")
 budget: "250.000"
 private_percentage: 10%
 public_percentage: 80%
@@ -51,7 +51,8 @@ La Guixeta funciona de manera horizontal y democrática, creando relaciones just
 
 **52 creadoras, entre productoras y creadoras de contenido**
 
-![](/media/captura-de-pantalla-2026-08-27-a-las-9.59.45.png "Creadoras independientes en La Guixeta")
+
+![Creadoras independientes en La Guixeta](/media/captura-de-pantalla-2026-08-27-a-las-9.59.45.png "Creadoras independientes en La Guixeta")
 
 **Ventajas para los creadores audiovisuales**
 
