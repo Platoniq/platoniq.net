@@ -41,7 +41,7 @@ call_to_action:
 ---
 La Guixeta es una plataforma digital dedicada a contenidos audiovisuales y culturales en catalán. Un nuevo espacio de referencia desde el que construir nuevas relaciones éticas de acceso y intercambio, donde los productores y creadores de contenidos encontrarán soluciones a sus necesidades en materia de publicación, intercambio, distribución, comunicación, financiación y creación de comunidades. Además, es un espacio donde podrán expresar sus opiniones sobre los debates sociales de actualidad, en contacto con las comunidades afectadas. 
 
-## Arquitectura open source
+## **Arquitectura open source**
 
 La Guixeta aúna las necesidades de reproducción multimedia y un servicio de streaming en línea tecnoético basado en Peertube con las herramientas y estrategias de financiación colectiva a través de Goteo.org. Una nueva forma de entender tanto la creación y la producción de contenidos como el acceso y el consumo de material audiovisual y cultural a través de la economía social y solidaria y el apoyo mutuo. 
 
