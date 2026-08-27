@@ -47,11 +47,11 @@ La Guixeta aúna las necesidades de reproducción multimedia y un servicio de st
 
 {% quote { "author": "Cuellilargo" } %}Una nueva manera de compartir basada en la comunidad{% endquote %}
 
-
+_
 
 La Guixeta funciona de manera horizontal y democrática, creando relaciones justas entre la creación y el consumo que dignifican el trabajo de los trabajadores culturales sin intermediarios, situando en el centro el cooperativismo comunitario y de consumo.
 
-## **52 creadoras y productoras de contenido**
+## **Cincuenta y dos creadoras y productoras de contenido**
 
 ![Creadoras independientes en La Guixeta](/media/captura-de-pantalla-2026-08-27-a-las-9.59.45.png "Creadoras independientes en La Guixeta")
 
