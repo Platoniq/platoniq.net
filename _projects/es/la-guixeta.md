@@ -9,12 +9,16 @@ banner_image:
   alt: La Guixeta
 date_start: 2024-08-21T15:29:00.000+02:00
 date_end: 2026-08-21T15:29:00.000+02:00
-description: La Guixeta es una plataforma digital dedicada a contenidos
-  audiovisuales y culturales en catalán. Un nuevo espacio de referencia desde el
-  que construir nuevas relaciones éticas de acceso y intercambio, donde los
-  productores y creadores de contenidos encontrarán soluciones a sus necesidades
-  en materia de publicación, intercambio, distribución, comunicación,
-  financiación y creación de comunidades.
+description: >-
+  La Guixeta es una plataforma digital dedicada a contenidos audiovisuales y
+  culturales en catalán. Un nuevo espacio de referencia desde el que construir
+  nuevas relaciones éticas de acceso y intercambio, donde los productores y
+  creadores de contenidos encontrarán soluciones a sus necesidades en materia de
+  publicación, intercambio, distribución, comunicación, financiación y creación
+  de comunidades.
+
+
+  ![](/media/mindset3.jpg)
 budget: "250.000"
 private_percentage: 10%
 public_percentage: 80%
@@ -40,6 +44,8 @@ call_to_action:
   url_text: La Guixeta
 ---
 La Guixeta es una plataforma digital dedicada a contenidos audiovisuales y culturales en catalán. Un nuevo espacio de referencia desde el que construir nuevas relaciones éticas de acceso y intercambio, donde los productores y creadores de contenidos encontrarán soluciones a sus necesidades en materia de publicación, intercambio, distribución, comunicación, financiación y creación de comunidades. Además, es un espacio donde podrán expresar sus opiniones sobre los debates sociales de actualidad, en contacto con las comunidades afectadas. 
+
+![](/media/mindset3.jpg)
 
 La Guixeta aúna las necesidades de reproducción multimedia y un servicio de streaming en línea tecnoético basado en Peertube con las herramientas y estrategias de financiación colectiva a través de Goteo.org. Una nueva forma de entender tanto la creación y la producción de contenidos como el acceso y el consumo de material audiovisual y cultural a través de la economía social y solidaria y el apoyo mutuo. 
 
