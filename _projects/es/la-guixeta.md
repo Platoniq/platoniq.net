@@ -53,9 +53,7 @@ La Guixeta funciona de manera horizontal y democrática, creando relaciones just
 
 ![Creadoras independientes en La Guixeta](/media/captura-de-pantalla-2026-08-27-a-las-9.59.45.png "Creadoras independientes en La Guixeta")
 
-**Ventajas para los creadores audiovisuales**
-
-Formar parte de la comunidad de La Guixeta ofrece diversas ventajas a los creadores:
+Formar parte de la comunidad de La Guixeta ofrece diversas ventajas a los creadores y productoras de contenido:
 
 * Generación de ingresos para mantener la actividad de forma sencilla y directa con la comunidad.
 * Participación en una plataforma ética y coherente, basada en tecnología abierta y de código libre.
@@ -66,11 +64,9 @@ Formar parte de la comunidad de La Guixeta ofrece diversas ventajas a los creado
 
 La Guixeta es una plataforma que sitúa el talento local en el centro, ofreciendo una ventana para promocionar contenidos en catalán y creando un espacio de sostenibilidad económica para los creadores. Con un modelo de monetización justo y transparente, La Guixeta representa una alternativa ética y cooperativa para el sector audiovisual y cultural.
 
-## **Más de 250 contenidos publicados**
+## **Más de 250 contenidos publicados, bajo un modelo de financiación justo y transparente**
 
 ![](/media/captura-de-pantalla-2026-08-27-a-las-10.04.14.png)
-
-**Un modelo de financiación justo y transparente**
 
 A diferencia de las plataformas extractivistas, La Guixeta adopta un modelo de financiación sin ánimo de lucro, en el que los creadores y productores reciben el 82 % de los ingresos generados por sus contenidos. El 18 % restante se reinvierte en el mantenimiento de la plataforma y se distribuye de la siguiente manera:
 
