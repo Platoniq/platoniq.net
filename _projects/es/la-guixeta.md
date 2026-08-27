@@ -45,11 +45,11 @@ La Guixeta aúna las necesidades de reproducción multimedia y un servicio de st
 
 La Guixeta funciona de manera horizontal y democrática, creando relaciones justas entre la creación y el consumo que dignifican el trabajo de los trabajadores culturales sin intermediarios, situando en el centro el cooperativismo comunitario y de consumo.
 
-# **52 creadoras y productoras de contenido**
+## **52 creadoras y productoras de contenido**
 
 ![Creadoras independientes en La Guixeta](/media/captura-de-pantalla-2026-08-27-a-las-9.59.45.png "Creadoras independientes en La Guixeta")
 
-### **Ventajas para los creadores audiovisuales**
+**Ventajas para los creadores audiovisuales**
 
 Formar parte de la comunidad de La Guixeta ofrece diversas ventajas a los creadores:
 
@@ -62,11 +62,11 @@ Formar parte de la comunidad de La Guixeta ofrece diversas ventajas a los creado
 
 La Guixeta es una plataforma que sitúa el talento local en el centro, ofreciendo una ventana para promocionar contenidos en catalán y creando un espacio de sostenibilidad económica para los creadores. Con un modelo de monetización justo y transparente, La Guixeta representa una alternativa ética y cooperativa para el sector audiovisual y cultural.
 
-# **Más de 250 contenidos publicados**
+## **Más de 250 contenidos publicados**
 
 ![](/media/captura-de-pantalla-2026-08-27-a-las-10.04.14.png)
 
-### **Un modelo de financiación justo y transparente**
+**Un modelo de financiación justo y transparente**
 
 A diferencia de las plataformas extractivistas, La Guixeta adopta un modelo de financiación sin ánimo de lucro, en el que los creadores y productores reciben el 82 % de los ingresos generados por sus contenidos. El 18 % restante se reinvierte en el mantenimiento de la plataforma y se distribuye de la siguiente manera:
 
@@ -76,7 +76,7 @@ A diferencia de las plataformas extractivistas, La Guixeta adopta un modelo de f
 
 Este modelo garantiza que la mayor parte de los recursos generados se destinen directamente a los creadores, lo que fomenta un ecosistema cultural más equitativo y sostenible.
 
-# **Un espacio para el diálogo social**
+## **Un espacio para el diálogo social**
 
 Dentro de la programación de La Guixeta, el proyecto se reserva la posibilidad de dar espacio a debates disparadores de diálogo social. Como es el caso de los Diálogos Migrantes, una serie de contenidos audiovisuales creados por personas racializadas de la ciudad de Barcelona que se interrogan sobre cuestiones básicas que afectan a su vida diaria, como  el trabajo, los cuidados o la regularización.
 
