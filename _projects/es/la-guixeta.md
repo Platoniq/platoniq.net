@@ -39,7 +39,7 @@ call_to_action:
   url: https://laguixeta.cat/
   url_text: La Guixeta
 ---
-La Guixeta es una plataforma digital dedicada a contenidos audiovisuales y culturales en catalán. Un nuevo espacio de referencia desde el que construir nuevas relaciones éticas de acceso y intercambio, donde los productores y creadores de contenidos encontrarán soluciones a sus necesidades en materia de publicación, intercambio, distribución, comunicación, financiación y creación de comunidades. Además, es un espacio donde podrán expresar sus opiniones sobre los debates sociales de actualidad, en contacto con las comunidades afectadas. 
+La Guixeta es la plataforma digital dedicada a contenidos audiovisuales y culturales en catalán de Som Audiovisual, una cooperativa de productoras y fundaciones sin ánimo de lucro que buscan crear un espacio de referencia desde el que construir nuevas relaciones éticas de acceso y intercambio. Un lugar donde los productores y creadores de contenidos encontrarán soluciones a sus necesidades en materia de publicación, intercambio, distribución, comunicación, financiación y creación de comunidades. Y, además, una plataforma donde poder expresar opiniones sobre los debates sociales de actualidad, en contacto con las comunidades afectadas. 
 
 ## **Arquitectura open source**
 
@@ -78,6 +78,8 @@ Este modelo garantiza que la mayor parte de los recursos generados se destinen d
 
 ## **Un espacio para el diálogo social**
 
-Dentro de la programación de La Guixeta, el proyecto se reserva la posibilidad de dar espacio a debates disparadores de diálogo social. Como es el caso de los Diálogos Migrantes, una serie de contenidos audiovisuales creados por personas racializadas de la ciudad de Barcelona que se interrogan sobre cuestiones básicas que afectan a su vida diaria, como  el trabajo, los cuidados o la regularización.
+Dentro de la programación de La Guixeta, el proyecto busca promover debates que animen el diálogo social. Como es el caso de los Diálogos Migrantes, una serie de contenidos audiovisuales creados por personas racializadas de la ciudad de Barcelona, que se interrogan sobre cuestiones básicas que afectan a su vida diaria, como  el trabajo, los cuidados o la regularización.
 
 {% video { "title": "Temps Migrant", "url": "https://videos.laguixeta.cat/videos/embed/a40e7792-f959-4775-a474-e4d8eac6c7de" } %}
+
+Si tienes un proyecto audiovisual y quieres formar parte de La Guixeta, [escríbenos](https://laguixeta.cat/contactans/).
