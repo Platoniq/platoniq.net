@@ -45,6 +45,8 @@ La Guixeta es una plataforma digital dedicada a contenidos audiovisuales y cultu
 
 La Guixeta aúna las necesidades de reproducción multimedia y un servicio de streaming en línea tecnoético basado en Peertube con las herramientas y estrategias de financiación colectiva a través de Goteo.org. Una nueva forma de entender tanto la creación y la producción de contenidos como el acceso y el consumo de material audiovisual y cultural a través de la economía social y solidaria y el apoyo mutuo. 
 
+{% quote { "author": "Cuellilargo" } %}Una nueva manera de compartir basada en la comunidad{% endquote %}
+
 La Guixeta funciona de manera horizontal y democrática, creando relaciones justas entre la creación y el consumo que dignifican el trabajo de los trabajadores culturales sin intermediarios, situando en el centro el cooperativismo comunitario y de consumo.
 
 ## **52 creadoras y productoras de contenido**
