@@ -45,7 +45,7 @@ La Guixeta aúna las necesidades de reproducción multimedia y un servicio de st
 
 La Guixeta funciona de manera horizontal y democrática, creando relaciones justas entre la creación y el consumo que dignifican el trabajo de los trabajadores culturales sin intermediarios, situando en el centro el cooperativismo comunitario y de consumo.
 
-## **52 creadoras, entre productoras y creadoras de contenido**
+# **52 creadoras, entre productoras y creadoras de contenido**
 
 ![Creadoras independientes en La Guixeta](/media/captura-de-pantalla-2026-08-27-a-las-9.59.45.png "Creadoras independientes en La Guixeta")
 
@@ -62,7 +62,7 @@ Formar parte de la comunidad de La Guixeta ofrece diversas ventajas a los creado
 
 La Guixeta es una plataforma que sitúa el talento local en el centro, ofreciendo una ventana para promocionar contenidos en catalán y creando un espacio de sostenibilidad económica para los creadores. Con un modelo de monetización justo y transparente, La Guixeta representa una alternativa ética y cooperativa para el sector audiovisual y cultural.
 
-## **+ de 250 contenidos publicados** 
+# **Más de 250 contenidos publicados**
 
 ![](/media/captura-de-pantalla-2026-08-27-a-las-10.04.14.png)
 
