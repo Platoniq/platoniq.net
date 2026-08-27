@@ -75,3 +75,9 @@ A diferencia de las plataformas extractivistas, La Guixeta adopta un modelo de f
 3. Un 6 % para el Fondo Social de La Guixeta, destinado a convocatorias de propuestas, apoyo a la creación audiovisual y otros proyectos de ayuda mutua.
 
 Este modelo garantiza que la mayor parte de los recursos generados se destinen directamente a los creadores, lo que fomenta un ecosistema cultural más equitativo y sostenible.
+
+# **Un espacio para el diálogo social**
+
+Dentro de la programación de La Guixeta, el proyecto se reserva la posibilidad de dar espacio a debates disparadores de diálogo social. Como es el caso de los Diálogos Migrantes, una serie de contenidos audiovisuales creados por personas racializadas de la ciudad de Barcelona que se interrogan sobre cuestiones básicas que afectan a su vida diaria, como  el trabajo, los cuidados o la regularización.
+
+{% video { "title": "Temps Migrant", "url": "https://videos.laguixeta.cat/videos/embed/a40e7792-f959-4775-a474-e4d8eac6c7de" } %}
