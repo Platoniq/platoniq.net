@@ -64,11 +64,7 @@ Actualmente, más de cincuenta creadoras y productoras forman parte de La Guixet
 Formar parte de esta comunidad permite:
 
 * Generar ingresos directamente a partir de los contenidos.
-* Impulsar campañas de 
-
-  **crowdfunding**
-
-   para financiar nuevas producciones y proyectos culturales.
+* Impulsar campañas de **crowdfunding** para financiar nuevas producciones y proyectos culturales.
 * Experimentar con fórmulas alternativas de remuneración y distribución de ingresos.
 * Reducir la dependencia de intermediarios y plataformas extractivas.
 * Participar en la gobernanza y copropiedad de una infraestructura compartida.
