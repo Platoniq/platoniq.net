@@ -39,47 +39,73 @@ call_to_action:
   url: https://laguixeta.cat/
   url_text: La Guixeta
 ---
-La Guixeta es la plataforma digital dedicada a contenidos audiovisuales y culturales en catalán de Som Audiovisual, una cooperativa de productoras y fundaciones sin ánimo de lucro que buscan crear un espacio de referencia desde el que construir nuevas relaciones éticas de acceso y intercambio. Un lugar donde los productores y creadores de contenidos encontrarán soluciones a sus necesidades en materia de publicación, intercambio, distribución, comunicación, financiación y creación de comunidades. Y, además, una plataforma donde poder expresar opiniones sobre los debates sociales de actualidad, en contacto con las comunidades afectadas. 
+La Guixeta nace con una misión clara: **contribuir a un ecosistema audiovisual y cultural en catalán más justo, sostenible y democrático**, donde quienes crean contenidos puedan mantener una relación más directa con sus comunidades y capturar una mayor parte del valor que generan.
 
-## **Arquitectura open source**
+Impulsada por Som Audiovisual y con la participación de **Fundación Platoniq**, la plataforma busca responder a algunos de los principales retos del sector cultural digital: la dependencia de grandes intermediarios, la dificultad para financiar nuevas producciones, la concentración de la distribución y la falta de modelos transparentes de remuneración para creadoras y productoras.
 
-La Guixeta aúna las necesidades de reproducción multimedia y un servicio de streaming en línea tecnoético basado en Peertube con las herramientas y estrategias de financiación colectiva a través de Goteo.org. Una nueva forma de entender tanto la creación y la producción de contenidos como el acceso y el consumo de material audiovisual y cultural a través de la economía social y solidaria y el apoyo mutuo. 
+Más que construir una nueva plataforma de contenidos, La Guixeta experimenta con una **infraestructura cultural compartida** basada en tecnología abierta, economía social y solidaria y gobernanza cooperativa. Su objetivo es demostrar que es posible organizar de otra manera la producción, financiación, distribución y consumo de cultura digital.
+
+## **Infraestructuras digitales al servicio de la cultura**
+
+Para avanzar hacia esta misión, La Guixeta combina un servicio de reproducción y streaming tecnoético basado en **PeerTube** con las herramientas y metodologías de financiación colectiva desarrolladas alrededor de **Goteo.org**.
+
+La aportación de Fundación Platoniq se sitúa precisamente en esta intersección entre **tecnología cívica, financiación colectiva y construcción de comunidades**. La integración con Goteo permite que creadoras y productoras no dependan únicamente de los ingresos derivados del consumo de sus contenidos, sino que puedan movilizar a sus comunidades para financiar nuevas producciones, generar apoyo recurrente y explorar mecanismos alternativos de retribución y distribución.
 
 {% quote %}Una nueva manera de compartir basada en la comunidad{% endquote %}
 
-La Guixeta funciona de manera horizontal y democrática, creando relaciones justas entre la creación y el consumo que dignifican el trabajo de los trabajadores culturales sin intermediarios, situando en el centro el cooperativismo comunitario y de consumo.
+La tecnología se entiende así no como un fin en sí mismo, sino como una herramienta para modificar las relaciones económicas y sociales que estructuran el sector cultural.
 
 ## **Cincuenta y dos creadoras y productoras de contenido (por ahora)**
 
 ![Creadoras independientes en La Guixeta](/media/captura-de-pantalla-2026-08-27-a-las-9.59.45.png "Creadoras independientes en La Guixeta")
 
-Formar parte de la comunidad de La Guixeta ofrece diversas ventajas a los creadores y productoras de contenido:
+Actualmente, más de cincuenta creadoras y productoras forman parte de La Guixeta. La misión de la plataforma es ampliar las posibilidades que tienen para **crear, financiar, distribuir y sostener su trabajo** dentro de un entorno digital coherente con los valores de la economía social.
 
-* Generación de ingresos para mantener la actividad de forma sencilla y directa con la comunidad.
-* Participación en una plataforma ética y coherente, basada en tecnología abierta y de código libre.
-* Copropiedad de la plataforma, con capacidad para tomar decisiones sobre los recursos compartidos.
-* Apoyo en la creación, producción, exhibición, distribución y monetización de contenidos, con atención personalizada.
-* Fomento del consumo digital responsable, alejado de dinámicas tóxicas y centrado en el valor cultural de los contenidos.
-* Disponibilidad de un espacio optimizado para compartir contenidos, con una selección cuidadosamente curada y consciente.
+Formar parte de esta comunidad permite:
 
-La Guixeta es una plataforma que sitúa el talento local en el centro, ofreciendo una ventana para promocionar contenidos en catalán y creando un espacio de sostenibilidad económica para los creadores. Con un modelo de monetización justo y transparente, La Guixeta representa una alternativa ética y cooperativa para el sector audiovisual y cultural.
+* Generar ingresos directamente a partir de los contenidos.
+* Impulsar campañas de 
 
-## **Más de 250 contenidos publicados dentro un modelo de financiación justo y transparente**
+  **crowdfunding**
+
+   para financiar nuevas producciones y proyectos culturales.
+* Experimentar con fórmulas alternativas de remuneración y distribución de ingresos.
+* Reducir la dependencia de intermediarios y plataformas extractivas.
+* Participar en la gobernanza y copropiedad de una infraestructura compartida.
+* Recibir apoyo en la creación, producción, exhibición, comunicación y distribución de contenidos.
+* Construir relaciones más estables entre creadoras, públicos y comunidades.
+* Promover formas de consumo digital responsables y alineadas con el valor cultural de las obras.
+
+El objetivo es que La Guixeta funcione como un espacio donde **el talento local pueda encontrar no solo visibilidad, sino también condiciones materiales para sostenerse**.
+
+## Redistribuir el valor generado por la cultura
 
 ![](/media/captura-de-pantalla-2026-08-27-a-las-10.04.14.png)
 
-A diferencia de las plataformas extractivistas, La Guixeta adopta un modelo de financiación sin ánimo de lucro, en el que los creadores y productores reciben el 82 % de los ingresos generados por sus contenidos. El 18 % restante se reinvierte en el mantenimiento de la plataforma y se distribuye de la siguiente manera:
+Con más de 250 contenidos publicados, La Guixeta está poniendo a prueba un modelo económico diseñado para que la mayor parte del valor permanezca dentro del propio ecosistema cultural.
 
-1. Un 6 % para el servicio de monetización, que cubre los gastos de gestión de la plataforma, las comisiones bancarias por los pagos a los creadores y las comisiones por los pagos con tarjeta de crédito.
-2. Un 6 % para Som Audiovisual SCCL, una cooperativa de servicios sin ánimo de lucro, a cambio del mantenimiento de la plataforma La Guixeta y la gestión del repositorio audiovisual.
-3. Un 6 % para el Fondo Social de La Guixeta, destinado a convocatorias de propuestas, apoyo a la creación audiovisual y otros proyectos de ayuda mutua.
+Las creadoras y productoras reciben el **82 % de los ingresos generados por sus contenidos**. El 18 % restante se reinvierte en la infraestructura común:
 
-Este modelo garantiza que la mayor parte de los recursos generados se destinen directamente a los creadores, lo que fomenta un ecosistema cultural más equitativo y sostenible.
+1. Un 6 % se destina al servicio de monetización y a cubrir los costes asociados a la gestión y los sistemas de pago.
+2. Un 6 % se destina a Som Audiovisual SCCL para el mantenimiento de La Guixeta y la gestión del repositorio audiovisual.
+3. Un 6 % alimenta el Fondo Social de La Guixeta, destinado a nuevas convocatorias, apoyo a la creación y proyectos de ayuda mutua.
+
+Esta lógica introduce un principio de **redistribución y mutualización**: parte de los recursos generados por la actividad cultural contribuye a mantener la infraestructura que la hace posible y a facilitar que puedan surgir nuevas producciones.
+
+Junto con el crowdfunding y otras formas de apoyo comunitario, el modelo busca demostrar que existen alternativas a una economía digital basada exclusivamente en publicidad, suscripciones o intermediación comercial.
 
 ## **Un espacio para el diálogo social**
 
-Dentro de la programación de La Guixeta, el proyecto busca promover debates que animen el diálogo social. Como es el caso de los Diálogos Migrantes, una serie de contenidos audiovisuales creados por personas racializadas de la ciudad de Barcelona, que se interrogan sobre cuestiones básicas que afectan a su vida diaria, como  el trabajo, los cuidados o la regularización.
+La misión de La Guixeta tampoco se limita a mejorar las condiciones económicas de la producción audiovisual. La plataforma quiere convertirse en un espacio desde el que la cultura pueda contribuir a **hacer visibles experiencias, abrir conversaciones públicas y conectar comunidades alrededor de cuestiones sociales relevantes**.
+
+Los **Diálogos Migrantes** son un ejemplo de este enfoque: una serie de contenidos creados por personas racializadas de Barcelona que abordan cuestiones que atraviesan su vida cotidiana, como el trabajo, los cuidados o los procesos de regularización.
 
 {% video { "title": "Temps Migrant", "url": "https://videos.laguixeta.cat/videos/embed/a40e7792-f959-4775-a474-e4d8eac6c7de" } %}
 
-Si tienes un proyecto audiovisual y quieres formar parte de La Guixeta, [escríbenos](https://laguixeta.cat/contactans/).
+Desde esta perspectiva, Fundación Platoniq contribuye a situar La Guixeta dentro de una línea más amplia de experimentación sobre **cómo las infraestructuras digitales, los modelos de financiación y las metodologías participativas pueden fortalecer la capacidad de las comunidades para producir cultura, organizarse y participar en los debates que les afectan**.
+
+La Guixeta plantea así una misión que va más allá del streaming: **construir una infraestructura cultural digital donde creación, financiación, distribución, participación y comunidad puedan formar parte de un mismo ecosistema democrático y cooperativo**.
+
+__
+
+*Si tienes un proyecto audiovisual y quieres formar parte de La Guixeta, [escríbenos](https://laguixeta.cat/contactans/).*
