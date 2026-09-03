@@ -5,7 +5,7 @@ type: author
 image:
   path: /media/members/ef.jpg
   alt: Eva Frade
-position: Lawyer and technical secretary
+position: Lawyer and Technical Secretary
 description: I am a lawyer deeply involved in digital culture, social finance
   and participatory democracy. I coordinate Goteo.org, I am financial controller
   and Technical Secretary of the Platoniq Foundation. I also facilitate groups

@@ -6,7 +6,7 @@ image:
   path: /media/members/os.png
   alt: Olivier Schulbaum
 position: Director estratégico
-description: Diseña estrategias para para construir conjuntamente las políticas
+description: Diseña estrategias para construir conjuntamente las políticas
   públicas y los territorios del mañana. Desarrolla actualmente el marco de
   impacto de incidencia política ciudadana “Crowdvocacy”, proceso coordinado
   entre plataformas de participación donde las iniciativas cívicas amplifican su
