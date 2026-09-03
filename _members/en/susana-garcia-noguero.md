@@ -7,7 +7,7 @@ image:
   alt: Susana Garcia Noguero
 position: Executive Director
 description: >-
-  Susana Noguero is the co-founder of the Platoniq Foundation and Goteo.org, where
+  Susana Noguero is the co-founder of Platoniq Foundation and Goteo.org, where
   she is the executive director, leading innovative projects in the field of
   alternative financing, digital activism and citizen participation. With a
   degree in Political Science and Public Administration, her initial training
