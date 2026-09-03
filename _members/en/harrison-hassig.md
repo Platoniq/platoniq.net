@@ -5,7 +5,7 @@ type: author
 image:
   path: /media/members/hh.jpg
   alt: Harrison Hassig
-position: Software developer
+position: Software Developer
 description: Engineer at heart, a computer scientist by passion, and an
   economist through education. Interests and experience include cryptocurrency,
   algorithms, data science and data analysis.  Currently experimenting with

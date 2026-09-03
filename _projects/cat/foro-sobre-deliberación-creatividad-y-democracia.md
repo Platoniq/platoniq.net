@@ -1,7 +1,7 @@
 ---
 layout: project
 slug: Foro-Deliberación-Creatividad-Democracia
-state: open
+state: closed
 banner_image:
   path: /media/projects/01_cast.png
 date_start: 2024-09-05T17:28:00.000Z
