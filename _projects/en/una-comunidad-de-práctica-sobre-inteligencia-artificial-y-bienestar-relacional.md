@@ -2,7 +2,8 @@
 layout: project
 slug: soredi-cop-ia
 state: open
-title: A Community of Practice on Artificial Intelligence and Relational Wellbeing
+title: "SoReDI COP: A Community of Practice on Artificial Intelligence and
+  Relational Wellbeing"
 subtitle: "Young people, democracy and artificial intelligence: from critical
   scrutiny to the collective design of technological futures."
 banner_image:
