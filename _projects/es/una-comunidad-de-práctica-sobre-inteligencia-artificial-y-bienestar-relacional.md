@@ -7,7 +7,7 @@ title: "SoReDI COP: Una Comunidad de Práctica sobre Inteligencia Artificial y
 subtitle: "Jóvenes, democracia e inteligencia artificial: del cuestionamiento
   crítico al diseño colectivo de futuros tecnológicos."
 banner_image:
-  path: /media/projects/1_bmtqwn8wnhxh3vqsi9p2za.webp
+  path: /media/projects/logo-ok.png
   alt: Soredi
 date_start: 2026-11-26T20:41:00.000+01:00
 date_end: 2026-11-26T20:41:00.000+01:00

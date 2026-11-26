@@ -7,7 +7,7 @@ title: "SoReDI COP: A Community of Practice on Artificial Intelligence and
 subtitle: "Young people, democracy and artificial intelligence: from critical
   scrutiny to the collective design of technological futures."
 banner_image:
-  path: /media/projects/1_bmtqwn8wnhxh3vqsi9p2za.webp
+  path: /media/projects/logo-ok.png
 date_start: 2026-11-26T20:41:00.000+01:00
 date_end: 2026-11-26T20:41:00.000+01:00
 description: The SoReDi Community of Practice, initiated by ESADE and the
